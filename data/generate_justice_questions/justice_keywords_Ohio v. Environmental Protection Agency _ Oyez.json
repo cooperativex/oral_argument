@@ -1,0 +1,1415 @@
+{
+  "source_file": "Ohio v. Environmental Protection Agency _ Oyez.md",
+  "background": "Chief Justice Roberts\n### Chief Justice Roberts:\nWe will hear argument first this morning in Case 23A349, Ohio versus\nthe Environmental Protection Agency, and the consolidated cases.\nMs. Sridharan.\n### Mathura J. Sridharan:\nMr. Chief Justice, and may it please the Court: The EPA set out to address\nthe contributions of 23 upwind states to downwind air pollution\nthrough a single federal plan, but, as commenters predicted and before\nthe plan became final, the legal predicates for the federal plan, that is,\nthe state plan disapprovals, came under fire in courts all around the\ncountry. The specter of lesser participation in the federal plan revealed\nyet another problem. The EPA's choice of method, that is, selecting a\nsingle cost threshold and applying it uniformly across all 23 states to\nestablish emissions limits, has consequences; namely, the math doesn't\nwork when the inputs don't match the outputs. With the SIP\ndisapprovals in flux and the EPA's methodology requiring full\nparticipation, the EPA had an obligation to consider what happens to the\nfederal plan when one or more states drop out, that is, when the inputs,\n23 states, don't match the outputs, now the 11 states that remain in the\nplan. Its failure has become consequential. The plan now regulates\nunder half of the states and a quarter of the emissions that the EPA\noriginally set out to regulate. Under this fractured plan and without a\nstay, the remaining states and their industries face serious harm. I\nwelcome the Court's questions.",
+  "conversations": [
+    {
+      "conversation_id": 1,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nWell, it seems that your argument is dependent on whether or not the\noriginal plan was interdependent and required all the states to be in.\nWhat's your best evidence for that?\n### Mathura J. Sridharan:\nThe best evidence for that, Your Honor, is the method that the EPA\nchose, and the method it chose has to do with discerning points of\ndiminishing marginal returns, which means that when the mix of states\nchanges, in this case, when states drop out and their particular\ntechnologies and industries drop out with them, those points of\ndiminishing marginal returns shift, and they shift somewhat\nunpredictably, which means that the relevant cost threshold for a\ndifferent mix of states could be cheaper, and, with full candor to the\nCourt, it could be the same or even be more expensive. The problem is\nwe don't know. It is the unpredictability that renders this plan\nunreasonable as to any different mix of states.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Well, it seems that your argument is dependent on whether or not the\n________________________ and required all the states to be in.\nWhat's your best evidence for that?\"",
+          "options": {
+            "A": "original plan was interdependent",
+            "B": "original plan was unilateral",
+            "C": "final plan was independent",
+            "D": "proposed plan was interrelated"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "original plan was interdependent",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 1,
+              "speaker": "Justice Thomas",
+              "original_statement": "Well, it seems that your argument is dependent on whether or not the\noriginal plan was interdependent and required all the states to be in.\nWhat's your best evidence for that?"
+            },
+            "explanation": "This phrase challenges the understanding of the legal concept of interdependence in regulatory frameworks, requiring knowledge of how the participation of multiple states can affect the validity of a federal plan."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, it seems that your argument is dependent on whether or not the\noriginal plan was interdependent and __________________________________________.\nWhat's your best evidence for that?\"",
+          "options": {
+            "A": "required all the states to be involved",
+            "B": "required all the states to be in",
+            "C": "required all the states to comply uniformly",
+            "D": "required all the states to participate fully"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "required all the states to be in",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 7,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 1,
+              "speaker": "Justice Thomas",
+              "original_statement": "Well, it seems that your argument is dependent on whether or not the\noriginal plan was interdependent and required all the states to be in.\nWhat's your best evidence for that?"
+            },
+            "explanation": "This phrase probes the necessity of full participation in regulatory schemes, testing the student's grasp of legal requirements for collective action among states in environmental law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, it seems that your argument is dependent on whether or not the\noriginal plan was interdependent and required all the states to be in.\nWhat's your ________________________?\"",
+          "options": {
+            "A": "best standard for that",
+            "B": "best proof for that",
+            "C": "best evidence for that",
+            "D": "best evidence of that"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "best evidence for that",
+            "category": "judicial_test",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 1,
+              "speaker": "Justice Thomas",
+              "original_statement": "Well, it seems that your argument is dependent on whether or not the\noriginal plan was interdependent and required all the states to be in.\nWhat's your best evidence for that?"
+            },
+            "explanation": "This phrase invites examination of the standards of evidence required to support legal arguments, challenging students to consider what constitutes sufficient proof in judicial inquiries."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 2,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nCould you break that down? I don't understand. You starte d your\nintroduction by saying that the commonality was cost. But I thought\nthat cost had to do with the technology and how much it costs to\nimplement, so I don't see why that woul d be different among the 50\nstates or marginally important enough to be different.\n### Mathura J. Sridharan:\nOf course, Your Honor.\n### Justice Sotomayor:\nAnd to the extent that the other states dropping out don't increase the\ncost for any of the remaining states, they --their allotment remains the\nsame regardless of how many people are participating. So I don't see\nhow you're raising an argument, frankly, not for yourself because\nnothing's changed.\n### Mathura J. Sridharan:\nWell, Your Honor, let me take that in reverse, and I'm happy to go down\nthe gritty path of the technical details. But, before that, the allotments\nmay not change in the way the EPA has executed the plan, but the\nallotments themselves are wrong when the EPA fails to consider what\n### Justice Sotomayor:\nI --I -- I -- say it, but show me.\n### Mathura J. Sridharan:\nSure, Your Honor. The answer goes, again, to the methodology, which I\nkeep calling the point of diminishing marginal returns question, and I'm\nhappy to go step by step into what is admittedly an extremely gritty\nmathematical problem.\n### Justice Sotomayor:\nWhy don't you get to the end question. Nothing is changing in your cost\nor what you have to do, meaning the states that are -- who -- for whom\nstay -- stays have not been given, their allotment doesn't change,\nnothing changes.\n### Mathura J. Sridharan:\nAgain, Your Honor, you're talking about the execution of those\nallocations, but the allocations themselves are now wrong, and what I\nmean by that is the EPA's method of selecting a single cost threshold.\nNow that goes to looking for points on a graph where an additional\ndollar spent produces little to no additional emissions reductions. Those\npoints on that graph change unpredictably, erratically, when the mix of\nstates changes.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Could you break that down? I don't understand. You starte d your\nintroduction by saying that the __________________. But I thought\nthat cost had to do with the technology and how much it costs to\nimplement, so I don't see why that woul d be different among the 50\nstates or marginally important enough to be different.\"",
+          "options": {
+            "A": "commonality was pricing",
+            "B": "commonality was revenue",
+            "C": "commonality was burden",
+            "D": "commonality was cost"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "commonality was cost",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 1,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "Could you break that down? I don't understand. You starte d your\nintroduction by saying that the commonality was cost. But I thought\nthat cost had to do with the technology and how much it costs to\nimplement, so I don't see why that woul d be different among the 50\nstates or marginally important enough to be different."
+            },
+            "explanation": "This phrase challenges the understanding of how cost factors into regulatory frameworks and the implications of uniformity across states."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Could you break that down? I don't understand. You starte d your\nintroduction by saying that the commonality was cost. But I thought\nthat __________________________________________ and how much it costs to\nimplement, so I don't see why that woul d be different among the 50\nstates or marginally important enough to be different.\"",
+          "options": {
+            "A": "cost had to align with the technology",
+            "B": "cost must be addressed with the technology",
+            "C": "cost had to do with the technology",
+            "D": "cost should relate to the technology used"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "cost had to do with the technology",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 7,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 1,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "Could you break that down? I don't understand. You starte d your\nintroduction by saying that the commonality was cost. But I thought\nthat cost had to do with the technology and how much it costs to\nimplement, so I don't see why that woul d be different among the 50\nstates or marginally important enough to be different."
+            },
+            "explanation": "This phrase probes the relationship between technological implementation costs and regulatory compliance, requiring knowledge of economic considerations in environmental law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Could you break that down? I don't understand. You starte d your\nintroduction by saying that the commonality was cost. But I thought\nthat cost had to do with the technology and how much it costs to\nimplement, so I don't see why that woul d be different among the 50\nstates or ____________________________________.\"",
+          "options": {
+            "A": "marginally important enough to be different",
+            "B": "marginally relevant enough to be different",
+            "C": "marginally necessary enough to be separate",
+            "D": "marginally significant enough to be distinct"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "marginally important enough to be different",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 1,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "Could you break that down? I don't understand. You starte d your\nintroduction by saying that the commonality was cost. But I thought\nthat cost had to do with the technology and how much it costs to\nimplement, so I don't see why that woul d be different among the 50\nstates or marginally important enough to be different."
+            },
+            "explanation": "This phrase invites analysis of the significance of cost differences in regulatory compliance, challenging students to consider thresholds of importance in legal standards."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"And to the extent that ______________________________ don't increase the\ncost for any of the remaining states, they --their allotment remains the\nsame regardless of how many people are participating. So I don't see\nhow you're raising an argument, frankly, not for yourself because\nnothing's changed.\"",
+          "options": {
+            "A": "the other states dropping out",
+            "B": "the other states staying in",
+            "C": "the other states participating fully",
+            "D": "the other states joining together"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "the other states dropping out",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 2,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "And to the extent that the other states dropping out don't increase the\ncost for any of the remaining states, they --their allotment remains the\nsame regardless of how many people are participating. So I don't see\nhow you're raising an argument, frankly, not for yourself because\nnothing's changed."
+            },
+            "explanation": "This phrase highlights the judicial inquiry into the implications of state participation in federal regulatory schemes, probing the consequences of non-participation."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"And to the extent that the other states dropping out don't increase the\ncost for any of the remaining states, they --their allotment remains the\nsame regardless of how many people are participating. So I don't see\nhow you're raising an argument, frankly, not for yourself because\n____________.\"",
+          "options": {
+            "A": "something's altered",
+            "B": "anything's modified",
+            "C": "everything's adjusted",
+            "D": "nothing's changed"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "nothing's changed",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 2,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "And to the extent that the other states dropping out don't increase the\ncost for any of the remaining states, they --their allotment remains the\nsame regardless of how many people are participating. So I don't see\nhow you're raising an argument, frankly, not for yourself because\nnothing's changed."
+            },
+            "explanation": "This phrase invites scrutiny of the argument's validity, emphasizing the need for a clear demonstration of how changes in state participation affect the legal and regulatory landscape."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Why don't you get to the end question. Nothing is changing in your cost\nor what you have to do, meaning the states that are -- who -- for whom\nstay -- stays have not been given, ________________________,\nnothing changes.\"",
+          "options": {
+            "A": "their distribution does not shift",
+            "B": "their allocation does not vary",
+            "C": "their allotment doesn't change",
+            "D": "their share does not fluctuate"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "their allotment doesn't change",
+            "category": "statute",
+            "difficulty": "medium",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 3,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "Why don't you get to the end question. Nothing is changing in your cost\nor what you have to do, meaning the states that are -- who -- for whom\nstay -- stays have not been given, their allotment doesn't change,\nnothing changes."
+            },
+            "explanation": "This phrase probes the understanding of statutory allocations and how they are affected by judicial decisions, particularly in regulatory contexts."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Why don't you get to the end question. Nothing is changing in your cost\nor what you have to do, meaning the states that are -- who -- for whom\nstay -- stays have not been given, their allotment doesn't change,\n____________.\"",
+          "options": {
+            "A": "nothing changes",
+            "B": "no modifications",
+            "C": "no adjustments",
+            "D": "no alterations"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "nothing changes",
+            "category": "legal_concept",
+            "difficulty": "medium",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 3,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "Why don't you get to the end question. Nothing is changing in your cost\nor what you have to do, meaning the states that are -- who -- for whom\nstay -- stays have not been given, their allotment doesn't change,\nnothing changes."
+            },
+            "explanation": "This phrase invites analysis of the implications of stability in legal obligations and the potential consequences of inaction in regulatory scenarios."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 3,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nWell, I --I -- I understand that point, but the calculations, the\nmethodology is all there, and I assume you just -- instead of putting 23\nstates in, you put 11 in and --and, in looking for whatever reduction,\ninstead of a hundred, you do the 11 percent. How long do you think it\nwould take if there were a proceeding to adjust the numbers along the\nlines that you propose or at least for EPA to know what those numbers\nare and determine whether or not that's a sufficient change in -- leads\nto a sufficient change in the result?\n### Mathura J. Sridharan:\nI don't know how long it'll take the EPA to recrunch the numbers. What I\n### Chief Justice Roberts:\nI'll bet they do it real quickly.\n### Mathura J. Sridharan:\nI'm sure they could, Your Honor, but here is the problem: They failed to\nconsider any of that. I mean, this is a failure to consider problem. They\nfailed to consider the most important aspect of the interdependency\nthat they introduced into the program by virtue of using this particular\nand I can't tell you what that looks like, whether there is a difference in\nthe obligations or not -- there are at least some examples in the record\nfor the coalition of states that I represent where there could be a\ncheaper cost threshold. But what matters is the EPA failed to consider at\nall and has sort of blown past the problem here, saying nothing to look\nhere, just go ahead and execute your obligations as they are.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Well, I --I -- I understand that point, but the calculations, the\nmethodology is all there, and I assume you just -- instead of putting 23\nstates in, you put 11 in and --and, in looking for whatever reduction,\ninstead of a hundred, you do the 11 percent. How long do you think it\nwould take if there were a proceeding to adjust the numbers along the\nlines that you propose or at least for EPA to know what those numbers\nare and determine whether or not that's a sufficient change in -- leads\nto a ______________________________?\"",
+          "options": {
+            "A": "sufficient change in the result",
+            "B": "sufficient alteration in the outcome",
+            "C": "adequate adjustment to the result",
+            "D": "substantial modification of the outcome"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "sufficient change in the result",
+            "category": "judicial_test",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 1,
+              "speaker": "Chief Justice Roberts",
+              "original_statement": "Well, I --I -- I understand that point, but the calculations, the\nmethodology is all there, and I assume you just -- instead of putting 23\nstates in, you put 11 in and --and, in looking for whatever reduction,\ninstead of a hundred, you do the 11 percent. How long do you think it\nwould take if there were a proceeding to adjust the numbers along the\nlines that you propose or at least for EPA to know what those numbers\nare and determine whether or not that's a sufficient change in -- leads\nto a sufficient change in the result?"
+            },
+            "explanation": "This phrase probes the standard for determining whether adjustments in regulatory inputs lead to a legally sufficient outcome, reflecting the judicial inquiry into the adequacy of administrative decisions."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, I --I -- I understand that point, but the calculations, the\nmethodology is all there, and I assume you just -- instead of putting 23\nstates in, you put 11 in and --and, in looking for whatever reduction,\ninstead of a hundred, you do the 11 percent. How long do you think it\nwould take if there were a ______________________________ along the\nlines that you propose or at least for EPA to know what those numbers\nare and determine whether or not that's a sufficient change in -- leads\nto a sufficient change in the result?\"",
+          "options": {
+            "A": "proceeding to revise the statistics",
+            "B": "proceeding to amend the figures",
+            "C": "proceeding to adjust the numbers",
+            "D": "proceeding to modify the data"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "proceeding to adjust the numbers",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 1,
+              "speaker": "Chief Justice Roberts",
+              "original_statement": "Well, I --I -- I understand that point, but the calculations, the\nmethodology is all there, and I assume you just -- instead of putting 23\nstates in, you put 11 in and --and, in looking for whatever reduction,\ninstead of a hundred, you do the 11 percent. How long do you think it\nwould take if there were a proceeding to adjust the numbers along the\nlines that you propose or at least for EPA to know what those numbers\nare and determine whether or not that's a sufficient change in -- leads\nto a sufficient change in the result?"
+            },
+            "explanation": "This phrase raises procedural considerations regarding how adjustments to regulatory figures are made, which is essential for understanding the administrative process and judicial review."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 4,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nTo make sure I understand that, I think you're saying, but correct me if\nI'm wrong, that when the EPA said the whole thing is severable in\nresponse to the comments that the SIP disapprovals were going to be\nproblematic and that would unravel the whole plan, when the EPA said,\noh, don't worry about it, it'll be severable, that that was not adequately\nexplained in terms of how the subset of states would work. Is that what\nyou're saying?\n### Mathura J. Sridharan:\nThat is definitely correct as to our position with respect to the\nseverability provision. That is not just a failure to explain; it just blows\npast the problem. It is, at best, boilerplate. And let me give you an\n### Justice Kavanaugh:\nIn other words -- let me just follow up on that. In other words, the Chief\nJustice's question, maybe they could do that quickly, maybe it would\ntake them a while, but they didn't do any of that, right?\n### Mathura J. Sridharan:\nYes, that's exactly right, Your Honor. They've done nothing by way of\naddressing contingencies.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"To make sure I understand that, I think you're saying, but correct me if\nI'm wrong, that when the EPA said ______________________________ in\nresponse to the comments that the SIP disapprovals were going to be\nproblematic and that would unravel the whole plan, when the EPA said,\noh, don't worry about it, it'll be severable, that that was not adequately\nexplained in terms of how the subset of states would work. Is that what\nyou're saying?\"",
+          "options": {
+            "A": "the entire plan is unenforceable",
+            "B": "the whole thing is severable",
+            "C": "the whole statute is invalidated",
+            "D": "the whole regulation is ineffective"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "the whole thing is severable",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 4,
+              "statement_index": 1,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": "To make sure I understand that, I think you're saying, but correct me if\nI'm wrong, that when the EPA said the whole thing is severable in\nresponse to the comments that the SIP disapprovals were going to be\nproblematic and that would unravel the whole plan, when the EPA said,\noh, don't worry about it, it'll be severable, that that was not adequately\nexplained in terms of how the subset of states would work. Is that what\nyou're saying?"
+            },
+            "explanation": "This phrase refers to the legal doctrine of severability, which is crucial in determining whether a law can remain in effect if a portion is found unconstitutional or invalid."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"To make sure I understand that, I think you're saying, but correct me if\nI'm wrong, that when the EPA said the whole thing is severable in\nresponse to the comments that the SIP disapprovals were going to be\nproblematic and that would ________________________, when the EPA said,\noh, don't worry about it, it'll be severable, that that was not adequately\nexplained in terms of how the subset of states would work. Is that what\nyou're saying?\"",
+          "options": {
+            "A": "unravel the whole plan",
+            "B": "invalidate the state regulations",
+            "C": "disrupt the federal framework",
+            "D": "overhaul the entire scheme"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "unravel the whole plan",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 4,
+              "statement_index": 1,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": "To make sure I understand that, I think you're saying, but correct me if\nI'm wrong, that when the EPA said the whole thing is severable in\nresponse to the comments that the SIP disapprovals were going to be\nproblematic and that would unravel the whole plan, when the EPA said,\noh, don't worry about it, it'll be severable, that that was not adequately\nexplained in terms of how the subset of states would work. Is that what\nyou're saying?"
+            },
+            "explanation": "This phrase addresses the concept of regulatory coherence and the implications of certain legal decisions on the integrity of a comprehensive regulatory scheme."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"To make sure I understand that, I think you're saying, but correct me if\nI'm wrong, that when the EPA said the whole thing is severable in\nresponse to the comments that the SIP disapprovals were going to be\nproblematic and that would unravel the whole plan, when the EPA said,\noh, don't worry about it, it'll be severable, that that was not adequately\nexplained in terms of how the ______________________________. Is that what\nyou're saying?\"",
+          "options": {
+            "A": "subset of states can regulate",
+            "B": "subset of states should comply",
+            "C": "subset of states would work",
+            "D": "subset of states must participate"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "subset of states would work",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 4,
+              "statement_index": 1,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": "To make sure I understand that, I think you're saying, but correct me if\nI'm wrong, that when the EPA said the whole thing is severable in\nresponse to the comments that the SIP disapprovals were going to be\nproblematic and that would unravel the whole plan, when the EPA said,\noh, don't worry about it, it'll be severable, that that was not adequately\nexplained in terms of how the subset of states would work. Is that what\nyou're saying?"
+            },
+            "explanation": "This phrase involves the legal analysis of how regulatory frameworks apply to different groups of states, which is essential for understanding federalism in environmental law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"In other words -- let me just follow up on that. In other words, the Chief\nJustice's question, ____________________________________, maybe it would\ntake them a while, but they didn't do any of that, right?\"",
+          "options": {
+            "A": "maybe they could do that quickly",
+            "B": "maybe they can do that efficiently",
+            "C": "maybe they should do that slowly",
+            "D": "maybe they must do that quickly"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "maybe they could do that quickly",
+            "category": "other",
+            "difficulty": "medium",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 4,
+              "statement_index": 2,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": "In other words -- let me just follow up on that. In other words, the Chief\nJustice's question, maybe they could do that quickly, maybe it would\ntake them a while, but they didn't do any of that, right?"
+            },
+            "explanation": "This phrase highlights the judicial consideration of timeliness and efficiency in legal processes, which can impact the evaluation of regulatory actions."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"In other words -- let me just follow up on that. In other words, the Chief\nJustice's question, maybe they could do that quickly, maybe it would\ntake them a while, __________________________________________, right?\"",
+          "options": {
+            "A": "but they did address some of those issues",
+            "B": "but they did not consider any of that",
+            "C": "but they didn't do any of that",
+            "D": "but they failed to implement any of that"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "but they didn't do any of that",
+            "category": "other",
+            "difficulty": "medium",
+            "word_count": 7,
+            "context_info": {
+              "conversation_id": 4,
+              "statement_index": 2,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": "In other words -- let me just follow up on that. In other words, the Chief\nJustice's question, maybe they could do that quickly, maybe it would\ntake them a while, but they didn't do any of that, right?"
+            },
+            "explanation": "This phrase emphasizes the judicial scrutiny of agency inaction, which is crucial for understanding the standards of review applied to administrative decisions."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 5,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nThe argument you're making now, I -- I don't remember that in your\napplication. Can you point me to where in your application I should look\nto get your argument? Because, you know, the way I remember your\napplication, you -- very high level of generality about interdependence\nand collective responsibility and so forth, but you gave us really nothing\nto allow us to say, well, how -- how would this have been different if it\nhad been 13 rather than 21? What would have changed?\n### Mathura J. Sridharan:\nWell, on pages 18 to 21 of our application, we address this methodology\nin, admittedly, the same broad and capacious terms that the EPA uses in\nits final rule.\n### Justice Kagan:\nWell, it's -- it's -- it's your burden right now to show a likelihood of\nsuccess. And I have to say pages 18 to 21, if I took these pages and I\ncompared it to what you're saying now, I don't think that I would find a\nwhole lot of commonality.\n### Mathura J. Sridharan:\nWell, Your Honor, that brings me to the second reason I'm here\ndiscussing sort of the nitty- gritty of that methodology, and that is to\ndirectly answer this Court's order and the question of why lesser\nparticipation matters, and in order to do that, we have had to plumb the\nrecord well past what is in the final rule deep into the technical support\ndocuments that the EPA has filed.\n### Justice Kagan:\nI appreciate that. I mean, we gave you a question and you're trying to\nanswer the question. I -- I -- I guess it does, though, suggest to me that\nthis is an unusual posture for us to be in. No court has looked at the kinds\nof questions that you're raising here and the kinds of questions that we\nasked you to discuss. Not a single court has addressed that issue. And\nyet here we are on papers that also do not address the issue trying to\nfigure that out. That seems quite odd to me, and I'm wondering how you\nthink we should do that.\n### Mathura J. Sridharan:\nWell, two reasons or two answers to that, Your Honor. First of all, while\nthese proceedings are going on, the states and their industries continue\nto suffer irreparable harm. And, second, perhaps this would be a\ndifferent story had the EPA refuted anything with respect to the\ninterdependencies in the plan. They have not said a single word saying\nthat the interdependencies do not exist. I will -- I will concede that they\nkeep saying, well, you can just plow ahead with your obligations. But\nthey don't explain why those obligations make sense any more under\nthe methodology that they chose.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"The argument you're making now, I -- I don't remember that in your\napplication. Can you point me to where in your application I should look\nto get your argument? Because, you know, the way I remember your\napplication, you -- very ________________________ about interdependence\nand collective responsibility and so forth, but you gave us really nothing\nto allow us to say, well, how -- how would this have been different if it\nhad been 13 rather than 21? What would have changed?\"",
+          "options": {
+            "A": "high degree of specificity",
+            "B": "low degree of generality",
+            "C": "high level of generality",
+            "D": "low level of detail"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "high level of generality",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 5,
+              "statement_index": 1,
+              "speaker": "Justice Kagan",
+              "original_statement": "The argument you're making now, I -- I don't remember that in your\napplication. Can you point me to where in your application I should look\nto get your argument? Because, you know, the way I remember your\napplication, you -- very high level of generality about interdependence\nand collective responsibility and so forth, but you gave us really nothing\nto allow us to say, well, how -- how would this have been different if it\nhad been 13 rather than 21? What would have changed?"
+            },
+            "explanation": "This phrase highlights the judicial scrutiny of the specificity required in legal arguments, emphasizing the need for concrete details rather than vague assertions."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"The argument you're making now, I -- I don't remember that in your\napplication. Can you point me to where in your application I should look\nto get your argument? Because, you know, the way I remember your\napplication, you -- very high level of generality about interdependence\nand collective responsibility and so forth, but you gave us really nothing\nto allow us to say, well, how -- ____________________________________ if it\nhad been 13 rather than 21? What would have changed?\"",
+          "options": {
+            "A": "how should this have been addressed",
+            "B": "how might this have changed procedurally",
+            "C": "how would this have been different",
+            "D": "how could this have been resolved"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "how would this have been different",
+            "category": "judicial_test",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 5,
+              "statement_index": 1,
+              "speaker": "Justice Kagan",
+              "original_statement": "The argument you're making now, I -- I don't remember that in your\napplication. Can you point me to where in your application I should look\nto get your argument? Because, you know, the way I remember your\napplication, you -- very high level of generality about interdependence\nand collective responsibility and so forth, but you gave us really nothing\nto allow us to say, well, how -- how would this have been different if it\nhad been 13 rather than 21? What would have changed?"
+            },
+            "explanation": "This phrase indicates the justice's probing into hypothetical scenarios, which is crucial for evaluating the implications of legal arguments and their practical applications."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"The argument you're making now, I -- I don't remember that in your\napplication. Can you __________________________________________ I should look\nto get your argument? Because, you know, the way I remember your\napplication, you -- very high level of generality about interdependence\nand collective responsibility and so forth, but you gave us really nothing\nto allow us to say, well, how -- how would this have been different if it\nhad been 13 rather than 21? What would have changed?\"",
+          "options": {
+            "A": "show me where in your legal argument",
+            "B": "direct me to where in your submission",
+            "C": "indicate where in your procedural application",
+            "D": "point me to where in your application"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "point me to where in your application",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 7,
+            "context_info": {
+              "conversation_id": 5,
+              "statement_index": 1,
+              "speaker": "Justice Kagan",
+              "original_statement": "The argument you're making now, I -- I don't remember that in your\napplication. Can you point me to where in your application I should look\nto get your argument? Because, you know, the way I remember your\napplication, you -- very high level of generality about interdependence\nand collective responsibility and so forth, but you gave us really nothing\nto allow us to say, well, how -- how would this have been different if it\nhad been 13 rather than 21? What would have changed?"
+            },
+            "explanation": "This phrase underscores the procedural aspect of legal argumentation, emphasizing the importance of referencing specific documents in judicial inquiries."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, it's -- it's -- it's your burden right now to show a likelihood of\nsuccess. And I have to say ________________________, if I took these pages and I\ncompared it to what you're saying now, I don't think that I would find a\nwhole lot of commonality.\"",
+          "options": {
+            "A": "pages 18 to 21",
+            "B": "pages 19 to 22",
+            "C": "pages 16 to 21",
+            "D": "pages 17 to 20"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "pages 18 to 21",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 5,
+              "statement_index": 2,
+              "speaker": "Justice Kagan",
+              "original_statement": "Well, it's -- it's -- it's your burden right now to show a likelihood of\nsuccess. And I have to say pages 18 to 21, if I took these pages and I\ncompared it to what you're saying now, I don't think that I would find a\nwhole lot of commonality."
+            },
+            "explanation": "This reference to specific pages suggests the importance of textual analysis and the need for consistency between written arguments and oral presentations in court."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"I appreciate that. I mean, we gave you a question and you're trying to\nanswer the question. I -- I -- I guess it does, though, suggest to me that\nthis is an __________________________________________. No court has looked at the kinds\nof questions that you're raising here and the kinds of questions that we\nasked you to discuss. Not a single court has addressed that issue. And\nyet here we are on papers that also do not address the issue trying to\nfigure that out. That seems quite odd to me, and I'm wondering how you\nthink we should do that.\"",
+          "options": {
+            "A": "unusual circumstance for them to be in",
+            "B": "unusual posture for us to be in",
+            "C": "unique posture for them to be in",
+            "D": "unusual position for us to be in"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "unusual posture for us to be in",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 7,
+            "context_info": {
+              "conversation_id": 5,
+              "statement_index": 3,
+              "speaker": "Justice Kagan",
+              "original_statement": "I appreciate that. I mean, we gave you a question and you're trying to\nanswer the question. I -- I -- I guess it does, though, suggest to me that\nthis is an unusual posture for us to be in. No court has looked at the kinds\nof questions that you're raising here and the kinds of questions that we\nasked you to discuss. Not a single court has addressed that issue. And\nyet here we are on papers that also do not address the issue trying to\nfigure that out. That seems quite odd to me, and I'm wondering how you\nthink we should do that."
+            },
+            "explanation": "This phrase indicates a recognition of the atypical circumstances surrounding the case, prompting deeper analysis of procedural norms and judicial expectations."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"I appreciate that. I mean, we gave you a question and you're trying to\nanswer the question. I -- I -- I guess it does, though, suggest to me that\nthis is an unusual posture for us to be in. No court has looked at the kinds\nof questions that you're raising here and the kinds of questions that we\nasked you to discuss. Not a single court has addressed that issue. And\nyet here we are on ________________________________________________ trying to\nfigure that out. That seems quite odd to me, and I'm wondering how you\nthink we should do that.\"",
+          "options": {
+            "A": "papers that also do not address the issue",
+            "B": "documents that also fail to resolve the matter",
+            "C": "submissions that also neglect to address the concern",
+            "D": "pleadings that also do not resolve the dispute"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "papers that also do not address the issue",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 8,
+            "context_info": {
+              "conversation_id": 5,
+              "statement_index": 3,
+              "speaker": "Justice Kagan",
+              "original_statement": "I appreciate that. I mean, we gave you a question and you're trying to\nanswer the question. I -- I -- I guess it does, though, suggest to me that\nthis is an unusual posture for us to be in. No court has looked at the kinds\nof questions that you're raising here and the kinds of questions that we\nasked you to discuss. Not a single court has addressed that issue. And\nyet here we are on papers that also do not address the issue trying to\nfigure that out. That seems quite odd to me, and I'm wondering how you\nthink we should do that."
+            },
+            "explanation": "This phrase points to procedural deficiencies in the submissions, suggesting that the court is grappling with incomplete legal arguments, which is critical for understanding judicial decision-making."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 6,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nCounsel, did you raise this interdependence point in the comments?\n### Mathura J. Sridharan:\nYes, Your Honor. Commenters did preview the fact that the federal plan\nand its uniformity would be destroyed by the SIP disapprovals and the",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 7,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nI'm sorry. Where did that happen? I thought the SIP disapprovals came\nafter the EPA had announced its plan.\n### Mathura J. Sridharan:\nNo, not exactly, Your Honor. The SIP disapprovals are the legal predicate\nfor the EPA's authority to have a federal plan in place.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 8,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nStay?",
+      "questions": []
+    },
+    {
+      "conversation_id": 9,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nrestrained it with respect to some states?\n### Mathura J. Sridharan:\nNot exactly. Again, Your Honor, it is our view that publication in Federal",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 10,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nWell, why is that? Why wouldn't it be the finality of the rule? Why is\npublication the date we should look at?\n### Mathura J. Sridharan:\nWell, a couple of answers to that. With respect to the Clean Air Act itself,\nit ties publication in the Federal Register to final agency action that is\nreviewable under the Clean Air Act's judicial review provisions. Second,\nby the EPA's own words in the prepublication notice it presented in\nMarch, the EPA noted that that would not be the final rule for the\npurpose of compliance, and, in fact, that would fail the second prong of\nthis Court's Bennett test because legal consequences did not flow from\nthat. But I also want to take a step back because, even if this Court\ndisagrees with me as to whether the stays fall into or out of the gambit\nof what the agency had to consider, the fact that the commenters\npreviewed all of the problems with respect to the SIP disapprovals and\ncautioned that the federal plan's uniformity would -- would falter, and\nthen very quickly afterwards there was confirmation of that through\nthe federal plan was in a prepublication form. All of that cued the agency\ninto its obligation to address this very serious structural flaw with the\nfederal plan.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Well, why is that? Why wouldn't it be the ________________________? Why is\npublication the date we should look at?\"",
+          "options": {
+            "A": "finality of the rule",
+            "B": "finality of the statute",
+            "C": "finality of the decision",
+            "D": "finality of regulation process"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "finality of the rule",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 10,
+              "statement_index": 1,
+              "speaker": "Justice Barrett",
+              "original_statement": "Well, why is that? Why wouldn't it be the finality of the rule? Why is\npublication the date we should look at?"
+            },
+            "explanation": "This phrase challenges the understanding of when a regulatory rule is considered final and the implications of that finality in judicial review."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, why is that? Why wouldn't it be the finality of the rule? Why is\n__________________ we should look at?\"",
+          "options": {
+            "A": "publication the date",
+            "B": "publication the order",
+            "C": "notification the date",
+            "D": "submission the date"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "publication the date",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 10,
+              "statement_index": 1,
+              "speaker": "Justice Barrett",
+              "original_statement": "Well, why is that? Why wouldn't it be the finality of the rule? Why is\npublication the date we should look at?"
+            },
+            "explanation": "This phrase probes the significance of publication in the context of regulatory procedures and its impact on the enforceability of rules."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, why is that? Why wouldn't it be the finality of the rule? Why is\npublication the date we should ____________?\"",
+          "options": {
+            "A": "look after",
+            "B": "look at",
+            "C": "look into",
+            "D": "look through"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "look at",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 10,
+              "statement_index": 1,
+              "speaker": "Justice Barrett",
+              "original_statement": "Well, why is that? Why wouldn't it be the finality of the rule? Why is\npublication the date we should look at?"
+            },
+            "explanation": "This phrase suggests a deeper inquiry into the factors that should be considered in evaluating the legality of the EPA's actions."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 11,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nCounsel --oh, I'm sorry, are you done?",
+      "questions": []
+    },
+    {
+      "conversation_id": 12,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nI'm done.",
+      "questions": []
+    },
+    {
+      "conversation_id": 13,
+      "dialogue": "Justice Jackson\n### Mathura J. Sridharan:\nThat's right.\n### Justice Jackson:\nmatter when you haven't even lost below in terms of what is before the\nD.C. Circuit, and, in fact, my understanding is that you haven't even\nbriefed this argument yet in the D.C. Circuit. So I'm trying to understand\nwhat the emergency is that warrants Supreme Court intervention at this\npoint.\n### Mathura J. Sridharan:\nAt the breakneck speed we're going, in order to go -- get into\ncompliance with an unlawful federal rule, we are spending immense\nsums, both the states as w ell as our industries. And on top of that, we\nare facing the threat of power shortages and heating shortages, all of\n### Justice Jackson:\nImminently? I'm sorry, imminently power shortages and heating\nshortages?\n### Mathura J. Sridharan:\nAt least some grid operators have pointed to the fact that this federal\nrule will be directly associated with a potential for grid unreliability.\n### Justice Jackson:\nEventually.\n### Justice Jackson:\nWe're -- we're -- we're here on emergency relief, and I guess I -- I'm\nworried about --I'm worried about the standards that this Court needs\nto take into account when it decides whether or not to entertain these\nkinds of motions, you know. So what --what do you perceive your\n### Justice Jackson:\nextraordinary harm, not just the serious harm you say that states will\nface?\n### Mathura J. Sridharan:\nWell, on top of that, I think, going back to the compliance burdens, that\nevery dollar that we are spending -- and we've spent a lot, and I know\ncounsel for industry is going to stand up and tell you about the millions\n### Justice Jackson:\nYes, but everybody who has to comply with the rule, right, has to spend\nsome -- something, I would think, in order to do so. And what I'm a\nlittle concerned about is that really your argument is just boiling down\nto we think we have a meritorious claim and we don't want to have to\nfollow the law while we're challenging it. And I don't understand why\nevery single person who is challenging a rule doesn't have that same set\nof circumstances.\n### Mathura J. Sridharan:\nI think that goes to the immense sums that are spent that are not\nrecoupable. It goes to the fact that the timeline is exceedingly\ncompressed, so the heating shortages we speak of, and if you go to\nGrubb declaration that the natural gas pipelines have submitted,\nparagraphs 66 and 67, the harms we're talking about are serious in\n### Justice Jackson:\nNo, I understand. But I thought there was something about 2026 when\n### Mathura J. Sridharan:\nSure. The compliance deadlines might be then, but what it takes to get\nto compliance starts now. And from the states' perspective, we're the\nstates, we've already started and we had to start.\n### Justice Jackson:\nHave you asked the lower court to expedite its review? I would think that\nthat should be required in a situation like this since you're saying stay\nthis pending their review. So are they moving quickly at your request?\n### Mathura J. Sridharan:\nNo, we have not because of the nature of the proceedings before this\nCourt. We are seeking a stay of this Court because of the harms that we\nare facing right now, and we are -- we believe that our -- we will both",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"matter when you haven't even lost below in terms of what is before the\nD.C. Circuit, and, in fact, my understanding is that you haven't even\nbriefed this argument yet in the D.C. Circuit. So I'm trying to understand\nwhat the __________________________________________ at this\npoint.\"",
+          "options": {
+            "A": "emergency is that requires judicial review intervention",
+            "B": "emergency is that necessitates federal court intervention",
+            "C": "emergency is that warrants Supreme Court intervention",
+            "D": "emergency is that demands immediate judicial intervention"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "emergency is that warrants Supreme Court intervention",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 7,
+            "context_info": {
+              "conversation_id": 13,
+              "statement_index": 1,
+              "speaker": "Justice Jackson",
+              "original_statement": "matter when you haven't even lost below in terms of what is before the\nD.C. Circuit, and, in fact, my understanding is that you haven't even\nbriefed this argument yet in the D.C. Circuit. So I'm trying to understand\nwhat the emergency is that warrants Supreme Court intervention at this\npoint."
+            },
+            "explanation": "This phrase probes the threshold for Supreme Court intervention, requiring an understanding of the standards for emergency relief and the Court's discretionary powers."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"We're -- we're -- we're here on ____________, and I guess I -- I'm\nworried about --I'm worried about the standards that this Court needs\nto take into account when it decides whether or not to entertain these\nkinds of motions, you know. So what --what do you perceive your\"",
+          "options": {
+            "A": "preliminary relief",
+            "B": "emergency relief",
+            "C": "immediate assistance",
+            "D": "temporary remedy"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "emergency relief",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 13,
+              "statement_index": 2,
+              "speaker": "Justice Jackson",
+              "original_statement": "We're -- we're -- we're here on emergency relief, and I guess I -- I'm\nworried about --I'm worried about the standards that this Court needs\nto take into account when it decides whether or not to entertain these\nkinds of motions, you know. So what --what do you perceive your"
+            },
+            "explanation": "This phrase highlights the urgent nature of the judicial inquiry and the specific legal framework governing emergency motions, requiring an understanding of the standards for granting such relief."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"We're -- we're -- we're here on emergency relief, and I guess I -- I'm\nworried about --I'm worried about the standards that this Court needs\nto take into account when it decides whether or not to entertain these\nkinds of motions, you know. So what --______________________________\"",
+          "options": {
+            "A": "what do you understand your",
+            "B": "what do you consider your",
+            "C": "what do you perceive your",
+            "D": "what do you believe your"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "what do you perceive your",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 13,
+              "statement_index": 2,
+              "speaker": "Justice Jackson",
+              "original_statement": "We're -- we're -- we're here on emergency relief, and I guess I -- I'm\nworried about --I'm worried about the standards that this Court needs\nto take into account when it decides whether or not to entertain these\nkinds of motions, you know. So what --what do you perceive your"
+            },
+            "explanation": "This phrase suggests an inquiry into the perception of legal arguments, challenging the respondent to articulate their understanding of the legal issues at hand."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Yes, but everybody who has to ________________________, right, has to spend\nsome -- something, I would think, in order to do so. And what I'm a\nlittle concerned about is that really your argument is just boiling down\nto we think we have a meritorious claim and we don't want to have to\nfollow the law while we're challenging it. And I don't understand why\nevery single person who is challenging a rule doesn't have that same set\nof circumstances.\"",
+          "options": {
+            "A": "comply with the statute",
+            "B": "comply under the rules",
+            "C": "comply with the regulations",
+            "D": "comply with the rule"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "comply with the rule",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 13,
+              "statement_index": 3,
+              "speaker": "Justice Jackson",
+              "original_statement": "Yes, but everybody who has to comply with the rule, right, has to spend\nsome -- something, I would think, in order to do so. And what I'm a\nlittle concerned about is that really your argument is just boiling down\nto we think we have a meritorious claim and we don't want to have to\nfollow the law while we're challenging it. And I don't understand why\nevery single person who is challenging a rule doesn't have that same set\nof circumstances."
+            },
+            "explanation": "This phrase highlights the obligation of parties to adhere to regulatory standards, which is a fundamental principle in administrative law and judicial review."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Yes, but everybody who has to comply with the rule, right, has to spend\nsome -- something, I would think, in order to do so. And what I'm a\nlittle concerned about is that really your argument is just boiling down\nto we think we have a ____________ and we don't want to have to\nfollow the law while we're challenging it. And I don't understand why\nevery single person who is challenging a rule doesn't have that same set\nof circumstances.\"",
+          "options": {
+            "A": "meritorious petition",
+            "B": "meritorious claim",
+            "C": "meritorious action",
+            "D": "meritorious defense"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "meritorious claim",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 13,
+              "statement_index": 3,
+              "speaker": "Justice Jackson",
+              "original_statement": "Yes, but everybody who has to comply with the rule, right, has to spend\nsome -- something, I would think, in order to do so. And what I'm a\nlittle concerned about is that really your argument is just boiling down\nto we think we have a meritorious claim and we don't want to have to\nfollow the law while we're challenging it. And I don't understand why\nevery single person who is challenging a rule doesn't have that same set\nof circumstances."
+            },
+            "explanation": "This phrase refers to a claim that has legal merit and is worthy of consideration, testing the understanding of the standards for judicial review of administrative actions."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Yes, but everybody who has to comply with the rule, right, has to spend\nsome -- something, I would think, in order to do so. And what I'm a\nlittle concerned about is that really your argument is just boiling down\nto we think we have a meritorious claim and we don't want to have to\n__________________________________________. And I don't understand why\nevery single person who is challenging a rule doesn't have that same set\nof circumstances.\"",
+          "options": {
+            "A": "follow the law while we're challenging it",
+            "B": "comply with the law while we challenge it",
+            "C": "challenge the law while we are following",
+            "D": "follow the regulations while we're challenging them"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "follow the law while we're challenging it",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 7,
+            "context_info": {
+              "conversation_id": 13,
+              "statement_index": 3,
+              "speaker": "Justice Jackson",
+              "original_statement": "Yes, but everybody who has to comply with the rule, right, has to spend\nsome -- something, I would think, in order to do so. And what I'm a\nlittle concerned about is that really your argument is just boiling down\nto we think we have a meritorious claim and we don't want to have to\nfollow the law while we're challenging it. And I don't understand why\nevery single person who is challenging a rule doesn't have that same set\nof circumstances."
+            },
+            "explanation": "This phrase raises questions about the balance between compliance with regulations and the right to challenge those regulations, touching on doctrines of judicial review and administrative law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Yes, but everybody who has to comply with the rule, right, has to spend\nsome -- something, I would think, in order to do so. And what I'm a\nlittle concerned about is that really your argument is just boiling down\nto we think we have a meritorious claim and we don't want to have to\nfollow the law while we're challenging it. And I don't understand why\n________________________________________________ doesn't have that same set\nof circumstances.\"",
+          "options": {
+            "A": "every single organization that is opposing a statute",
+            "B": "every single person who is challenging a rule",
+            "C": "every single entity that is contesting a regulation",
+            "D": "every individual party that is disputing a guideline"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "every single person who is challenging a rule",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 8,
+            "context_info": {
+              "conversation_id": 13,
+              "statement_index": 3,
+              "speaker": "Justice Jackson",
+              "original_statement": "Yes, but everybody who has to comply with the rule, right, has to spend\nsome -- something, I would think, in order to do so. And what I'm a\nlittle concerned about is that really your argument is just boiling down\nto we think we have a meritorious claim and we don't want to have to\nfollow the law while we're challenging it. And I don't understand why\nevery single person who is challenging a rule doesn't have that same set\nof circumstances."
+            },
+            "explanation": "This phrase underscores the principle of equal treatment under the law and the implications of regulatory compliance for all parties involved in legal challenges."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Have you asked the lower court to __________________? I would think that\nthat should be required in a situation like this since you're saying stay\nthis pending their review. So are they moving quickly at your request?\"",
+          "options": {
+            "A": "expedite this review",
+            "B": "expedite its review",
+            "C": "expedite its appeal",
+            "D": "expedite their review"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "expedite its review",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 13,
+              "statement_index": 4,
+              "speaker": "Justice Jackson",
+              "original_statement": "Have you asked the lower court to expedite its review? I would think that\nthat should be required in a situation like this since you're saying stay\nthis pending their review. So are they moving quickly at your request?"
+            },
+            "explanation": "This phrase highlights the judicial expectation for timely resolution in urgent legal matters, reflecting the principle of judicial efficiency."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 14,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nThat's in your brief?",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Justice Sotomayor\n### Justice Sotomayor:\n________________________\"",
+          "options": {
+            "A": "That's in your response?",
+            "B": "That's in your brief?",
+            "C": "That's in your motion?",
+            "D": "That's in your opinion?"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "That's in your brief?",
+            "category": "other",
+            "difficulty": "medium",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 14,
+              "statement_index": 1,
+              "speaker": "Unknown Justice",
+              "original_statement": "Justice Sotomayor\n### Justice Sotomayor:\nThat's in your brief?"
+            },
+            "explanation": "This phrase highlights the importance of the written briefs in judicial proceedings, prompting an understanding of how justices rely on these documents to frame their inquiries and assess the arguments presented."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 15,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you -- thank you, counsel.",
+      "questions": []
+    },
+    {
+      "conversation_id": 16,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\n? Justice Alito? Justice\nSotomayor?",
+      "questions": []
+    },
+    {
+      "conversation_id": 17,
+      "dialogue": "Justice Sotomayor\n### Mathura J. Sridharan:\nThat's right, Your Honor.\n### Justice Sotomayor:\nthat are made during the public time, not after, which means, without a\nmotion for reconsideration, there's no record before the agency proving\nthe interdependency you're claiming right now, correct?\n### Mathura J. Sridharan:\nNo, Your Honor, there is a record, and it comes from the methodology\nthat the EPA chose and explained well into its technical support\ndocuments.\n### Justice Sotomayor:\nYou -- but you did not supply a motion for reconsideration in which you\nlaid out what these additional costs would be?\n### Mathura J. Sridharan:\nWe didn't have to, Your Honor.\n### Justice Sotomayor:\nAll right. Is it an inversion of normal rules when you're seeking\nexpedition to bypass the very court who's going to make the\nsubstantive decision and not even ask them to expedite and rush to us -\n### Mathura J. Sridharan:\nwith the fact that the commenters previewed what's going on and\nlitigation confirmed it very quickly. It is also not an incomplete record\nwith respect to the methodology itself. Now that methodology, again,\ngoes well deep into the technical support documents, in part because\nthe EPA engaged in a sort of capacious way of talking about the\nmethodology, but it's there. And the ozone transport policy analysis\ngoes down the details of how the c ost threshold is specific to the mix of\nstates that goes into it. And when that shifts, the EPA has an obligation\nto assess why it matters or why that cost threshold is still reasonably\napplied to any remaining states. It has not done so. This is -- the burden\nis on the EPA to consider the inflexibilities that it introduced into the\nplan, and it has failed to do so, and it continues to stick its head in the\nsand by failing to go back to the drawing board.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"that are made during the ____________, not after, which means, without a\nmotion for reconsideration, there's no record before the agency proving\nthe interdependency you're claiming right now, correct?\"",
+          "options": {
+            "A": "private time",
+            "B": "government time",
+            "C": "public time",
+            "D": "court time"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "public time",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 17,
+              "statement_index": 1,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "that are made during the public time, not after, which means, without a\nmotion for reconsideration, there's no record before the agency proving\nthe interdependency you're claiming right now, correct?"
+            },
+            "explanation": "This phrase highlights the importance of procedural timing in administrative law, indicating when comments or arguments must be made to be considered valid."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"You -- but you did not supply a __________________ in which you\nlaid out what these additional costs would be?\"",
+          "options": {
+            "A": "motion for reconsideration",
+            "B": "motion for clarification",
+            "C": "motion for amendment",
+            "D": "motion for review"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "motion for reconsideration",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 17,
+              "statement_index": 2,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "You -- but you did not supply a motion for reconsideration in which you\nlaid out what these additional costs would be?"
+            },
+            "explanation": "This phrase reveals the procedural requirement for parties to formally request a court to review its decision, highlighting the importance of procedural compliance in judicial reasoning."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"All right. Is it an ________________________ when you're seeking\nexpedition to bypass the very court who's going to make the\nsubstantive decision and not even ask them to expedite and rush to us -\"",
+          "options": {
+            "A": "reversal of established norms",
+            "B": "inversion of normal rules",
+            "C": "alteration of standard procedures",
+            "D": "displacement of legal principles"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "inversion of normal rules",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 17,
+              "statement_index": 3,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "All right. Is it an inversion of normal rules when you're seeking\nexpedition to bypass the very court who's going to make the\nsubstantive decision and not even ask them to expedite and rush to us -"
+            },
+            "explanation": "This phrase challenges students to understand the implications of deviating from established legal procedures and norms, prompting analysis of judicial reasoning."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 18,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Kagan?",
+      "questions": []
+    },
+    {
+      "conversation_id": 19,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nSo, in this posture, one of the things that we would -- that we are\nsupposed to consider is would we take cert on this case and would you be\nlikely to prevail if we did take cert. And one of the reasons usually we\ndon't take cert on a case is if it has a lot of stuff before you get to the\nmerits issues, which is the only thing that we would be concerned about.\nAnd it --it does seem to me you want to -- the term \"stuff,\" sometimes\nreferred to as vehicle issues, there are just a lot of them here, right?\nThere's the question of did you have to comment and did you\ncomment? Then there's the question of, well, even if you couldn't\ncomment but --because you didn't know enough, should you have filed\na motion for reconsideration? And you didn't file a motion for\nreconsideration. Then there's this very complex issue about how your\nquestion relates to the validity of the SIP disapprovals themselves\nbecause, if the SIP disapprovals were valid, you wouldn't have a leg to\nstand on here. So how are we supposed to know that in this posture? So I\nguess what I'm saying is there are so many hoops that you have to go\nthrough and you have to go through all of them. You have to run the\ntable before we could even begin to get to your merits question. Isn't\nthat, according to our usual standards, a reason to deny this\napplication?\n### Mathura J. Sridharan:\nJustice Kagan, you've given a lot of stuff associated with this case, but\nthere's one thing I really want to talk about, which is what happens if\nthe SIP disapprovals ultimately settle in a place where all 23 states end\nup staying in the plan. That doesn't change our argument. The problem\nis the EPA failed to consider in the first instance what happens when\nthere is lesser participation. This is something that it doesn't matter\nwhat's going to happen next.\n### Justice Kagan:\nWell, that's sort of interesting. That doesn't seem intuitive to me. I\nmean, if all these lawsuits that the states are bringing are going to end\nup losing, I mean, the idea that you can be here and be demanding\nemergency relief just because states have kicked up a lot of dust seems\nnot the right answer to me.\n### Mathura J. Sridharan:\nNo, that's not right, Your Honor, be cause, in this very unusual\ncircumstance under the statute, as well as the EPA's choice of method, it\nis relevant to look back at what Your Honor has just termed \"kicking up\ndust.\" But it's not kicking up dust because, first of all, the legal flaws\nwere quite obvious, and they were previewed by commenters, and then\nvery shortly afterwards litigation and then the stays came around, all of\nwhich the EPA had an obligation to engage in rulemaking with its eyes\nwide open. Now, why that matters, I gave you two reasons: the unique\nstatutory circumstance, as well as the EPA's choice of method. The\nstatute itself requires the EPA to look back to prior predicate rulemaking\nin order to assert its authority to have a federal plan, and necessarily\nbaked into that is the fact that there may be judicial intervention,\nespecially by the EPA's own doing.\n### Justice Kagan:\nWhat do you think the EPA should have done? I mean, there are 23 states\nhere.\n### Mathura J. Sridharan:\nMm- hmm.\n### Justice Kagan:\nWas the EPA required to sort of consider every permutation, you know, if\n22 states are in the plan, if 21 states are in the plan, if 13 states are in the\nplan, if five states are in the plan? Which states are they? One of my\nclerks who does math better than I do tells me that there are two to the\n23rd power, which is like 4 million different permutations. What was the\nEPA supposed to do?\n### Mathura J. Sridharan:\nWell, I'm not going to go as far as to say that the EPA had to do\nnecessarily every possible permutation of two to the power of 23 minus\n### Justice Kagan:\nUgh.\n(Laughter.)\n### Justice Kagan:\nI have to tell my clerk it's minus one. (Laughter.)\n### Mathura J. Sridharan:\nis acknowledge the problem. So we're very far from talking abou t the\nline-drawing things that you're talking about. What the EPA had to do\nwas consider whether, under this method, it would need to address\ncontingencies. And we're familiar in other areas of law where --for\nexample, in elections law, where you run a number of simulations and\ndecide, you know what, we have a critical mass of a particular solution.\nLet's apply that. Let's go ahead with that.\n### Justice Kagan:\nThank you.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"So, in this posture, one of the things that we would -- that we are\nsupposed to consider is would we take cert on this case and would you be\nlikely to prevail if we did take cert. And one of the reasons usually we\ndon't take cert on a case is if it has a lot of stuff before you get to the\nmerits issues, which is the only thing that we would be concerned about.\nAnd it --it does seem to me you want to -- the term \"stuff,\" sometimes\nreferred to as ____________, there are just a lot of them here, right?\nThere's the question of did you have to comment and did you\ncomment? Then there's the question of, well, even if you couldn't\ncomment but --because you didn't know enough, should you have filed\na motion for reconsideration? And you didn't file a motion for\nreconsideration. Then there's this very complex issue about how your\nquestion relates to the validity of the SIP disapprovals themselves\nbecause, if the SIP disapprovals were valid, you wouldn't have a leg to\nstand on here. So how are we supposed to know that in this posture? So I\nguess what I'm saying is there are so many hoops that you have to go\nthrough and you have to go through all of them. You have to run the\ntable before we could even begin to get to your merits question. Isn't\nthat, according to our usual standards, a reason to deny this\napplication?\"",
+          "options": {
+            "A": "verdict concerns",
+            "B": "violation aspects",
+            "C": "vehicle issues",
+            "D": "vessel matters"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "vehicle issues",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 19,
+              "statement_index": 1,
+              "speaker": "Justice Kagan",
+              "original_statement": "So, in this posture, one of the things that we would -- that we are\nsupposed to consider is would we take cert on this case and would you be\nlikely to prevail if we did take cert. And one of the reasons usually we\ndon't take cert on a case is if it has a lot of stuff before you get to the\nmerits issues, which is the only thing that we would be concerned about.\nAnd it --it does seem to me you want to -- the term \"stuff,\" sometimes\nreferred to as vehicle issues, there are just a lot of them here, right?\nThere's the question of did you have to comment and did you\ncomment? Then there's the question of, well, even if you couldn't\ncomment but --because you didn't know enough, should you have filed\na motion for reconsideration? And you didn't file a motion for\nreconsideration. Then there's this very complex issue about how your\nquestion relates to the validity of the SIP disapprovals themselves\nbecause, if the SIP disapprovals were valid, you wouldn't have a leg to\nstand on here. So how are we supposed to know that in this posture? So I\nguess what I'm saying is there are so many hoops that you have to go\nthrough and you have to go through all of them. You have to run the\ntable before we could even begin to get to your merits question. Isn't\nthat, according to our usual standards, a reason to deny this\napplication?"
+            },
+            "explanation": "This phrase refers to procedural complexities that can impede reaching the substantive merits of a case, highlighting the importance of understanding how procedural hurdles affect judicial review."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"______________________________________________________ I mean, there are 23 states\nhere.\"",
+          "options": {
+            "A": "What do you think the EPA could have avoided?",
+            "B": "What do you believe the EPA must have done?",
+            "C": "What do you think the EPA should have done?",
+            "D": "What do you think the EPA ought to reconsider?"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "What do you think the EPA should have done?",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 9,
+            "context_info": {
+              "conversation_id": 19,
+              "statement_index": 3,
+              "speaker": "Justice Kagan",
+              "original_statement": "What do you think the EPA should have done? I mean, there are 23 states\nhere."
+            },
+            "explanation": "This phrase challenges the respondent to engage in judicial reasoning regarding the EPA's obligations and the implications of its actions, requiring an understanding of administrative law and agency discretion."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 20,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Gorsuch?",
+      "questions": []
+    },
+    {
+      "conversation_id": 21,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\n? Justice Barrett? Justice Jackson?",
+      "questions": []
+    },
+    {
+      "conversation_id": 22,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nSo my understanding is that you actually asked the D.C. Circuit to delay\nmerits briefing in this case, and I think that's the opposite of what I\nwould have expected if you are actually suffering irreparable harm. You\nknow, if you're suffering, I would think you'd want the D.C. Circuit to be\nmoving as quickly as possible. So can you speak to that?\n### Mathura J. Sridharan:\nYes, Your Honor. First, because of the posture that this case has gone on\nwith respect to litigation, the fact that we can get an answer that\nstymies the irreparable harm that is currently ongoing right now is\n### Justice Jackson:\nNo, but why did you come to us? You're already before the D.C. Circuit.\nAnd my question is, if you're suffering because you're spending money\nrelated to compliance with the rule that you're challenging, why didn't\nyou ask the D.C. Circuit to move quickly in rendering its ruling agreeing\nwith you that the rule is invalid?\n### Mathura J. Sridharan:\nWell, Your Honor, I am not going to get too far into some of the\nconsiderations that went into it, but the most important one is that we\nwanted a rule that affects the entire country to be addressed in -- in the\nfirst instance as quickly as possible so that we can avoid the sorts of\nirreparable harm that we are currently suffering.\n### Justice Jackson:\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 23,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\n### Mathura J. Sridharan:\nThank you.\n### Chief Justice Roberts:\nMs. Stetson.\n### Catherine E. Stetson:\nMr. Chief Justice, and may it please the Court: EPA's authority under the\nGood Neighbor provision is limited to regulating a state's emissions\nthat contribute significantly to downwind non- attainment. If EPA is\nregulating beyond that authority, it is regulating beyond the statute.\nMs. Sridharan has explained the deficiencies in a broken rule in which 90\npercent of power plant emissions, 75 percent of total emissions, have\nbeen taken out of the plan. But the Court also asked whether the\nemissions controls in the rule are reasonable regardless of the number\nof states that are involved. The answer is no for three primary reasons.\nFirst, the rule selectively ignores EME Homer's cost -effectiveness\nframework. Second, the rule over- controls across a number of\nindustries. And, third, the rule imposes an impossible compliance\ntimeline that will result in reliability issues across the country. I\nwelcome the Court's questions.",
+      "questions": []
+    },
+    {
+      "conversation_id": 24,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nI think one of the concerns we have is that so much of this seems to\ndepend on the interdependence of the 23 states and what happens if\nsome of the states are excluded. So let me ask it in a different way. Could\nEPA have accomplished the exact same thing by reg ulating the states\nindividually as opposed to in a --as a interdependent group?\n### Catherine E. Stetson:\nIt could not have accomplished the exact same thing,\n### Justice Thomas:\n, to\nthe extent that it would have to show, when you say \"exact same\nthing,\" that the outcome, the cost threshold and so forth, would be the\nsame across 11 states. But, to your question of Ms. Sridharan, I think the\nissue that you were looking for is evidence about what EPA did, and I\nwant to point you to 88 Federal Register 36741. Excuse me. \"When the\neffects of\" -- I'm quoting. \"When the effects of these emissions\nreductions are assessed collectively across the hundreds of EGU and\nnon- EGU industrial sources that are subject to this rule, the cumulative\nimprovements in ozone levels at downwind receptors, while they may\nvary to some extent, are both measurable and meaningful.\" That is the\nbest example of the collective question that EPA asked itself and\nanswered. Now, you know, Justice Sotoma yor, you asked the question\nabout cost and whether the obligations, for example, in Ohio would be\nthe same. But I think the question here is -- goes back to what this\nCourt approved in EME Homer. It's not just a question about whether\nEPA can regulate something that is inexpensive, potentially\ninexpensive. It's not a question about whether EPA can regulate\nemissions. It's a question about whether EPA has appropriately\ncalculated what it calls that knee in the curve, the point where the\nemissions contribution to a downwind state is controlled at a\nreasonable cost level. So I think the exchange that you had with Ms.\nSridharan about where that cost issue comes from has to do with the\nquestion about, if you've got 23 states and all of their EGUs and all of the\nnon -EGU sources that are linked into this rule all feeding into that cost\nquestion, what happens if you take out the states where maybe you can\ncontrol those costs most cheaply and you're left with states th at\nactually have much higher cost thresholds to impose on industries or on\nEGUs? That changes the cost calculus. It also changes, of course, the",
+      "questions": []
+    },
+    {
+      "conversation_id": 25,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nIs that in your brief?\n### Catherine E. Stetson:\nYes, it is.\n### Justice Kagan:\nWhere --where is that?\n### Catherine E. Stetson:\nWhen -- when we discuss the 23 -state question. You can look at pages\n11 to 13 of the Kinder Morgan brief. You can look at pages 18 to 20 and 4\nto 9 of the reply. And all of those go to this question about that\ndifference between 23 and 11. But I want to bring home the point with a\n### Justice Kagan:\nI guess -- I guess my reaction is a little bit the same as -- that I -- I gave\nto Ms. Sridharan, is, I mean, this is at such a higher level of generality\nthan you're making the same argument now. You know, our briefs do\nnot really address this very complicated cost argument.\n### Catherine E. Stetson:\nI think, Justice Kagan, the --the cost argument, while --while some of\nthe metrics, I think, are complicated, things like ozone modeling and so\nforth, the -- the bottom line is actually not that complicated. The\nbottom line is what EPA was supposed to do under the Good Neighbor\nprovision was to figure out, as it said in EME Homer and as it said it was\ndoing here, where is that cost threshold. That word, \"cost threshold,\" if\nyou go back and look at the rule in EME Homer, appears 185 times. But\nwhat the Court did -- what -- what the EPA did here with respect to\nnon- EGUs in particular is to look at the question about average costs,\nwhich is a completely different issue. Average cost is just how much do\nthese emissions control cost? Does that seem like a reasonable number?\nOkay, we'll apply them and see what emissions controls exist\n### Justice Kagan:\nI mean, the only point I was making --and I don't want to push you too\nhard on this because it's not your fault this is coming in a weird posture.\nI -- I don't even seem the term \"cost threshold\" on these pages.\n### Catherine E. Stetson:\nI think the term \"cost threshold\" is -- is in the EPA's brief. It's a\nfundamental question about the way that EME Homer exists. If you look\nat the Kinder Morgan brief, there's a separate discussion of costs that I\nthink is particularly relevant to this. There are two different strands, I\nthink, that we're chasing here. One of them has to do with the 23 versus\n11 question, what happens when you take 12 states out. The other\nquestion has to do with how EPA went about calculating costs. And I\nthink I was moving from that first question to the second.",
+      "questions": []
+    },
+    {
+      "conversation_id": 26,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nOn -- on that first question, this discussion that you're having now, I\nthought the broader point was EPA was told the SIP disapprovals were\ngoing -- were problematic and were going to be problematic and could\nbe unlawful. And EPA responded, you know, no, they're not, but even if\nthey are, we don't care, it's severable. That's a fine response if they then\ngo on and explain why it still works if it's severable, but that's goose\negg. They don't have an explanation there.\n### Catherine E. Stetson:\nIt -- it is a goose egg. Page 36693 of the Federal Register contains the\nentirety of -- of what we'll call reasoning.\n### Justice Kavanaugh:\nSo all this discussion about the cost threshold, that's what they should\nhave explained if they're going to make the point, which is a big one,\nhey, even if 12 states drop out, who cares, because it still works. Okay.\nShow us how -- to",
+      "questions": []
+    },
+    {
+      "conversation_id": 27,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\n's question, show us how it works.\nBut that's -- that's their burden, I think, to show --to justify -- to not\nbe arbitrary and capricious.\n### Catherine E. Stetson:\nYes. And, in fact, if you look at that page that I just cited, 36693, what\nyou'll see is it says, \"Should any jurisdiction- specific aspect of this rule\nbe found invalid, the EPA views the rule as severable. Should any\nindustry- specific rule be found invalid, the EPA rolls this rule -- views\nthis rule as severable.\" This is not intended to be an exhaustive list.\n### Justice Sotomayor:\nI'm sorry, whose burden -- that may be their burden below. But the\nburden here as I understand it is on you to show this. And we go back to\nwhat Justice Kagan said. I read the -- I read these applications pretty\ncarefully, and I didn't understand this cost argument at all. And I'm\nreally simplistic. I don't have a math degree, all right? If you're sharing\ncosts among 23 people, your cost is going to be less. If you' re sharing\ncosts among 11 people, your cost is going to be more. So, since this plan\ndoesn't change any allocations depending on the number of people who\nare in it, states are bound by the number that was calculated on the\nlarger group, how are the remaining states affected by the fact that\ntheir cost should have been higher, but it's not because it's been fixed at\nthis lower number?\n### Justice Sotomayor:\nI'm very simplistic. You know, cost divided by 23 is always less than cost\ndivided by 11 if your cost is going to stay constant.\n### Catherine E. Stetson:\nThat's the question, though. And -- and I think,\n### Justice Sotomayor:\n, the\nBut does it matter? Meaning, if you're paying less on the wrong number\nbecause it was divided by 23, how could it be that on 11 your cost is ever\n### Catherine E. Stetson:\nJustice Sotomayor, I -- I think so much of it has to do with the states\n### Justice Sotomayor:\nNo. My point is, once the states drop out, it doesn't matter what your\nresponsibility is because the cost is going to remain the same given the\nnature of this plan. They're not changing the cost once they've\ncalculated the responsibility of the 23.\n### Justice Sotomayor:\nIf 12 are not paying it, what does it matter to you?\n### Catherine E. Stetson:\nwas calculated where it was because EPA looked at the aggregate costs\nof controls over that --that Federal Register cite that I read you,\nhundreds of EGUs across all of the states, hundreds of industries' units\nacross all of the states. It figured out what that aggregate cost was and\nthen it decided to allocate obligations. So we keep talking about the end\nof that process, what --what obligations would change on a state based\non taking some states out.\n### Justice Sotomayor:\nIt seems to me that if the aggregate is contributing to something and\nthere's a certain amount of people who for whatever legal reason have\nbeen taken out of the calculus, why should you pay for them or not pay\nfor them if the problem is a national one really, not an individual one?\n### Catherine E. Stetson:\nI think, Justice Sotomayor, that that's actually EPA's argument, is that,\nyou know, it -- it makes sense to impose these emissions controls\nacross these industries because it will result in what EPA calls\nmeaningful reductions. Now I'd encourage you to look at page 36743\nand 36747 to figure out exactly the scope of those meaningful\nreductions of the '88 Federal Register final rule. What we're talking\nabout when it comes to meaningful reductions is on the order of a total\nof .66 parts per billion averaged across all of these receptors. Now\nthere's a bigger number involved. That number is, if you add all of the\nreductions from the receptors from Arizona to Connecticut and you add\nthem up, then you get a bigger parts per billion number, but that's like\nticketing me for speeding if I exceed the speed limit one mile per hour in",
+      "questions": []
+    },
+    {
+      "conversation_id": 28,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nMs. Stetson -- oh, I'm sorry. I wanted to talk about a different kind of\ncost. I just want to talk about the costs that you have incurred thus far\nbecause the rule has been in effect, right, and part of your argument for\nemergency relief is the crushing costs and the risk of, you know, energy\ndisruption, et cetera. What has been happening so far?\n### Catherine E. Stetson:\nJustice Barrett, the industries that I represent have been incurring costs\nto try to start permitting, compliance, all sorts of issues involving the\nrun- up to installation of these controls. But let me pause on this\nbecause I think it also responds to a question,",
+      "questions": []
+    },
+    {
+      "conversation_id": 29,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\n, that you\nasked, which is we -- we don't need to show in this posture cert\nworthiness. Nor do we need to show,",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 30,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\n, you know, that this\nis an emergency. What we need to show is for a stay that we have a\nlikelihood of success on the merits and irreparable harm.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 31,
+      "dialogue": "Justice Barrett",
+      "questions": []
+    },
+    {
+      "conversation_id": 32,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nasked Ohio's counsel\nabout whether there have been these kinds of disruptions to this point.\n### Catherine E. Stetson:\nSo let me answer the cost question and the disruption question if I can.\nThe first on the cost is, if you look at the declarants particularly with\nrespect to the pipelines, you'll find explanations about what costs they\nhave to incur in the next 12 to 18 months in order to stay in compliance\nwith this timeline that we have pointed out is completely unreliable, in\naddition to all of the other problems that we talked about. But, on the\nquestion of irreparable harm in another respect, you know, what we are\ntalking about is also the question of immediate reliability issues, and if\nyou look at the Brown declaration attached to the American Forest &\nPaper stay application, you'll find that in the summer of 2024, he\nanticipates significant reliability problems because of some immediate\nchanges that need to be made to a particular plant that is a critical",
+      "questions": []
+    },
+    {
+      "conversation_id": 33,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\n### Chief Justice Roberts:\nJustice Thomas, anything?",
+      "questions": []
+    },
+    {
+      "conversation_id": 34,
+      "dialogue": "Justice Alito\n### Justice Alito:\n? Justice Sotomayor? Justice\nKagan?",
+      "questions": []
+    },
+    {
+      "conversation_id": 35,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nYeah, I have a question. Why haven't you asked the D.C. Circuit to\nexpedite their review? I mean, if you're suffering the harms that you're\ntalking about and you're pending before that court, I guess I'm still\nconfused as to why we are the ones who are being asked in the first\ninstance to look at this.\n### Catherine E. Stetson:\nJustice Jackson, we -- we did move for expedited briefing. We were not\ngiven the briefing schedule that we wished.\n### Justice Jackson:\nI thought you moved for a delay in briefing until after this Court had\ndecided.\n### Catherine E. Stetson:\nWe initially sought expedited briefing. We did not get the schedule we\nwished. After the Court granted argument in late December, we asked\nfor a delay in order to impose some order on the process between this\nCourt and that court.\n### Justice Jackson:\nAll right. Well, let me ask you about your representations that you just\nhave the sort of same ordinary stay burden in this situation. I mean,\nsurely, the Supreme Court's emergency docket is not a viable alternative\nfor every party that believes they have a meritorious claim against the\ngovernment and doesn't want to have to comply with a rule while\nthey're challenging it. It seems to me that even just sort of irreparable\nharm, as we've defined it, is insufficient to have the Supreme Court ask\naddressed by the lower court. So can you help me to understand what\nthe burden should be in this very unique situation?\n### Catherine E. Stetson:\nThe burden should be exactly what this Court described in Nken versus\nHolder, Justice Jackson.\n### Justice Jackson:\nBut, in Nken versus Holder, was that a situation in which the lower court\nhad not yet even ruled at all on the merits of the claim?\n### Catherine E. Stetson:\nIt was a situation in which the order of an agency came up to this Court\nin a -- in a posture of a stay motion. Or, actually, I think, that court\n### Catherine E. Stetson:\nYeah.\n### Justice Jackson:\nThis is a situation in which you have filed a claim in a lower court, you're\nSupreme Court to essentially give a preview of its view of the merits.\nAnd I think that's quite extraordinary, and I'm trying to understand\nwhether the same burden should apply on an applicant in that situation\nand one in which we at least have a lower court ruling that you could\nshow us and say: These people have made a mistake. We don't have that\nhere.\n### Catherine E. Stetson:\nJustice Jackson, what we have is an agency order in which we are saying\nthis agency made a significant mistake, in fact, several of them that are\nfault lines throughout the agency order. That is exactly what was at\nissue in Nken. If you look at Footnote 1 of Nken, what the Court says\nthere is --and -- and a question about staying an administrative order\nis just like a question about staying a judicial opinion. You are staying\nthe source of the authority to act until the Court has an opportunity to\nconsider it further.\n### Justice Jackson:\nThank you.\n### Catherine E. Stetson:\nNow, even if --if I could just finish?\n### Justice Jackson:\nYes.\n### Catherine E. Stetson:\nEven if there is some more toothsome standard that applies in this\ncircumstance, the fact that this is a national rule or purported to be a\nnational rule and costs as much as it costs, billions of dollars in\ncompliance over the next 12 months, I think is reason enou gh.",
+      "questions": []
+    },
+    {
+      "conversation_id": 36,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\n### Catherine E. Stetson:\nThank you.\n### Chief Justice Roberts:\nMr. Stewart.\n### Malcolm L. Stewart:\nThank you, Mr. Chief Justice, and may it please the Court: I'd like to\nmake three quick points at the outset.\nFirst, with respect to the interests of the state applicants, I think it's\nimportant to bear in mind that at this stage of the proceedings, there\nare a lot more states on our side than there are on theirs, and it's vital to\nbear in mind the equities of the downwind states because that's the\nwhole point of the Good Neighbor provision of the Clean Air Act and the\n\"Good Neighbor Plan\" that the EPA implemented.\nAnd when we think about the interests of the downwind states, it's\nnatural to think first of their humanitarian interest in the health and\nwell-being of their residents. But the downwind states that are out of\nattainment also have a legal obligation to come into attainment by\ndeadlines specified by the statute.\nAnd to stay the rule in its entirety based on some theoretical possibility\nthat the contours of an 11-state rule might have been somewhat\ndifferent if EPA had anticipated all the stays would be terribly unfair to\nthe downwind states.\nThe second point is that in addition to the severability language that\nJustice Kavanaugh refe rred to, EPA in the preamble said that it was\nreserving judgment on whether several additional states should\nultimately be included in the plan.\nIt said that if any of the 23 states that were currently included devised\ncompliant SIPs, they could be taken out of the federal plan.\nAnd so EPA anticipated from the outset that the plan was one whose\ngeographic composition could change.\nAnd EPA devised the requirements for each state in order that they\nwould be workable if a smaller or a larger set of states were ultimately\ncovered.\nAnd then the last thing I would say is it's true that the federal plan is not\ncurrently providing the air quality benefits that EPA had hoped because\nthe stays of the SIP plan disapprovals mean it's only reducing emissions\nfrom 11 states rather than 23.\nBut, for those 11 states, the requirements that are imposed on sources\nare exactly the same as would have been imposed on sources in those 11\nstates if the full plan had been implemented.\nAnd the -- the applicants have suggested that it's -- it's possible that\nthe benefits associated with those requirements might have been\ndifferent if EPA had known that only 11 states would have been included.\nBut there's no reason to think that that's so.\nAs we look at it, the difference between three and zero is the same as the\ndifference between 10 and seven.\nthe 11 states are only delivering 30 percent of the benefits, they're still\ndelivering that -- that same quantum of air quality benefit.\nI welcome the Court's questions.",
+      "questions": []
+    },
+    {
+      "conversation_id": 37,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nMr. Stewart, was there any weight put on the interdependence of the 23\nstates as far as the benefits of the plan and the cost to the individual\nstates?\n### Malcolm L. Stewart:\nI think, when they refer to interdependence, they're --they're referring\nto kind of three topics that were discussed in the preamble.\nThe first was EPA took pains to point out that although it was engaging\nin a complicated inquiry to decide what emission controls could be cost\n-effectively imposed on different types of industrial sources, in the end,\nit was placing the same requirements on all of the covered states; that\nis, to do equity, it was saying that power plants in Indiana need to come\nup to the same standard as power plants in Texas. And so, in that sense,\nthe plan was interdependent in that EPA wanted the same restrictions",
+      "questions": []
+    },
+    {
+      "conversation_id": 38,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you. Just if I could interrupt.\nWhat -- what's the smallest state among the 23? The smallest state in\nterms of emissions?\n### Malcolm L. Stewart:\nI -- I'm not sure.\n### Chief Justice Roberts:\nWell, assume it's the smallest state.\n### Malcolm L. Stewart:\nOkay.\n### Chief Justice Roberts:\nWould -- would you have undertaken this program if only that state was\ninvolved?\n### Malcolm L. Stewart:\nWe -- we -- if --if only the state was involved, we might have not have\nthought it was worth the tro uble to undertake such a comprehensive\ninquiry.\nNow, if all -- if 22 of the states had submitted compliant plans and only\none was left, EPA would still have had a statutory obligation to\n### Chief Justice Roberts:\nOkay.\nIt's hard to stop you sometimes.\n(Laughter.)\nIf the current plan with the current number of states involved regulates\n11 percent of the EGU emissions that you anticipated with the 23 states,\nwould you have gone ahead with that?\n### Malcolm L. Stewart:\nI man, we would certainly -- again, if there had been any states, even\none, with non -compliant plans, EPA would not only have had the\nauthority but a statutory obligation to promulgate a federal plan for\nthat state and to promulgate a federal plan that it thought would ensure\nthat sources within the state didn't contribute significantly to\ndownwind non-attainment. And when I said earlier maybe if it was only\na smaller set of states involved, EPA would think as a matter of\ncost/benefit analysis it's not worth doing the whole enormous inquiry,\n### Chief Justice Roberts:\nOkay.\nGot it.\n### Chief Justice Roberts:\nI got it.\nI got it.\n### Malcolm L. Stewart:\nOkay.\n### Chief Justice Roberts:\nNow, when -- if -- if you prevail here, when will EPA address the\nquestion that's raised about whether or not the fact that it's a reduction\nin terms of the number affected and a reduction in the number of states,\nwhen will EPA sit down and address that, and when --when will they\ngive an explanation rather than the litigants here?\n### Malcolm L. Stewart:\nI don't think that they have any plan to do that, first of all, because\nwhatever they might have done if they had been studying only 11 states\nat the outset, now that they've done the whole analysis, there would be\nno reason for them not to use what they fou nd in\n### Chief Justice Roberts:\nIt's something new that you only regulate 11 percent.\nAnd in terms of why it's necessary to look at this here, if you think it's an\nimportant question, it's because EPA will not look at it until after the\nhundreds of millions of dollars of costs are incurred.\n### Malcolm L. Stewart:\nI think part of the reason that we won't look -- look at it is that the\nground is still shifting; that is, EPA earlier in the year proposed to\ndisapprove the -- the plans of several additional states, which, if that\nultimately went forward as the -- the final decision, would result in the\naddition of those states to the plan.\nWe had a ruling from the Tenth Circuit at the end of the day on Friday\nsaying that that proceeding is being transferred to the D.C. Circuit, and\nthat could result in Utah and Oklahoma being put back into the federal\nplan.\nSo part of the reason it wouldn't make sense for EPA to do a sort of\nground-up inquiry is that, just as it was getting done with that, it might\nhave a new geographic composition to deal with.",
+      "questions": []
+    },
+    {
+      "conversation_id": 39,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nBut it could have --in response to the comments that said the SIP\ndisapprovals were going to be problematic, EPA could have come back\nand said: Well, if some of the states are knocked out, the requirements\nwill still be the same even if there are only 15 states or even if there are\nonly 10 states because and kind of explained that reasoning.\nThat is, as I understand it, absent. And the problem is we're not sure if\nthe requir ements would be the same with 11 states as with 23.\nAnd -- and it's just not explained.\n### Malcolm L. Stewart:\nI -- I -- I think the comments were raised at kind of a lower level of\nspecificity than -- than you might imagine. That is, there were\ncomments to the effect that your federal plan is in trouble because valid\nSIP disapprovals are a condition precedent to the federal plan and the\nSIP disapprovals were bad.\nAnd to -- to a point, those commenters have been vindicated.\nThat is, several states have obtai ned stays of their SIP disapprovals, and\n### Justice Kavanaugh:\nBut -- but, when the EPA came back, EPA said severability.\nSo EPA understood the comment.\n### Justice Kavanaugh:\nEPA understood the comment and came back and said, even if we have\nfewer states, we're going to plow ahead anyway, and then the question I\nthink that's raised is why and how.\n### Justice Kavanaugh:\nAnd that's just kind of pretend nothing happened, just go ahead with\nthe 11 states in this instance.\n### Malcolm L. Stewart:\nI think EPA understood the comment to be, to the extent that your SIP\ndisapprovals are challenged and either stayed or ultimately struck\ndown, your federal plan will be less effective.\nI don't think any commenter was saying specifically, if some disapprove\ncapricious as to the o ther states.\n### Justice Kavanaugh:\nThe plan will become unworkable.\nThe cost, the requirements might change.\nAnd when EPA comes back, it doesn't explain anything on that.\n### Malcolm L. Stewart:\nI mean, we -- we know that the --the requirements don't change.\nThat is, EPA imposed equivalent requirements on different -- on power\nplants, on steel industry sources, on pipeline engines, with respect to\nindustrial facilities in the same source category that are located in\ndifferent states.\nEPA imposed exactly the same requirements.\nAnd the requirements that are imposed on sources in Indiana and Ohio -\n- West Virginia is out for now because they got a stay -- but, in Indiana\nand Ohio, they're exactly the same as they would have been under an 11-\nstate plan. The -- the only argument that the applicants have is that\nmaybe imposition of those requirements on the same sources in the 11\nstates will produce lower air quality benefits downwind now that it's\nonly the 11 states.",
+      "questions": []
+    },
+    {
+      "conversation_id": 40,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nMr. Stewart?\n### Malcolm L. Stewart:\nYes.\n### Justice Gorsuch:\nJust a couple of simple questions.\nHow often does EPA use a severability provision like this? My --my\nunderstanding, and it -- and I just -- is it's very rare, it's a handful of\ntimes in the last 10 or 15 years out of the thousands of rules it's\npromulgated.\nIs that right?\n### Malcolm L. Stewart:\nI -- I don't know how often they do it generally, but I do know that it is -\n- it's been a recurrent feature of these sorts of \"Good Neighbor\" plans\n### Justice Gorsuch:\nAm I right, though, that it's only a handful of times over the last 10 or 15\nyears?\n### Malcolm L. Stewart:\nI -- I would be surprised if it's only a handful, but I don't have\n### Justice Gorsuch:\nI found an article that said between 2000 and 2014 it was seven times.\nIs that -- do -- do you --do you have any other information?\n### Malcolm L. Stewart:\nI don't --I don't have any other evidence, but I -- I think, even with that\n### Justice Gorsuch:\nOkay, okay, okay, okay.\nOkay.\nMy other simple question is, could -- could EPA have done this on a\nstate-by-state basis? I mean, when a SIP is -- fails, the obligation\nstatutorily is for EPA to come up with a federal plan.\nWas that an option that -- that it considered?\n### Malcolm L. Stewart:\nI mean, in a sense, they did do that.\n### Justice Gorsuch:\nNo, no, I'm -- they -- they did a 23 -state plan.\nOkay.\n### Justice Gorsuch:\nSo I'm just asking, did they consider doing a state-by-state plan?\n### Justice Gorsuch:\nYes or no?\n### Malcolm L. Stewart:\nYes.\n### Justice Gorsuch:\nOkay.\nAnd -- and why didn't they do that?\n### Malcolm L. Stewart:\nAnd they did it.\n### Justice Gorsuch:\nWell, all right.\n### Justice Gorsuch:\nI -- I -- I -- we're talking past each other.\nWe have a 23-state plan that I understand has state by state.\nI get that.\nI'm just wondering, did they -- did they consider doing that without\nrespect to the 23 states as a -- as a -- as --as a collective?\n### Justice Gorsuch:\nYes, that is my question.\n### Malcolm L. Stewart:\nPart of the reason they didn't do it is that they thought by making it an\noverall federal plan, the trading program for the power plants would be\neasier to administer, it would be easier for power plants in -- to trade\nemission allowances with power plants.\n### Justice Gorsuch:\nGot it.\nGot it. Thank you.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 41,
+      "dialogue": "Justice Alito\n### Justice Alito:\nSuppose they had done it state by state and had -- let's take Ohio as an\nexample -- had done the cost/benefit analysis for Ohio separately and\nin isolation.\nIs there -- would the requirements that the state now faces be the\nsame?\n### Malcolm L. Stewart:\nI think there's every reason to think that there would be.\nI don't say -- think I could say that 100 percent, but I think part of what\nis threatening about the -- the applicants' position is that the\napplicants haven't made an attempt to -- to offer a nuanced showing\nalong those lines.\nThey haven't done their analysis and said: Given where we are now, the\nfollowing modifications of the plan would be appropriate.\n### Justice Alito:\nWhat I understand you to be saying is that it might -- the math might\nturn out the same, but it wouldn't necessarily turn out the same.\nIs that --that's basically what you're saying?\n### Malcolm L. Stewart:\nYes, that's right. And -- and, certainly, what we have now is a closer\napproximation to what an 11-state would have --plan would have\nlooked like than zero is.\nAnd what the applicants are asking for is zero, and that isn't an option\nthat EPA could have chosen as a matter of statute.\nEPA w as obligated as a matter of statute to promulgate some plan for\neach of the states that it found had failed to devise compliant SIPs.",
+      "questions": []
+    },
+    {
+      "conversation_id": 42,
+      "dialogue": "Justice Kavanaugh",
+      "questions": []
+    },
+    {
+      "conversation_id": 43,
+      "dialogue": "Justice Alito",
+      "questions": []
+    },
+    {
+      "conversation_id": 44,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nGo ahead.",
+      "questions": []
+    },
+    {
+      "conversation_id": 45,
+      "dialogue": "Justice Alito\n### Justice Alito:\nA simple question. The severability rule in the D.C. Circuit as I\nunderstand it is that it's presumptive, right? It's not conclusive.\nare interrelated and so that the presumption is overcome.\nWhy wouldn't that be true here?\n### Malcolm L. Stewart:\nWell, I --I think partly because the severability inquiry in the D.C. Circuit\nkind of as I understand it has two prongs.\nThe first is did the agency intend the rule to be severable along\nparticular lines, and, second, if the agency intended it, can what remains\nfunction sensibly as its own rule.\nAnd, here, we know that EPA intended it to be severable.\nThe -- the other thing I would say about the possible rarity of express\nseverability provisions is it's been a recurrent feature of these plans that\nplans -- states would drop in and out, EPA might promulgate a revised\n\"Good Neighbor Plan\" and some of the states would be included in the\nrevised plan and some would stay in the original plan.\nSo it was just understood as a feature of this type of rulemaking that\nwhen the composition of the plan changed, the requirements imposed\non the remaining states would not change.\nEPA decided in this rulemaking to make that statement explicit, to say\nEPA regarded it as severable along geographic lines.\nAnd that at least pretermitted inquiry -- any inquiry as what --as to\nwhat EPA intended the rule to be, but that's always been understood to\nbe the rule even when EPA doesn't say that explicitly.",
+      "questions": []
+    },
+    {
+      "conversation_id": 46,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nSo, Mr. Stewart, can I ask you just about their challenge? And I'm trying\nto understand it because the rule was enacted originally with 23 states.\nAnd was there a challenge at that point about the number of states\noriginally, when it first was ena cted?\n### Malcolm L. Stewart:\nI -- I don't -- there were challenges to the antecedent SIP disapprovals,\nand many of the states said we should not be under any \"Good Neighbor\nPlan\" because --or in -- under any new \"Good Neighbor Plan\" because\nwe are already doing enough to ensure that our sources don't con\ntribute significantly.\n### Justice Jackson:\nSo there was a possibility they could be out?\n### Malcolm L. Stewart:\nThere was a possibility and -- and those -- those comments and those\nchallenges were really brought during the SIP disapproval process.\nThey were not brought as -- necessarily as challenges to the -- the\nfederal plan.\n### Justice Jackson:\nThe rule.\nAnd I guess I'm -- I'm -- I'm trying to understand the interaction\nbetween a challenge being brought when the rule is enacted and\nsubsequent developments like judicial stays and how we think about\nthat in terms of the ground shifting and whether they can even -- it's\neven judicially cognizable in this way.\n### Malcolm L. Stewart:\nYes, you -- you would think that once the rule is promulgated, once it's\nsomebody thinks provide good cause for EPA to reconsider what it's\ndone, we think it's a requirement as a matter of justiciability that a\n### Justice Jackson:\nRight, because we -- we ordinarily would say, like, the agency can't\nsupplement its reasons after the fact.\nWe look at the rule at the time it's enacted and we determine whether or\nnot there were promulgation problems, right?\n### Malcolm L. Stewart:\nExactly.\nAnd we think, first, that's a solid basis for finding a claim to be\nnonjusticiable.\nBut, even if the Court doesn't agree with that, we think the f act that it is\na kind of based on subsequent events should inform your consideration\nof the merits. That is, it should be the burden of the applicants to say\nfairly precisely here is why the diminution of geographic coverage",
+      "questions": []
+    },
+    {
+      "conversation_id": 47,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nMr. Stewart, on that point, so as I understand it, EPA originally proposed\na 23-state solution, got some comments back saying it's not going to be\n23 states, it might be something less than that.\nIt came back with a severability provision that effectively says instead of\na one -- a one 23-state solution, we're going to have -- 64 23 solutions.\nAnd nobody got an opportunity to comment on that.\nAnd so part of the problem, it seems to me -- what -- all these\ndiscussions about what does it mean when we have this applied to\nindividual states, some subset of 23, is because nobody got a chance to\ncomment on that.\nNow you might say it's a logical outgrowth, but it's a very different\nthing to say we have 23 plans as opposed to one plan. And all of these\narguments, nobody had a chance to have comment on.\nWhat -- what do you say to that?\n### Malcolm L. Stewart:\nI guess part of what I would say is what I referred to earlier as the -- the\nhistorical or legal backdrop; that is, it had tr aditionally been the case\nthat the geographic composition of these plans would change, some\nstates would drop out, some states might be added.\nIt was understood that a state could always get out of a federal plan for -\n- by\n### Justice Gorsuch:\nWell, I'm not -- I'm going to push back on that just a little bit because,\noriginally, it was a 23-state solution. Then you got comments that said:\nAh, some are going to fall out.\nAnd the response was a severability provision, as",
+      "questions": []
+    },
+    {
+      "conversation_id": 48,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\npointed out, without a whole lot of explanation, and nobody got a\nchance to comment.\nI mean, what do you say to that, just to the point of the APA is all about\nan opportunity to be heard, and nobody got a chance to be heard on the\npossibility that you're going to apply this -- this formula to one small\nstate potentially, the same formula that was dependent upon an\nanalysis of an aggregate of 23?\n### Malcolm L. Stewart:\nI think I would say people had a chance to comment -- to make\ncomments to the effect of, if some states drop out, the plan will become\narbitrary and capricious or will need to be rethought as to the remaining\nstates.\nBut nobody was making that comment. People were making the -- the\nvalid comment that for any particular state, the legitimacy of -- of\napplying the FIP depended on a valid SIP disapproval.",
+      "questions": []
+    },
+    {
+      "conversation_id": 49,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nThey still could have filed a motion for reconsideration, -- 66 correct?\n### Justice Sotomayor:\nThat's the avenue when you're not given an opportunity to publicly\ncomment.\n### Malcolm L. Stewart:\nAnd that would be the time at which you could say, at least for now, here\nis the class of states that are out, and so you, EPA, rather than comment\non, as Justice Kagan was pointing out, what would happen in the\npossibly millions of permutations of some states being in or out, at that\npoint, they could have said to EPA: These are the specific states that are\nout.\nWe don't think the plan makes sense as to the remaining states.\n### Justice Sotomayor:\nMr. Stewart, could",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 4/10",
+      "complexity_score": 4
+    },
+    {
+      "conversation_id": 50,
+      "dialogue": "Justice Alito",
+      "questions": []
+    },
+    {
+      "conversation_id": 51,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nI'm sorry.",
+      "questions": []
+    },
+    {
+      "conversation_id": 52,
+      "dialogue": "Justice Alito\n### Justice Alito:\nGo ahead.",
+      "questions": []
+    },
+    {
+      "conversation_id": 53,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nCould you succinctly state for me what are the common features in this\nplan to all 23 states?\n### Justice Sotomayor:\nBecause, as I looked at the plan, certain states were exempted out\nbecause they were already meeting their emission control goals.\nCertain states the EPA determined would be out of it at a certain point in\ntime but not initially.\n### Justice Sotomayor:\nSo it was very individualized in many ways.\nSo tell me what wasn't.\n### Malcolm L. Stewart:\nI think --most of it I -- there were initial determinations about which\nstates should be included, but with respect to the states that were\nincluded, the --the requirements were --were almost -- were mostly\nuniform; that is, in 2024 and 2025, the plan would only impose new\nrequirements on power plants, electric -generating units, and for the\nmost part, during those years, those requirements would simply be that\nthe power plants operate their existing controls to the maximum\nextent.",
+      "questions": []
+    },
+    {
+      "conversation_id": 54,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nJustice Thomas? Justice Alito?",
+      "questions": []
+    },
+    {
+      "conversation_id": 55,
+      "dialogue": "Justice Alito\n### Justice Alito:\nWell, just two very simple questions.\nHad there been a motion for reconsideration by the EPA, would there\nhave been any deadline for the EPA to rule on that?\n### Malcolm L. Stewart:\nThere -- there was one -- there were two motions raising this issue.\nOne was a motion for reconsideration filed by U.S.\nSteel, which raised this issue and also raised a pretty complicated set of\ntechnical challenges specific to the steel industry.\nAnd there was another filed by AFPA styled a motion to stay that also\nraised the 11 versus 12. There is no deadline.\nThere is a mechanism for arguing that EPA has unreasonably been --has\nunreasonably delayed, but that hasn't been invoked.\n### Justice Alito:\nOkay.\nThe other question has to do with the fact that this is an emergency\napplication.\nWe now receive many applications for stays.\nSometimes your office seeks a stay.\nSometimes your office opposes a stay.\nWhat is your office's position on the question whether in this context\nwhat the stay applicant must show is some sort of super-irreparable\nharm? Is the applicant required simply to show irreparable harm, or is it\nrequired to clear some much, much higher threshold?\n### Malcolm L. Stewart:\nI -- I don't think that there is any requirement that it clear a higher\nthreshold, but I think in balance -- just showing irreparable harm is -- is\nnot enough, particularly if there are countervailing harms on the other\nside.\n### Justice Alito:\nNo, I --I understand that.\n### Malcolm L. Stewart:\nAnd the other point I'd make about the stay they are seeking is that they\nreally want a stay that will operate as a tolling principle.\nAnd by that, I mean if -- if the Court issued a stay tomorrow and then\ntwo years went by and we won in the D.C. Circuit and this Court denied\ncert and then the stay was vacated in February of 2026, the usual\nconsequence of vacating a stay would be that regulated parties would\nthereafter be subject to all the same legal requirements as they would\nhave been if no stay had ever been issued.\nBut that's not what they want.\nWhat they want, a rule is -- is a rule that says, if that happens, then all\nthe compliance deadlines in 2026 and thereafter will be extended by\ntwo years in light of the fact that a stay had been effect in two years.\nAnd so that would delay the operation of the most stringent",
+      "questions": []
+    },
+    {
+      "conversation_id": 56,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nAll right. Thank -- thank you.\n### Chief Justice Roberts:\nThank you, counsel.\nJustice Sotomayor?",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 1/10",
+      "complexity_score": 1
+    },
+    {
+      "conversation_id": 57,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\n?\nYeah.\nI'm just wondering, Mr. Stewart, you know, how often this kind of thing\ncomes up.\nYou know, there are a lot of NAAQSs, a lot of air pollutant standards,\nand, presumably, there's a kind of constant evaluation by the EPA of\nhow to adjust those standards and then what SIPs are -- what SIPs need\nto change and if -- if a FIP is necessary. And this seems like a pretty\nregular part of the EPA's business and maybe a regular part of the D.C.\nCircuit's business because that's true.\nAnd I'm -- I'm wondering if you would just say, is --is --is there\nsomething unusual about this case?\n### Malcolm L. Stewart:\nI -- I mean, one of the ways in which this case is very different from EME\nHomer is that in EME Homer, you had the same pattern of EPA rejecting\n20-some state plans and then implementing a federal plan, and there\nwere a very wide array of challenges to the federal plan in EME Homer.\nThey went through the D.C. Circuit.\nThey got up to this Court.\nThere -- there was very little litigation about the antecedent SIP\ndisapprovals.\nAnd so I think that that's one of the -- the unusual features of this case\nin comparison to prior cases involving Good Neighbor Plans.\n### Justice Kagan:\nSo there hasn't been -- there --there haven't been other\ncircumstances in which this exact question has come up?\n### Malcolm L. Stewart:\nRight.\nI think, in the EME Homer context, there were three challenges to SIP\ndisapprovals, and I don't know that any of them were ultimately\nresolved in the -- on the merits.\nAnd so there -- there wasn't this situation where preliminary orders\nentered in the SIP disapproval litigation caused people to argue about is\nthe plan still rational as to the states that remain.\n### Justice Kagan:\nAnd do you know what the D.C. Circuit intends to do or do you have a\nguess as to what the D.C. Circuit will do with respect to the interaction\nbetween the SIP litigations that are happening across the country and\nthe question before it?\n### Malcolm L. Stewart:\nI -- I don't have a clear sense of what they will do, and I think it will\ndepend in part on how does -- do the SIP litigation lawsuits progress\nwhile the D.C. Circuit is considering the case; that is, by the time that the\nD.C. Circuit is ultimately ready to issue a decision, we may have some or\nall of the SIP disapproval lawsuits resolved one way or the other, either\nin EPA's favor in which there are more states back in the plan, or if\nthey're resolved against EPA, then the D.C. Circuit can kind of take it as\ngiven that those states are out for the time being and can consider\narguments about what the consequences should be.\n### Justice Kagan:\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 58,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Gorsuch?",
+      "questions": []
+    },
+    {
+      "conversation_id": 59,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\n?\nIf -- if 11 states rather than 23 were involved, does that affect the\ntrading program?\n### Malcolm L. Stewart:\nIt will affect it to the extent that there will be fewer trading -- potential\ntrading partners.\nWe have a declaration from a Mr. Goffman in -- in our appendix that\nsays the trading program can still work robustly.\nIt doesn't depend on the full 23 states being involved.\nWe certainly had plenty of trading programs in the past.\n### Justice Kavanaugh:\nWhat does \"robustly\" mean?\n### Malcolm L. Stewart:\nI don't know if he used the term \"robustly,\" but I think what he meant is\nit -- it is still a kind of real and viable opportunity.\nHe said the price of allowances has not gone up.\nAnd -- and I guess the only other thing I would say about the trading\nprogram is it would be absurd to think that if EPA had known there\nwould only be an 11-state trading program, it wouldn't have regulated\n### Justice Kavanaugh:\nI don't think -- yeah, I don't think that's the suggestion.\nBut can I ask you a question about maybe following up on",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 60,
+      "dialogue": "Justice Alito\n### Justice Alito:\n's\nquestions and some of the more general questions that have been raised\nearlier about the standard, what we're doing here.\nOn an emergency stay, one of the factors is irreparable harm.\nI think both sides in my -- I'm just giving you my view -- both sides\nhave irreparable harm, so that's a wash. The public interest, both sides\nhave a strong public interest in my view.\nSo then the only other factor on which we can decide this under our\ntraditional standard is likelihood of success on the merits. In my view,\nthat accounts for cert worthiness, but this is the kind of issue that would\nbe cert worthy ultimately.\nSo check for me on that one.\nThen it comes down to likelihood of success on the merits.\nWe can't do that without looking at the merits, right?",
+      "questions": []
+    },
+    {
+      "conversation_id": 61,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nIs that --can I get a yes or no on that?\n### Malcolm L. Stewart:\nYeah.\n### Justice Kavanaugh:\nCan we -- can we determine likelihood of success on the merits without\nat least taking a look and making some assessment as best we can of the\nmerits?\n### Malcolm L. Stewart:\nI -- I agree with that. The -- the two things I would say are, first, in\ndetermining likelihood of ultimate success on the merits, the Court\nwould not only have to -- to kind of reach its own judgment about is it\narbitrary or not to have the current 11 -versus 12-state disparity, it\nwould also have to make some predictive judgment about whether that\n11- versus 12-state disparity is going to continue into the future, and\n### Justice Kavanaugh:\nRight.\nThat's -- do you think we make a better assessment after an oral\nargument than we do without an oral argument?\n### Malcolm L. Stewart:\nI -- I hope so.\n### Justice Kavanaugh:\nExactly.\n### Malcolm L. Stewart:\nAnd --and -- and then the other thing I would say to your point about\nirreparable harm, I -- I think it is the case that both sides have shown\nsome irreparable harm.\nI don't agree with the idea that if they both have shown irreparable\nharm, it's a wash, because I think particularly taking into account the\n### Justice Kavanaugh:\nI agree --I agree with you about the equities of the downwind states,\nbut there's also the equities of the upwind states and the industry, and I\ndon't know how -- I mean, they're both like major.\n### Justice Kavanaugh:\nAnd so we have to figure out what to do in the interim.\nYou said two years between now and 2026.\nThat's what we have to figure out.\nShould these costs be incurred for the next two years with the benefits\nto the -- the downwind states, or should these costs not be incurred\nwith the detriments to the downwind states? And the only way under\nour usual standard to figure that out, as I see it, is to make the best\nevaluation we can -- and it's not easy, which is why we're here in my\nview -- of likelihood of success on the merits.\n### Malcolm L. Stewart:\nAnd --and I guess the only further point or maybe it's a recapitulation\nof my point about likelihood of success is the applicants have offered\nspeculation that the plan might have been different in some respects if\nit had been devised as an 11 -state plan, but they haven't identified any\n### Justice Kavanaugh:\nWell, I think -- right.\nAnd this turns on -- okay, on the merits, they're arguing it's arbitrary\nand capricious.\nAnd one of the classic arbitrary and capricious conclusions is a failure to\nexplain.\nIt's not reasonable and reasonably explained.\nAnd one of the complaints they have, which we have to evaluate, is\nwhether they're likely to succeed in saying that the rule was not\nadequately explained in considering the possibility that the SIP\ndisapprovals would be invalidated or stayed in the states and would\ndrop out a number of states.\nWe have to evaluate that, correct?\n### Malcolm L. Stewart:\nYou have to evaluate that.\n### Justice Kavanaugh:\nYeah.\n### Malcolm L. Stewart:\nBut, to --to the extent that what they are saying is EPA behaved\narbitrarily in not reconsidering its judgment afterwards in light of the\nfact that 12 states had been taken out, that's a different inquiry.\n### Justice Kavanaugh:\nAnd have I missed any of the factors that we should be considering in\nevaluating an application for a stay?\n### Justice Kavanaugh:\nThat's all I have. Thank you.\n### Malcolm L. Stewart:\nOkay.",
+      "questions": []
+    },
+    {
+      "conversation_id": 62,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Barrett?",
+      "questions": []
+    },
+    {
+      "conversation_id": 63,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nMr. Stewart, I want to ask you about cert worthiness.\nSo Justice Kavanaugh just pointed out that cert worthiness -- 79 can be\nconsidered part of assessing likelihood of success on the merits.\nI just want to be sure I understand what the position of the Solicitor\nGeneral's office is on that.\nIn this posture, applicants say cert worthiness should not be a factor,\nthat Nken standard should just -- Nken standard should just apply\nwithout respect to cert worthiness.\nWhat is the Solicitor General's position?\n### Malcolm L. Stewart:\nI think it's our view that you should consider cert worthiness as -- in a\nsense as part of the -- the likelihood of\n### Justice Barrett:\nAs Justice Kavanaugh framed it?\n### Malcolm L. Stewart:\nYes.\nAnd -- and the idea is, if -- if likelihood of success means likelihood of\nsuccess in this Court, then that has to be not just would the Court rule in\ntheir favor if it took the case but what's the chance that the Court would\ntake the case.\nIf you think that likelihood of success is a predictive judgment about\nwhat the D.C.\n### Justice Barrett:\nWould you urge us to take this case?\n### Malcolm L. Stewart:\nI mean, it depends on -- it depends on what -- (Laughter.)\n### Justice Barrett:\nSo do you think the case is cert worthy?\n### Malcolm L. Stewart:\nNot in its current posture, but we don't -- but we don't know what the\nD.C. Circuit is going to do.\nIt's certainly possible that the D.C. Circuit will issue a ruling for or\nagainst us that would raise issues of overarching importance, and so the\ncert calculus would -- would change then. We don't think that the\nquestion was EPA required to put the rule on hold and impose no\nrestrictions while it considered what changes might be warranted in\nlight of reduced geographic coverage, we don't think that question is\ncert worthy.",
+      "questions": []
+    },
+    {
+      "conversation_id": 64,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\npointed out some of the stuff or the\nvehicle problems that might be attendant in this application.\nDo you agree that those are factors that we should consider in assessing\ncert worthiness in this posture?\n### Malcolm L. Stewart:\nYes, because, as I say, part of the presentation at oral argument was to\nthe effect that the cost-effectiveness calculus might have been\ndifferent if EPA had only had 11 states in mind.\nAnd to the extent that's -- that's an empirical judgment that's just\ngoing through the scientific evidence, that doesn't seem like something\nthat would ordinarily be a cert --a Supreme Court case.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 65,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 66,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Jackson?",
+      "questions": []
+    },
+    {
+      "conversation_id": 67,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nYes.\nI guess I --I don't understand why the usual traditional standard could\npossibly suffice in this situation.\nI mean, Justice Barrett and",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 68,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nsuggested cert worthiness as\nanother consideration.\nBut don't we have to have something so that we are not --we, the\nSupreme Court, is not supplanting the entirety of the lower federal court\nsystem when we're looking at cases of this nature?\n### Malcolm L. Stewart:\nYes, and -- and, I mean, it may be that kind of the very unpredictability\nof what will happen in the D.C. Circuit leads to unpredictability about\nwhether this will ultimately be a cert worthy case.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 69,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nSo cert worthiness could be another way of saying it.\nI mean, I prefer to think about whether or not there's something\nextraordinarily -- extraordinarily harmful going on in the situation that\nwould warrant, in this situation, in this case, the Supreme Court acting\nas the first decider of the merits of an issue like this.\nI mean, that seems to me to be truly extraordinary.\nAnd if we are going to entertain every motion that someone has about\nbeing harmed or whatnot in the lower courts before any of the lower\ncourts even get the opportunity to talk about it, I -- I feel like we have to\nhave something that guides our consideration of when to do that.\n### Malcolm L. Stewart:\nWe would agree with that.\nAnd we would just add the point that this is not just a case where the\nother side needs to make an extraordinary showing.\nIt is a case where, if a stay is entered and the government ultimately\nprevails on the merits, we in the downwind states will suffer a very high,\nhigh degree of continuing harm even after the stay is vacated.\n### Justice Jackson:\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 70,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nMs. Vale.\n### Judith N. Vale:\nMr. Chief Justice, and may it please the Court: In the Good Neighbor\nprovision, Congress protected downwind states from pollution emitted\nin upwind states.\nA stay of the Good Neighbor rule would undermine that statutory goal\nand the public interest by sending ozone pollution into downwind\nstates, including Connecticut, Wisconsin, and New York, that receive\nsubstantial pollution from the particular upwind states that are\ncurrently in the rule, including Ohio and Indiana.\nThe harms from a stay will flow to both the residents of downwind\nstates, who will experience health dangers, and to downwind industry,\nwhich pays increased costs to compensate for upwind pollution and\ncomply with the current, more stringent standard.\nFor example, Connecticut sources currently pay up to $13,000 per ton of\nozone precursor reduced while, in the near term for power plants under\nthis rule, just to turn on controls costs about $1,600 per ton.\nBy contrast, apply -- and that's why applying the rule to the upwind\nstates is relatively less expensive and harmful.\nI welcome the Court's questions.",
+      "questions": []
+    },
+    {
+      "conversation_id": 71,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nHow do you arrive at that conclusion that it's less expensive for the\nupwind states?\n### Judith N. Vale:\nIt comes from, I think, two things, one on either side of the balance.\nFor the upwind states, the rule is designed -- the way it -- it defines\n\"significant contribution\" is for sources to do the relatively less\nexpensive controls. I understand that there are still costs, but they are\nrelatively less expensive because it's based on having upwind states do\ncontrols that downwind sources and many other sources across the\ncountry have already done, for example, like turning on pollution\ncontrols on power plants that are already installed.\nThat's the lowest of the low-hanging fruit. By contrast, downwind\nsources, as they get the upwind pollution, they have to compensate for\nit, but they've already exhausted a lot of the less expensive strategies,\nso they need to turn to more and more expensive strategies to find any\nfurther cuts.\nAnd one of the reasons why sources have exhausted their less expensive\noptions is because of the statutory consequences of non-attainment.\nSo, in Section 7511, I believe (a), little (a), it is the Clean Air Act that puts\non more and more stringent requirements onto downwind sources as\nstates move into worse and worse levels of non-attainment.\nSo more and more sources need to put on controls, smaller and smaller\nsources need to put on controls, and the controls themselves get more\nstringent. By -- and -- and -- and I think that that's how we get into\nthis situation for the downwind sources.\nAnd the rule right now continues to provide substantial and meaningful\nbenefits to the downwind sources.\nIt is not a shell or a disaster.\nAnd that's because upwind pollution is not evenly distributed as it goes\ndownwind.\nSo the downwind states that generally get a lot of pollution from the 11\nstates in the rule now still stand to get a lot of benefits.\nSo, for example, in Wisconsin, the areas that struggle with air quality get\napproximately 40 percent of their ozone from the 11 states currently in\nthe rule, 13 percent from Indiana alone.\nAnd for Connecticut, the current scope of the rule gets it 65 percent of\nthe emission reductions compared to the full scope of the rule.\nAnd that relief for downwind states is also urgent because of the way\nnon-attainment works.\nNon-attainment -- those deadlines keep on coming regardless of\nwhether Good Neighbor obligations are fulfilled, even though the\ndeadlines, as the D.C. Circuit has made clear, are supposed to be aligned.",
+      "questions": []
+    },
+    {
+      "conversation_id": 72,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nAnd what the -- they're -- they're asking for is simply an opportunity\nto make the argument before the agency.\nAnd as I understand it, the burden on the agency is simply to provide a\nrational or reasonable explanation.\nSo you're making arguments on the merits.\nWe don't have those arguments made or substantiated on the record by\nthe EPA.\n### Judith N. Vale:\nWell, I think there -- the path that Congress laid out for raising these\narguments when they arose after the end of the comment period is the\npetition for reconsideration.\nA lot of the cost analysis that I'm giving you was considered by EPA.\nThat's -- that's part of the rule.\nI mean, the -- part of the whole idea of the rule is that upwind states\nand upwind sources really, that each source -- each source needs to do\nits own significant contributions of pollution, needs to take care of its\nown, and that's defined by what each source can do using certain\ncontrols.\nIt's not defined based on some magic number of emissions reductions\nfrom 23 states. And I think we have every reason to believe that the cost\nthresholds and the -- the controls that went into the stringencies would\nbe exactly the same, no matter whether it was 23 or 11 or five states,\nbecause most of these controls are well established.\nThey've been around for over 25 years.\nAnd downwind sources are already using them to try to reduce their\nemissions.\nThe --the rule is trying to get the upwind sources not to do technical\ninnovation or newfangled things but to get them into the middle of the\npack that downwind sources are already doing.",
+      "questions": []
+    },
+    {
+      "conversation_id": 73,
+      "dialogue": "Justice Alito\n### Justice Alito:\nSuppose that one of the states that is still subject to this requirement is\npaying too much, more than it would have paid if the plan had been\ncalculated based on that state's situation alone or based on just the\nstates that remain subject to the requirement at this time.\nI just want to make sure I understand your argument, the argument that\nyou began with. Was -- was it your argument that even if that is true,\nthe -- the detriment to New York would be enough to outweigh the fact\nthat those -- that state or those remaining states are paying what we\nwas that your argument?\n### Judith N. Vale:\nThat is part of the argument, yes.\nYes, because it's -- it's looking at -- and I think what should drive the\nCourt's analysis in this unusual stay posture, what should inform it, is\nthe statute.\nAnd the statute has already done a little bit of this weighing of the\ninterests between states and is highly protective.\nThe point of the statute is to protect downwind states, not just the\nresidents -- of course, that's important --but also downwind industry\nfrom the free riding of upwind states.\n### Justice Alito:\nWell, that might be true, but does that answer the argument that the\nEPA should have considered what you -- that -- the argument that you\n### Judith N. Vale:\nYes.\nYes, EPA did consider that.\nThat is part of the fundamental idea of how -- how cost -- significant\ncontributions of pollution is defined.\nThe point of it is to say let's get the upwind sources doing the relatively\nless expensive controls that many downwind sources and --and sources\nall around the country are already doing.\nSo that was fundamental to the rule. And I think it is also a fundamental\nunderstanding of the rule that states can come in and out.\nWe have had experience with this under many prior ozone transport\nrules.\nThey were all done in this sort of multi-state way. I do think EPA could\nthat seems like form over substance.\nWe have had states drop out.\nWe have had one state, Georgia, remaining in a trading program by\nitself.\nAnd if I could just maybe explain why the trading program is not\ninterdependent in the sense that I think applicants are making it.\nTwo -- two -- two things there.\nFirst of all, as states drop out, supply and demand are going down\nroughly even. So, while there are fewer allowances, there are also fewer\nmarket participants asking for -- wanting allowances.\nSecond, it is -- the states are not the market participants.\nWe are not left with 10 market participants.\nIt is the power plants that are the market participants.\nThere are currently about 360 market participants in the trading\nprogram.\nThat's why we have the declarations that --that's the reason why the\ndeclarations are all able to say: Look, it's working robustly.",
+      "questions": []
+    },
+    {
+      "conversation_id": 74,
+      "dialogue": "Chief Justice Roberts\n### Judith N. Vale:\nPrices are declining.\n### Chief Justice Roberts:\nwhat they said in the -- the rule was that they were measurable and\nmeaningful cumulative improvements in ozone levels at downwind\nreceptors when the effects of the emissions reductions are assessed\ncollectively across the hundreds of EGU and non-EGU sources.\n### Chief Justice Roberts:\nSo there in the rule what they said is you look at it cumulatively and\ncollectively.\n### Judith N. Vale:\nWell, I -- that is one piece of the step 3 analysis.\nAnd I think what EPA is saying there is that, yes, they do look when\nthey're doing the rule, is this going to have a meaningful effect? You\ndon't want to do a rule that's not -- that turns out it's not doing\nanything.\nThen EPA will probably have to go back to the --the drawing board and\nmake it more stringent in order to have a meaningful effect.\nBut, ultimately, we know that we continue to have a meaningful effect\nbecause the costs and the emission reduction benefits that come out of\nOhio and Indiana and all of the states sti ll in the rule remain exactly the",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 75,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nMs. Vale, if --if a lower court had entered a stay here, would you have\nsought cert?\n### Judith N. Vale:\nI don't know.\nI don't know.\n### Justice Gorsuch:\nWould you have thought it cert worthy?\n### Judith N. Vale:\nPerhaps.\n### Justice Gorsuch:\nOf course.\n### Judith N. Vale:\nYes.\nYes.\n### Justice Gorsuch:\nOf course.\n### Judith N. Vale:\nCorrect.\n### Judith N. Vale:\nI understand that.\nBut I think that the issue here that they are raising in this stay posture is\nthis EPA should have considered after arising events that are still\n### Justice Gorsuch:\nSure.\nSure.\n### Judith N. Vale:\nAnd so I don't think that is cert worthy.\n### Justice Gorsuch:\nAnd it just would have been your burden rather than theirs.\n### Judith N. Vale:\nCorrect.\n### Justice Gorsuch:\nOkay.\nThank you.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 76,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nJustice Thomas, anything further?",
+      "questions": []
+    },
+    {
+      "conversation_id": 77,
+      "dialogue": "Justice Alito\n### Justice Alito:\n? Justice Sotomayor?",
+      "questions": []
+    },
+    {
+      "conversation_id": 78,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nSo you could have both lost? (Laughter.)",
+      "questions": []
+    },
+    {
+      "conversation_id": 79,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Kagan, anything further?",
+      "questions": []
+    },
+    {
+      "conversation_id": 80,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\n? Justice Barrett?\nJustice Jackson? Okay.\nThank you, counsel. Ms. Stetson, rebuttal?\n### Catherine E. Stetson:\nThree quick points, Your Honors, first on emissions, second on the other\nfault lines and the rule that I mentioned, and the third on equities.\nThe first is what you heard Ms. Vale just say is that the purpose of the\nGood Neighbor provision is to protect downwind states from emissions\nof upwind states.\nThe purpose of the Good Neighbor provision is to reduce the significant\ncontribution that upwind states make to downwind states.\nAnd that why -- that's why 11, Chief",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 81,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\n, versus 23 matters.\nThat question about how many is a collective, how many hundreds of\nEGUs, how many hundreds of non-EGUs that are being regulated here\nfor the first time, by the way, how many of those feed into the analysis is\nexactly the problem.\nWe didn't have to seek reconsideration,",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 82,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\n, on the question\nabout whether EPA had significantly explained itself.\nWe raised the issue, we sought reconsideration in fact.\nEPA still hasn't acted on reconsideration, which you can see in Note 9 of\nthe Goffman declaration.\nWe had no obligation to do anything more than that.\nIt was clear in the rule as evidenced by the fact that EPA put in a\nseverability provision announcing its intention that something be\nseverable.\nNot an explanation but an intention.\nIf there are 11 states in this rule, the answer to your question, Mr. Chief\nJustice, is that EPA would have had to ask whether or not there still\nwould be a significant contribution, not just an air quality benefit\ndownwind but a significant contribution given the costs on the\nindustries and power points in those -- plants in those states.\nThe fault lines throughout the rule I've already mentioned.\nI mentioned in the opening it goes to your Court's second question.\nThere are over -control issues here in addition to the reliability issues\nthat were ignored by EPA.\nAnd the last thing I'd say is on the equities.\nThe e quities are not balanced,",
+      "questions": []
+    },
+    {
+      "conversation_id": 83,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\n.\nThe equities here are there are hundreds of millions if not billions of\ndollars in cost over the next 12 to 18 months coupled against 10 percent\nof the .66 average part per billion contribution.\nThis is not a very, very significant downwind problem.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 84,
+      "dialogue": "Chief Justice Roberts\n\n### Chief Justice Roberts:\nThank you, counsel.\nThe case is submitted.",
+      "questions": []
+    }
+  ],
+  "generation_stats": {
+    "total_conversations": 84,
+    "conversations_with_questions": 10,
+    "conversations_without_questions": 74,
+    "processed_conversations": 84,
+    "questions_generated": 40,
+    "skipped_for_low_complexity": 17,
+    "coverage_rate": "11.9%",
+    "methodology": "Extract key phrases from justice statements and create multiple choice questions with extremely deceptive distractors"
+  },
+  "answer_distribution": {
+    "counts": {
+      "A": 13,
+      "B": 10,
+      "C": 13,
+      "D": 4
+    },
+    "percentages": {
+      "A": 32.5,
+      "B": 25.0,
+      "C": 32.5,
+      "D": 10.0
+    },
+    "total_questions": 40
+  }
+}

@@ -1,0 +1,1166 @@
+{
+  "source_file": "Oklahoma v. Environmental Protection Agency _ Oyez.md",
+  "background": "Chief Justice Roberts\n### Chief Justice Roberts:\nWe'll hear argument next in Case 23-1067, Oklahoma versus the\nEnvironmental Protection Agency.\nMr. Mansinghani.\n### Mithun Mansinghani:\nThank you, Mr. Chief Justice, and may it please the Court: EPA actions to\napprove or disapprove state implementation plans are the prototypical\naction reviewed in the regional circuit.\nAs I believe Mr. Stewart confirmed in the previous argument, all parties\nagree at this point that if EPA had disapproved Oklahoma's and Utah's\nplans in separate Federal Register notices, those would be locally\napplicable actions.\nSo when it comes to applicability, the only disputed question is whether\nthe disapprovals of these state plans are transformed into a single\nnational action because EPA chose to process and publish them together\nwith the disapprovals of 19 other states. But the text of the Act's venue\nprovision directs the courts to look at the statutory authority under\nwhich EPA took its action, not the form of publication.\nHere Section 7410 authorizes EPA to take local action, approval or\ndisapproval of state implementation plans.\nEPA's position that the form of publication dictates the action's\napplicability for venue purposes has no basis in the text of the statute\nand, indeed, is at war with it.\nThat leaves EPA's backup, that the Oklahoma and Utah disapproval\nactions must be reviewed in the D.C. Circuit because they are based on a\ndetermination of nationwide scope or effect.\nThat exception, however, only applies to actions where EPA arrives at a\ngeneric conclusion that applies uniformly to all states and that forms a\ndispositive reason for the agency's action, irrespective of local factors.\nAs Justice Gorsuch's and Kavanaugh's questions earlier today indicate,\nEPA's reading applying that exception any time EPA articulates a rubric\nor a standard and then applies it to a local circumstance would mean\nessentially every local EPA action is one that is based on a nationwide\ndetermination.\nThe Court should reverse the decision below and send this case back to\nthe Tenth Circuit.\nI welcome the Court's questions.",
+  "conversations": [
+    {
+      "conversation_id": 1,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nYou heard the last argument.\nHow does -- factually, how does your case differ from the refinery case?\n### Mithun Mansinghani:\nSo one major difference is that state plan approvals and disapprovals are\nexplicitly listed in the locally and regionally applicable part of the\nstatute, in the second sentence of the statute. That's not true of -- of\nRenewable Fuel Standard exemptions, so that makes this a really easy\ncase for --for us to say this is locally or regionally applicable.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"You heard the last argument.\nHow does -- ____________________________________ from the refinery case?\"",
+          "options": {
+            "A": "theoretically, why does your case matter",
+            "B": "practically, how does your case compare",
+            "C": "factually, how does your case differ",
+            "D": "legally, what makes your case unique"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "factually, how does your case differ",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 1,
+              "speaker": "Justice Thomas",
+              "original_statement": "You heard the last argument.\nHow does -- factually, how does your case differ from the refinery case?"
+            },
+            "explanation": "This phrase challenges the respondent to articulate specific factual distinctions between cases, requiring a deep understanding of comparative legal analysis."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"You heard the last argument.\nHow does -- factually, how does your case differ from __________________?\"",
+          "options": {
+            "A": "the refinery case",
+            "B": "the refinery appeal",
+            "C": "the refinery decision",
+            "D": "the refinery ruling"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "the refinery case",
+            "category": "case_law",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 1,
+              "speaker": "Justice Thomas",
+              "original_statement": "You heard the last argument.\nHow does -- factually, how does your case differ from the refinery case?"
+            },
+            "explanation": "Referencing a specific case necessitates familiarity with its legal principles and implications, testing the respondent's knowledge of relevant precedents."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 2,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nIs the nature of the presumption here different? Meaning there were\ntwo, arguably in the first case, nationwide rules, one having to do with\nfocusing just on compliance with legal requirement and the second, the\npresumption that you couldn't have hardship. Here it --it -- it's been\nstrange in my mind because you don't actually have to follow the EPA's\nformula, correct?\n### Mithun Mansinghani:\nThat's correct.\nWe don't have to follow their modeling.\nWe don't have to follow their framework.\nAnd EPA was very clear about that.\n### Justice Sotomayor:\nRight.\nSo whatever their framework is, since you don't have to follow it, it's\nhard to see how it has a nationwide effect, isn't it?\n### Mithun Mansinghani:\nThat's correct.\nIt -- it's not even meets their definition of a determination, which is the\nconclusive ending of a controversy.\nIf we didn't have to follow their framework, it's hard to see how it's even\n### Justice Sotomayor:\nthey have.\nAnd there's at least a bunch of amici who say that, in absolutely every\nchallenge to a SIP, that the 1 percent rule is being fought about. So could\none say that that's determinative in the way that's nationwide?\n### Mithun Mansinghani:\nSo EPA was also clear that with respect to the 1 percent rule, it has,\nquote, \"not imposed a requirement that states use a 1 percent\nthreshold.\" That's at page 9373 of the final Federal Register notice.\nThe other problem is that EPA didn't identify that as one of the\nnationwide determinations when they say --when they w ere invoking\nthe venue exception.\nSo you have a Chenery problem there, and you also have a problem that\nthe statute requires EPA to make a publication.\nAnd, of course, this is also a long-standing thing that they've used.\nIn -- in page 47 of their brief, they -- they acknowledge they've used\nthe 1 percent rule in prior transport orders and --and in EME Homer.\nSo it doesn't -- it also doesn't meet their test for that reason because,\nyou know, I guess EPA would -- would consider it settled.\nWhen Utah tried to use an alternative as a 1 parts per billion threshold\ninstead of a 1 percent threshold, it gave very Utah-specific reasons for\nwhy it thought that a 1 part per billion threshold was more appropriate.\nAnd EPA gave very Utah -specific reasons for why it was rejecting Utah's\nUtah-specific reasons.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Is __________________________________________? Meaning there were\ntwo, arguably in the first case, nationwide rules, one having to do with\nfocusing just on compliance with legal requirement and the second, the\npresumption that you couldn't have hardship. Here it --it -- it's been\nstrange in my mind because you don't actually have to follow the EPA's\nformula, correct?\"",
+          "options": {
+            "A": "the essence of the presumption here modified",
+            "B": "the character of the presumption here altered",
+            "C": "the scope of the presumption here distinct",
+            "D": "the nature of the presumption here different"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "the nature of the presumption here different",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 7,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 1,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "Is the nature of the presumption here different? Meaning there were\ntwo, arguably in the first case, nationwide rules, one having to do with\nfocusing just on compliance with legal requirement and the second, the\npresumption that you couldn't have hardship. Here it --it -- it's been\nstrange in my mind because you don't actually have to follow the EPA's\nformula, correct?"
+            },
+            "explanation": "This phrase challenges the understanding of how presumptions operate within legal frameworks, particularly in the context of regulatory compliance."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Is the nature of the presumption here different? Meaning there were\ntwo, arguably in the first case, ____________, one having to do with\nfocusing just on compliance with legal requirement and the second, the\npresumption that you couldn't have hardship. Here it --it -- it's been\nstrange in my mind because you don't actually have to follow the EPA's\nformula, correct?\"",
+          "options": {
+            "A": "national standards",
+            "B": "uniform regulations",
+            "C": "federal guidelines",
+            "D": "nationwide rules"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "nationwide rules",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 1,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "Is the nature of the presumption here different? Meaning there were\ntwo, arguably in the first case, nationwide rules, one having to do with\nfocusing just on compliance with legal requirement and the second, the\npresumption that you couldn't have hardship. Here it --it -- it's been\nstrange in my mind because you don't actually have to follow the EPA's\nformula, correct?"
+            },
+            "explanation": "This phrase requires familiarity with the implications of nationwide rules in administrative law and their impact on local actions."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Is the nature of the presumption here different? Meaning there were\ntwo, arguably in the first case, nationwide rules, one having to do with\nfocusing just on ________________________ and the second, the\npresumption that you couldn't have hardship. Here it --it -- it's been\nstrange in my mind because you don't actually have to follow the EPA's\nformula, correct?\"",
+          "options": {
+            "A": "compliance with legal requirement",
+            "B": "conformity with legal standards",
+            "C": "adherence to regulatory requirement",
+            "D": "compliance with statutory mandate"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "compliance with legal requirement",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 1,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "Is the nature of the presumption here different? Meaning there were\ntwo, arguably in the first case, nationwide rules, one having to do with\nfocusing just on compliance with legal requirement and the second, the\npresumption that you couldn't have hardship. Here it --it -- it's been\nstrange in my mind because you don't actually have to follow the EPA's\nformula, correct?"
+            },
+            "explanation": "This phrase probes the understanding of compliance standards and their relevance in judicial review of agency actions."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Is the nature of the presumption here different? Meaning there were\ntwo, arguably in the first case, nationwide rules, one having to do with\nfocusing just on compliance with legal requirement and the second, the\n____________________________________. Here it --it -- it's been\nstrange in my mind because you don't actually have to follow the EPA's\nformula, correct?\"",
+          "options": {
+            "A": "inference that you might not experience hardship",
+            "B": "presumption that you couldn't have hardship",
+            "C": "assumption that you couldn't face hardship",
+            "D": "presumption that you could not demonstrate hardship"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "presumption that you couldn't have hardship",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 1,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "Is the nature of the presumption here different? Meaning there were\ntwo, arguably in the first case, nationwide rules, one having to do with\nfocusing just on compliance with legal requirement and the second, the\npresumption that you couldn't have hardship. Here it --it -- it's been\nstrange in my mind because you don't actually have to follow the EPA's\nformula, correct?"
+            },
+            "explanation": "This phrase examines the judicial reasoning behind presumptions related to hardship, which is critical in evaluating agency regulations."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Right.\nSo whatever their framework is, since you don't have to follow it, it's\nhard to see how it has a ____________, isn't it?\"",
+          "options": {
+            "A": "national scope",
+            "B": "nationwide effect",
+            "C": "federal effect",
+            "D": "local impact"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "nationwide effect",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 2,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "Right.\nSo whatever their framework is, since you don't have to follow it, it's\nhard to see how it has a nationwide effect, isn't it?"
+            },
+            "explanation": "This phrase challenges the understanding of how actions can be classified as having a nationwide effect versus being limited to local applicability, requiring knowledge of jurisdictional standards."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Right.\nSo ________________________, since you don't have to follow it, it's\nhard to see how it has a nationwide effect, isn't it?\"",
+          "options": {
+            "A": "whatever their framework is",
+            "B": "whichever their model is",
+            "C": "whenever their structure is",
+            "D": "whatever the framework was"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "whatever their framework is",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 2,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "Right.\nSo whatever their framework is, since you don't have to follow it, it's\nhard to see how it has a nationwide effect, isn't it?"
+            },
+            "explanation": "This phrase prompts analysis of the legal frameworks that agencies may establish and how they are interpreted by courts, testing the student's grasp of administrative law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Right.\nSo whatever their framework is, since ____________________________________, it's\nhard to see how it has a nationwide effect, isn't it?\"",
+          "options": {
+            "A": "you cannot ignore it in practice",
+            "B": "you are required to adhere strictly",
+            "C": "you must always comply with it",
+            "D": "you don't have to follow it"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "you don't have to follow it",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 2,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "Right.\nSo whatever their framework is, since you don't have to follow it, it's\nhard to see how it has a nationwide effect, isn't it?"
+            },
+            "explanation": "This phrase raises questions about the binding nature of agency frameworks and the extent to which they can dictate legal outcomes, requiring a nuanced understanding of administrative discretion."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Right.\nSo whatever their framework is, since you don't have to follow it, it's\n____________________________________ a nationwide effect, isn't it?\"",
+          "options": {
+            "A": "hard to see how it applies",
+            "B": "hard to see how it has",
+            "C": "hard to see how it affects",
+            "D": "hard to see how it operates"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "hard to see how it has",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 2,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "Right.\nSo whatever their framework is, since you don't have to follow it, it's\nhard to see how it has a nationwide effect, isn't it?"
+            },
+            "explanation": "This phrase invites critical thinking about the evidentiary standards and reasoning necessary to establish the implications of agency actions, testing the student's analytical skills."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"they have.\nAnd there's at least a bunch of amici who say that, in absolutely every\nchallenge to a SIP, that the __________________ is being fought about. So could\none say that that's determinative in the way that's nationwide?\"",
+          "options": {
+            "A": "1 percent threshold",
+            "B": "1 percent rule",
+            "C": "1 percent guideline",
+            "D": "1 percent standard"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "1 percent rule",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 3,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "they have.\nAnd there's at least a bunch of amici who say that, in absolutely every\nchallenge to a SIP, that the 1 percent rule is being fought about. So could\none say that that's determinative in the way that's nationwide?"
+            },
+            "explanation": "This phrase refers to a specific legal standard that may influence the determination of state implementation plans (SIPs) and challenges to them, requiring a deep understanding of environmental law and regulatory frameworks."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"they have.\nAnd there's at least a bunch of amici who say that, in absolutely every\nchallenge to a SIP, that the 1 percent rule is being fought about. So could\none say that that's ____________________________________?\"",
+          "options": {
+            "A": "determinative in the scope that's regional",
+            "B": "determinative in the effect that's federal",
+            "C": "determinative in the way that's nationwide",
+            "D": "determinative in the manner that's local"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "determinative in the way that's nationwide",
+            "category": "judicial_test",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 3,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "they have.\nAnd there's at least a bunch of amici who say that, in absolutely every\nchallenge to a SIP, that the 1 percent rule is being fought about. So could\none say that that's determinative in the way that's nationwide?"
+            },
+            "explanation": "This phrase probes the concept of nationwide applicability in legal determinations, challenging students to consider how local actions may be influenced by broader national standards."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"they have.\nAnd there's at least a bunch of amici who say that, in absolutely every\n________________________, that the 1 percent rule is being fought about. So could\none say that that's determinative in the way that's nationwide?\"",
+          "options": {
+            "A": "challenge to a SIP",
+            "B": "challenge to a permit",
+            "C": "challenge to a regulation",
+            "D": "challenge to a proposal"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "challenge to a SIP",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 3,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "they have.\nAnd there's at least a bunch of amici who say that, in absolutely every\nchallenge to a SIP, that the 1 percent rule is being fought about. So could\none say that that's determinative in the way that's nationwide?"
+            },
+            "explanation": "This phrase highlights the legal context of state implementation plans and the complexities involved in their review, necessitating familiarity with environmental law and administrative procedures."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"they have.\nAnd there's at least a bunch of __________________ that, in absolutely every\nchallenge to a SIP, that the 1 percent rule is being fought about. So could\none say that that's determinative in the way that's nationwide?\"",
+          "options": {
+            "A": "amicus curiae motions",
+            "B": "amici who argue",
+            "C": "amicus briefs filed",
+            "D": "amici who say"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "amici who say",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 3,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "they have.\nAnd there's at least a bunch of amici who say that, in absolutely every\nchallenge to a SIP, that the 1 percent rule is being fought about. So could\none say that that's determinative in the way that's nationwide?"
+            },
+            "explanation": "This phrase indicates the involvement of amici curiae, or 'friends of the court,' which raises issues of legal standing and the influence of external parties in judicial proceedings."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 3,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nCounsel, if I might just push back a little bit.\nI would have thought that, if anything, the intuitive appeal of the idea\nthat -- that your case involves nationwide determinations would be the\nstronger one in some ways for EPA, given that we're talking here about\nclean air obligations of states and the downwind impact of any state on\nothers.\nIts good neighbor obligations as the statute calls it.\nI mean, gosh, if anything's --if anything is nationwide in impact, it's\ngot to be air pollution because it travels.\n### Mithun Mansinghani:\nWell, the whole statute's about air pollution.\nBut with respect to the good neighbor provision, EPA made clear that\ninterstate ozone transport is a \"regional scale pollution problem.\" You\ncan see that at page 9801 of Oklahoma's proposed disapproval.\n### Justice Gorsuch:\nYeah, but it crosses the country in ways that don't respect our\njurisdictional boundaries between circuits.\n### Mithun Mansinghani:\nSure.\nAnd I think, at most, that makes it something that has regional effects.\nIt's not of regional applicability when EPA disapproves this individual\nstate's plan.\nSo, for example, Oklahoma's plan was disapproved because it was\npolluting -- allegedly significantly contributing to Texas non-\n### Mithun Mansinghani:\nAnd --and for the reasons Mr. Huston gave in the prior case, I don't\n### Justice Gorsuch:\nWhy not? We're going to have different interpretations of the statute\nand, gosh, we won't have the immediate resolution of the D.C. Circuit\nthat we could have.\n### Mithun Mansinghani:\nWell, respectfully, I don't think splits are all that terrible.\n### Justice Gorsuch:\nOh. (Laughter.)\n### Justice Gorsuch:\nReally? We deal with them?\n### Mithun Mansinghani:\nThis Court's landmark Clean Air Act cases, state implementation plan\ncases, Train and Union Electric, both arose from circuit splits where\ndifferent circuits were adjudicating different state plans but it touched\non cross-cutting issues such as whether variances could be allowed in a\nstate plan or whether EPA had to consider costs or feasibility, technical\nfeasibility, in approving or disapproving a state plan.\nAnd there's no indication that those circuit splits that led to the -- this\nCourt's landmark decisions in Train and Union Electric were the things",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Counsel, if I might just push back a little bit.\nI would have thought that, if anything, the intuitive appeal of the idea\nthat -- that your case involves ____________ would be the\nstronger one in some ways for EPA, given that we're talking here about\nclean air obligations of states and the downwind impact of any state on\nothers.\nIts good neighbor obligations as the statute calls it.\nI mean, gosh, if anything's --if anything is nationwide in impact, it's\ngot to be air pollution because it travels.\"",
+          "options": {
+            "A": "universal standards",
+            "B": "general applicability",
+            "C": "nationwide determinations",
+            "D": "national scope"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "nationwide determinations",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 1,
+              "speaker": "Justice Gorsuch",
+              "original_statement": "Counsel, if I might just push back a little bit.\nI would have thought that, if anything, the intuitive appeal of the idea\nthat -- that your case involves nationwide determinations would be the\nstronger one in some ways for EPA, given that we're talking here about\nclean air obligations of states and the downwind impact of any state on\nothers.\nIts good neighbor obligations as the statute calls it.\nI mean, gosh, if anything's --if anything is nationwide in impact, it's\ngot to be air pollution because it travels."
+            },
+            "explanation": "This phrase challenges the understanding of how courts interpret the scope of agency actions and their implications across state lines."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Counsel, if I might just push back a little bit.\nI would have thought that, if anything, the intuitive appeal of the idea\nthat -- that your case involves nationwide determinations would be the\nstronger one in some ways for EPA, given that we're talking here about\n______________________________ and the downwind impact of any state on\nothers.\nIts good neighbor obligations as the statute calls it.\nI mean, gosh, if anything's --if anything is nationwide in impact, it's\ngot to be air pollution because it travels.\"",
+          "options": {
+            "A": "clean air responsibilities of agencies",
+            "B": "clean air regulations for states",
+            "C": "clean air requirements for jurisdictions",
+            "D": "clean air obligations of states"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "clean air obligations of states",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 1,
+              "speaker": "Justice Gorsuch",
+              "original_statement": "Counsel, if I might just push back a little bit.\nI would have thought that, if anything, the intuitive appeal of the idea\nthat -- that your case involves nationwide determinations would be the\nstronger one in some ways for EPA, given that we're talking here about\nclean air obligations of states and the downwind impact of any state on\nothers.\nIts good neighbor obligations as the statute calls it.\nI mean, gosh, if anything's --if anything is nationwide in impact, it's\ngot to be air pollution because it travels."
+            },
+            "explanation": "This phrase requires familiarity with environmental law and the statutory responsibilities imposed on states regarding air quality."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Counsel, if I might just push back a little bit.\nI would have thought that, if anything, the intuitive appeal of the idea\nthat -- that your case involves nationwide determinations would be the\nstronger one in some ways for EPA, given that we're talking here about\nclean air obligations of states and the downwind impact of any state on\nothers.\nIts __________________ as the statute calls it.\nI mean, gosh, if anything's --if anything is nationwide in impact, it's\ngot to be air pollution because it travels.\"",
+          "options": {
+            "A": "local neighbor requirements",
+            "B": "national neighbor standards",
+            "C": "good neighbor obligations",
+            "D": "good faith obligations"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "good neighbor obligations",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 1,
+              "speaker": "Justice Gorsuch",
+              "original_statement": "Counsel, if I might just push back a little bit.\nI would have thought that, if anything, the intuitive appeal of the idea\nthat -- that your case involves nationwide determinations would be the\nstronger one in some ways for EPA, given that we're talking here about\nclean air obligations of states and the downwind impact of any state on\nothers.\nIts good neighbor obligations as the statute calls it.\nI mean, gosh, if anything's --if anything is nationwide in impact, it's\ngot to be air pollution because it travels."
+            },
+            "explanation": "This term references specific statutory duties that states have to prevent air pollution from affecting neighboring states, testing knowledge of environmental regulatory frameworks."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Counsel, if I might just push back a little bit.\nI would have thought that, if anything, the intuitive appeal of the idea\nthat -- that your case involves nationwide determinations would be the\nstronger one in some ways for EPA, given that we're talking here about\nclean air obligations of states and the ____________ of any state on\nothers.\nIts good neighbor obligations as the statute calls it.\nI mean, gosh, if anything's --if anything is nationwide in impact, it's\ngot to be air pollution because it travels.\"",
+          "options": {
+            "A": "downstream influence",
+            "B": "downwind impact",
+            "C": "crosswind assessment",
+            "D": "upwind effect"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "downwind impact",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 1,
+              "speaker": "Justice Gorsuch",
+              "original_statement": "Counsel, if I might just push back a little bit.\nI would have thought that, if anything, the intuitive appeal of the idea\nthat -- that your case involves nationwide determinations would be the\nstronger one in some ways for EPA, given that we're talking here about\nclean air obligations of states and the downwind impact of any state on\nothers.\nIts good neighbor obligations as the statute calls it.\nI mean, gosh, if anything's --if anything is nationwide in impact, it's\ngot to be air pollution because it travels."
+            },
+            "explanation": "This phrase probes the understanding of environmental law principles regarding the transboundary effects of pollution and the legal implications thereof."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Yeah, but it crosses the country in ways that don't respect our\n________________________.\"",
+          "options": {
+            "A": "jurisdictional guidelines within circuits",
+            "B": "jurisdictional parameters among circuits",
+            "C": "jurisdictional limits across circuits",
+            "D": "jurisdictional boundaries between circuits"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "jurisdictional boundaries between circuits",
+            "category": "jurisdiction",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 2,
+              "speaker": "Justice Gorsuch",
+              "original_statement": "Yeah, but it crosses the country in ways that don't respect our\njurisdictional boundaries between circuits."
+            },
+            "explanation": "This phrase highlights the importance of understanding the limits of judicial authority and the implications of jurisdictional boundaries in federal court systems."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Yeah, but it __________________ in ways that don't respect our\njurisdictional boundaries between circuits.\"",
+          "options": {
+            "A": "crosses the states",
+            "B": "crosses federal boundaries",
+            "C": "crosses the country",
+            "D": "crosses state lines"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "crosses the country",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 2,
+              "speaker": "Justice Gorsuch",
+              "original_statement": "Yeah, but it crosses the country in ways that don't respect our\njurisdictional boundaries between circuits."
+            },
+            "explanation": "This phrase suggests a need to analyze the implications of nationwide actions and their effects on local jurisdictions, which is critical in federalism discussions."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Why not? We're going to have ______________________________\nand, gosh, we won't have the immediate resolution of the D.C. Circuit\nthat we could have.\"",
+          "options": {
+            "A": "different interpretations of the statute",
+            "B": "varied implications of the statute",
+            "C": "distinct applications of the statute",
+            "D": "divergent readings of the statute"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "different interpretations of the statute",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 3,
+              "speaker": "Justice Gorsuch",
+              "original_statement": "Why not? We're going to have different interpretations of the statute\nand, gosh, we won't have the immediate resolution of the D.C. Circuit\nthat we could have."
+            },
+            "explanation": "This phrase highlights the judicial concern regarding varying interpretations of statutory language, which is critical in understanding statutory construction and the implications for legal consistency."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Why not? We're going to have different interpretations of the statute\nand, gosh, we won't have the ____________________________________\nthat we could have.\"",
+          "options": {
+            "A": "final determination from the D.C. Circuit",
+            "B": "expedited review by the D.C. Circuit",
+            "C": "prompt adjudication in the D.C. Circuit",
+            "D": "immediate resolution of the D.C. Circuit"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "immediate resolution of the D.C. Circuit",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 3,
+              "speaker": "Justice Gorsuch",
+              "original_statement": "Why not? We're going to have different interpretations of the statute\nand, gosh, we won't have the immediate resolution of the D.C. Circuit\nthat we could have."
+            },
+            "explanation": "This phrase underscores the procedural dynamics of appellate review and the significance of the D.C. Circuit's role in resolving federal agency actions, which is essential for understanding jurisdictional issues."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 4,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nregionally applicable and that should go in the appropriate circuit\nincludes approval of SIPs.\n### Mithun Mansinghani:\nThat's correct.\n### Justice Jackson:\nI mean specifically.\n### Justice Jackson:\nSo, regardless of us thinking that air pollution seems national, Congress\nwas putting it in the local or regional bucket.\n### Mithun Mansinghani:\nThat's -- that's absolutely correct.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 5,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nSo are you making the argument, then, that --that the third provision\nhas no application to SIPs? Could never be applied to SIPs?\n### Mithun Mansinghani:\nNo, Justice Gorsuch, I'm not making that argument.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 6,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nYou're making the argument that the first doesn't, because we're in the\nsecond, locally or regional.\nAnd then we go to the exception, and we have to decide whether or not\nit's in the D.C. Circuit, but on the basis of the third prong, not the first\none?\n### Mithun Mansinghani:\nThat's correct, Justice Jackson.\nSo the examples historically that arose prior to the enactment of the\nexception are both things that relate to SIPs.\nThey weren't SIP approvals or disapprovals necessarily.\nBut the NRDC case -- cases from the First and D.C. Circuits that Mr.\nStewart mentioned, the -- the First Circuit said it involved an automatic\napplication of standard nationwide guidelines to all plans that\nsimultaneously preordained wholesale extensions of the -- of the\nattainment deadline.\nthat led to -- at least according to the legislation history, the enactment\nof this exception.\nAnd there, the Sixth Circuit said what was at issue was a uniform rule\nthat had the effect of amending every state's implementation plan in\nprecisely the same way.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"You're making the argument that __________________, because we're in the\nsecond, locally or regional.\nAnd then we go to the exception, and we have to decide whether or not\nit's in the D.C. Circuit, but on the basis of the third prong, not the first\none?\"",
+          "options": {
+            "A": "the first doesn't",
+            "B": "the last doesn't",
+            "C": "the second does",
+            "D": "the first does"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "the first doesn't",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 6,
+              "statement_index": 1,
+              "speaker": "Justice Jackson",
+              "original_statement": "You're making the argument that the first doesn't, because we're in the\nsecond, locally or regional.\nAnd then we go to the exception, and we have to decide whether or not\nit's in the D.C. Circuit, but on the basis of the third prong, not the first\none?"
+            },
+            "explanation": "This phrase challenges the understanding of the judicial reasoning behind distinguishing between different legal provisions or arguments, requiring a nuanced grasp of the case's legal framework."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"You're making the argument that the first doesn't, because we're in the\nsecond, locally or regional.\nAnd then we go to ____________, and we have to decide whether or not\nit's in the D.C. Circuit, but on the basis of the third prong, not the first\none?\"",
+          "options": {
+            "A": "the condition",
+            "B": "the exception",
+            "C": "the provision",
+            "D": "the exclusion"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "the exception",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 6,
+              "statement_index": 1,
+              "speaker": "Justice Jackson",
+              "original_statement": "You're making the argument that the first doesn't, because we're in the\nsecond, locally or regional.\nAnd then we go to the exception, and we have to decide whether or not\nit's in the D.C. Circuit, but on the basis of the third prong, not the first\none?"
+            },
+            "explanation": "This phrase refers to a specific legal exception that may alter the standard application of law, requiring an understanding of exceptions within statutory frameworks."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"You're making the argument that the first doesn't, because we're in the\nsecond, locally or regional.\nAnd then we go to the exception, and we have to decide whether or not\nit's in __________________, but on the basis of the third prong, not the first\none?\"",
+          "options": {
+            "A": "the D.C. Circuit",
+            "B": "the Federal Circuit",
+            "C": "the National Circuit",
+            "D": "the Tenth Circuit"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "the D.C. Circuit",
+            "category": "jurisdiction",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 6,
+              "statement_index": 1,
+              "speaker": "Justice Jackson",
+              "original_statement": "You're making the argument that the first doesn't, because we're in the\nsecond, locally or regional.\nAnd then we go to the exception, and we have to decide whether or not\nit's in the D.C. Circuit, but on the basis of the third prong, not the first\none?"
+            },
+            "explanation": "This phrase highlights the importance of jurisdictional considerations in legal arguments, particularly regarding where cases should be heard based on statutory provisions."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"You're making the argument that the first doesn't, because we're in the\nsecond, locally or regional.\nAnd then we go to the exception, and we have to decide whether or not\nit's in the D.C. Circuit, but on ____________________________________, not the first\none?\"",
+          "options": {
+            "A": "the basis of the third prong",
+            "B": "the foundation of the second prong",
+            "C": "the premise of the first prong",
+            "D": "the rationale of the fourth prong"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "the basis of the third prong",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 6,
+              "statement_index": 1,
+              "speaker": "Justice Jackson",
+              "original_statement": "You're making the argument that the first doesn't, because we're in the\nsecond, locally or regional.\nAnd then we go to the exception, and we have to decide whether or not\nit's in the D.C. Circuit, but on the basis of the third prong, not the first\none?"
+            },
+            "explanation": "This phrase refers to a specific element of a legal test or standard, necessitating a deep understanding of the criteria that must be met for legal determinations."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 7,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nWere these rules?\n### Mithun Mansinghani:\nSay that again, Justice?\n### Justice Gorsuch:\nWere these rules?\n### Mithun Mansinghani:\nThey -- it's hard to say that the amendment of a state plan is a rule-\nmaking, but it was published in the Federal Register as -- as a rule-\nmaking, in -- in perhaps what I would say is a single order.\nAnd --and it's those types of things where you have a -- a conclusion\nthat applies uniformly to all states, and that forms the dispositive\nreason for the agency's action that are covered by the exception.\nIt's not the types of things that led to this --this Court's cases in Train\nand Union Electric, where you have an intense mix of very local issues\nand perhaps some cross-cutting issues that may be true across different\nstates.\nNot every state was the 1 percent threshold an issue.\nNot every state was the modeling that made the difference between\napproval or disapproval.\nAnd here, of course, EPA had issued approvals of state plans individually\nor sometimes in groups.\nAnd there's no indication that I have seen from EPA that there was a\nreason why its approvals were issued individually, would go to the\nregional circuit, and its disapprovals would go to -- to the D.C. Circuit.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Justice Gorsuch\n### Justice Gorsuch:\n__________________\n### Mithun Mansinghani:\nSay that again, Justice?\n### Justice Gorsuch:\nWere these rules?\n### Mithun Mansinghani:\nThey -- it's hard to say that the amendment of a state plan is a rule-\nmaking, but it was published in the Federal Register as -- as a rule-\nmaking, in -- in perhaps what I would say is a single order.\nAnd --and it's those types of things where you have a -- a conclusion\nthat applies uniformly to all states, and that forms the disp\"",
+          "options": {
+            "A": "Were these regulations?",
+            "B": "Were these guidelines?",
+            "C": "Were these rules?",
+            "D": "Were these standards?"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "Were these rules?",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 7,
+              "statement_index": 1,
+              "speaker": "Unknown Justice",
+              "original_statement": "Justice Gorsuch\n### Justice Gorsuch:\nWere these rules?\n### Mithun Mansinghani:\nSay that again, Justice?\n### Justice Gorsuch:\nWere these rules?\n### Mithun Mansinghani:\nThey -- it's hard to say that the amendment of a state plan is a rule-\nmaking, but it was published in the Federal Register as -- as a rule-\nmaking, in -- in perhaps what I would say is a single order.\nAnd --and it's those types of things where you have a -- a conclusion\nthat applies uniformly to all states, and that forms the disp"
+            },
+            "explanation": "This phrase challenges the respondent to consider the nature of regulatory actions and whether they meet the legal definition of 'rules' under administrative law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Justice Gorsuch\n### Justice Gorsuch:\nWere these rules?\n### Mithun Mansinghani:\nSay that again, Justice?\n### Justice Gorsuch:\nWere these rules?\n### Mithun Mansinghani:\nThey -- it's hard to say that the ______________________________ is a rule-\nmaking, but it was published in the Federal Register as -- as a rule-\nmaking, in -- in perhaps what I would say is a single order.\nAnd --and it's those types of things where you have a -- a conclusion\nthat applies uniformly to all states, and that forms the disp\"",
+          "options": {
+            "A": "approval of a state plan",
+            "B": "rejection of a state plan",
+            "C": "amendment of a state plan",
+            "D": "modification of a federal plan"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "amendment of a state plan",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 7,
+              "statement_index": 1,
+              "speaker": "Unknown Justice",
+              "original_statement": "Justice Gorsuch\n### Justice Gorsuch:\nWere these rules?\n### Mithun Mansinghani:\nSay that again, Justice?\n### Justice Gorsuch:\nWere these rules?\n### Mithun Mansinghani:\nThey -- it's hard to say that the amendment of a state plan is a rule-\nmaking, but it was published in the Federal Register as -- as a rule-\nmaking, in -- in perhaps what I would say is a single order.\nAnd --and it's those types of things where you have a -- a conclusion\nthat applies uniformly to all states, and that forms the disp"
+            },
+            "explanation": "This phrase requires an understanding of the legal implications of amending state plans within the context of federal regulatory authority and state compliance."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Justice Gorsuch\n### Justice Gorsuch:\nWere these rules?\n### Mithun Mansinghani:\nSay that again, Justice?\n### Justice Gorsuch:\nWere these rules?\n### Mithun Mansinghani:\nThey -- it's hard to say that the amendment of a state plan is a rule-\nmaking, but it was ______________________________ as -- as a rule-\nmaking, in -- in perhaps what I would say is a single order.\nAnd --and it's those types of things where you have a -- a conclusion\nthat applies uniformly to all states, and that forms the disp\"",
+          "options": {
+            "A": "published in the Federal Register",
+            "B": "published in the Federal Bulletin",
+            "C": "published in the State Gazette",
+            "D": "published in the Official Register"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "published in the Federal Register",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 7,
+              "statement_index": 1,
+              "speaker": "Unknown Justice",
+              "original_statement": "Justice Gorsuch\n### Justice Gorsuch:\nWere these rules?\n### Mithun Mansinghani:\nSay that again, Justice?\n### Justice Gorsuch:\nWere these rules?\n### Mithun Mansinghani:\nThey -- it's hard to say that the amendment of a state plan is a rule-\nmaking, but it was published in the Federal Register as -- as a rule-\nmaking, in -- in perhaps what I would say is a single order.\nAnd --and it's those types of things where you have a -- a conclusion\nthat applies uniformly to all states, and that forms the disp"
+            },
+            "explanation": "This phrase highlights the procedural requirements for federal agencies and the significance of publication in the Federal Register as it pertains to regulatory actions."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 8,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nCan I ask you about the remedy? So if we agree with you that the court of\nappeals here was wrong to hold that this was nationally applicable\nunder prong 1, would you say that we should remand it to the Tenth\nCircuit to apply steps 2 and potentially 3?\n### Mithun Mansinghani:\nThat would certainly be an option, but not our first preference.\nSo I think this Court has fully in front of it the issue, and it's fairly\nencompassed within the question presented as to whether the\nexception applies.\nAnd I think in elucidating how the exception applies in our case and the\nCalumet case, it will provide greater guidance to lower courts by -- by\nshowing how it applies in two very different factual scenarios.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Can I ask you about the remedy? So if we agree with you that the court of\nappeals here was wrong to hold that this was nationally applicable\nunder prong 1, would you say that we should remand it to the Tenth\nCircuit to ____________________________________?\"",
+          "options": {
+            "A": "apply steps 2 and potentially 3",
+            "B": "apply steps 2 and likely 4",
+            "C": "apply steps 1 and potentially 4",
+            "D": "apply steps 2 and possibly 1"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "apply steps 2 and potentially 3",
+            "category": "judicial_test",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 8,
+              "statement_index": 1,
+              "speaker": "Justice Jackson",
+              "original_statement": "Can I ask you about the remedy? So if we agree with you that the court of\nappeals here was wrong to hold that this was nationally applicable\nunder prong 1, would you say that we should remand it to the Tenth\nCircuit to apply steps 2 and potentially 3?"
+            },
+            "explanation": "This phrase suggests a multi-step legal analysis that the court must undertake, indicating familiarity with procedural frameworks and the complexity of judicial review."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 9,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nthat's --that's a thing, right? I mean, EPA, you know, wrote the\ndetermination. Does that -- is it -- is that owed deference?\n### Mithun Mansinghani:\nIt is not owed deference to the -- on the question of whether the\naction's, in fact, based on a nationwide determination of scope and\neffect.\nAnd remember, this is a venue provision that we're interpreting.\nAnd it's very unusual for this Court to defer to one party or another's\nchoice of venue.\nInstead, this Court applies the law de novo.\nAnd so here, the statute, as -- as my friend Mr. Huston says, has two\nelements.\nOne, that it is based on a determination of nationwide scope and effect.\nThat's reviewed de novo.\nAnd, second, that EPA publish a finding along those lines.\nAnd I think that could be reviewed for arbitrary and capriciousness if EPA\nchose or didn't choose to publish a finding in any given circumstance,\nbut the first thing is viewed -- is reviewed de novo.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"that's --that's a thing, right? I mean, EPA, you know, wrote the\ndetermination. Does that -- is it -- is that ____________?\"",
+          "options": {
+            "A": "owed discretion",
+            "B": "owed deference",
+            "C": "owed authority",
+            "D": "owed respect"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "owed deference",
+            "category": "judicial_test",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 9,
+              "statement_index": 1,
+              "speaker": "Justice Gorsuch",
+              "original_statement": "that's --that's a thing, right? I mean, EPA, you know, wrote the\ndetermination. Does that -- is it -- is that owed deference?"
+            },
+            "explanation": "This phrase challenges students to understand the legal standard of deference owed to administrative agencies, particularly in the context of judicial review of agency determinations."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"that's --that's a thing, right? I mean, EPA, you know, wrote the\ndetermination. Does that -- __________________________________________\"",
+          "options": {
+            "A": "is it -- is that appropriate deference owed?",
+            "B": "is it -- is that owed judicial deference?",
+            "C": "is it -- is that due deference owed?",
+            "D": "is it -- is that owed deference?"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "is it -- is that owed deference?",
+            "category": "judicial_test",
+            "difficulty": "hard",
+            "word_count": 7,
+            "context_info": {
+              "conversation_id": 9,
+              "statement_index": 1,
+              "speaker": "Justice Gorsuch",
+              "original_statement": "that's --that's a thing, right? I mean, EPA, you know, wrote the\ndetermination. Does that -- is it -- is that owed deference?"
+            },
+            "explanation": "This phrase requires an understanding of the concept of deference in administrative law, particularly how courts assess the validity of agency actions and the standards applied."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 10,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nSuppose that, you know, of these four de terminations -- let's just focus\nthreshold. And suppose that the contribution threshold that EPA picked\nwas super low.\nLike, so instead of 1 percent, it was .01 percent or something like that.\nSo low that you knew that every SIP was going to get rejected, every\nstate plan.\nWhat would the answer be then?\n### Mithun Mansinghani:\nI think there would -- that would present a closer case.\nAnd I think that would get closest to what would be a determination of\nnationwide effect.\nSo it wouldn't have nationwide scope because, you know, in theory a\nstate could, possibly, be under that super low threshold, but it might\nstill, nonetheless, be something that's of nationwide effect.\n### Justice Kagan:\nI mean, it's a nationwide -- you know, presumably they know what\neffect this is going to have in every state, in -- in my hypothetical.\nSo it's -- it seems actually unusual not to say it would be of nationwide\nscope.\nAnd I'm not suggesting that my hypothetical is at all the same as your\ncase.\nI mean, actually, it seems to me that these four nation -- nationwide\ndeterminations, that the nature of them is the -- you still -- the agency\nstill has to do a lot of work before deciding whether to issue -- whether\nto approve any state SIP.\nBut in my hypothetical, that's not right.\nBasically, the nationwide determination is doing all the work.\n### Mithun Mansinghani:\nSo I'll push back on one thing,\n### Justice Kagan:\n, which is to say that if the\nscreening threshold operates in the same way in your hypothetical as it\ndoes in our rule, then, yes, there still has to be a lot of work done.\nBecause a screening threshold is just that, it screens out what are de\nminimis contributions and what are contributions that have to be\nfurther evaluated to determine whether they are significant.\nSo even a really low screening threshold would still require a lot of\nfurther analysis to determine whether any given state's contributions\nI take that point.\n### Mithun Mansinghani:\nRight.\n### Justice Kagan:\nbetween approval and not.\nAnd it was set at so low a level that it was clear that no state could meet\nAnd then to me, that says: Okay, that should be in the D.C. Circuit.\nLike, you don't want 11 circuits deciding whether that's a preposterously\nlow level or not.\n### Mithun Mansinghani:\nYeah.\nSo if it was an automatic generic conclusion that applied to all states\nuniformly, you didn't have to really consider whether the state's\ncircumstances, yeah, I think that would get, you know, very close to\nmeeting the exception.\n### Justice Kagan:\nYeah, yeah, yeah.\n### Mithun Mansinghani:\nstate discretion that much.\nBut yes, a very legal thing could be adjudicated by the D.C.\nCircuit as very illegal.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Suppose that, you know, of these four de terminations -- let's just focus\nthreshold. And suppose that the ____________ that EPA picked\nwas super low.\nLike, so instead of 1 percent, it was .01 percent or something like that.\nSo low that you knew that every SIP was going to get rejected, every\nstate plan.\nWhat would the answer be then?\"",
+          "options": {
+            "A": "contribution limit",
+            "B": "contribution standard",
+            "C": "contribution threshold",
+            "D": "contribution criteria"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "contribution threshold",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 10,
+              "statement_index": 1,
+              "speaker": "Justice Kagan",
+              "original_statement": "Suppose that, you know, of these four de terminations -- let's just focus\nthreshold. And suppose that the contribution threshold that EPA picked\nwas super low.\nLike, so instead of 1 percent, it was .01 percent or something like that.\nSo low that you knew that every SIP was going to get rejected, every\nstate plan.\nWhat would the answer be then?"
+            },
+            "explanation": "This phrase refers to a specific legal standard that the EPA must meet when evaluating state implementation plans, highlighting the importance of thresholds in regulatory actions."
+          }
+        },
+        {
+          "question": "Fill in the blank: \", which is to say that if the\n__________________ in the same way in your hypothetical as it\ndoes in our rule, then, yes, there still has to be a lot of work done.\nBecause a screening threshold is just that, it screens out what are de\nminimis contributions and what are contributions that have to be\nfurther evaluated to determine whether they are significant.\nSo even a really low screening threshold would still require a lot of\nfurther analysis to determine whether any given state's contributions\nI take that point.\"",
+          "options": {
+            "A": "screening threshold operates",
+            "B": "screening standard applies",
+            "C": "screening criteria governs",
+            "D": "screening threshold functions"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "screening threshold operates",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 10,
+              "statement_index": 3,
+              "speaker": "Justice Kagan",
+              "original_statement": ", which is to say that if the\nscreening threshold operates in the same way in your hypothetical as it\ndoes in our rule, then, yes, there still has to be a lot of work done.\nBecause a screening threshold is just that, it screens out what are de\nminimis contributions and what are contributions that have to be\nfurther evaluated to determine whether they are significant.\nSo even a really low screening threshold would still require a lot of\nfurther analysis to determine whether any given state's contributions\nI take that point."
+            },
+            "explanation": "This phrase reveals the judicial inquiry into how legal standards are applied in evaluating contributions, indicating the necessity of understanding the implications of thresholds in regulatory frameworks."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 11,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nDo you agree or -- do you disagree with anything Mr. Huston said in the\nprior argument in terms of the scope of the third sentence or how much\neffect the third sentence might have in practice?\n### Mithun Mansinghani:\nSo I think the only gap in our position is that Mr. Huston's position is\nthat the statute alone dictates what the relevant determination is.\nAnd I think my test is a little bit more flexible.\nThat said, you know, if Mr. Huston's position is correct, I think we still\nalso prevail.\nBecause in order to disapprove our state plans, EPA would have to\nconclude that Oklahoma was significantly contributing to another\nstate.\nThat is the relevant determination.\n### Justice Kavanaugh:\nRight.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 12,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nI perceive Mr. Huston's argument to be substantially different than\nyours, so maybe I'm not understanding.\nI -- I thought you were taking -- you were willing to accept the idea that\nthe third prong allows for a generic conclusion by the EPA that applies\nuniformly irrespective of factual differences, and that that could be\nenough.\nAnd I took Mr. Huston to be saying something different than that.\n### Mithun Mansinghani:\nSo I take Mr. Huston to be saying that that generic conclusion has to be\nmandated by statute.\nI don't -- I don't quite go that far.\n### Justice Jackson:\nI see.\n### Mithun Mansinghani:\nBut I think, otherwise, our tests are very similar.\n### Justice Jackson:\nThank you.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 13,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nAnything further? Anything further? Thank you.\n### Mithun Mansinghani:\nThank you, Your Honor.\n### Chief Justice Roberts:\nMr. Tseytlin.\n### Misha Tseytlin:\nMr. Chief Justice and may it please the Court: The Clean Air Act's venue\nprovision challenge -- channels challenges to national EPA actions to\nthe D.C. Circuit, while channeling challenges to local or regional EPA\nactions, such as SIP approvals and disapprovals, to the regional circuits.\nAs you heard this morning, EPA attempts to change this neutral venue\nrule, which respects cooperative federalism and the expertise of\nregional circuits, into something very different.\nThere are three fundamental problems with EPA's approach: First, it is\nat war with the statutory text, including because it requires, for it to not\ndevolve into everything being in the D.C. Circuit, the creation of multiple\nnon-statutory tests.\nLike whether the bundling of multiple actions is a sham, like whether a\ndetermination made somewhere in a Federal Register preamble is novel.\nSecond, it leads to unadministrable, wasteful litigation about where\nactions should be brought.\nWe saw this with my -- with some of my friends' answers today about\nhow you have to look at all the comments that were submitted, and I\nwas thinking, for these 21 states, how tall the comment letters would be\npiling up next to me, that I'd have to read all of them to determine which\ncourt that I would need to sue in.\nAnd, finally -- and we haven't heard that much about it today --it\nleaves more of an opportunity of significant venue manipulation by EPA\nthat Congress certainly did not envision.\nI welcome the Court's questions.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nAnything further? Anything further? Thank you.\n### Mithun Mansinghani:\nThank you, Your Honor.\n### Chief Justice Roberts:\nMr. Tseytlin.\n### Misha Tseytlin:\nMr. Chief Justice and may it please the Court: The Clean Air Act's venue\nprovision challenge -- ____________________________________ to\nthe D.C. Circuit, while channeling challenges to local or regional EPA\nactions, such as SIP approvals and disapprovals, to the region\"",
+          "options": {
+            "A": "channels challenges to national EPA actions",
+            "B": "channels objections to state EPA actions",
+            "C": "channels disputes regarding national EPA actions",
+            "D": "channels appeals to local EPA actions"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "channels challenges to national EPA actions",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 13,
+              "statement_index": 1,
+              "speaker": "Unknown Justice",
+              "original_statement": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nAnything further? Anything further? Thank you.\n### Mithun Mansinghani:\nThank you, Your Honor.\n### Chief Justice Roberts:\nMr. Tseytlin.\n### Misha Tseytlin:\nMr. Chief Justice and may it please the Court: The Clean Air Act's venue\nprovision challenge -- channels challenges to national EPA actions to\nthe D.C. Circuit, while channeling challenges to local or regional EPA\nactions, such as SIP approvals and disapprovals, to the region"
+            },
+            "explanation": "This phrase indicates the legal principle of jurisdictional channels, which is crucial for understanding how different types of EPA actions are treated under the law."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 14,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nJust as a matter of curiosity, what is the difference between an action\nthat is nationally applicable and one that is nationwide in effect or\nscope?\n### Misha Tseytlin:\nRight.\nSo whether an action is nationally applicable is based on the statutory\nauthority under which Congress was acting.\nSo it's approvals or disapprovals under 110(k) that has to be done state\nby state.\nHowever, hypothetically, there could be a SIP disapproval or SIP\napproval that hypothetically could have a nationwide effect. The -- the\nexample that we talked about -- it's a completely hypothetical example\nthat we talked about in our reply brief --is if the state's pollution\nproblem is so significant that it pollutes across the entire nation -- let's\ntheoretically, that locally applicable action would have nationwide\neffect. And so that would be an example where the exception would\nhave a real meaning.\nNow, I want to cover this issue of venue manipulation, and it hasn't\ngotten -- even though we've been here for, like, two hours, that hasn't\ngotten a lot of airing, and I think it's a very problematic aspect of both\nEPA's arguments on --on the first two sentences and on its exception.\nEPA essentially says that if it packages separate actions in a single -- in a\nsingle Federal Register notice, subject to an ill-defined sham exception,\nit can always get into the D.C. Circuit.\nFurther, EPA says that under the exception, if that's not good enough to\nget them to the D.C. Circuit every time, they can say, well, we can point\nto any general reasoning, which as",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Just as a matter of curiosity, what is the difference between an action\nthat is ____________ and one that is nationwide in effect or\nscope?\"",
+          "options": {
+            "A": "regionally applicable",
+            "B": "nationally applicable",
+            "C": "federally applicable",
+            "D": "nationally relevant"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "nationally applicable",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 14,
+              "statement_index": 1,
+              "speaker": "Justice Thomas",
+              "original_statement": "Just as a matter of curiosity, what is the difference between an action\nthat is nationally applicable and one that is nationwide in effect or\nscope?"
+            },
+            "explanation": "This phrase challenges students to differentiate between actions that have a national application versus those that merely have a nationwide effect, requiring a nuanced understanding of legal terminology."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 15,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\npointed out is just\nnon-arbitrary/capricious rule-making under the APA, and say that that\nsends us to the D.C. Circuit under -- under the -- the third prong.\nIt -- it is that amount of power for EPA to essentially take local and\nregionally applicable actions and send them to D.C., send them here, is\nat war with the Clean Air Act's cooperative federalism regime.\nAnd with regard to SIPs, which are a big part of that, in particular, the\nwhole notion of SIPs, including with transport SIPs, is that those are\nstate-specific.\nThose are decisions made by the states, how to control pollution coming\nfrom sources in the state.\nThe venue provision here is just part and parcel of that, that when you\nhave those state-specific decisions, you don't have to go to D.C. to\nlitigate the legality of that.\nYou get to stay in your own backyard.\nare a stark example of what would happen if you allowed EPA to\nessentially subvert this regime.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"pointed out is just\n______________________________, and say that that\nsends us to the D.C. Circuit under -- under the -- the third prong.\nIt -- it is that amount of power for EPA to essentially take local and\nregionally applicable actions and send them to D.C., send them here, is\nat war with the Clean Air Act's cooperative federalism regime.\nAnd with regard to SIPs, which are a big part of that, in particular, the\nwhole notion of SIPs, including with transport SIPs, is that those are\nstate-specific.\nThose are decisions made by the states, how to control pollution coming\nfrom sources in the state.\nThe venue provision here is just part and parcel of that, that when you\nhave those state-specific decisions, you don't have to go to D.C. to\nlitigate the legality of that.\nYou get to stay in your own backyard.\nare a stark example of what would happen if you allowed EPA to\nessentially subvert this regime.\"",
+          "options": {
+            "A": "non-arbitrary/capricious rule-making by EPA",
+            "B": "non-discretionary/arbitrary rule-making under the APA",
+            "C": "non-arbitrary/capricious actions under the APA",
+            "D": "non-arbitrary/capricious rule-making under the APA"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "non-arbitrary/capricious rule-making under the APA",
+            "category": "judicial_test",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 15,
+              "statement_index": 1,
+              "speaker": "Justice Gorsuch",
+              "original_statement": "pointed out is just\nnon-arbitrary/capricious rule-making under the APA, and say that that\nsends us to the D.C. Circuit under -- under the -- the third prong.\nIt -- it is that amount of power for EPA to essentially take local and\nregionally applicable actions and send them to D.C., send them here, is\nat war with the Clean Air Act's cooperative federalism regime.\nAnd with regard to SIPs, which are a big part of that, in particular, the\nwhole notion of SIPs, including with transport SIPs, is that those are\nstate-specific.\nThose are decisions made by the states, how to control pollution coming\nfrom sources in the state.\nThe venue provision here is just part and parcel of that, that when you\nhave those state-specific decisions, you don't have to go to D.C. to\nlitigate the legality of that.\nYou get to stay in your own backyard.\nare a stark example of what would happen if you allowed EPA to\nessentially subvert this regime."
+            },
+            "explanation": "This phrase references the Administrative Procedure Act's standard for evaluating agency actions, requiring a deep understanding of the criteria for lawful rule-making."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 16,
+      "dialogue": "Justice Jackson\n### Misha Tseytlin:\nYes.\n### Justice Jackson:\nCan I ask you about your view of remand? Would you object if we\nreversed the decision on the nationally applicable prong and sent it back\nto the Tenth Circuit for a determination of whether or not there is --the\nexception applies here?\n### Misha Tseytlin:\nCertainly, I never want to turn down a -- a win, but I would say that one\nof the arguments made by EPA in opposition to our -- on to our cert\npetition was that they -- was that that the Tenth Circuit hadn't decided\nthat question.\nAnd our answer in our reply brief wasn't, like, give us a round trip. It was\nthat the issue had been fully briefed, it had been decided in other circuit\ns, and this Court would be fully able to answer it.\nWe've now been here for -- we've had a lot of pages of briefing, had a lot\nof oral arguments.\nI think that this Court is now in a good position to decide the meaning of\nthat pro -- the meaning of that third sentence and to apply it both in\nthe --in the Calumet case and in our case here.\nAnd -- and --and so just to finish -- just to finish my thought, when\nthinking about what would be the -- the consequence of allowing EPA\nto -- to jam all these cases into the D.C.\nCircuit, we took a look at how many pages in the Sixth Circuit, in the six\ncircuits that are currently taking briefing in these -- in these cases;\nfocused on these specific issues.\nAnd we counted up 300 to pages of just merits briefing that were\nfocusing just on the specific issues, not to say on the background\nsection.\nTo say that all of this could be jammed into the D.C. Circuit and that\nthese local, intensely local issues, quintessentially local issues would be\nable to practically get a -- a fair airing is I think -- don't think not\nrealistic and not what Congress envisioned.\nAnd I will say that we do have a different wrinkle in the way we approach",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Can I ask you about your __________________? Would you object if we\nreversed the decision on the nationally applicable prong and sent it back\nto the Tenth Circuit for a determination of whether or not there is --the\nexception applies here?\"",
+          "options": {
+            "A": "view of remand",
+            "B": "scope of remand",
+            "C": "order of review",
+            "D": "review of mandate"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "view of remand",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 16,
+              "statement_index": 1,
+              "speaker": "Justice Jackson",
+              "original_statement": "Can I ask you about your view of remand? Would you object if we\nreversed the decision on the nationally applicable prong and sent it back\nto the Tenth Circuit for a determination of whether or not there is --the\nexception applies here?"
+            },
+            "explanation": "This phrase challenges the understanding of the procedural implications of remanding a case, requiring knowledge of appellate review and judicial discretion."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 17,
+      "dialogue": "Justice Kavanaugh\n### Misha Tseytlin:\nYes?\n### Misha Tseytlin:\nSorry.\n### Justice Kavanaugh:\nIn other words, you want to be able to litigate in your home. You know,\nit's more convenient to litigate in the --in the circuit in the --in the\n### Justice Kavanaugh:\nIs there anything else to it that your --is behind -- any other premise\nbehind your comment there?\n### Misha Tseytlin:\nYeah, well, it's -- it's --I guess it depends how you define the word\n\"convenient.\" I mean, the --you get to litigate your issues without\nbeing jammed in with folks that want to submit 270 pages of briefing on\nissues in different parts of the country.\nSIPs are quintessentially -- decisional SIPs -- quintessentially local.\nYou know, we had --you know, there was -- there was, you know, again,\n### Misha Tseytlin:\nYeah.\n### Misha Tseytlin:\nYes.\n### Misha Tseytlin:\nIt is true that the -- you know, the judges of --of the D.C. Circuit are\nexcellent judges and work very hard.\n(Laughter.)\n### Justice Kavanaugh:\nAnd they're not afraid to rule against EPA pretty routinely either.\n### Misha Tseytlin:\nYeah.\n### Justice Kavanaugh:\nWhen justified.\n### Misha Tseytlin:\nWhen -- when justified. (Laughter.)\nBut -- but -- but I would also say that, as a practical matter, when you\nget -- when you get consolidated in the D.C. Circuit, the fight for word\nthose of you who have -- it is fierce to get a couple of pages on these\nlocal-specific issues.\nYou know, these 300 pages, you know, they're --there are, you know,\nwhen I thought our case is being transferred to D.C., thinking about how\nthings that I had 15 pages to say I would now have 2 pages to say or 3\npages to say, that was a daunting thought and certainly not what\nCongress envisioned when it specifically listed in the second sentence\nthe SIP approvals and disapprovals go to the regional circuits.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 18,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nMr. Tseytlin, explain to me how, notwithstanding the four\ndeterminations, how a SIP approval would vary among states? Like,\nwhat -- what -- what would the variations be, notwithstanding that\nthe EPA has made these four nationwide determinations?\n### Justice Kagan:\nI'm talking about the third sentence.\n### Misha Tseytlin:\nOur approach to the third sentence is --is somewhat different, while it\ndoes ultimately lead to the same result as -- as my friends on the states\n### Justice Kagan:\nBut mostly, I'm not talking about any sentence.\nI'm actually just talking about, like, your sense of the practicalities of\nthe situation.\nYou come in with a SIP.\nEPA has to approve it.\nIt has to disapprove it.\nThey've said these four things which apply uniformly to all their\napproval/disapproval decisions.\nBut I'm taking it that you're saying, notwithstanding that they've said\nthose four things, the supposed common denominator actually pales in\nsignificance relative to the state-specific circumstances and situations\nand arguments and so on.\nAnd I think I want a little bit more meat on the bones as to what that\nwould -- what that means.\n### Misha Tseytlin:\nYeah, so, I mean, I will say that those kinds of observations are not really\nrelevant to either one of our -- aspects of our test.\n### Misha Tseytlin:\nYeah.\n### Misha Tseytlin:\nOkay.\nWell, what happens is, for example, on the 1 -- the 1 -- the 1 percent\nthreshold, you know, Utah's and, you know, PacifiCorp was my client\nthere, our submission was that, you know, with regard to states in the\nwest, the -- the 1 percent doesn't make sense.\n### Justice Kagan:\nNot what I'm saying.\n### Misha Tseytlin:\nOkay.\n### Misha Tseytlin:\nMm-hmm.\n### Justice Kagan:\nthere still work to be done as to any SIP approval/disapproval decision?\n### Misha Tseytlin:\nYes, of course.\n### Justice Kagan:\nSo what is -- what is the non-common denominator work that remains\nto be done?\n### Misha Tseytlin:\nThe state specific arguments, for example, in Utah.\nWe made the argument that we are like Arizona, and Arizona a couple\nyears before, EPA had declined to -- to apply the -- the 1 percent\nthreshold, essentially because the down-state pollution there was to\nmost of the pollution there, and so the 1 -- there was so much --so little\nimport to the contribution that Arizona was making to California that it\nwouldn't make any sense to apply the 1 percent threshold.\nWe said we, in Utah, we're -- we're told that we're triggering monitors\nin the Denver area.\nWe said look, there's mountains around Denver.\nIt's trapping it over there. And so treat us like Arizona.\nNow, that is a very specific regional-specific thing that, you know, I\nwouldn't get to argue -- you know, it would get lost in -- in the D.C.\nCircuit and also it is not one of the four determinations.\nIt's something very particular.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Mr. Tseytlin, explain to me how, notwithstanding the four\ndeterminations, how a ____________________________________? Like,\nwhat -- what -- what would the variations be, notwithstanding that\nthe EPA has made these four nationwide determinations?\"",
+          "options": {
+            "A": "SIP approval must align with federal standards",
+            "B": "SIP disapproval would vary among states",
+            "C": "SIP approval would vary among states",
+            "D": "SIP implementation would differ across jurisdictions"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "SIP approval would vary among states",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 18,
+              "statement_index": 1,
+              "speaker": "Justice Kagan",
+              "original_statement": "Mr. Tseytlin, explain to me how, notwithstanding the four\ndeterminations, how a SIP approval would vary among states? Like,\nwhat -- what -- what would the variations be, notwithstanding that\nthe EPA has made these four nationwide determinations?"
+            },
+            "explanation": "This phrase challenges the understanding of State Implementation Plans (SIPs) and how local variations can exist despite overarching federal determinations."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"So what is -- what is the __________________ that remains\nto be done?\"",
+          "options": {
+            "A": "common standard work",
+            "B": "non-common denominator work",
+            "C": "common denominator action",
+            "D": "non-standard denominator work"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "non-common denominator work",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 18,
+              "statement_index": 3,
+              "speaker": "Justice Kagan",
+              "original_statement": "So what is -- what is the non-common denominator work that remains\nto be done?"
+            },
+            "explanation": "This phrase challenges the understanding of judicial reasoning by probing the complexities of legal standards and the nuances of what constitutes remaining work in a legal context."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 19,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nJustice Thomas? Anything further?",
+      "questions": []
+    },
+    {
+      "conversation_id": 20,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nIt doesn't get lost.\nI'll just say that.",
+      "questions": []
+    },
+    {
+      "conversation_id": 21,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nI'm sorry, Justice Gorsuch? Anything?",
+      "questions": []
+    },
+    {
+      "conversation_id": 22,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nYeah.\nBut there are four things, right? I mean, the EPA says they are\nuncommon to all and wouldn't it be efficient to have those determined\nin one venue with excellent judges who pay close attention to them.\n(Laughter.)\nAnd then any other regional matters to resolve regionally.\n### Justice Gorsuch:\nI mean, that would be a good system too, right?\n### Misha Tseytlin:\nCertainly that would be a system that Congress could enact.\n### Justice Gorsuch:\nYeah.\n### Justice Gorsuch:\nOkay, thanks.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 23,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Kavanaugh.",
+      "questions": []
+    },
+    {
+      "conversation_id": 24,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nJust to make sure on deference, are you saying no deference to EPA's\ndetermination that it's nationwide scope and effect?\n### Misha Tseytlin:\nYeah, my position is the same as Mr. Huston, but I will have one addition\n### Justice Kavanaugh:\nYeah.\nGo ahead.\n### Misha Tseytlin:\nMy additional wrinkle is that regardless of whether the Court believes\nthat deference is warranted to -- when EPA applies the proper\nframework, here there's no deference to the fact that their -- the\nfinding that they made was on the wrong thing.\nSo if you take a look at the Federal Register notice, the only thing that\nthey're finding as a nationwide determination of a scope and effect is\nbased on the fundamental flaw that applies to the first and second\nsentence, which is that they think that the -- the action is all 21.\nSo the fact that they identified the wrong -- the wrong action wouldn't\nbe entitled to deference no matter what.\n### Justice Kavanaugh:\nI understand that point.\n### Misha Tseytlin:\nYeah.\n### Justice Kavanaugh:\nOkay.\nThank you.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 25,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Barrett?",
+      "questions": []
+    },
+    {
+      "conversation_id": 26,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\n?\nYeah, you said a couple of times that your approach to the third sentence\ndiffered, but you never quite got out how so.\n### Misha Tseytlin:\nYeah.\nSo the sentence, the -- the key sentences, if such an action is based on a\ndetermination of scope -- of nationwide scope and effect, we think that\nthe word \"of\" is ambiguous.\nWe take the states and maybe EPA to --to read \"of\" as, if such an action\nis based on a determination that has a nationwide scope and effect.\nWe read that \"of\" to be, if such an action is based on a determination of\nthat action's nationwide scope and effect.\nAnd I -- I think if -- you know, as this opinion writes, I think if you take a\nlook at that, that is the most administrable rule that can be made for the\nthird sentence.\nAnd it gives it real import, even though it's in a limited number of cases.\n### Justice Jackson:\nThank you.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 27,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel. Mr. Stewart.\nWelcome back.\n### Malcolm L. Stewart:\nThank you, Mr. Chief Justice and may it please the Court: Let me just\nmake two or three observations and -- and then take questions.\nThe first is that there's been colloquy in both of these cases about the\npropriety of EPA getting deference on a question about what forum the\ncase will be heard in. Under the statute, EPA has some influence on the\nquestion of whether the case, all challenges to a particular action will be\nheard in a centralized forum or whether, instead, they can be brought all\nthroughout the country.\nAnd if EPA chooses the former course, the fact that the cases go to the\nD.C. Circuit, the fact that the D.C. Circuit is the centralized forum, that's\nthe choice of Congress.\nThat's not the choice of EPA.\nAnd so it's not the case that EPA can direct challenges to whatever court\nit wishes.\nThe second thing I would say, and this goes back to the NRDC cases that I\nmentioned earlier, that when Congress was studying the venue\nprovision in preparation for the 1977 amendments, it had in mind the\nSIP approval actions that had taken place and been challenged in many -\n-in NRDC cases. And when it chose the path that EPA's general counsel\nrecommended, rather than the path that ACUS recommended, it\nwanted to ensure that there was some mechanism available for review\nof national issues, even when they pertained to the approval or\ndisapproval of SIPs.\nAnd, finally, Justice Kagan, you said something to the effect that under\nEPA's framework here, as opposed to the framework in the case before,\neven once you got past the 1 percent threshold, the 1 -- the questions\nabout the propriety of the 1 percent de minimis threshold, there was still\na lot of work to be done.\nAnd I think the analysis is complicated, but at the end of the day, EPA\ndisapproved 21 plans.\nIt approved, I think, 23.\nI believe that all 23 plans that were approved were approved on the\nground that the state fell under the 1 percent de minimis threshold.\nSo as a practical matter, the determination of whether a particular state\nexceeded the 1 percent threshold had great predictive effect in terms of\nwhether the plan would be approved or disapproved.\nI welcome the Court's questions.",
+      "questions": []
+    },
+    {
+      "conversation_id": 28,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nBut once you got past the 1 percent thresh --threshold, which they have\nin common, the rest of it seems quite particularized.\nAnd how would you deal with that as opposed to the refineries, where\nwe were only talking about a couple of factors?\n### Malcolm L. Stewart:\nWell, I would say they do require analysis of particular state\ncircumstances, but they -- they are still national in scope and they still\nwere contested; that is, EPA received comments indicating that\nchallenges to even the subsequent steps of the analysis were not simply\ngoing to be we accept these factors, but we think we satisfy them.\nThey were going to be challenges to the factors themselves.",
+      "questions": []
+    },
+    {
+      "conversation_id": 29,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThere's been talk about the benefit of having a simple and\nstraightforward standard, and I think that's true.\nI also think the point Mr. Tseytlin makes is a significant one too, that if\nyou're -- however you want to put it -- more at home in your local\ncircuit and less likely to get lost in the shuffle here in Washington.\nAnd I wondered if you had a response to his concern in that respect.\n### Malcolm L. Stewart:\nI -- I mean, I think that just depends -- I mean, part of the awkwardness\nof the case is, the extent of the statute is the extent to which that is so\ndepends on the extent to which your challenges are to the national\ncriteria that EPA has promulgated or whether they are to the way in\nwhich those criteria are applied to your own state-specific\ncircumstances. And the more that the latter is the case, the more it\nmakes sense to be in the regional circuit.\nThe reason I say it's an awkwardness of the statute is the statute\nrequires that the venue determination be made as of -- at the time that\nthe action is taken, and it doesn't take into account what set of\nchallenges do particular petitions for review choose to make.\nAnd so the best we can do is have a test that tries to use proxies for\nactions that are -- as to which the national determinations are likely to\nbe the focus of judicial review.",
+      "questions": []
+    },
+    {
+      "conversation_id": 30,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nSo the statute does look at the action at the time it's taken.\nAnd sentence 2 very clearly puts these kinds of actions, the SIPs, in the\nlocal or regional bucket.\nSo I guess I'm -- I'm confused as to why the government is even taking\nthe position that the first bucket is applicable here.\n### Malcolm L. Stewart:\nI -- I mean, we see the specification of SIP decisions in prong 2 as\nreferring to decisions regarding an -- an individual SIP.\nAnd to the extent that we publish approvals or disapprovals of particular\nstate SIPs on a one -- one-to-one basis, we would agree that those are\n### Justice Jackson:\nSo you think the statute was really meant to distinguish between 1 and 2\non the basis of the EPA's publishing determinations?\n### Malcolm L. Stewart:\nWell, I would say that the statute was meant to distinguish between 1\nand 2 on the basis of the action that EPA took. And if -- if you regard the\nno, you should probably disregard it.\n### Justice Jackson:\nAre they materially different? If what the EPA did here was separate out\nI see one -- one publication that lists each state separately and has the\nanalysis for each state separately.\nIf EPA put a page break between each one of the states and published\nthem differently, would you say that's a sentence 2 scenario?\n### Malcolm L. Stewart:\nI -- I don't think a page break would be enough, but if EPA issued\ndifferent -- you know, 21 different Federal Register notices on 21\n### Malcolm L. Stewart:\nWith the same kind of content as to the nationwide part of it, and then\neach one with a different analysis, how does this content, the\nnationwide content apply to the particular state involved, then we\nwould say that's a series of discrete state-specific actions.\nAnd in -- in a way the most straightforward way for us to prevail in this\ncase ultimately is on prong 3, because the analysis under prong 3\ndoesn't depend on what if any weight the court gives to EPA's decision\nto issue these, all of these in one Federal Register notice.\n### Justice Jackson:\nSo on the thought, the prong 3 determination, what --what is your view\nas to why this is still driven? I understand that you have four factors and\nyou're applying the four factors.\nAnd we would hope that that would be the case, that you would be\nassessing each state consistently using a set of criteria.\nBut I take your point that that's enough to make it a --a determination\nof national scope or application?\n### Malcolm L. Stewart:\nWell, I mean, it is partly that they were the four criteria we were going to\nuse.\nIt was partly that they at least to a degree were new and contested.\nWe anticipated from comments we received on the proposed\ndisapprovals that the states would contest the methodology, not just its\napplication.\nThe other thing I would say is all of the states whose plans were\ndisapproved had proposed to take no further ameliorative action with\nrespect to ozone transport beyond what they were already doing.\nSo it would have been a much more complicated analysis if various\nstates had been planning to improve their plans in -- in different ways\nand EPA was required to make state-by-state determinations as to is\nthis good enough.\nIn -- instead, we had -- we approved a lot of plans that -- for states\nthat fell below the 1 percent threshold, disapproved a lot of plans for\nstates that in our view fell above it and that didn't propose to do\nanything additional.",
+      "questions": []
+    },
+    {
+      "conversation_id": 31,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nSo they -- the -- you knew the challenges were going to be to the four\n### Malcolm L. Stewart:\nRight.\n### Justice Gorsuch:\nAnd so it had to challenge the -- the factors that you were using?\n### Malcolm L. Stewart:\nWe --we anticipated that, and we had confirmation of that from the\nfact that we had proposed -- had -- had published proposed\n### Justice Gorsuch:\nSaying as much.\n### Malcolm L. Stewart:\nYes.\n### Justice Gorsuch:\nExactly.\nAnd so, again, as I take it, you --you're consistent between the two\ncases in this respect.\nYou're saying: There are new criteria.\nThat's what's going to get challenged.\nThat should go to the D.C. Circuit.\nAnd maybe 10 years later when the criteria are settled, and it really does\nturn on local factors, then -- then the regional circuits can take over\nagain?\n### Malcolm L. Stewart:\nYes, exactly.\n### Justice Gorsuch:\nYeah.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 32,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nBut isn't it here how those factors are actually working and the\ndifferences in the modeling in each state that is driving the\ndetermination? I mean, I think this goes back to",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 33,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\n's points\nearlier that, yes, there -- the factors are new, they are going to be\ncontested, and if those factors had necessarily come out the same way\nbecause we didn't really care about the facts of each case in the\napplication, then perhaps it would make sense to have the D.C. Circuit\ndoing it, but if you're applying new factors and it matters that you are\nDenver versus, you know, Arizona or whatever in terms of how the\nmodeling works, I guess I don't see how this is necessarily the same as\nthe refining --the refinery determination.\n### Malcolm L. Stewart:\nI -- I mean, there's an obvious difference in outcomes in the sense that\nwith the refineries, we ultimately denied all of 105 of the exemption\napplications; whereas with the various state plans that EPA got, we\ndisapproved 21 of them and approved I -- 23 or plus --plus or minus one\nor two of that.\nSo we were approving a little over half the plan submissions.\nIn that case, it -- it looks as though there's more --and there is -- more\na determination can be --a -- a nationwide determination can be\ncentral to the analysis and be the focus of judicial scrutiny and be the\nsort of thing that --for which centralized review is important, even if it\ndoesn't kind of preordain the outcome of a particular matter.\nAnd then the second thing I would say is, with respect to the state-by-\nstate variations here, the big predictor was did you fall above or below\nthe 1 percent threshold.",
+      "questions": []
+    },
+    {
+      "conversation_id": 34,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nI know, but we're in the exception.\nI mean, the thing that -- the thing that troubles me about your first\n### Malcolm L. Stewart:\nRight.\n### Justice Jackson:\nthese are local because we're in prong 3.\nAnd the exception, I would think, would just be identifying the\nparticular circumstances in which, even though we know we have state -\nspecific variation that matters, that's why we're local, we're still going\nto say no, this is really being driven in a significant way by the -- the\nnational determination.\nAnd so I guess I just don't --it's -- it's hard to for me to square that\nunderstanding of the structure of the statute and the fact that we're in\nan exception with an argument that says yes, but there's a national\nstandard doing some work here.\n### Malcolm L. Stewart:\nWell, I mean, obviously the only --the only people who -- who are going\nto seek judicial review are people who didn't get the result that they\nwant from the agency. And so in -- in the case of SIP disapprovals, the -\n- the disappointed parties would predominantly be states, to some\nextent industry.\nAnd so you --you would have to -- you would have to ask -- if you were\ntrying to route to the D.C. Circuit the recurring national issues, while\nleaving local issues to the regional circuits, you -- you'd want to be\nanticipating as best you can are the people who are disappointed by this\ndecision likely, in the main, to challenge it on the ground that the\nnational framework was no good or, in the main, will they argue that\neven accepting the national framework, the outcome should have been\ndifferent in my case? Again, based on the -- both the kind of the nature\nof the inquiry and the comments we had received on the proposed\ndisapprovals, EPA anticipated that, in the main, the challenges would be\nto the nationwide aspects.\nAnd although it's not directly relevant to the venue question, that's\nbeen borne out in practice.\nThe people who have challenged these -- the SIP disapprovals in the\nregional circuits have primarily focused on the nationwide framework,\nrather than on the site-specific application.",
+      "questions": []
+    },
+    {
+      "conversation_id": 35,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nIn your rebuttal in the earlier case, where you said some cases have\nended up in the D.C. Circuit without being challenged, the venue being\n### Malcolm L. Stewart:\nRight.\n### Justice Kavanaugh:\ncases or prong 3 cases?\n### Malcolm L. Stewart:\nI -- I mean, I think in most of these cases, it would -- EPA would identify\nboth in the rule-making as bases for D.C.\nCircuit venue.\nAnd so as -- as happened in this Federal --these Federal Register\nnotices\n### Justice Kavanaugh:\nSo they're both prong 1 and 3.\n### Malcolm L. Stewart:\nBoth prong 1 and 3.\nAnd because the people sued in the D.C. Circuit and nobody contested\n### Justice Kavanaugh:\nBut the point -- I think the point would be --is different if it were an\nexclusively prong 3 situation.\n### Justice Kavanaugh:\nYou get --you get my point.\n### Malcolm L. Stewart:\nYeah.\nthe fact that we can't point to published court of appeals opinions that\nhave upheld prong 3 findings by EPA is more a function of those findings\nnot being challenged in prior litigation than it is of we make findings,\nprong 3 findings, and sometimes they're struck down and -- but they're\nnever upheld.\nThat -- that hasn't been the case.\nWe're not aware of any case in which EPA has made a prong 3 finding\nand a court has disapproved it.\nI guess the last thing I wanted to say is I'm be -- I've always bemused in\nthese papers by references to the D.C. Circuit as a hometown court for\nEPA because if location in D.C. meant that the D.C. Circuit is a hometown\ncourt, then this Court would be a hometown court for EPA, and I've\nnever had that perception.\n(Laughter.)\nThank you, Mr. Chief Justice.",
+      "questions": []
+    },
+    {
+      "conversation_id": 36,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nAnything further?\n### Chief Justice Roberts:\nYeah. Anything further? Thank you, counsel.\n### Malcolm L. Stewart:\nThank you.\n### Chief Justice Roberts:\nMr. Mansinghani.\n### Mithun Mansinghani:\nThank you, Mr. Chief Justice.\nTwo quick points.\nTo Justice Kagan's question about whether the four determinations\nwere sort of the be all/end all here, and it seems like Mr. Stewart seemed\nto think so with the 1 percent threshold, if you look at Oklahoma's plan,\nOklahoma said, look, even --even though we're above the screening\nthreshold, here's why our contributions are not significantly going to\ncontribute to non-attainment down-wind.\nLook at the trends in Oklahoma's emissions due to the specific structure\nof the Southern Power Pool and to how Oklahoma operates its electric\ngenerating fleet.\nAnd look at the dropping ozone levels in down-wind states like Texas,\nbecause of mobile source changes.\nEPA rejected those rationales, but nonetheless those were state-\nspecific things that ended up controlling the decision.\nSimilarly with Utah, Utah said based on a weight -- weight-of-the-\nevidence analysis, we don't think we're significantly contributing\nbecause in the west, as EPA had prior determined with states like\nArizona and California, the -- the relative contributions are relatively\nlow. Around 6 to 7 percent are coming from other states, very different\nfrom what's happening in the east.\nSo these were all very state-specific things that EPA had to -- to\nadjudicate, even after it got past all of those four determinations.\nThe second thing I wanted to talk about was where we are with the text\nof the exception.\nYou know, Mr. Stewart's test has a lot of atextual things to it.\nWell, it has to be a determination but a new one, not a -- not an old one.\nWe have to try to figure out where -- what -- what part of the action\nlitigants are likely to challenge.\nAre they likely to challenge the local aspects or the national aspects?\nThat --that seems like a very hard-to-adjudicate venue test.\nAnd it's also something that doesn't come from anywhere in the\nstatute.\nI think our test comes from the words \"based on,\" which in this Court's\nForeign Sovereign Immunities Act decision in Sachs, I think takes a\nsimilar approach as we do.\nIt has to be the gravamen -- gravamen or foundation of the action and\nnot just an element.\nAnd in that case, this Court declined to apply the commercial activities\nexception in a unanimous decision, even though plaintiffs had alleged\ncommercial activities, because the Court said that alleging all of those\nthings alone still entitled plaintiffs to nothing.\nBut then you also couple that with the fact that I think the third\nsentence has to be read in conjunction with the first two.\nIt has to be things like are in the first sentence, like the setting of a\nnational uniform air quality standard or a national uniform standard of\nperformance for sources.\nCouple that with the types of cases that we talked about like the NRDC\ncases and Dayton Power cases and the fact that this is a venue clause, so\nit shouldn't be manipulable, and the fact that it's an exception, so it\nshouldn't be read to swallow the rule.\nI think all of that leads to -- to our test.\n\n### Chief Justice Roberts:\nThank you, counsel.\nThe case is submitted.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    }
+  ],
+  "generation_stats": {
+    "total_conversations": 36,
+    "conversations_with_questions": 13,
+    "conversations_without_questions": 23,
+    "processed_conversations": 36,
+    "questions_generated": 40,
+    "skipped_for_low_complexity": 11,
+    "coverage_rate": "36.1%",
+    "methodology": "Extract key phrases from justice statements and create multiple choice questions with extremely deceptive distractors"
+  },
+  "answer_distribution": {
+    "counts": {
+      "A": 13,
+      "B": 9,
+      "C": 9,
+      "D": 9
+    },
+    "percentages": {
+      "A": 32.5,
+      "B": 22.5,
+      "C": 22.5,
+      "D": 22.5
+    },
+    "total_questions": 40
+  }
+}

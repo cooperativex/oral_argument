@@ -1,0 +1,1379 @@
+{
+  "source_file": "Delligatti v. United States _ Oyez.md",
+  "description": "MODERATELY CHALLENGING predict-next Justice question generation with balanced legal distractors",
+  "methodology": "Two-step process: (1) Generate 10 related legal alternatives, (2) Select 3 balanced distractors for 70-80% target accuracy",
+  "difficulty_level": "MODERATE - Targets law students and legal professionals (70-80% accuracy)",
+  "distractor_approach": "Balanced mix: related but different, clearly different, and obviously wrong alternatives",
+  "context_mode": "with_previous_contexts",
+  "use_previous_contexts": true,
+  "background": "Cornell University administered two retirement plans for its employees: the Retirement Plan and the TDA Plan. As of 2016, these defined-contribution plans had over 30,000 participants and nearly $3.4 billion in combined net assets. Cornell delegated administrative responsibilities to its Vice President for Human Resources and established the Retirement Plan Oversight Committee (RPOC) to oversee the plans. The plans offered approximately 300 investment options and incurred investment management and recordkeeping fees, with TIAA-CREF and Fidelity Investments serving as both investment providers and recordkeepers. Plaintiffs, representing a class of plan beneficiaries, sued Cornell and its appointed fiduciaries in federal district court, alleging violations of the Employee Retirement Income Security Act (ERISA), including failure to adequately monitor the plans, resulting in the retention of underperforming investment options and excessive fees, as well as engaging in prohibited transactions under 29 U.S.C. § 1106. The district court dismissed or granted summary judgment to the defendants on most claims, and the parties reached a settlement on the remaining claim before the court entered final judgment. The plaintiffs challenged the district court’s award of summary judgment on two counts, but the U.S. Court of Appeals for the Second Circuit affirmed the lower court.",
+  "conversations": [
+    {
+      "conversation_id": 1,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nWe will hear argument next in Case 23-825, Delligatti versus United\nStates.\nMr. Kedem.\n### Allon Kedem:\nMr. Chief Justice, and may it please the Court: Using physical force\nagainst another requires taking some step to bring force into contact\nwith the victim.\nThat can happen directly, as with a kick or a punch, or indirectly, such as\ngiving a gentle push to someone teetering on the edge of a cliff.\nBut it does not involve an offense that can be committed by pure\nomission, such as failing to render aid to someone suffering from a\nnatural disorder.\nThe government's attempt to reverse-engineer the use of force from\nthe presence of injury is contrary to logic and plain meaning.\nIt also runs counter to this Court's instructions that \"use\" means active\nemployment, that physical force is violent force, and that \"against\nanother\" means making contact with another.\nThe government's appeal to practical consequences, in addition to\nbeing irrelevant to interpreting the statute's text, is similarly\nunpersuasive.\nAt the time the Elements Clause was adopted, all or nearly all of the\nstatutes identified by the government would have satisfied the Residual\nClause, and, per the government's hedging here, many will satisfy the\nElements Clause too regardless of whether crimes of omission are\nexcluded.\nA failure to counteract harm may be morally and legally culpable and it\nmay merit severe punishment, but it does not categorically involve the\nuse of violent physical force against another.\nI would welcome the Court's questions.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 2,
+      "target_dialogue": "## Justice Thomas\n### Justice Thomas:\nSo, in your thinking, if you poison someone and cause --thereby cause\nthe death of that person, the -- that is, in your argument, under your\nargument, treated differently from withholding critical, say, heart\nmedicine when someone is in the process of having a heart attack?\n### Allon Kedem:\nThat's correct, Your Honor.\nSo this Court has described poison as having forceful physical properties\nthat you would have put into contact with the victim by putting it in\ntheir drink.\nThat's a very different situation than someone who potentially through\nnatural causes slips into distress and you don't take any action to put\nthem into contact with any force, and there may not be any force\ninvolved if, for instance, it's a congenital disorder.\nSo there's no force at all and you wouldn't have used that force actively.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 3,
+      "target_dialogue": "## Justice Sotomayor\n### Justice Sotomayor:\nI'm sorry, I don't know --you almost seem to be talking proximate\ncause.\nThere's no force in the poison itself in what you did.\nThe force is in the nature of the substance that goes through the\nperson's body. Similarly, there's no violent force in a gentle push of a\n90-year-old down the stairs.\nYou could probably do it with a finger.\nSo there's no violent force there.\nWhat you seem to be saying is, if I have a duty to act and I choose not to,\nI'm not responsible for the force that I let work on this human being?\nThat's your position, correct?\n### Allon Kedem:\nNo, Your Honor.\nSo, in both the poisoning example and giving a gentle push to someone\nwho falls down the stairs or off of a cliff, you are not directly applying\nviolent physical force.\nIt's a gentle touch or you're just letting the molecules of the poison fall\nfrom your hand.\nBut there is still an application of violent physical force when they hit\nthe ground at high speed.\n### Justice Sotomayor:\nWell, I --I would tell someone who's freezing in the snow that there's an\napplication of winter conditions to their body to kill them.\n### Allon Kedem:\nSure.\nAnd in that instance, again, you might describe the elements as\ninvolved -- involving violent physical force, which perhaps you could\ndescribe as using indirectly if, for instance, you throw them out into the\nsnow. But that's a very different situation than a pure omission, where\n### Justice Sotomayor:\nIt's not a pure omission.\nIt's an obligation to act.\n### Allon Kedem:\nSure.\n### Justice Sotomayor:\nobligation even if I know the Heimlich maneuver to do it.\nHowever, if it's a child and my child, I have an obligation to try to save\nthem.\n### Allon Kedem:\nThat's correct.\n### Justice Sotomayor:\nSo I'm letting nature use its force to kill that child.\n### Allon Kedem:\nSo it --there's no dispute that it is criminally culpable behavior and can\nbe punished severely.\nBut the question is, is there violent force being applied to the victim and\nhave you actively employed that force? And in a situation where, for\ninstance, you just don't provide medicine or nutrition to someone and\nthey slowly expire, there is no violent physical force of any sort.\nIt's not like hitting the ground at high speed.\nAnd, moreover, you haven't taken any step to actively employ any force.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 4,
+      "target_dialogue": "## Justice Kagan\n### Justice Kagan:\nI guess I'm not sure I get that.\nIn the poison case, you're agreeing that it's not my putting the poison\ninto the drink that's violent physical force; rather, it's the way the\npoison acts on the body.\n### Allon Kedem:\nRight.\n### Justice Kagan:\nAnd in the withholding-of-medication situation, it's similarly the way\nthe disease acts against the body, and -- and you're enabling that\ndisease to run.\n### Allon Kedem:\nRight.\nSo I think this Court has analogized poison to sort of like a little\nexplosive device that detonates when you swallow it.\nI don't think the same is true, for instance, to just the absence of\nchemical inputs as necessary to keep your cells going.\nThat's not analogous to violent physical force.\nAnd even in the poisoning example, you are still taking some step to\nbring the person into contact with that poison, without which they\nwouldn't have the force applied to them at all, even indirectly.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 5,
+      "target_dialogue": "## Justice Barrett\n### Justice Barrett:\nSo, if I take a hostage and then just let the hostage starve, which side of\nthe line does that fall on for you?\n### Allon Kedem:\nSo putting aside that that would probably be a threat or, you know,\n### Allon Kedem:\nSure.\n### Allon Kedem:\nin the room and then they slowly expire.\nFrom our perspective, that would not involve a application of violent\nphysical force, and you could say you used the locks, but you haven't\nactually used force against them.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 6,
+      "target_dialogue": "## Justice Gorsuch",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 7,
+      "target_dialogue": "## Justice Barrett\n### Justice Barrett:\nWell, what do you do with the fact that Stokeling especially seems to\nmeasure force not from the front end, like force applied, but from the\nback end on what does the force -- what -- what is its result? It seems\nto me that for murder, necessarily, the result was pretty extreme.\n### Allon Kedem:\nSo, respectfully, I --I don't think Stokeling takes that position.\nIn fact, the whole discussion in Stokeling was how much force do you\nneed to apply, what's the amount of force, to overcome resistance,\nwhich, again, the Court wasn't focused on whether the person was\ninjured or not.\nIt was can you do it just sort of by gently grabbing it, or does it need to be\nmore -- more vigorous.\n### Justice Barrett:\nBut the measure of the force, if you're prying someone's fingers off of a\n### Allon Kedem:\nRight.\n### Allon Kedem:\nYeah.\n### Allon Kedem:\nSo -- so that -- and that was the back-and-forth.\nEveryone was focused on that same question.\nSo they were still focused on how much force was involved.\nYou look also, for instance, at --at Castleman.\nSo Castleman gives the example of a squeeze of an arm that causes a\nbruise, which the Court said would count as common law force for\npurposes of domestic violence but would not count as violent force for\ngeneric purposes, which shows that even the direct application of\nenough force that sometimes causes an injury, a bruise, is not enough\nbecause it's still not a high enough degree of force.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 8,
+      "target_dialogue": "## Justice Gorsuch\n### Justice Gorsuch:\nMr. Kedem, you know, our intuition is that often omissions are just as\n### Allon Kedem:\nSure.\n### Justice Gorsuch:\nAnd, certainly, it can be murder when there's a preexisting duty of care\nthat you then omit to fulfill.\n### Allon Kedem:\nRight.\n### Justice Gorsuch:\nAll right.\nBut there are some places where we have gone well beyond that\ncommon law rule and imposed a duty of care even for the good\nSamaritan.\nSo let's take a hypothetical.\nSomeone comes across the street, sees that the manhole cover's open,\n### Allon Kedem:\nMm-hmm.\n### Justice Gorsuch:\nNow an extreme hypothetical.\nJustice Breyer might be proud.\n(Laughter.)\nThat would be murder in a --in a state with a good Samaritan statute.\nPhysical force, I guess the gravity's -- I mean, what -- what more\npowerful force in the universe is there than that? Would that in your\nview fall within the government's understanding of what would qualify\nas -- as the application of violent force?\n### Allon Kedem:\nIt would have to.\nThe government's view essentially is anytime you have a bad result, you\nknow that there must have been violent physical force, which means\nthat not only would the death or other injury in your example be violent\nphysical force, it would also be involved in literally every death since the\nbeginning of time because, in every death, something bad happens\nbecause you either are injured or run out of the cellular inputs necessary\nto sustain life.\n### Justice Gorsuch:\nAnd if I might just ask a slightly different question.\nThis is one that --yeah, I don't know of any more powerful force in the\nuniverse than gravity, but any -- I wonder whether this statute is\ndivisible between acts and omissions, and that isn't something either\nside explored.\n### Allon Kedem:\nMm-hmm.\n### Justice Gorsuch:\nI know it won't help your client, okay, but perhaps -- I'd welcome your\n### Allon Kedem:\nSure.\n### Allon Kedem:\nSo this statute is not. We have opinions from the court of appeals, New\nYork's highest court, saying that the statute can be committed either by\naffirmative acts or by omissions, including pure omissions.\nSo we have the Wong case, where there were two caregivers, one of\nwhom shook the child, the other of whom failed to render aid.\n### Justice Gorsuch:\nYes.\n### Allon Kedem:\nSure.\n### Justice Gorsuch:\nthen the failure to fulfill it.\n### Allon Kedem:\nThat's right.\n### Justice Gorsuch:\nVery different than killing somebody or ordering a hit on somebody by\nact.\nI mean, giving them a pistol in a brown paper bag is a little different.\n### Allon Kedem:\nIt is.\nPresumably, if the government thought that this statute was divisible,\nthey would have argued it, but I think your question really highlights an\nimportant point, which is it just so happens that this murder statute can\nbe satisfied either by acts or omissions.\nBut the government's argument would have to be the same even if New\nYork had a murder -by-omission statute that could only be satisfied by\na pure omission in which there was no actus reus whatsoever, other than\njust having a duty that you failed to satisfy.\nAnd the government's argument would have to be, in every single\ninstance of that murder -by -omission statute, violent physical force\nwas involved.",
+      "justice_name": "Justice Gorsuch",
+      "total_justice_questions": 3,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Gorsuch most likely ask next?",
+          "options": {
+            "A": "What would be the legal ramifications of an individual failing to intervene in a dangerous situation that falls outside the good Samaritan doctrine?",
+            "B": "In discussing statutory duty, how does the existence of a good Samaritan statute inform the evaluation of an omission in this context?",
+            "C": "Now an extreme hypothetical.\nJustice Breyer might be proud.\n(Laughter.)\nThat would be murder in a --in a state with a good Samaritan statute.\nPhysical force, I guess the gravity's -- I mean, what -- what more\npowerful force in the universe is there than that? Would that in your\nview fall within the government's understanding of what would qualify\nas -- as the application of violent force?",
+            "D": "What distinguishes civil liability from criminal liability when analyzing omissions in scenarios where one might feel morally compelled to act?"
+          },
+          "answer": "C",
+          "target_justice": "Justice Gorsuch",
+          "debug_info": {
+            "correct_answer": "Now an extreme hypothetical.\nJustice Breyer might be proud.\n(Laughter.)\nThat would be murder in a --in a state with a good Samaritan statute.\nPhysical force, I guess the gravity's -- I mean, what -- what more\npowerful force in the universe is there than that? Would that in your\nview fall within the government's understanding of what would qualify\nas -- as the application of violent force?",
+            "fake_questions": [
+              "In discussing statutory duty, how does the existence of a good Samaritan statute inform the evaluation of an omission in this context?",
+              "What would be the legal ramifications of an individual failing to intervene in a dangerous situation that falls outside the good Samaritan doctrine?",
+              "What distinguishes civil liability from criminal liability when analyzing omissions in scenarios where one might feel morally compelled to act?"
+            ],
+            "all_generated_alternatives": [
+              "In discussing statutory duty, how does the existence of a good Samaritan statute inform the evaluation of an omission in this context?",
+              "Given the implications of criminal liability, how does one differentiate between acts of commission and omission under the common law?",
+              "If a violent act leads to unintended consequences under a good Samaritan statute, how might that affect the interpretation of physical force?",
+              "What would be the legal ramifications of an individual failing to intervene in a dangerous situation that falls outside the good Samaritan doctrine?",
+              "Can you elaborate on how the standard of recklessness might apply to omissions under state criminal law?",
+              "In states where good Samaritan laws exist, how does that shape expectations for bystander intervention in life-threatening scenarios?",
+              "What is the relationship between moral obligations and legal obligations concerning omissions in cases of potential harm?",
+              "Would the absence of a good Samaritan statute change the legal responsibilities attributed to bystanders in preventing harm?",
+              "How do courts evaluate the reasonableness of a bystander's duty to act in emergency situations without a good Samaritan law?",
+              "What distinguishes civil liability from criminal liability when analyzing omissions in scenarios where one might feel morally compelled to act?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 0
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Gorsuch most likely ask next?",
+          "options": {
+            "A": "How might this analysis shift if we incorporated elements of strict liability regarding harms caused by omissions instead of voluntary acts?",
+            "B": "In your view, how would this case differ if we were discussing a criminal negligence standard as opposed to a duty of care issue?",
+            "C": "In light of our ongoing discussion, how do you interpret the statute's application to inaction under common law, specifically regarding liability for omissions?",
+            "D": "And if I might just ask a slightly different question.\nThis is one that --yeah, I don't know of any more powerful force in the\nuniverse than gravity, but any -- I wonder whether this statute is\ndivisible between acts and omissions, and that isn't something either\nside explored."
+          },
+          "answer": "D",
+          "target_justice": "Justice Gorsuch",
+          "debug_info": {
+            "correct_answer": "And if I might just ask a slightly different question.\nThis is one that --yeah, I don't know of any more powerful force in the\nuniverse than gravity, but any -- I wonder whether this statute is\ndivisible between acts and omissions, and that isn't something either\nside explored.",
+            "fake_questions": [
+              "In light of our ongoing discussion, how do you interpret the statute's application to inaction under common law, specifically regarding liability for omissions?",
+              "In your view, how would this case differ if we were discussing a criminal negligence standard as opposed to a duty of care issue?",
+              "How might this analysis shift if we incorporated elements of strict liability regarding harms caused by omissions instead of voluntary acts?"
+            ],
+            "all_generated_alternatives": [
+              "Could you clarify how this statute interprets negligence in the context of voluntary versus involuntary acts, as that could impact the duty of care significantly?",
+              "In light of our ongoing discussion, how do you interpret the statute's application to inaction under common law, specifically regarding liability for omissions?",
+              "Applying the principles of tort law, can you elaborate on how causation plays a role in establishing whether an act constituted violence under this statute?",
+              "What implications does this discussion have for the interpretation of intent in cases where a person fails to act, particularly within the scope of the good Samaritan law?",
+              "In your view, how would this case differ if we were discussing a criminal negligence standard as opposed to a duty of care issue?",
+              "What does the statute say about the legal requirements for proving physical force, especially in the context of a failure to act rather than an affirmative act?",
+              "Can you explain how different jurisdictions handle the duty to rescue compared to how we assess criminal liability under this statute?",
+              "How does this case relate to the broader legal principle of the reasonable person standard when evaluating omissions in duty of care scenarios?",
+              "How might this analysis shift if we incorporated elements of strict liability regarding harms caused by omissions instead of voluntary acts?",
+              "What is the role of proximate cause in determining liability in cases of omission, and how does it connect with violent force under this statute?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 0
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 9,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\nAnd I take it your argument is that when we look at the federal statute\nand its definition of \"crime of violence,\" that, really, what is at issue\nhere is a --is the conduct of the defendant?\n### Allon Kedem:\nThat's correct.\n### Allon Kedem:\nThat's correct.\n### Justice Jackson:\nthat we're looking for use, attempted use, or threatened use of physical\nforce and -- and that at least the common sense view of that is that it's\nthe defendant acting to use, threaten to use, or attempting to use.\nIs that -- is that the thrust of your argument?\n### Allon Kedem:\nIt is, Your Honor.\nAnd I would emphasize there are lots of criminal statutes, including in\n924, in fact, even in 924(c), that focus on outcomes.\nSo subsection (c)(5)(B) applies a heightened penalty if death results.\nThe Elements Clause, by contrast, is, as you've described it, focused on\nthe method, a particular way of committing an offense that Congress\nassociated with armed career criminal behavior.",
+      "justice_name": "Justice Jackson",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Jackson most likely ask next?",
+          "options": {
+            "A": "Do you believe the overarching principle of the statute centers solely around violent crimes, excluding any elements of negligence or failure to act?",
+            "B": "that we're looking for use, attempted use, or threatened use of physical\nforce and -- and that at least the common sense view of that is that it's\nthe defendant acting to use, threaten to use, or attempting to use.\nIs that -- is that the thrust of your argument?",
+            "C": "Could you clarify whether the definition of 'crime of violence' includes conduct that does not involve actual physical force, such as threats without the capacity to act on them?",
+            "D": "In your view, does the statute apply equally to acts of omission as it does to acts of commission in defining violent conduct?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Jackson",
+          "debug_info": {
+            "correct_answer": "that we're looking for use, attempted use, or threatened use of physical\nforce and -- and that at least the common sense view of that is that it's\nthe defendant acting to use, threaten to use, or attempting to use.\nIs that -- is that the thrust of your argument?",
+            "fake_questions": [
+              "Could you clarify whether the definition of 'crime of violence' includes conduct that does not involve actual physical force, such as threats without the capacity to act on them?",
+              "Do you believe the overarching principle of the statute centers solely around violent crimes, excluding any elements of negligence or failure to act?",
+              "In your view, does the statute apply equally to acts of omission as it does to acts of commission in defining violent conduct?"
+            ],
+            "all_generated_alternatives": [
+              "Could you clarify whether the definition of 'crime of violence' includes conduct that does not involve actual physical force, such as threats without the capacity to act on them?",
+              "Is your position that the federal statute implies a broader interpretation that involves not just the act of the defendant, but also the potential consequences of their actions?",
+              "How do you contend this statute addresses situations where implied threats are made without any physical manifestation or direct intent to harm?",
+              "Do you believe the overarching principle of the statute centers solely around violent crimes, excluding any elements of negligence or failure to act?",
+              "What relevance does the concept of 'intent' play in determining whether the defendant's actions constitute a 'use' of physical force under this statute?",
+              "In considering the statute, should we take into account the nature of the defendant's interactions with the victim, even if no physical force was applied?",
+              "Does your argument extend to cases where the defendant's actions could result in violent force through a failure to act, or are we strictly discussing affirmative conduct?",
+              "How does your interpretation of 'conduct' differ when evaluating the acts of multiple defendants in a joint criminal enterprise under this federal statute?",
+              "What impact do varying state interpretations of violence have on our understanding of how this federal statute applies to the defendant's actions?",
+              "In your view, does the statute apply equally to acts of omission as it does to acts of commission in defining violent conduct?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 1
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 10,
+      "target_dialogue": "## Justice Kagan\n### Justice Kagan:\nI take the point that ordinary understandings of what it means to use\nviolent force might not cover omissions, but so too it wouldn't cover\npoison.\nAnd we have said that it does cover poison.\n### Allon Kedem:\nRight.\n### Justice Kagan:\nSo we're not really operating in a world in which it's completely sort of\nordinary Joe understandings of the phrase.\n### Allon Kedem:\nSo, respectfully, Your Honor, I agree poison is sort of the outer limit, but I\ndo think the Court was making a point there, which is that in response to\nthe defendant's argument in Castleman that essentially you had to\napply the force directly in order for it to count, the Court said no, if you\nput poison in tea, it's very much like pulling the trigger of a gun.\nIt's a gentle pull of the trigger.\nThat's not the violent force.\nThe violent force is later, when the bullet makes impact. But still, in\nboth of those instances, you're still doing something to bring the victim\ninto contact with that force which may be wholly absent in the case of a\npure omission.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 11,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\nYou're still using something.\n### Allon Kedem:\nYou're still using actively.\n### Justice Jackson:\nYou're still using actively.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 12,
+      "target_dialogue": "## Justice Kagan\n### Justice Kagan:\nHow about if, instead of putting poison in, I knew that there was\nsomething in the refrigerator which had gone very bad and it was\ncompletely toxic.\n### Allon Kedem:\nMm-hmm.\n### Justice Kagan:\nAnd I said to my worst enemy: Why don't you eat that cake in the\nrefrigerator.\nWhere does that fall on your -- in your -- you know, which side of the\nline?\n### Allon Kedem:\nYeah.\nThat sounds a lot like the food in the fridge is poison and you're just\ntricking them into consuming it.\n### Justice Kagan:\nCorrect.\nAnd so?\n### Allon Kedem:\nAnd so it would count as use of violent physical force.\n### Justice Kagan:\nEven though now you haven't done anything really.\n### Allon Kedem:\nWell, respectfully, you have taken some step to bring them into contact\nwith it, without which, if you hadn't taken that step, they wouldn't\nconsume what was in the fridge.\n### Justice Kagan:\nWell, I mean, in any of these cases, including in the supposedly pure\nomission cases, we can find some step.\nI mean, when you're withholding medicine from the ailing person,\nprobably there's some step that you've taken that prevents the ailing\nperson from getting that medicine herself or, you know, there's some\nstep that you've taken to put yourself in a -- in a position of duty to that\nperson.\nI mean, there's always something that we can look to if -- if you're\ngoing so far as to say that my telling the person to eat the cake in the\nrefrigerator is an action.\n### Allon Kedem:\nSo I think you have to ask yourself two questions.\nOne, is there even violent physical force involved? In the instance in\nwhich someone expires because they don't have the right medication,\nusually, you would not describe that as involving violent physical force.\nSo, if a septuagenarian slips into a coma and then doesn't eat and as a\nresult dies, no one is going to describe that death as involving violent\nphysical force.\nSo the question is, would you describe it as involving violent physical\nforce because there was someone who was supposed to be there feeding\nthe nutrition tube -- tube but failed to do so?",
+      "justice_name": "Justice Kagan",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Kagan most likely ask next?",
+          "options": {
+            "A": "And I said to my worst enemy: Why don't you eat that cake in the\nrefrigerator.\nWhere does that fall on your -- in your -- you know, which side of the\nline?",
+            "B": "If I told my enemy to eat the cake without knowing it was bad, does that change our assessment of criminal liability here?",
+            "C": "Could you clarify how the concept of recklessness applies in cases where harmful advice is given to others?",
+            "D": "If I intentionally led my enemy to a harmful situation, how would that be classified under the existing definitions of criminal negligence?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Kagan",
+          "debug_info": {
+            "correct_answer": "And I said to my worst enemy: Why don't you eat that cake in the\nrefrigerator.\nWhere does that fall on your -- in your -- you know, which side of the\nline?",
+            "fake_questions": [
+              "If I intentionally led my enemy to a harmful situation, how would that be classified under the existing definitions of criminal negligence?",
+              "If I told my enemy to eat the cake without knowing it was bad, does that change our assessment of criminal liability here?",
+              "Could you clarify how the concept of recklessness applies in cases where harmful advice is given to others?"
+            ],
+            "all_generated_alternatives": [
+              "If I intentionally led my enemy to a harmful situation, how would that be classified under the existing definitions of criminal negligence?",
+              "What legal implications arise if I suggest an individual consume something that I know is safe but they believe is toxic?",
+              "In your view, how does the concept of intent apply when discussing potentially harmful advice given to someone?",
+              "If I told my enemy to eat the cake without knowing it was bad, does that change our assessment of criminal liability here?",
+              "What is the distinction between providing harmful substances versus merely suggesting someone engage in dangerous behavior in criminal law?",
+              "If a person causes intentional harm without physical assistance, how does that fit into jurisprudence around indirect actions leading to injury?",
+              "Is there a difference in liability if I simply withheld information about the cake versus actively encouraging its consumption?",
+              "What role does mens rea play when discussing indirect harm caused through suggestions rather than direct actions?",
+              "How do different jurisdictions interpret the act of omission in relation to encouraging harmful behavior?",
+              "Could you clarify how the concept of recklessness applies in cases where harmful advice is given to others?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 2
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 13,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\nAnd is that because the context is violent physical force because we're in\na statute that relates to firearms , that Congress clearly was trying to get\nat a certain category of person?\n### Allon Kedem:\nThat's correct.\n### Justice Jackson:\nThe person who is of the type that they would engage in these kinds of\ncrimes that present, you know, risks of violence in this way?\n### Justice Jackson:\nI mean, I thought that was the sort of context.\nSo all of these\n### Allon Kedem:\nThat's right.\n### Justice Jackson:\na step or not a step, you know, setting that aside, the point is they're not\neven in the realm of the kind of thing this statute was about?\n### Allon Kedem:\nThat's right.\nWe're defining a felony crime of violence.\nAnd Congress had a very specific theory.",
+      "justice_name": "Justice Jackson",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Jackson most likely ask next?",
+          "options": {
+            "A": "What characteristics define individuals typically convicted under this specific statute relating to violence?",
+            "B": "The person who is of the type that they would engage in these kinds of\ncrimes that present, you know, risks of violence in this way?",
+            "C": "What are the potential legal repercussions if a defendant is found to have caused injury through reckless conduct?",
+            "D": "What types of defenses can be asserted when a person is accused of a crime involving threats of violence?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Jackson",
+          "debug_info": {
+            "correct_answer": "The person who is of the type that they would engage in these kinds of\ncrimes that present, you know, risks of violence in this way?",
+            "fake_questions": [
+              "What characteristics define individuals typically convicted under this specific statute relating to violence?",
+              "What are the potential legal repercussions if a defendant is found to have caused injury through reckless conduct?",
+              "What types of defenses can be asserted when a person is accused of a crime involving threats of violence?"
+            ],
+            "all_generated_alternatives": [
+              "How should we evaluate the defendant's intent regarding the risks associated with these violent crimes?",
+              "What characteristics define individuals typically convicted under this specific statute relating to violence?",
+              "In what scenarios would mere possession of firearms lead to presumed violent behavior by an individual?",
+              "What are the potential legal repercussions if a defendant is found to have caused injury through reckless conduct?",
+              "Which elements must be proven in a case involving threats of violence, even if no physical action has occurred?",
+              "What factors contribute to determining whether a crime is classified as violent in nature?",
+              "How does the concept of 'criminal negligence' interplay with the state's definition of violent crime?",
+              "What types of defenses can be asserted when a person is accused of a crime involving threats of violence?",
+              "Which constitutional protections might apply when assessing accusations of violent crime in this context?",
+              "What is the relevance of the defendant's prior criminal history in establishing a pattern of violent conduct?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 3
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 14,
+      "target_dialogue": "## Justice Alito\n### Justice Alito:\nWell, pick -- picking up on that, do you -- would you argue that your\nclient is not the kind of armed career criminal that Congress was trying\nto get at when they enacted this statute?\n### Allon Kedem:\nWe would not argue that, Your Honor.\nWe're focused here on the type of offense, and that's because the\nElements Clause requires an assessment of the elements of the offense\nand whether violent physical force is present in all instances.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 15,
+      "target_dialogue": "## Justice Barrett",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 16,
+      "target_dialogue": "## Justice Alito\n### Justice Alito:\nBut the question is whether your client was convicted of a crime of\nviolence, right?\n### Allon Kedem:\nThat's correct.\n### Justice Alito:\nAnd some of the --I mean, these are fascinating legal arguments.\nSome of the people who have come here to hear this case may not know\nmuch about the facts of the case.\nSo what was the offense for which your client was convicted?\n### Allon Kedem:\nHiring someone in order to commit a murder.\n### Justice Alito:\nAnd that, in your submission, is not a crime of violence?\n### Allon Kedem:\nIt does not have as an element the use of violent physical force.",
+      "justice_name": "Justice Alito",
+      "total_justice_questions": 3,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Alito most likely ask next?",
+          "options": {
+            "A": "What are the procedural differences when appealing a conviction for a non-violent crime versus a violent crime?",
+            "B": "And some of the --I mean, these are fascinating legal arguments.\nSome of the people who have come here to hear this case may not know\nmuch about the facts of the case.\nSo what was the offense for which your client was convicted?",
+            "C": "Can you elaborate on how the concept of mens rea applies to your client's case, particularly in relation to their conviction?",
+            "D": "How do federal sentencing guidelines differ for offenses classified as violent versus those identified as non-violent?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Alito",
+          "debug_info": {
+            "correct_answer": "And some of the --I mean, these are fascinating legal arguments.\nSome of the people who have come here to hear this case may not know\nmuch about the facts of the case.\nSo what was the offense for which your client was convicted?",
+            "fake_questions": [
+              "Can you elaborate on how the concept of mens rea applies to your client's case, particularly in relation to their conviction?",
+              "What are the procedural differences when appealing a conviction for a non-violent crime versus a violent crime?",
+              "How do federal sentencing guidelines differ for offenses classified as violent versus those identified as non-violent?"
+            ],
+            "all_generated_alternatives": [
+              "What legal standard is applicable when determining the culpability of an individual accused of a violent crime?",
+              "Can you elaborate on how the concept of mens rea applies to your client's case, particularly in relation to their conviction?",
+              "What are the procedural differences when appealing a conviction for a non-violent crime versus a violent crime?",
+              "Could you describe how state laws on self-defense might have influenced your client's conviction in this case?",
+              "What was the main evidence presented against your client during the trial that led to a conviction for a crime of violence?",
+              "How do federal sentencing guidelines differ for offenses classified as violent versus those identified as non-violent?",
+              "What other charges were considered during the prosecution's case against your client for the offense?",
+              "Could you explain the relationship between the statute under which your client was convicted and federal guidelines on violent crimes?",
+              "What were the jury instructions related to recklessness that may have impacted your client's conviction?",
+              "What defenses were presented at trial that might have raised reasonable doubt regarding the charge of violent crime?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 4
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Alito most likely ask next?",
+          "options": {
+            "A": "Is hiring someone considered an example of conspiracy crime?",
+            "B": "Does your client’s conduct meet the criteria for attempted murder?",
+            "C": "And that, in your submission, is not a crime of violence?",
+            "D": "What is the distinction between violent and non-violent crimes?"
+          },
+          "answer": "C",
+          "target_justice": "Justice Alito",
+          "debug_info": {
+            "correct_answer": "And that, in your submission, is not a crime of violence?",
+            "fake_questions": [
+              "Is hiring someone considered an example of conspiracy crime?",
+              "Does your client’s conduct meet the criteria for attempted murder?",
+              "What is the distinction between violent and non-violent crimes?"
+            ],
+            "all_generated_alternatives": [
+              "Is hiring someone considered an example of conspiracy crime?",
+              "What factors define a violent crime under federal law?",
+              "How does the statute address different forms of criminal intent?",
+              "Does your client’s conduct meet the criteria for attempted murder?",
+              "What do you consider an act of violent physical force?",
+              "Which legal standard applies to this interpretation of crime?",
+              "Can omissions be classified as violent acts in this case?",
+              "What facts led to the conviction of your client specifically?",
+              "How should the court interpret the term 'violent conduct'?",
+              "What is the distinction between violent and non-violent crimes?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 4
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 17,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\nAnd that's a function of the categorical approach, right?\n### Allon Kedem:\nThat's correct.\n### Justice Jackson:\nIt's not -- you're not talking about your client; you're talking about the\nstatute.\n### Allon Kedem:\nThat's -- that's correct, Your Honor.\nCongress had a very specific theory when it wrote the Elements Clause.\nIt was not aiming for all or even the most serious offenses.\nIt was aiming for a certain type of offense, actively using violent\nphysical force against another, the character of which changes when\nyou add a gun to the mix.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 18,
+      "target_dialogue": "## Justice Barrett\n### Justice Barrett:\nBut, counsel, we also said in Castleman and Stokeling that we look at the\nnature of the crime and that influences the scope of the interpretation.\nAnd so, if interpreting the statute a certain way or interpreting violent\nforce a certain way would have the effect of excluding and making the\nstatute virtually inapplicable to most of the statutes in the states,\nrobbery or domestic violence or, so here, I mean, murder?\n### Allon Kedem:\nYeah.\nSo -- so a few points on that.\nFirst of all, Stokeling was an instance where the Court was interpreting a\ncommon law term of art, \"force,\" that made an appearance both in the\nfederal statute and in the state statute, so it made a lot of sense to look\nat the states to see how they used that term.\nBut, beyond that, the Court is not convince --it doesn't engage in a sort\nof nose-counting exercise.\nAnd even with respect to states that have murder statutes, it's not as if\nthey're all going to be in or all going to be out.\nSo take New York's second degree murder as an example.\nIt's got five subdivisions.\nTwo of them are already out because of Borden because they can be\ncommitted recklessly.\nThere are two others that can only be committed by an act, and so\nthey're going to stay in regardless at least as we interpret them.\nAnd that leaves just the one under which Mr. Delligatti --that served as\nthe predicate for Mr. Delligatti's arrest.\n### Justice Barrett:\nSo you think there would still be in many states many murder\nconvictions that would still qualify?\n### Allon Kedem:\nYes.\n### Justice Barrett:\nIt just seems --I mean, you can understand why stepping back, which is,\n### Allon Kedem:\nRight.\n### Allon Kedem:\nRight.\n### Justice Barrett:\n- trigger the provision here seems a little counterintuitive.\n### Allon Kedem:\nIt -- it -- I understand that because, if you were to ask someone is\nmurder a crime of violence, they would say of course.\nIn the vast majority of instances, the way you commit murder is going to\nbe violence, which makes it a perfect fit for the Residual Clause, the idea\nthat under the Residual Clause\n### Justice Barrett:\nBut you think that Congress thought it was only covered by the Residual\nClause and that it wasn't an elements offense, murder?\n### Allon Kedem:\nSo I think that if Congress wanted us to do this sort of as a category\nassessment, it would have enumerated murder the way it did for some\nother offenses. Instead, what it said is we want you to look at whether\ntheir element of the offense involved the use of violent physical force\nbecause, again, if you add a gun to that sort of offense --so a robbery\noffense, for instance, robbery is obviously dangerous enough, but when\nyou add a gun to the mix, the danger go es up exponentially.\nIt changes the character.\nThe same is not true for an omission offense.\nObviously, omission offenses can be horrible and can be punished\nseverely, but you don't change anything about it when you add a gun,\nand so it's not the sort of armed career criminal behavior that Congress\nwas aimed at.",
+      "justice_name": "Justice Barrett",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Barrett most likely ask next?",
+          "options": {
+            "A": "But wouldn't several states classify murder as an essential element rather than relying solely on the Residual Clause?",
+            "B": "But you think that Congress thought it was only covered by the Residual\nClause and that it wasn't an elements offense, murder?",
+            "C": "Do you believe that the term 'violent force' encompasses all state murder statutes under federal law?",
+            "D": "What precedent exists where Congress explicitly categorized non-violent offenses in relation to homicide statutes?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Barrett",
+          "debug_info": {
+            "correct_answer": "But you think that Congress thought it was only covered by the Residual\nClause and that it wasn't an elements offense, murder?",
+            "fake_questions": [
+              "Do you believe that the term 'violent force' encompasses all state murder statutes under federal law?",
+              "But wouldn't several states classify murder as an essential element rather than relying solely on the Residual Clause?",
+              "What precedent exists where Congress explicitly categorized non-violent offenses in relation to homicide statutes?"
+            ],
+            "all_generated_alternatives": [
+              "Do you believe that the term 'violent force' encompasses all state murder statutes under federal law?",
+              "Could Congress have determined that murder does not qualify as an elements offense under the statute?",
+              "What other offenses do you think Congress classified as elements offenses within the same statute?",
+              "Do you think the definition of 'crime of violence' provides clarity on all forms of homicide under federal law?",
+              "Has the Supreme Court established a clear distinction between murder and violent felonies in their interpretations?",
+              "But wouldn't several states classify murder as an essential element rather than relying solely on the Residual Clause?",
+              "Do the procedural requirements for proving a murder charge differ significantly from those under the Residual Clause?",
+              "Can you explain the implications of defining 'elements offenses' in relation to various forms of homicide?",
+              "What evidence supports the idea that murder statutes vary significantly between federal and state jurisdictions?",
+              "What precedent exists where Congress explicitly categorized non-violent offenses in relation to homicide statutes?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 5
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 19,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\nAnd didn't Congress really home in on this? I mean, you -- you talk\nabout at least some of the legislative history for the Criminal Code\nReform Act in 1981, and I was struck by a particular example in a report\nthat Congress -- the Senate report, where the report talks about a dam\noperator who threatens to refuse to open the floodgates during a flood\nand thereby places residents' lives in jeopardy. And the report says,\n\"Assuming the operator had some legal duty to act, his threat would be\nto engage in unlawful conduct dangerous to human life, which is not a\ncrime of violence since he did not use or threaten to use physical force.\"\nSo it seems as though we had examples in the record that Congress was\naware of omission and made pretty clear that when you don't act, you\nknow, you're not threatening to use physical force in the way that they\nintended.\n### Allon Kedem:\nThat's correct.\nIt's remarkably specific.\nAnd I understand that not all members of the Court are taken with\nlegislative history, but we can rely on it just as a sort of\ncontemporaneous use of the relevant terms in context.\nOne of the most remarkable things about the government's brief is that\nthey haven't identified a single instance, and they looked high and low,\nboth in published opinions and al so in news articles.\nEvery single one of their examples was someone who had used\nsomething actively, not passively, not the sort of passive benefit theory.\nThey were described as, for instance, NASA using the moon's\ngravitational field by shooting a rocket up into space and then aiming\ntheir satellite at the right point to make contact with the moon's\ngravitational field.\nThis idea that you can use something just by passively benefiting from\nit, the government wasn't able to identify a single real-world instance\nof it, in contrast to the one that you --you've just identified, Your\nHonor.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 20,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nHow about I use the rain as an excuse to stay indoors?\n### Allon Kedem:\nSo I think, first of all, you can use the rain in that sort of conceptual\nsense.\nIt's very different from using something in a physical sense like physical\nforce.\nAnd even in that instance, you don't have the \"against another\" or\n\"against the person or property of another\" phrase, which also is a sort\nof physical phrase.\nAgain, in the government's brief, they don't identify any instance other\nthan one that they make up themselves that uses \"use\" and \"against\nanother\" in combination.\nAnd the example they come up with is he used the victim's disease\nagainst her.\nBut, there, it's against her interests, not against her person.\nSo, again, the government presumably spent a lot of time trying to\ncome up with this passive benefit sense of \"use\" in combination with\n\"against another.\" And if this is all that they can come up with, I think\nwe can conclude it's not a normal way of speaking.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 21,
+      "target_dialogue": "## Justice Kagan\n### Justice Kagan:\nIn most of our cases where we've talked about what \"use\" is doing in\nthis phrase, we've talked about it as a requirement of mens rea.\nIn other words, to use physical force means to have some understanding\nin your head of what that physical force is supposed to achieve.\n### Allon Kedem:\nRight.\n### Justice Kagan:\nSo we haven't suggested that it really adds to the physical force\nlanguage with respect to the actus reus.\n### Allon Kedem:\nSo I think that's correct, but let me just sort of trace it through, and I\nthink it actually comes out where we're asking you to.\nSo the first appearance of interpreting \"use\" in 924(c) is in Bailey,\nwhere the word \"use\" is in combination with a firearm in (c)(1), and the\nCourt looks at dictionary definitions and say they imply action and\nimplementation, and it adopts an active employment sense of the word\n\"use.\" And it rejects the government's argument that you can use a\nfirearm even if it's just stashed in the closet because you derive some\nbenefit from it. So it's -- it's an actus reus interpretation of the word\n\"use.\" Then that was ported over to an Elements Clause in Leocal and\nthen again in Borden.\nAnd you're right that Leocal and Borden were both about the mental\nstate.\nBut they adopted wholesale the active employment sense of use, and\nthat active employment sense came from what Bailey said was the\nordinary meaning of the term.\nSo, unless somehow they ported over just the mental state part of active\nemployment, even though mental state wasn't at issue in Bailey, then I\nthink you bring the whole thing along with it.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 22,
+      "target_dialogue": "## Justice Gorsuch\n### Justice Gorsuch:\nIf we -- if we adopt the government's view of \"use\" as not being\npersonally employing some instrument but allowing the laws of physics\n### Allon Kedem:\nMm-hmm.\n### Justice Gorsuch:\nthe -- the -- the --the domestic violence situation?\n### Allon Kedem:\nSure.\n### Justice Gorsuch:\nAren't we just back to that?\n### Allon Kedem:\nYes.\n### Justice Gorsuch:\nBecause anybody who wishes to use the laws of nature to harm another\nis -- is convictable and -- I mean, this is just a statutory enhancement.\nYour client's going to spend a lot of years in jail.\nThis is just how many much more, how many more, right?\n### Allon Kedem:\nThat's correct, yes.\n### Justice Gorsuch:\nAnd --and we don't really care about your client here, do we?\n### Justice Gorsuch:\nWe're trying to get the law right.\n### Allon Kedem:\nI --I -- I wouldn't presume to speak for you.\n### Justice Gorsuch:\nYeah.\n### Justice Gorsuch:\nThat's what we're talking about.\nHow many years is he already spending?\n### Allon Kedem:\nSo, regardless of the -- separate and apart from the (c) -- (c)(4) -- (c)\n(3)(b) conviction, it's 240 months.\n### Justice Gorsuch:\nAll right.\n### Allon Kedem:\nYeah.\n### Justice Gorsuch:\nBack to my question.\n### Allon Kedem:\nYes.\nSo the domestic violence statute, very briefly, had a very different\nfunction, which was to close a loophole that made it lawful for certain\nmisdemeanor offenders to possess a gun, and the Court was concerned\nthat if it read the clause narrowly, it would render that provision\ninoperative in a number of states.\nHere, there's no dispute that, obviously, murder is going to stay very\nillegal everywhere, and our reading would not render the Elements\nClause inoperative in any state.",
+      "justice_name": "Justice Gorsuch",
+      "total_justice_questions": 3,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Gorsuch most likely ask next?",
+          "options": {
+            "A": "Because anybody who wishes to use the laws of nature to harm another\nis -- is convictable and -- I mean, this is just a statutory enhancement.\nYour client's going to spend a lot of years in jail.\nThis is just how many much more, how many more, right?",
+            "B": "How does this statute compare with other federal laws concerning the use of weapons in committing violent acts, particularly regarding sentencing?",
+            "C": "To what extent does the inclusion of physical harm under the statute change the legal implications for premeditated actions versus omissions in this context?",
+            "D": "In cases involving omission, how does the court generally evaluate the difference between legal responsibility and moral culpability in sentencing?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Gorsuch",
+          "debug_info": {
+            "correct_answer": "Because anybody who wishes to use the laws of nature to harm another\nis -- is convictable and -- I mean, this is just a statutory enhancement.\nYour client's going to spend a lot of years in jail.\nThis is just how many much more, how many more, right?",
+            "fake_questions": [
+              "To what extent does the inclusion of physical harm under the statute change the legal implications for premeditated actions versus omissions in this context?",
+              "How does this statute compare with other federal laws concerning the use of weapons in committing violent acts, particularly regarding sentencing?",
+              "In cases involving omission, how does the court generally evaluate the difference between legal responsibility and moral culpability in sentencing?"
+            ],
+            "all_generated_alternatives": [
+              "What impact does the application of common law principles in this case have on the interpretation of statutory enhancements regarding violent force?",
+              "To what extent does the inclusion of physical harm under the statute change the legal implications for premeditated actions versus omissions in this context?",
+              "How might the standard of intent play a role in assessing both culpability and the duration of the sentence in cases involving harm through physical force?",
+              "Is there a distinction between active participation and passive involvement when considering the statutory enhancements applicable to this type of offense?",
+              "How does this statute compare with other federal laws concerning the use of weapons in committing violent acts, particularly regarding sentencing?",
+              "What is the relevance of a defendant's prior record in influencing the court's decision on statutory enhancements related to violent conduct?",
+              "Can you explain how mitigating factors might affect the length of time someone convicted under this statute could expect to serve in prison?",
+              "How does the statutory definition of 'violent force' apply differently across varying jurisdictions when interpreting similar offenses?",
+              "In cases involving omission, how does the court generally evaluate the difference between legal responsibility and moral culpability in sentencing?",
+              "What procedural safeguards are in place to ensure that a defendant's rights are protected when facing potential statutory enhancements for violent offenses?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 6
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Gorsuch most likely ask next?",
+          "options": {
+            "A": "How long might a defendant expect to appeal a sentence?",
+            "B": "How does the sentencing guideline apply to this case?",
+            "C": "That's what we're talking about.\nHow many years is he already spending?",
+            "D": "What elements define a crime of violence for sentencing?"
+          },
+          "answer": "C",
+          "target_justice": "Justice Gorsuch",
+          "debug_info": {
+            "correct_answer": "That's what we're talking about.\nHow many years is he already spending?",
+            "fake_questions": [
+              "How does the sentencing guideline apply to this case?",
+              "What elements define a crime of violence for sentencing?",
+              "How long might a defendant expect to appeal a sentence?"
+            ],
+            "all_generated_alternatives": [
+              "What is the maximum sentence for this type of crime?",
+              "How does the sentencing guideline apply to this case?",
+              "What degree of intent is required for this conviction?",
+              "How does the court calculate sentences under this statute?",
+              "What mitigating factors could reduce his sentence?",
+              "What is the precedent for sentencing in similar cases?",
+              "What happens if a plea deal is offered in this case?",
+              "How long might a defendant expect to appeal a sentence?",
+              "What elements define a crime of violence for sentencing?",
+              "What are the implications of a guilty verdict for sentencing?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 6
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 23,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nJustice Thomas?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 24,
+      "target_dialogue": "## Justice Thomas\n### Allon Kedem:\nI apologize.\n### Justice Thomas:\nOh, that's okay. (Laughter.)",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 25,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nThank you.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 26,
+      "target_dialogue": "## Justice Thomas\n### Justice Thomas:\nAre you really talking about your client? We make this distinction\nbetween action and omission.\nAre we talking -- because we're in the world of theory now, we're not\nreally talking about what yo ur client did, as",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 27,
+      "target_dialogue": "## Justice Alito\n### Justice Alito:\nalluded.\n### Allon Kedem:\nThat's right.\nWe're here as a consequence of invalidation of the Residual Clause.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 28,
+      "target_dialogue": "## Justice Thomas\n### Justice Thomas:\nSo would your case be different if we did not use the categorical\napproach?\n### Allon Kedem:\nI suppose it would, but, although this Court has considered abandoning\nthe categorical approach for the Residual Clause and at least one justice\nhas for the elements -- for the enumerated offenses, I'm not aware that\nany justice has considered it for the Elements Clause because it requires\nas an element the use of violent physical force.\n### Justice Thomas:\nBut, I mean, we're -- we're -- I think it's fair to say, though, that we are\ndiscussing something that bears no factual relationship to your case.\n### Allon Kedem:\nSo I --I accept that, Your Honor, and would respectfully suggest you\nessentially take the position you did in Borden, which was to say\nwhatever it is, criticism about the categorical approach, but then to give\nthe Elements Clause its natural meaning.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 29,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Alito? Justice Sotomayor?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 30,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\n? I mean, Justice\nBarrett? Thank you, counsel. Mr. Feigin.\n### Eric J. Feigin:\nThank you, Mr. Chief Justice, and may it please the Court: It's hard to\nbelieve that we're actually here debating whether murder is a crime of\nviolence, as I think Petitioner just acknowledged.\nThis is one case where the law already tracks common sense.\nCastleman tells us that internal force, like a disease, can be physical\nforce.\nIt also tells us that physical injury must result from physical force.\nAnd the Borden plurality recognizes that someone uses force against\nthe person of another when he makes force his instrument to cause that\nperson harm through --through force.\nI used \"force\" twice there, but you --I think you get the point.\nAnd there's really no basis in law or logic to draw a distinction between\nthe person who gently sprinkles poison in the cup and the person who,\nhating the victim, just withholds the antidote.\nBy urging that distinction, Petitioner is ask ing this Court to discard\nliterally two millennia of common law that treat acts of omission just\nlike other acts.\nHe's asking this Court to cut out any number of canonically violent\nmurder, robbery, and assault offenses out of 924(c), the definition of\n\"violent felony\" under the Armed Career Criminal Act, and the\ndefinition of \"misdemeanor, crime of domestic violence\" as relevant to\n922(g)(9).\nAnd he would make all three of those statutes --he's asking this Court\nto make all three of those statutes turn on distinctions so arbitrary,\nunprecedented, and bizarre that it would make application of those\ntruly absurd. I would like to address a -- a couple of his points, but, if the\nCourt has questions, I realize my light just flashed.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 31,
+      "target_dialogue": "## Justice Thomas\n### Justice Thomas:\nMr. Feigin, we normally think, though, of -- think of force as coming\nfrom the perpetrator, not from some outside force, like gravity or some\ninternal disease.\nSo how do we get from where you are to where he is? I -- I think his\nargument actually does make -- does have a common-sense value to it.\n### Eric J. Feigin:\nWell, Your Honor, I think, as Castleman demonstrates, we know that\nwhatever force causes death can be an internal force.\nIt can be the action of --whatever action within the body is induced by\npoison.\nWe also know from Castleman one of the examples it uses is a disease.\nSo the actual death-causing force can be a purely internal force.\nIf I know you have a weak heart and I frighten you and you die, your body\nis attacking itself.\nThat's also true if you intentionally and torturously starve a child.\nThat's -- the starvation causes the body to attack itself.\nIt starts eating itself away because it has no other source of\nnourishment.\nIf you're asking me about whether that force has to be in some way --I\nthink the words Petitioner uses in the brief are \"unleashed or channeled\nin some way by the defendant\" -- I think that's somewhat of a\ngerrymandered requirement.\nyour -- the wind catches your sail, or the example in our brief where\nyou're involuntary placed on a raft, you see which way the current is\ngoing, and you use the current to get you to shore without doing\nanything.\nBut that channeling requirement is equally satisfied in an omission\ncase, where you can stop --force is going to occur.\nYou can stop it, you should stop it, and you don't stop it because not\nstopping it accomplishes your purpose.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 32,
+      "target_dialogue": "## Justice Gorsuch\n### Justice Gorsuch:\nMr. Feigin, on that score -- and if we're going to talk about common\nsense, that's a good place to start sometimes -- your view, I think,\nwould capture the good Samaritan example as well and make that\nsubject to an additional enhancement under ACCA, right?\n### Eric J. Feigin:\nI don't think that's necessarily true, Your Honor.\n### Justice Gorsuch:\nWhy --why -- why not? Just to set the table again, we have somebody, a\npa sserby on the street who doesn't like little old ladies and\nintentionally allows someone to fall into and die, and the physical force\nI don't have to push her.\nAnd now that would depart from the common law, where there's\nnormally a duty, but -- a preexisting duty, but, here, we have a good\nSamaritan statute.\nSo that is an ACCA offense in the government's view? And why wouldn't\nthat defy common sense, if it does?\n### Eric J. Feigin:\nNot necessarily, Your Honor, and let me explain why.\nI'll take just one second to unpack this. It -- it turns on what -- it --it\nturns on how you interpret \"use of physical force against the person or\n### Justice Gorsuch:\nYeah, but you -- you use --you use rivers and currents.\nAnd what -- what's wrong with gravity?\n### Eric J. Feigin:\nSo gravity is fine.\nIt's the problem of you're postulating that some state has some kind of\n### Justice Gorsuch:\nOh, no, it's not aberrant.\nSome states do.\n### Eric J. Feigin:\nof another, there has to be, number one, a deliberate choice.\n### Justice Gorsuch:\nSure, I got that.\n### Eric J. Feigin:\nAnd, two, the common definitions have used, like, \"avail oneself of,\" we\ndo think have an element of causation in there and that's what's\n### Justice Gorsuch:\nYeah.\nNo, I -- it -- it --there's no doubt that my failure to act caused this\nperson's death.\nI've got causation and I have intention.\nI have mens rea.\nNow I unders tand that when there's a common law duty, our intuition is\nthat that's really bad.\nWhen a parent doesn't feed a child, when a doctor doesn't care for a\npatient, that --that's problematical. I'm testing how far -- and I don't\nsee what line you would draw between that and a good Samaritan\nstatute, which, again, many states have.\n### Eric J. Feigin:\nSo causation includes both cause and fact, which we have here, and\nproximate cause.\n### Justice Gorsuch:\nLet's say I have that box checked too.\n### Eric J. Feigin:\nWell, Your Honor, I think where we part ways is I don't think I necessarily\nthink you have that box checked in your example, and here's why.\nProximate -- the proximate cause that's built into the statute here, I\nthink, can be informed by the common law duty as of 1984.\n### Justice Gorsuch:\nNo, no, no. No.\nAgain, the -- I have a statute that's a good Samaritan statute that\nimposes a higher duty on ordinary people to be good Samaritans, and so\nit creates a proximate cause test that's different from a common law\ntest.\n### Justice Gorsuch:\n-sense problem.\n### Justice Gorsuch:\nIt would capture all omissions cases, wherever the duty comes from.\n### Eric J. Feigin:\nWith respect, Your Honor, if I could just explain.\nI --I don't think I'm resisting the hypothetical.\nI think I'm just explaining that, as we normally do in interpreting these\nkinds of statutes with the categorical approach, there is some concept\nof generic federal law.\nAnd, here, what federal law might mean by \"use,\" its concept of\nproximate cause would be informed by the common law scope of duties\n### Justice Gorsuch:\nWhere does that come from? I didn't see that anywhere in your brief.\nThat's -- that's new here at the lectern.\nWhere does that come from?\n### Eric J. Feigin:\nWell, Your Honor, I think that's just how we've been interpreting these\nstatutes.\nThere's always -- it's always a question of federal law.\n### Justice Gorsuch:\n\"Use\" -- the term \"use\" depends upon common law duties in 1984?\n### Justice Gorsuch:\nHas any court ever said that?\n### Eric J. Feigin:\nIt hasn't -- Your Honor, it hasn't come up because, until the Third\n### Justice Gorsuch:\nRight.\nBut it will after this case.",
+      "justice_name": "Justice Gorsuch",
+      "total_justice_questions": 5,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Gorsuch most likely ask next?",
+          "options": {
+            "A": "How does the application of good Samaritan laws intersect with statutory interpretations of violent crime? Could these laws effectively shield individuals from liability?",
+            "B": "How does the absence of physical action in a good Samaritan scenario impact liability under the ACCA framework? Does a failure to act still constitute a crime of violence?",
+            "C": "Could you explain how the definition of violent physical force under the ACCA might apply in situations involving negligence or recklessness rather than intentional harm?",
+            "D": "Why --why -- why not? Just to set the table again, we have somebody, a\npa sserby on the street who doesn't like little old ladies and\nintentionally allows someone to fall into and die, and the physical force\nI don't have to push her.\nAnd now that would depart from the common law, where there's\nnormally a duty, but -- a preexisting duty, but, here, we have a good\nSamaritan statute.\nSo that is an ACCA offense in the government's view? And why wouldn't\nthat defy common sense, if it does?"
+          },
+          "answer": "D",
+          "target_justice": "Justice Gorsuch",
+          "debug_info": {
+            "correct_answer": "Why --why -- why not? Just to set the table again, we have somebody, a\npa sserby on the street who doesn't like little old ladies and\nintentionally allows someone to fall into and die, and the physical force\nI don't have to push her.\nAnd now that would depart from the common law, where there's\nnormally a duty, but -- a preexisting duty, but, here, we have a good\nSamaritan statute.\nSo that is an ACCA offense in the government's view? And why wouldn't\nthat defy common sense, if it does?",
+            "fake_questions": [
+              "How does the absence of physical action in a good Samaritan scenario impact liability under the ACCA framework? Does a failure to act still constitute a crime of violence?",
+              "Could you explain how the definition of violent physical force under the ACCA might apply in situations involving negligence or recklessness rather than intentional harm?",
+              "How does the application of good Samaritan laws intersect with statutory interpretations of violent crime? Could these laws effectively shield individuals from liability?"
+            ],
+            "all_generated_alternatives": [
+              "How does the absence of physical action in a good Samaritan scenario impact liability under the ACCA framework? Does a failure to act still constitute a crime of violence?",
+              "What distinctions exist between acts of omission and commission in the context of murder laws? Are there specific elements that classify an act or omission as a violent crime?",
+              "Could you explain how the definition of violent physical force under the ACCA might apply in situations involving negligence or recklessness rather than intentional harm?",
+              "In what ways might the historical common law principles regarding duty of care influence modern interpretations of the ACCA in the context of violent crimes?",
+              "How does the scope of 'violent physical force' differ from mere 'physical force' in the context of federal statutes? Can we make a distinction based on intentionality?",
+              "In analyzing whether the government can classify specific omissions as ACCA offenses, what burden does the government bear to prove a crime of violence?",
+              "What role does the intent of the actor play when considering whether a failure to act can be classified under the ACCA's criteria for violent crimes?",
+              "How does the application of good Samaritan laws intersect with statutory interpretations of violent crime? Could these laws effectively shield individuals from liability?",
+              "What are the implications of applying common sense to the interpretation of violent force in the context of the ACCA? Can this principle create inconsistencies?",
+              "How do state statutes defining violent crimes differ from federal definitions under ACCA, especially regarding omissions? Are there instances where state law might not align?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 5
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 7
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Gorsuch most likely ask next?",
+          "options": {
+            "A": "What are the potential implications of omitting action versus engaging in overt action?",
+            "B": "What requirements must be met to invoke the good Samaritan defense in this context?",
+            "C": "What are the procedural steps required to establish a criminal negligence claim?",
+            "D": "Yeah, but you -- you use --you use rivers and currents.\nAnd what -- what's wrong with gravity?"
+          },
+          "answer": "D",
+          "target_justice": "Justice Gorsuch",
+          "debug_info": {
+            "correct_answer": "Yeah, but you -- you use --you use rivers and currents.\nAnd what -- what's wrong with gravity?",
+            "fake_questions": [
+              "What are the potential implications of omitting action versus engaging in overt action?",
+              "What requirements must be met to invoke the good Samaritan defense in this context?",
+              "What are the procedural steps required to establish a criminal negligence claim?"
+            ],
+            "all_generated_alternatives": [
+              "How does the concept of foreseeability apply to the duty of care in tort law?",
+              "What must be established to meet the 'reasonable person' standard in negligence cases?",
+              "What are the potential implications of omitting action versus engaging in overt action?",
+              "How do physical forces compare in determining liability under criminal law?",
+              "What requirements must be met to invoke the good Samaritan defense in this context?",
+              "How does the definition of 'violent force' differ from general physical force in criminal statutes?",
+              "What are the legal principles governing bystander intervention in emergency situations?",
+              "How do state laws differ regarding the liability of omissions in cases of negligence?",
+              "What are the procedural steps required to establish a criminal negligence claim?",
+              "What types of evidence are generally relevant in a case involving passive versus active harm?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 5
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 7
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Gorsuch most likely ask next?",
+          "options": {
+            "A": "Where does that come from? I didn't see that anywhere in your brief.\nThat's -- that's new here at the lectern.\nWhere does that come from?",
+            "B": "What foundational legal doctrines lie at the heart of your conclusion here? It seems to be a new concept raised today.",
+            "C": "How does your interpretation of this statute compare with established interpretations in similar cases?",
+            "D": "Can you clarify which specific case law supports your position here? I didn't find it referenced in your submission."
+          },
+          "answer": "A",
+          "target_justice": "Justice Gorsuch",
+          "debug_info": {
+            "correct_answer": "Where does that come from? I didn't see that anywhere in your brief.\nThat's -- that's new here at the lectern.\nWhere does that come from?",
+            "fake_questions": [
+              "Can you clarify which specific case law supports your position here? I didn't find it referenced in your submission.",
+              "How does your interpretation of this statute compare with established interpretations in similar cases?",
+              "What foundational legal doctrines lie at the heart of your conclusion here? It seems to be a new concept raised today."
+            ],
+            "all_generated_alternatives": [
+              "Can you clarify which specific case law supports your position here? I didn't find it referenced in your submission.",
+              "What legal precedent are you relying on to substantiate that claim? It seems unaddressed in previous discussions.",
+              "How does your interpretation of this statute compare with established interpretations in similar cases?",
+              "Can you elaborate on the statutory provisions that directly inform your argument? I noticed they weren't cited in the brief.",
+              "What specific evidence do you have that this argument has been accepted in prior decisions? It appears absent in your filing.",
+              "What principles of law can you refer to that support the application of this rule in your case? It wasn't mentioned previously.",
+              "Where exactly in the statutory framework do you derive this interpretation from? I don't see it established in your argument.",
+              "What foundational legal doctrines lie at the heart of your conclusion here? It seems to be a new concept raised today.",
+              "What contextual circumstances led to this argument being formulated? It doesn't align with the prior bench discussions.",
+              "Can you summarize the key elements from your brief that justify this assertion? I find that they're not clearly outlined."
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 4,
+            "total_questions_in_conversation": 5
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 7
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Gorsuch most likely ask next?",
+          "options": {
+            "A": "Has any court ever said that?",
+            "B": "What case involves Good Samaritan duties?",
+            "C": "Have courts addressed omissions in statutes?",
+            "D": "Is there a prior ruling on this matter?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Gorsuch",
+          "debug_info": {
+            "correct_answer": "Has any court ever said that?",
+            "fake_questions": [
+              "Have courts addressed omissions in statutes?",
+              "What case involves Good Samaritan duties?",
+              "Is there a prior ruling on this matter?"
+            ],
+            "all_generated_alternatives": [
+              "What does the statute specify?",
+              "Have courts addressed omissions in statutes?",
+              "What is the precedent on this issue?",
+              "Is there a prior ruling on this matter?",
+              "How do courts interpret this statute?",
+              "What does common law say about this?",
+              "What standards apply to physical force claims?",
+              "What case involves Good Samaritan duties?",
+              "How does this statute impact other laws?",
+              "What historical context informs this law?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 5,
+            "total_questions_in_conversation": 5
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 7
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 33,
+      "target_dialogue": "## Justice Jackson\n### Eric J. Feigin:\nYeah.\n### Justice Jackson:\n-- just piggybacking on what",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 34,
+      "target_dialogue": "## Justice Gorsuch\n### Justice Gorsuch:\nis saying.\nI guess I'm just trying to understand the government's position on what\nit means to use physical force against the person of another in an\nomission case.\nSo let's --let's take this hypothetical.\nSay you have a lifeguard, and she has a duty of care to rescue children in\nthe pool.\nA kid who she hates, hates, gets into the pool entirely of their own\nvolition.\nIs it your position that she uses physical force against this kid if she\ndoesn't jump into the water when she sees him drowning?\n### Eric J. Feigin:\nYes.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 35,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\nOkay.\nSo how can that possibly be? I mean, you're saying she uses physical\nforce, and that means no action but an intention that this victim\nsuccumb to a harm that she didn't put into place, that she had really\nnothing to do with, but she sees it happening?\n### Eric J. Feigin:\nSo, Your Honor, she is using physical force against the person of another\nbecause, again, she could stop it, she is legally required to stop it, and\nshe doesn't stop it because she wants the victim to die.\n### Justice Jackson:\nSo it's her -- it's only her mental state that is doing the work of her\nusing physical force?\n### Eric J. Feigin:\nNo, Your Honor.\nIt's the combination of those things.\nUnder just a plain dictionary definition of \"use,\" she has availed herself\nof the force, she has had enjoyment of the force, she's made the force\nthe --her instrument to accomplish her purpose.\n### Justice Jackson:\nAll right.\nLet me ask you about the other parts of the statute, the attempt and\nthreaten.\nSame situation. How does it work in an omission case for this lifeguard\nto threaten the -- the -- the -- the use of physical force against this\nkid? Is it because she says something to him that would make it a\nthreat? Like, I don't understand how omission works with respect to the\nrest of the statute.\n### Eric J. Feigin:\nWell, Your Honor, I -- if I could depart from the lifeguard example,\n### Justice Jackson:\nNo, no, I want the lifeguard example.\n### Justice Jackson:\nI -- I -- I want to ask you -- I want to ask you: In the lifeguard example,\nif she says, hey, kid, if you get into the water but can't swim or start to\ndrown, I'm not coming to get you, is that a threat of use of physical force\nin your view? Or how else would you accomplish the threat part of this?\n### Eric J. Feigin:\nWell, two points, Your Honor.\nNumber one, I think, if that were generally considered a threat for\npurposes of the substantive statute that the person also has to violate\nunder state or federal law, then perhaps that would be the threatened\nuse of force.\nBut it's easy to see threatened use of force in omission cases in other\nexamples.\nSuppose you're the caretaker for an old, sickly man, and you tell him:\nLook, I'm not going to give you your medicine today, and you're going to\ndie unless you give me a -- the combination to that safe over there,\nwhere you keep all your gold bars.\nThat is threatening an omission.\nI think everyone would consider that threatening an omission.\n### Justice Jackson:\nBut is it a violent\n### Justice Jackson:\nGorsuch, I thought, was making before, that you may have culpable\nconduct under the law, but what we're looking for for the purpose of this\nenhancement is violent conduct, violent criminal conduct. And I guess\nwhat I'm worried about is the government's interpretation that has,\nyou know, lifeguards and caregivers and people who very intentionally\nand perhaps even criminally withhold their duties actually being put in\nthe bucket of violence even though they don't act.\n### Eric J. Feigin:\nWell, Your Honor, if you look at page 550 of the Court's decision in\nStokeling, you'll see one dictionary definition of \"violence\" that defines\nit in terms of the causation of physical harm.\nAnd in these cases -- I mean, let's not lose sight of it -- someone is\n### Justice Jackson:\nBut they're not using, Mr. Feigin.\nI mean, that's my --my problem is I don't understand how you get use\nto inaction, how you get use out of inaction.\n### Eric J. Feigin:\nSo, Your Honor, maybe a few examples.\nHe accuses us of having no examples.\nI think, if you look at our brief, you'll see a number of them.\nBut let me give you an example that comes basically straight from one\nof this Court's own opinions, which is let's take a look at the Borden\nplurality again.\nThe Borden plurality has an example of use of physical force against the\nperson of another when someone is driving a car, sees someone come in\nthe plurality's words, plowing ahead and hits them.\n### Justice Jackson:\nAction.\nAction. They're moving, right?\n### Eric J. Feigin:\nWell, Your Honor, I -- this is all just a game of -- I --I -- I think this is\nwhat one might describe as just sort of a terminological word game.",
+      "justice_name": "Justice Jackson",
+      "total_justice_questions": 5,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Jackson most likely ask next?",
+          "options": {
+            "A": "So it's her -- it's only her mental state that is doing the work of her\nusing physical force?",
+            "B": "Is her failure to act considered criminal negligence in the eyes of the law?",
+            "C": "Is her mental state sufficient for establishing intent under criminal law principles?",
+            "D": "What other factors must be considered to establish a crime of violence in this case?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Jackson",
+          "debug_info": {
+            "correct_answer": "So it's her -- it's only her mental state that is doing the work of her\nusing physical force?",
+            "fake_questions": [
+              "Is her mental state sufficient for establishing intent under criminal law principles?",
+              "Is her failure to act considered criminal negligence in the eyes of the law?",
+              "What other factors must be considered to establish a crime of violence in this case?"
+            ],
+            "all_generated_alternatives": [
+              "Is her mental state sufficient for establishing intent under criminal law principles?",
+              "How does the law define the use of physical force in terms of direct actions?",
+              "What other factors must be considered to establish a crime of violence in this case?",
+              "Could her inaction also imply recklessness under the applicable statutes?",
+              "How does the common law address omissions in the context of murder convictions?",
+              "What mental states qualify for determining culpability in acts of omission?",
+              "How would a reasonable person evaluate her responsibility for the victim's situation?",
+              "What role does causation play in determining liability for violent acts?",
+              "Is her failure to act considered criminal negligence in the eyes of the law?",
+              "What legal standards are applied when evaluating acts versus omissions in violence?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 5
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 8
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Jackson most likely ask next?",
+          "options": {
+            "A": "All right.\nLet me ask you about the other parts of the statute, the attempt and\nthreaten.\nSame situation. How does it work in an omission case for this lifeguard\nto threaten the -- the -- the -- the use of physical force against this\nkid? Is it because she says something to him that would make it a\nthreat? Like, I don't understand how omission works with respect to the\nrest of the statute.",
+            "B": "In a situation where the lifeguard has a duty to act, how might her failure to provide assistance be interpreted as an act of negligence under tort law, particularly if harm occurs to the child?",
+            "C": "How does the presence of a statutory duty to rescue affect a lifeguard's potential liability for not intervening when witnessing a friend in distress, particularly regarding intent versus strict liability?",
+            "D": "If a lifeguard verbally warns a child about potential danger without taking physical action, could this be seen as sufficient for establishing a crime of negligence, or is direct physical contact required?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Jackson",
+          "debug_info": {
+            "correct_answer": "All right.\nLet me ask you about the other parts of the statute, the attempt and\nthreaten.\nSame situation. How does it work in an omission case for this lifeguard\nto threaten the -- the -- the -- the use of physical force against this\nkid? Is it because she says something to him that would make it a\nthreat? Like, I don't understand how omission works with respect to the\nrest of the statute.",
+            "fake_questions": [
+              "In a situation where the lifeguard has a duty to act, how might her failure to provide assistance be interpreted as an act of negligence under tort law, particularly if harm occurs to the child?",
+              "How does the presence of a statutory duty to rescue affect a lifeguard's potential liability for not intervening when witnessing a friend in distress, particularly regarding intent versus strict liability?",
+              "If a lifeguard verbally warns a child about potential danger without taking physical action, could this be seen as sufficient for establishing a crime of negligence, or is direct physical contact required?"
+            ],
+            "all_generated_alternatives": [
+              "In a situation where the lifeguard has a duty to act, how might her failure to provide assistance be interpreted as an act of negligence under tort law, particularly if harm occurs to the child?",
+              "Considering the interaction between intent and omission, how could a lifeguard's inaction in a threatening situation qualify as an assault under common law, especially regarding the victim's understanding of that threat?",
+              "How does the presence of a statutory duty to rescue affect a lifeguard's potential liability for not intervening when witnessing a friend in distress, particularly regarding intent versus strict liability?",
+              "If a lifeguard verbally warns a child about potential danger without taking physical action, could this be seen as sufficient for establishing a crime of negligence, or is direct physical contact required?",
+              "How does the concept of recklessness apply to a lifeguard who fails to act to protect a child, and how does that differ from simple negligence in this omission case?",
+              "What role does the concept of proximate cause play in establishing liability for a lifeguard's failure to act, and how does it intersect with statutory regulations regarding duties to rescue?",
+              "Is there a distinction in legal interpretation between omissions and actions regarding a lifeguard's duty when it comes to preventing harm, especially when the potential for harm is evident?",
+              "How do the principles of mens rea apply in evaluating a lifeguard's failure to act under criminal law, particularly in cases where a threat is perceived but no action is taken?",
+              "What evidentiary challenges might arise when trying to prove a lifeguard's omission as a form of violent physical force, especially in a context involving children's safety?",
+              "When considering a lifeguard's legal responsibilities, how does the concept of informed consent connect to situations where the child voluntarily engages in risky behavior without the lifeguard's intervention?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 5
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 8
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Jackson most likely ask next?",
+          "options": {
+            "A": "In the lifeguard scenario, if she actively prevents a child from entering the water and warns him that he might drown, does this constitute a use of force, or does inaction have a different implication here?",
+            "B": "I -- I -- I want to ask you -- I want to ask you: In the lifeguard example,\nif she says, hey, kid, if you get into the water but can't swim or start to\ndrown, I'm not coming to get you, is that a threat of use of physical force\nin your view? Or how else would you accomplish the threat part of this?",
+            "C": "Would the lifeguard's statement to a child about not saving them fall under statutes regarding negligent behaviors, or must it be classified as a criminal act for it to apply here?",
+            "D": "If the lifeguard observed a child struggling and offered no assistance while stating, 'If you drown, that’s on you,' can this be considered an act of threatening the child's safety under relevant statutes?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Jackson",
+          "debug_info": {
+            "correct_answer": "I -- I -- I want to ask you -- I want to ask you: In the lifeguard example,\nif she says, hey, kid, if you get into the water but can't swim or start to\ndrown, I'm not coming to get you, is that a threat of use of physical force\nin your view? Or how else would you accomplish the threat part of this?",
+            "fake_questions": [
+              "In the lifeguard scenario, if she actively prevents a child from entering the water and warns him that he might drown, does this constitute a use of force, or does inaction have a different implication here?",
+              "If the lifeguard observed a child struggling and offered no assistance while stating, 'If you drown, that’s on you,' can this be considered an act of threatening the child's safety under relevant statutes?",
+              "Would the lifeguard's statement to a child about not saving them fall under statutes regarding negligent behaviors, or must it be classified as a criminal act for it to apply here?"
+            ],
+            "all_generated_alternatives": [
+              "In the lifeguard scenario, if she actively prevents a child from entering the water and warns him that he might drown, does this constitute a use of force, or does inaction have a different implication here?",
+              "If the lifeguard merely fails to warn a child about the dangers of swimming in deep water, can this omission be construed as a threat to the child's safety under the applicable laws regarding duty of care?",
+              "What would be the legal implications if the lifeguard said, 'I will save you if you start to drown,' but did nothing? Is it still a threat or an inaction within the context of physical force?",
+              "If the lifeguard observed a child struggling and offered no assistance while stating, 'If you drown, that’s on you,' can this be considered an act of threatening the child's safety under relevant statutes?",
+              "In a hypothetical where the lifeguard is confronted with a child in distress but instead calls for help rather than intervening, how might that alter the perception of physical force related to the statute being discussed?",
+              "If the lifeguard were to mean - 'I would push you away if I thought you were in trouble' - how does that notion affect the legal characterization of her actions in relation to physical force?",
+              "How might the legal interpretation differ if the lifeguard had a contractual obligation to save but chose not to act? Does that affect the understanding of her threat level in omission cases?",
+              "What standards of care apply to lifeguards under state law regarding their duty to act in emergencies, and how does that influence interpretations of threats of physical harm?",
+              "Would the lifeguard's statement to a child about not saving them fall under statutes regarding negligent behaviors, or must it be classified as a criminal act for it to apply here?",
+              "In analyzing the lifeguard's threatening language, what is the distinction in legal terms between a threat made verbally versus one implied through inaction?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 4,
+            "total_questions_in_conversation": 5
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 8
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Jackson most likely ask next?",
+          "options": {
+            "A": "But is it a violent",
+            "B": "Is negligence applicable in this context?",
+            "C": "Does this involve statutory interpretation?",
+            "D": "Was there a duty to act?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Jackson",
+          "debug_info": {
+            "correct_answer": "But is it a violent",
+            "fake_questions": [
+              "Was there a duty to act?",
+              "Does this involve statutory interpretation?",
+              "Is negligence applicable in this context?"
+            ],
+            "all_generated_alternatives": [
+              "Is there intent to harm?",
+              "What constitutes physical force?",
+              "How does omission affect liability?",
+              "Was there a duty to act?",
+              "What is the prosecution's burden?",
+              "Does this involve statutory interpretation?",
+              "What defines reasonable care standard?",
+              "How is intent established here?",
+              "What are the relevant statutes?",
+              "Is negligence applicable in this context?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 5,
+            "total_questions_in_conversation": 5
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 8
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 36,
+      "target_dialogue": "## Justice Kagan\n### Justice Kagan:\nI mean, when you ask -- answer these questions, Mr. Feigin, are you\nthinking about the use of physical force as an ordinary meaning kind of\nquestion, or are you saying it has a specialized legal meaning?\n### Eric J. Feigin:\nI think it's an ordinary meaning that's informed by the common law.\nSo, Your Honor, to the ordinary meaning point, on the Borden plurality\nexample, I could easily describe that conduct as simply omitting to hit\nthe brakes or omitting to turn the steering wheel.\n### Justice Kagan:\nAnd then we'd say you're playing word games, I mean, because I think,\nwhen you push your foot on the accelerator and drive your car into\nsomebody, that's not really such a hard case.\n### Justice Kagan:\nBut some of these are hard cases, like the lifeguard example, where we\nwould say, you know, the lifeguard is just sitting there, and this is not\nlike what a normal person would think of as a use of physical force.\nSo it's almost as though we have to pick our absurdity.\nYou started with one absurdity.\nWe would say that murder is not a crime of violence.\nThat seems pretty absurd. But here's another absurdity.\nThe lifeguard is just sitting up there watching somebody, is using\nphysical force.\nThat seems pretty weird too.\n### Eric J. Feigin:\nSo, Your Honor, I think your two questions, as Your Honor probably\nrecognizes, really pair together here.\nAnd the reason that we have two millennia of law that don't draw this\ndistinction is precisely because it is a word game.\nIf you look at, for example, the Hall -- the Hall treatise that we cite,\nthat's from 1960 but still substantially predates the ACCA, or you even\nwant to go further back and you look at the 1875 Wharton treatise,\nyou'll see that the Wharton treatise, for example, in Section 72 says\neven sleeping can be an affirmativ e act and it can lead to liability when\nthere's something you're supposed to be doing but you're not doing it.\nAnd the common law sources that we cite, both Hall and Territory\nagainst Manton, which is an 1888 case, have no trouble describing those\nkinds of omission cases as involving the use of force.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 37,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nCounsel, getting -- I'd like to get back to the lifeguard also.\nYou say the force she was -- she was using the force of gravity.\nAnd was she using it before the child jumped in the pool?\n### Eric J. Feigin:\nI -- no, Your Honor.\n### Chief Justice Roberts:\nSo she did something that suddenly gravity was there?\n### Eric J. Feigin:\nWell, Your Honor, what happened --first of all, I don't think the force\nhere is the gravity.\n### Eric J. Feigin:\nconceive of it in a number of ways.\nIt could be the force of the water.\nIt could be the gravity.\n### Chief Justice Roberts:\nWhat is the force of the water?\n### Eric J. Feigin:\nI mean, I don't know if she -- I guess the pool is probably not deep\nenough for her to get crushed in it, but it's -- the gravity is dragging her\ndown in the pool. There's an internal process going on in her body\nwhereby her life is sucked away from her.\nI apologize I'm not a doctor.\nI couldn't quite tell you what happens with asphyxiation.\n### Chief Justice Roberts:\n-- it's the same thing",
+      "justice_name": "Chief Justice Roberts",
+      "total_justice_questions": 3,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Chief Justice Roberts most likely ask next?",
+          "options": {
+            "A": "So she did something that suddenly gravity was there?",
+            "B": "Could the lifeguard's omission be criminally liable?",
+            "C": "When does passive behavior constitute a crime of violence?",
+            "D": "How does intent impact the use of gravity here?"
+          },
+          "answer": "A",
+          "target_justice": "Chief Justice Roberts",
+          "debug_info": {
+            "correct_answer": "So she did something that suddenly gravity was there?",
+            "fake_questions": [
+              "How does intent impact the use of gravity here?",
+              "Could the lifeguard's omission be criminally liable?",
+              "When does passive behavior constitute a crime of violence?"
+            ],
+            "all_generated_alternatives": [
+              "Was gravity an active force in her actions?",
+              "Is there legal precedent for using natural forces?",
+              "How does intent impact the use of gravity here?",
+              "What role does negligence play in this situation?",
+              "Could the lifeguard's omission be criminally liable?",
+              "How does the law define harmful omission behavior?",
+              "What are the responsibilities of a lifeguard legally?",
+              "When does passive behavior constitute a crime of violence?",
+              "Did she have a duty to prevent the injury?",
+              "What physical forces can be deemed violent under law?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 9
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Chief Justice Roberts most likely ask next?",
+          "options": {
+            "A": "What is the definition of violent conduct?",
+            "B": "How does causation play into violent crime?",
+            "C": "What is the relationship between acts and omissions?",
+            "D": "What is the force of the water?"
+          },
+          "answer": "D",
+          "target_justice": "Chief Justice Roberts",
+          "debug_info": {
+            "correct_answer": "What is the force of the water?",
+            "fake_questions": [
+              "What is the relationship between acts and omissions?",
+              "How does causation play into violent crime?",
+              "What is the definition of violent conduct?"
+            ],
+            "all_generated_alternatives": [
+              "What constitutes negligence in this case?",
+              "How does gravity affect liability standards?",
+              "What type of physical harm is addressed?",
+              "What is the relationship between acts and omissions?",
+              "How does causation play into violent crime?",
+              "What defenses might apply to this scenario?",
+              "What role does duty of care play here?",
+              "What evidence supports the use of force?",
+              "How can negligence be proven in court?",
+              "What is the definition of violent conduct?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 9
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 38,
+      "target_dialogue": "## Justice Kagan\n### Justice Kagan:\nsaid.\nThe lifeguard's not doing anything.\n### Eric J. Feigin:\nWell, Your Honor, to your specific point, I could easily reframe it as the\nlifeguard withholding to --from the lifeguard's duty to rescue the child.\nAnd, you know, if you think of the --I mean, again, I -- I --I think this is\neasier to see, and I'll translate t he lifeguard example in a second, but\neasier to see in the -- in the Borden car-plowing-ahead example.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 39,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nThe car -- car plowing ahead is different than the lifeguard doing\nnothing?\n### Eric J. Feigin:\nWell, I don't think -- well, okay, Your Honor, I think the lifeguard is\nusing the force there because the lifeguard is using some physical force\nthat causes the victim's death, and the lifeguard wants the victim to die.\n### Chief Justice Roberts:\nThe lifeguard wants -- but all that, that's beside the point. Your\nsubmission is that somebody who's just sitting there is using force, the\n### Eric J. Feigin:\nYes.\n### Chief Justice Roberts:\nAll right.\n### Chief Justice Roberts:\nBut he's not doing anything.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 40,
+      "target_dialogue": "## Justice Gorsuch",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 41,
+      "target_dialogue": "## Justice Kavanaugh",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 42,
+      "target_dialogue": "## Justice Gorsuch\n### Justice Gorsuch:\nIs there any death that's intended and caused by somebody doing\nnothing, like our lifeguard, that wouldn't involve the use of violent\nphysical force because every death is going to be affected by gravity or\nwater or -- and the body will fight itself in your terms? I mean, that's h\now death occurs, I guess, in the government's view.\n### Justice Gorsuch:\nWhat -- what death wouldn't qualify?\n### Eric J. Feigin:\ninvolves the -- someone using physical force against the person of\nanother.\n### Justice Gorsuch:\nWell, if the lifeguard can do it.\n### Eric J. Feigin:\nBut I do think that every death does involve physical force.\n### Justice Gorsuch:\nEvery death involves physical force.\nAnd why wouldn't it all be violent? Because it's all extremely\nunpleasant.\n### Eric J. Feigin:\nWe do think every death involves physical force and violent physical\n### Justice Gorsuch:\nOkay.\n### Justice Gorsuch:\nOkay.\nAll right. Got it.\nGot it.\n### Eric J. Feigin:\nThe -- not all of them are going to satisfy this statute because not all of\n### Justice Gorsuch:\nThey're all violent physical force, though?\n### Justice Gorsuch:\nOkay.\nAll right.\n### Justice Gorsuch:\nAll right.\nI've got another question for you.\n### Justice Gorsuch:\nI got it.\nI got it.\n### Eric J. Feigin:\nSorry.\n### Justice Gorsuch:\nSure.\n### Eric J. Feigin:\nSorry.\nI just wanted to add the point that the physical force requirement of the\nstatute is not to carve out things like murder and physical harm.\n### Justice Gorsuch:\nYeah.\n### Justice Gorsuch:\nBut all murders are, by definition, the use of violent physical force, I\nthink.\nI think it has to be.\n### Eric J. Feigin:\nSubject to the proximate cause caveat I was discussing with you earlier\n### Justice Gorsuch:\nMm -hmm.\nYeah, yeah. Yeah.\nWith the lifeguard, yeah.\n### Justice Gorsuch:\nOkay.\nOkay.",
+      "justice_name": "Justice Gorsuch",
+      "total_justice_questions": 4,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Gorsuch most likely ask next?",
+          "options": {
+            "A": "What defenses exist for murder charges?",
+            "B": "What -- what death wouldn't qualify?",
+            "C": "What constitutes unlawful conduct in this context?",
+            "D": "How does omission affect criminal liability?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Gorsuch",
+          "debug_info": {
+            "correct_answer": "What -- what death wouldn't qualify?",
+            "fake_questions": [
+              "How does omission affect criminal liability?",
+              "What constitutes unlawful conduct in this context?",
+              "What defenses exist for murder charges?"
+            ],
+            "all_generated_alternatives": [
+              "What qualifies as a violent crime?",
+              "How does omission affect criminal liability?",
+              "What elements define criminal negligence?",
+              "What constitutes unlawful conduct in this context?",
+              "How does intent factor into this statute?",
+              "What types of inaction are punishable?",
+              "What factors mitigate a violent charge?",
+              "What defenses exist for murder charges?",
+              "How does jurisdiction affect this case?",
+              "What is the definition of physical force?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 4
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 10
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Gorsuch most likely ask next?",
+          "options": {
+            "A": "Does emotional distress categorize as physical force?",
+            "B": "What constitutes violent physical force here?",
+            "C": "Can omissions also involve violent force claims?",
+            "D": "They're all violent physical force, though?"
+          },
+          "answer": "D",
+          "target_justice": "Justice Gorsuch",
+          "debug_info": {
+            "correct_answer": "They're all violent physical force, though?",
+            "fake_questions": [
+              "What constitutes violent physical force here?",
+              "Can omissions also involve violent force claims?",
+              "Does emotional distress categorize as physical force?"
+            ],
+            "all_generated_alternatives": [
+              "What constitutes violent physical force here?",
+              "How does intention affect violent force analysis?",
+              "Are all acts considered physical force incidents?",
+              "Which deaths apply under this legal standard?",
+              "What defines 'use' in physical force terms?",
+              "Can omissions also involve violent force claims?",
+              "Is gravity significant to this legal interpretation?",
+              "How do statutes define 'crime of violence'?",
+              "What are the implications of omission cases?",
+              "Does emotional distress categorize as physical force?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 4
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 10
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Gorsuch most likely ask next?",
+          "options": {
+            "A": "How does this relate to criminal culpability standards?",
+            "B": "Can you clarify the legal standard for negligence?",
+            "C": "All right.\nI've got another question for you.",
+            "D": "How does jurisdiction affect the outcome of this case?"
+          },
+          "answer": "C",
+          "target_justice": "Justice Gorsuch",
+          "debug_info": {
+            "correct_answer": "All right.\nI've got another question for you.",
+            "fake_questions": [
+              "How does this relate to criminal culpability standards?",
+              "How does jurisdiction affect the outcome of this case?",
+              "Can you clarify the legal standard for negligence?"
+            ],
+            "all_generated_alternatives": [
+              "Can you clarify the legal standard for negligence?",
+              "What is the threshold for proving intent in this case?",
+              "What were the implications of the last ruling?",
+              "How does jurisdiction affect the outcome of this case?",
+              "What are the potential defenses available in this scenario?",
+              "How does this relate to criminal culpability standards?",
+              "What elements must be established for a civil claim?",
+              "Which statutes govern the defendant's actions here?",
+              "What role does causation play in criminal law?",
+              "What precedents apply to this statutory interpretation?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 4,
+            "total_questions_in_conversation": 4
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 10
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 43,
+      "target_dialogue": "## Justice Sotomayor\n### Justice Sotomayor:\nAnd the mens rea.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 44,
+      "target_dialogue": "## Justice Gorsuch\n### Justice Gorsuch:\nAnd the mens rea.\n### Justice Gorsuch:\nYeah, yeah.\n### Justice Gorsuch:\nYeah.\n### Justice Gorsuch:\nBut --all right. It -- kind of a little strange to think that Congress meant\nby this, if we want to talk about common sense, that every --every\ndeath is encompassed so long as I can meet mens rea and causation.\nBut put that aside.\nI really think you're struggling, if I'm honest with you, to try and defend\na position that just has nothing to do with this case, right? We've got a\ndefendant over here who ordered a hit job.\nI mean, that's what everyone's --the common sense on your side.\n### Eric J. Feigin:\nAnd handed them the gun.\n### Justice Gorsuch:\nAnd handed them a gun in a paper bag and the whole nine yards. It's like\nout of a movie.\nAnd here we are talking about lifeguards and omissions, and it makes\nme wonder whether, again, as I asked your friend on the other side,\nanybody considered whether this statute might be divisible because\ntraditionally, traditionally, murder statutes encompass two very distinct\nthings, acts ordering the hit job and omissions where there is a\npreexisting duty of care.\nVery different.\nDoes that -- does that resonate to you at all? It might help you.\n### Eric J. Feigin:\nYeah, Your Honor, I think we might make divisibility arguments with\nrespect to some statutes, perhaps including this one, if the Court were\nto rule against us. Obviously, we won in the Second Circuit and we didn't\n### Justice Gorsuch:\nWell, if that's the case, maybe we go back to",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 45,
+      "target_dialogue": "## Justice Kavanaugh\n### Justice Kavanaugh:\n's\nquestion from the last case.\nWhy wouldn't we remand this to ask that --we resolve that first before\nwe start talking about lifeguards and every murder being encompassed\nwithin this?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 46,
+      "target_dialogue": "## Justice Gorsuch\n### Justice Gorsuch:\nEvery death.\n### Eric J. Feigin:\nthe Court resolves it here because, as we point out in our brief, 35 states\nby statute include omission liability, and one common way to do that is\njust to define the word \"act\" to include omissions.\nThat's the way New York does it.\n### Justice Gorsuch:\nWell, omissions plus duty of care is what they do.\n### Eric J. Feigin:\nYes.\n### Justice Gorsuch:\nAnd so, again, if you -- if you won here, you'd have a great precedent\nmaybe that some of the others would be divisible too.\nI would have thought that would have been useful to you.\n### Justice Gorsuch:\nI know that.\n### Eric J. Feigin:\nIt's a sta te law argument that we don't think is appropriately made in\nthis Court.\n### Justice Gorsuch:\nI agree with that.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 47,
+      "target_dialogue": "## Justice Kagan",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 48,
+      "target_dialogue": "## Justice Kavanaugh",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 49,
+      "target_dialogue": "## Justice Kagan\n### Eric J. Feigin:\nI think we would probably be relying on cases, and New York has some,\nwhere, because omission liability, as",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 50,
+      "target_dialogue": "## Justice Gorsuch\n### Justice Gorsuch:\njust pointed out,\nrequires a duty as well, there are cases where the jury instructions, for\nexample, were found deficient because they didn't specifically allege\nthe duty.\nBut there are cases, and we --yeah, there are a couple of examples of\nand also beating a child are kind of charged together.\nSo I think the -- the outcome of that would be a little bit in doubt.\nAnd that's actually the only reason why we've said that all the statutes\nlisted in our appendix are just at risk.\nIt's the same thing the Court said in Voisine.\nThey're at risk because we're not quite sure how the divisibility analysis\nis going to shake out.\nBut there's no question that we'v e already lost in the Third Circuit.\nThere's no question that that's going to affect charges under the hate\ncrimes statute in that circuit.\nIt's going --and we think, if the Court were to rule against us, it would\naffect charges in the hate crime statute in other cases.\nThe Buffalo supermarket shooter has raised this very argument and\npreserved it.\nAnd if we lose it here, then the hate crimes statute is not a crime of\nviolence, killing somebody because you are biased against their race,\nbecause it could possibly be committed by the conduct of being a\ndaycare worker and realizing that there's a bomb in the building and\ndeciding you're only going to save the children of one race.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 51,
+      "target_dialogue": "## Justice Jackson",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 52,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nAre you fighting the categorical approach?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 53,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\nYes.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 54,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nI mean, isn't that the root of your problem? And I guess, I mean, the\ndivisibility argument has a lot going for it, but is it -- how does it fit with\nthe categorical approach?\n### Eric J. Feigin:\nYour Honor, not every statute is going to be -- be divisible by act versus\nomission.\nIt's very common to define \"act\" as, you know, by -- to define it by\nomission.\nThat's the model penal code definition in Section 1.137.\nBut, as to fighting the categorical approach, we had that fight a few",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 55,
+      "target_dialogue": "## Justice Kavanaugh",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 56,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nWell, I'm just wondering if you're trying to get it in the backdoor.\n### Eric J. Feigin:\nNo, Your Honor.\nThe point I'm making is I -- I think there's --I think that approaching\nthis with some sort of degree of common sense that is here informed by\ntwo millennia of common law, and Voisine looked at the common law to\na certain extent in interpreting what the term \"use\" meant.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 57,
+      "target_dialogue": "## Justice Kavanaugh\n### Justice Kavanaugh:\nThe other side says that the common sense is really captured by the\nResidual Clause.\n### Eric J. Feigin:\nYour Honor, let me make several points about that.\n### Justice Kavanaugh:\nAnd let me just finish.\n### Eric J. Feigin:\nOkay.\n### Justice Kavanaugh:\nAnd the Residual Clause, of course, in Johnson and Davis was -- was\ndeclared unconstitutional.\nAnd that -- the other side says what you're -- and -- and, by the way, it\nwas pointed out that that would lead to absurdities, and here we are,\nand that you're trying to jam cases that would have naturally fit under\nthe Residual Clause into the other clause.\nSo that's what the other side is suggesting you're doing.\n### Eric J. Feigin:\nIf I could have a second, several points on that.\nNumber one, I think he's trying to have it both ways.\nHe's arguing that Congress wouldn't want -- have wanted this to be a\ncrime of violence at all, and he's relying on this Residual Clause\nargument. As to the Residual Clause argument, this isn't a case about\npotential risks, which is what the Residual Clause covers.\nThis is a case where we know somebody dies.\nI think the Court has not relied on the Residual Clause in other cases\nwhere it might have equally been applicable under the kind of logic\nyou're suggesting,\n### Justice Kavanaugh:\n, like Stokeling. I think that's\nbecause everyone recognizes the Elements Clause has its own specific\nfunction.\nI'd also point you not just to 924(c)(3)'s Residual Clause but to the\nArmed Career Criminal Act's Residual Clause, which is worded a little bit\ndifferently, although no one thinks it affects the scope of the Elements\nClause.\nIt requires a serious potential risk of physical injury.\nI don't know who could think that that's the way you're capturing\nmurder.\nIt doesn't have a serious potential risk of physical injury.\nSomebody gets harmed.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 58,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\nYes, but, Mr. Feigin\n### Eric J. Feigin:\nAnd then, finally -- I'm sorry.\n### Justice Jackson:\nOh, go ahead.\nGo ahead.\nSorry.\n### Eric J. Feigin:\nAnd then, finally, I just wanted to point out that Section 922(g)(9), the\ndefinition doesn't appear there.\nThat's in Section 921.33(a).\nThe definition of \"misdemeanor, crime of domestic violence,\" doesn't\neven have a Residual Clause.\nAnd if you look at the appendix we submitted in Voisine, most of the\nassault statutes the Court was worried about there are defined in terms\nof causation of harm or causation of offense of touching.\nI thank you for your indulgence,\n### Justice Jackson:\n.\nYes.\nNo, Mr. Feigin, I -- I appreciate that somebody died here and that we\nwould ordinarily think of murder in that situation.\nBut it's clear that the language of this provision of the statute is not\nfocused on the outcome or the effect. And I think the common-sense\nreading of this that cuts against you is the fact that \"physical force\" has\na common-sense meaning, \"use\" has a common-sense meaning and\nthat it suggests that the defendant has to act, that they have to do\nsomething.\nAnd so Justice Gorsuch's point is -- about divisibility is kind of my\nthought, which is, at the beginning of this, it seems like we have a\nbifurcation of Congress's view that you have action by a defendant and\nyou have omission in a different column, and we're sort of in the realm\nof action.\nSo I guess my question is, how could Congress have possibly written the\nwords \"use, attempted use, or threatened use of physical force\" and\nmeant that the defendant doesn't have to do anything at all?\n### Eric J. Feigin:\nWell, Your Honor, the -- this goes back to the common-law backdrop\nagainst when --and I -- I think the easiest way to see that, that there's\nsome linguistic ways to see that to the dictionary definitions.\n### Justice Jackson:\nNo, I'm just looking at the text of the statute.\nIf you're right -- if you're right that what Congress was trying to\ncapture with this is a defendant -- a --a -- a victim dying or a person\nbeing bodily -- you know, injured bodily, Congress has said that many\nother places, even in this very statute, when that was the triggering\nthing.\nWhat I'm worried about is interpreting the words \"use, attempted use,\nand threatened use of physical force\" to encompass a situation in which\na person is not acting.\nThat seems completely counterintuitive.\nIt seems like it has no bearing in the words of the statute.\nI've already talked with -- with -- with your friend on the other side\nabout the legislative history that actually shows that Congress wasn't\ntalking about omissions, but how -- how do you get past this sort of\nconceptual concern that we're really talking about doing something\nhere and you're suggesting that you don't have to?\n### Eric J. Feigin:\nWell, Your Honor, if I could respond, I would have, like, three principal\n### Justice Jackson:\nYes.\n### Eric J. Feigin:\nargument -- not argument -- the premise of your question was that\nthis statute doesn't look at results.\nBut I'd respectfully point the Court to Castleman and as well as Justice\nScalia's current -- concurrence in Castleman, which both point out that\nwhere you have -- where you actually have physical injury, it must have\nbeen caused by physical force.\n### Justice Jackson:\nBut Castleman was -- Castleman -- Castleman was dealing with a\ndifferent question, like how much force? What is force? Is -- is putting\nthe -- the --the poison in the drink enough to be physical force? I'm\ntalking about a situation in which a person does nothing.\n### Eric J. Feigin:\nOkay.\nThe second point I'd make, Your Honor, and I've been trying to make it\nthis morning, and I take as part of your question you've kind of rejected\nthis, but I do think it fits squarely within the dictionary definitions.\nmy enemy walk in front of me and I let the car keep going and just don't\ndo anything, I think we'd all say I used physical force.\nNow maybe I got in the car and turned the key and started the car, but I\ncertainly didn't have the intent to use physical force against the person\nof another.\nI only had it at the point I stopped doing something.",
+      "justice_name": "Justice Jackson",
+      "total_justice_questions": 3,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Jackson most likely ask next?",
+          "options": {
+            "A": "No, I'm just looking at the text of the statute.\nIf you're right -- if you're right that what Congress was trying to\ncapture with this is a defendant -- a --a -- a victim dying or a person\nbeing bodily -- you know, injured bodily, Congress has said that many\nother places, even in this very statute, when that was the triggering\nthing.\nWhat I'm worried about is interpreting the words \"use, attempted use,\nand threatened use of physical force\" to encompass a situation in which\na person is not acting.\nThat seems completely counterintuitive.\nIt seems like it has no bearing in the words of the statute.\nI've already talked with -- with -- with your friend on the other side\nabout the legislative history that actually shows that Congress wasn't\ntalking about omissions, but how -- how do you get past this sort of\nconceptual concern that we're really talking about doing something\nhere and you're suggesting that you don't have to?",
+            "B": "How might the definitions of 'crime of violence' differ when assessing actions versus omissions in related statutes?",
+            "C": "How do omissions differ in tort law compared to criminal law when addressing societal obligations to prevent harm?",
+            "D": "What would it mean for this statute if the courts decided that only aggressive acts count as 'use' of physical force?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Jackson",
+          "debug_info": {
+            "correct_answer": "No, I'm just looking at the text of the statute.\nIf you're right -- if you're right that what Congress was trying to\ncapture with this is a defendant -- a --a -- a victim dying or a person\nbeing bodily -- you know, injured bodily, Congress has said that many\nother places, even in this very statute, when that was the triggering\nthing.\nWhat I'm worried about is interpreting the words \"use, attempted use,\nand threatened use of physical force\" to encompass a situation in which\na person is not acting.\nThat seems completely counterintuitive.\nIt seems like it has no bearing in the words of the statute.\nI've already talked with -- with -- with your friend on the other side\nabout the legislative history that actually shows that Congress wasn't\ntalking about omissions, but how -- how do you get past this sort of\nconceptual concern that we're really talking about doing something\nhere and you're suggesting that you don't have to?",
+            "fake_questions": [
+              "How might the definitions of 'crime of violence' differ when assessing actions versus omissions in related statutes?",
+              "How do omissions differ in tort law compared to criminal law when addressing societal obligations to prevent harm?",
+              "What would it mean for this statute if the courts decided that only aggressive acts count as 'use' of physical force?"
+            ],
+            "all_generated_alternatives": [
+              "How might the definitions of 'crime of violence' differ when assessing actions versus omissions in related statutes?",
+              "If we consider legislative intent, what are other statutory definitions that explicitly include acts requiring physical involvement or direct actions from the defendant?",
+              "In what ways does mens rea apply to omissions as opposed to affirmative acts in the context of violent crimes?",
+              "What are the implications of the statute if interpreted as requiring action versus inaction by the accused?",
+              "How do omissions differ in tort law compared to criminal law when addressing societal obligations to prevent harm?",
+              "In the context of statutory interpretation, what can be inferred from the legislative history regarding Congress's intent to include omissions?",
+              "How does the vagueness doctrine apply to statutes that include both action and omission in defining crimes of violence?",
+              "What legal standards do courts generally use to assess the sufficiency of evidence for acts of omissions in non-violent offenses?",
+              "What would it mean for this statute if the courts decided that only aggressive acts count as 'use' of physical force?",
+              "Could the concept of 'attempted use' in this statute encompass scenarios where no physical action occurs, and what precedent exists for that interpretation?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 11
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Jackson most likely ask next?",
+          "options": {
+            "A": "But Castleman was -- Castleman -- Castleman was dealing with a\ndifferent question, like how much force? What is force? Is -- is putting\nthe -- the --the poison in the drink enough to be physical force? I'm\ntalking about a situation in which a person does nothing.",
+            "B": "To what extent does malice play a role in understanding legislative language concerning violent conduct, regardless of physical action?",
+            "C": "In cases of omission, how does the legal standard differ when determining culpability as compared to affirmative acts of violence?",
+            "D": "What implications does the doctrine of negligence have when discussing duties that arise from inactions in criminal law?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Jackson",
+          "debug_info": {
+            "correct_answer": "But Castleman was -- Castleman -- Castleman was dealing with a\ndifferent question, like how much force? What is force? Is -- is putting\nthe -- the --the poison in the drink enough to be physical force? I'm\ntalking about a situation in which a person does nothing.",
+            "fake_questions": [
+              "In cases of omission, how does the legal standard differ when determining culpability as compared to affirmative acts of violence?",
+              "What implications does the doctrine of negligence have when discussing duties that arise from inactions in criminal law?",
+              "To what extent does malice play a role in understanding legislative language concerning violent conduct, regardless of physical action?"
+            ],
+            "all_generated_alternatives": [
+              "In cases of omission, how does the legal standard differ when determining culpability as compared to affirmative acts of violence?",
+              "Could you explain how the statute would apply if a person repeatedly advised a victim against seeking medical help?",
+              "Was Castleman concerned with the threshold of culpability or the definition of bodily injury in a scenario involving active harm?",
+              "What implications does the doctrine of negligence have when discussing duties that arise from inactions in criminal law?",
+              "How does the distinction between acts and omissions affect the interpretation of the statutes regarding intent and culpability?",
+              "Is there a precedent that clarifies how the absence of action can be equated with the use of violent force under federal law?",
+              "How do common law principles shape our understanding of legislative intent regarding acts versus omissions in criminal proceedings?",
+              "What standards are applied in establishing causation when discussing the outcomes of omissions in comparison to affirmative actions?",
+              "Can you discuss the relevance of common law models in differentiating between violent crime and passive inaction in legal definitions?",
+              "To what extent does malice play a role in understanding legislative language concerning violent conduct, regardless of physical action?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 11
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 59,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nSure.\n### Eric J. Feigin:\nthink this would have defied common sense because, again, if you look\nat all the common -law sources, everyone recognizes this is a word\ngame.\nDo I call it withholding, do I call it not acting when I refuse to give\nsomeone medicine? And the common law has always treated doing\nsomething other than what you're supposed to do, fiddling while Rome\nburns, as an affirmative act.\nThank you, Mr. Chief Justice.\n### Chief Justice Roberts:\nThank you, counsel.\nJustice Thomas? Justice Alito?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 60,
+      "target_dialogue": "## Justice Sotomayor\n### Justice Sotomayor:\n? Justice Barrett?\nJustice Jackson?\n### Eric J. Feigin:\nOkay.\nThank you.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 61,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nRebuttal, Mr. Kedem?\n### Allon Kedem:\nThank you, Your Honor. Starting first with divisibility, when this Court\nhas asked whether a statute is divisible for purposes of the categorical\napproach, it is asking whether it is linguistically divisible, whether the\ntext of the statute allows it to be divided into separate offenses.\nSometimes there are a list of different ways of committing an offense.\nSometimes they are different offenses.\nSo you could say that it involve -- burglary involves breaking into a\nhouse or a houseboat or whatever, and then the question is, is house a\ndifferent crime than houseboat? But it has to be linguistically divisible.\nYou don't look at -- and you can look at state, common law, or\notherwise to figure out whether those are different elements or means,\nbut you don't look at -- at --at case law generally to ask whether\nomissions are different offenses than not.\nThat is what my friend is asking you to do, something this Court has\nnever done.\nAnd, at minimum, if you're going to start to engage in that kind of\ndivisibility in an entirely new realm, I would think that you'd want a case\nwhere that issue had been raised and briefed.\nMy friend also said that essentially the only question about whether all\nthe statutes in its appendix are out is a question about divisibility.\nWe respectfully disagree.\nStates can agree with the general principle, as I think all of them do, that\nomissions can sometimes be liable.\nThey can accept the common-law principle but still believe that certain\nspecific offenses cannot be committed except by affirmative acts.\nWe have cases in our brief, in our reply brief, in, for instance, Louisiana,\nwhich accepts the general principle but nevertheless says that felony\nmurder cannot be committed except by an affirmative act because it is\nwritten in a way that requires a killing.\nAnd so you have a number of those statutes even in those effective\nstates that wouldn't necessarily be excluded.\nGoing to the Residual Clause, the Residual Clause is a natural home for\noffenses like murder not because murder isn't always bad but precisely\nbecause it is usually bad.\nIn other words, the vast majority of murders are, in fact, violent, which is\nwhy it makes sense to fall under a clause that talks about the risk in an\nordinary case that physical force against another will be used during the\ncourse of commission.\nIt allows for these sorts of edge cases, the difficult hypotheticals that\nwe've been talking about.\nThe Elements Clause is not written that way.\nIt requires the use of violent physical force as an element, which means\nin absolutely every case.\nAnd my friend does not dispute that there is no interpretive significance\nto the fact that the Residual Clause is no --no longer operative. Going to\nthe word \"use,\" my friend says that \"use\" derives some meaning from\nthe common law.\nThis Court in Bailey said \"use\" must be given its ordinary meaning,\nwhich is active employment.\nAnd you notice that when my friend started talking about using things\nlike metabolism or the body's natural processes, he lapsed into this sort\nof abstract concept speak rather than talking about something physical,\nlike physical force that you use against the person of another.\nCastleman.\nCastleman examples are all indirect force, poison, pulling the trigger of\na gun, introducing a disease, by which I think the Court meant, if you\ninfect someone with the Ebola virus, obviously, that's an indirect use of\nviolent physical force.\nBut they're all taking steps to bring someone into contact with the\nthing, without which, without the step you take to bring them into\ncontact with it, there would be no harm whatsoever.\nSo it's not a word game.\nWhether you describe, you know, failing to feed someone as an act of\nwithholding or an omission, either way, you are not bringing them into\ncontact with any force, much less violent physical force.\nMy friend relied very heavily on the common law, as their brief does as\nwell.\nHe says that acts of omission are treated as other acts.\nAnd that, as a general principle, makes sense for liability.\nBut the problem with the government's argument on that is none of\nthose terms make their appearance in the Elements Clause, which talks\nabout the use of violent physical force.\nThat's the thing that has to be present in each case.\nAnd that's why, to your question,",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 62,
+      "target_dialogue": "## Justice Barrett\n### Justice Barrett:\n, Stokeling is different\nbecause it was interpreting a common law term of art which appeared\nboth in the federal provision and in the state provision.\nWe're not here interpreting words, \"act\" or \"omission.\" We're\ninterpreting \"use of violent physical force.\" Finally, I want to end with a\npoint about all these hard examples.\nYou posed a lot of very difficult hypotheticals both to me and my friend\nfrom the government.\nAnd the thing is you don't have to agree with us on essentially any of\nthem, except the pure omission scenario, where there's an octogenarian\nwho falls into a coma and slowly expires be cause they are not being fed\nnutrition.\nNo one would describe that as a death involving violent physical force,\nexcept for perhaps the government, which thinks that literally every\ndeath involves violent physical force.\nBut, if that in a sort of normal scenario is not a death involving violent\nphysical force, it doesn't suddenly become violent physical force\nbecause there was someone who had a legal duty to provide that\nnutrition. It may be a very serious crime.\nIt can be punished severely, but it does not categorically involve the use\nof violent physical force.\nThank you.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 63,
+      "target_dialogue": "## Chief Justice Roberts\n\n### Chief Justice Roberts:\nThank you, counsel.\nThe case is submitted.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    }
+  ],
+  "answer_distribution": {
+    "counts": {
+      "A": 10,
+      "B": 6,
+      "C": 4,
+      "D": 5
+    },
+    "percentages": {
+      "A": 40.0,
+      "B": 24.0,
+      "C": 16.0,
+      "D": 20.0
+    },
+    "total_questions": 25
+  }
+}

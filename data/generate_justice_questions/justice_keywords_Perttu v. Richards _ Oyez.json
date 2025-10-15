@@ -1,0 +1,1351 @@
+{
+  "source_file": "Perttu v. Richards _ Oyez.md",
+  "background": "Chief Justice Roberts\n### Chief Justice Roberts:\nWe'll hear argument next in Case 23-1324, Perttu versus Richards.\nMs. Sherman.\n### Ann M. Sherman:\nMr. Chief Justice, and may it please the Court: Exhaustion is the\ncenterpiece of Congress's reforms under the Prison Litigation Reform\nAct.\nYet, even with this invigorated exhaustion requirement, prisoner\nlawsuits still account for an outsize share of filings in federal district\ncourts.\nA rule that requires a jury trial on intertwined exhaustion issues would\nincrease this burden while incentivizing non-exhaustion and\nundermining the goals and structure of the PLRA.\nRespondent would have this Court cast aside the PLRA's goals and\nstructure merely because exhaustion is an affirmative defense. Focusing\non this Court's holding in Jones versus Bock, he contends that there's no\nprincipled reason for treating PLRA exhaustion differently than other\naffirmative defenses that are routinely sent to juries when there are\nfacts intertwined with the merits.\nJones does not stand for this broad proposition.\nIt held only that prisoners need not plead exhaustion.\nAnd there is a principled reason for treating PLRA exhaustion differently\nthan other affirmative defenses.\nIt is a mandatory prerequisite to suit.\nSo its intended benefits would be entirely undercut by merits discovery\nand a trial before its resolution.\nPLRXA -- PLRA exhaustion must be resolved by a judge at the early\nstages of litigation.\nContrary to the Sixth Circuit, this does not run afoul of the Seventh\nAmendment even when there are intertwined facts.\nThe judge's determination on exhaustion does not interfere with the\njury's ultimate fact-finding role because dismissal is typically without\nprejudice and the judge's determination on exhaustion would not have\npreclusive effect.\nRichards, like many other prisoners, can exhaust, come back, and have a\njury decide the merits of any viable claims.\nFor this reason, this Court should reverse the Sixth Circuit's decision.\nI welcome the Court's questions.",
+  "conversations": [
+    {
+      "conversation_id": 1,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nAre exhaustion determinations normally made by the judge?\n### Ann M. Sherman:\nThey are.\nAnd, in fact, lower courts are pretty much in agreement that at least\nwhen there are no intertwined facts, that judges will make those\ndeterminations.\n### Justice Thomas:\nSo what is it about the intertwining of facts that changed the -- changes\nthe nature of exhaustion?\n### Ann M. Sherman:\nI don't think there's anything that changes the nature of exhaustion. I\nthink what it does is it -- it -- it makes one have to consider the Seventh\nAmendment now. If -- if there are intertwined facts, is that an\nimplication of the Seventh Amendment? And our position is that it\n### Justice Thomas:\nSo, historically, has there been -- do we have any analogs to -- that\nwould suggest that this would go to a jury?\n### Ann M. Sherman:\nIn fact, t he -- the opposite is true, that the analogs suggest that this\nwould go to a judge.\nWe think that the closest analogs -- there is no precise analog. There\nwas no exhaustion in 1791.\nThe doctrine hadn't been developed yet.\nIt came as the administrative setting was coming into -- to force.\nBut we know that exhaustion has its roots in equity.\nAnd we think that the most at least appropriate analogs here are\ntheir key characteristic is a deference to another setting, another forum.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"So what is it about the __________________ that changed the -- changes\nthe nature of exhaustion?\"",
+          "options": {
+            "A": "intertwining of facts",
+            "B": "interlacing of issues",
+            "C": "interconnected facts of",
+            "D": "intertwined issues of"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "intertwining of facts",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 1,
+              "speaker": "Justice Thomas",
+              "original_statement": "So what is it about the intertwining of facts that changed the -- changes\nthe nature of exhaustion?"
+            },
+            "explanation": "This phrase challenges the understanding of how intertwined facts can affect legal standards and procedural requirements, particularly in the context of exhaustion under the PLRA."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"So, ________________________ -- do we have any analogs to -- that\nwould suggest that this would go to a jury?\"",
+          "options": {
+            "A": "historically, has this occurred",
+            "B": "historically, has it been",
+            "C": "historically, has there been",
+            "D": "historically, has there existed"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "historically, has there been",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 2,
+              "speaker": "Justice Thomas",
+              "original_statement": "So, historically, has there been -- do we have any analogs to -- that\nwould suggest that this would go to a jury?"
+            },
+            "explanation": "This phrase challenges the understanding of historical legal precedents and their relevance to current judicial inquiries."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"So, historically, has there been -- do we have any analogs to -- that\nwould ________________________________________________?\"",
+          "options": {
+            "A": "indicate that this would proceed to a jury",
+            "B": "recommend that this should be tried by jury",
+            "C": "suggest that this would go to a jury",
+            "D": "imply that this could be heard by jury"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "suggest that this would go to a jury",
+            "category": "judicial_test",
+            "difficulty": "hard",
+            "word_count": 8,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 2,
+              "speaker": "Justice Thomas",
+              "original_statement": "So, historically, has there been -- do we have any analogs to -- that\nwould suggest that this would go to a jury?"
+            },
+            "explanation": "This phrase probes the criteria under which certain legal issues are deemed appropriate for jury consideration, testing the understanding of the jury's role in the legal process."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 2,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nBut, Ms. Sherman, do we really have to get into that? I guess what I was a\nlittle confused about from your briefing was that I took you to concede\nthat there's intertwinement here.\nAnd if that's the case, we can just assume, I guess, that ex haustion does\nnot entitle you to a jury.\nThat's the part of this that would ordinarily say you don't get a jury, but\nit's the fact of intertwinement that brings to the fore the question of\nwhether or not the Seventh Amendment has to be satisfied.\nSo we don't really have to worry or think about or rule on whether or not\nthe exhaustion claim gets a jury independent of the other one, right?\n### Ann M. Sherman:\nI don't think the Court has to rule on that.\nI think it's a question that is naturally embedded in the question\npresented.\n### Justice Jackson:\nI understand, but if I assume it, okay, so fine, aren't we still faced with\nthe question that you present, as a matter of your question presented, is\nthen we have intertwinement of a claim that does not get a jury, the\nexhaustion claim, with a claim that does? Do you concede that the First\nAmendment retaliation claim is one that would ordinarily go to the jury?\n### Ann M. Sherman:\nWhen -- when the right to a jury trial accrues and exhaustion has been\nmet, I agree that that is a claim that should go to the jury.\nAnd this Court has been very clear that 1983 claims are entitled to a jury\ntrial.\n### Justice Jackson:\nAll right.\nSo we do have the intertwinement.\nAt least you concede it in your brief.\nAnd so why wouldn't the sort of standard Beacon Theatres view of how\nwe deal with that situation apply here?\n### Ann M. Sherman:\nBeacon Theatres doesn't apply here for a number of reasons.\nOne, Beacon Theatres was driven by a concern for collateral estoppel.\nWould there -- would there be a preclusive effect that would completely\ncut off any right to have the -- the --the jury trial on the merits?\n### Justice Jackson:\nI don't see that in the opinion.\nI mean, I see that it talks about preclusive effect, but that didn't\nnecessarily seem to me to be driving the analysis.\nAnd -- and we've had a lot of cases that have applied this sort of\nintertwinement principle in which preclusion really hasn't been the\nmain focus.\n### Ann M. Sherman:\nI think Beacon Theatres itself talked about preclusion, preclusive effect,\nand that being a concern.\nAnd later on, this Court in Parklane Hosiery said, when we looked at\nBeacon Theatres, which, again, this Court has said is -- collateral\nestoppel is only a flexible, judge-made doctrine, and -- and this Court\n### Justice Jackson:\nAll right.\nSo why isn't that a case here? I mean, what --what law do we have that\nsays that an exhaustion determination by a judge in this situation that\nrequires them to find all the facts about whether or not there was actual\n### Ann M. Sherman:\nWell, what we have here is the flexible doctrine of collateral estoppel\nand what we know about collateral estoppel and why it's applied and\nwhy it doesn't get applied. And one of the big issues here is that you\ndon't -- this Court has said over and over in cases, and so have the lower\ncourts, that collateral estoppel is applied -- is not applied when the\nlitigants have not had a full and fair opportunity to litigate.\nAnd when a litigant is litigating -- on either side is litigating\nexhaustion, they have not had a full and fair opportunity to litigate on\nthe merits even if there are overlapping factors.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"But, Ms. Sherman, do we really have to get into that? I guess what I was a\nlittle confused about from your briefing was that I took you to concede\nthat there's intertwinement here.\nAnd if that's the case, we can just assume, I guess, that ex haustion does\nnot entitle you to a jury.\nThat's the part of this that would ordinarily say you don't get a jury, but\nit's ________________________ that brings to the fore the question of\nwhether or not the Seventh Amendment has to be satisfied.\nSo we don't really have to worry or think about or rule on whether or not\nthe exhaustion claim gets a jury independent of the other one, right?\"",
+          "options": {
+            "A": "the principle of intertwinement",
+            "B": "the matter of intertwinement",
+            "C": "the issue of intertwinement",
+            "D": "the fact of intertwinement"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "the fact of intertwinement",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 1,
+              "speaker": "Justice Jackson",
+              "original_statement": "But, Ms. Sherman, do we really have to get into that? I guess what I was a\nlittle confused about from your briefing was that I took you to concede\nthat there's intertwinement here.\nAnd if that's the case, we can just assume, I guess, that ex haustion does\nnot entitle you to a jury.\nThat's the part of this that would ordinarily say you don't get a jury, but\nit's the fact of intertwinement that brings to the fore the question of\nwhether or not the Seventh Amendment has to be satisfied.\nSo we don't really have to worry or think about or rule on whether or not\nthe exhaustion claim gets a jury independent of the other one, right?"
+            },
+            "explanation": "This phrase emphasizes the legal concept of intertwinement, which is crucial for understanding how intertwined issues affect the right to a jury trial under the Seventh Amendment."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"But, Ms. Sherman, do we really have to get into that? I guess what I was a\nlittle confused about from your briefing was that I took you to concede\nthat there's intertwinement here.\nAnd if that's the case, we can just assume, I guess, that ex haustion does\nnot entitle you to a jury.\nThat's the part of this that would ordinarily say you don't get a jury, but\nit's the fact of intertwinement that brings to the fore the question of\n____________________________________________________________.\nSo we don't really have to worry or think about or rule on whether or not\nthe exhaustion claim gets a jury independent of the other one, right?\"",
+          "options": {
+            "A": "whether or not the Seventh Amendment has to be satisfied",
+            "B": "whether or not the Sixth Amendment must be fully satisfied",
+            "C": "whether or not the Seventh Amendment applies to exhaustion claims",
+            "D": "whether or not the Seventh Circuit has to be satisfied"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "whether or not the Seventh Amendment has to be satisfied",
+            "category": "constitutional",
+            "difficulty": "hard",
+            "word_count": 10,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 1,
+              "speaker": "Justice Jackson",
+              "original_statement": "But, Ms. Sherman, do we really have to get into that? I guess what I was a\nlittle confused about from your briefing was that I took you to concede\nthat there's intertwinement here.\nAnd if that's the case, we can just assume, I guess, that ex haustion does\nnot entitle you to a jury.\nThat's the part of this that would ordinarily say you don't get a jury, but\nit's the fact of intertwinement that brings to the fore the question of\nwhether or not the Seventh Amendment has to be satisfied.\nSo we don't really have to worry or think about or rule on whether or not\nthe exhaustion claim gets a jury independent of the other one, right?"
+            },
+            "explanation": "This phrase probes the constitutional implications of the Seventh Amendment in relation to exhaustion claims, requiring a deep understanding of constitutional protections in civil litigation."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"But, Ms. Sherman, do we really have to get into that? I guess what I was a\nlittle confused about from your briefing was that I took you to concede\nthat there's intertwinement here.\nAnd if that's the case, ________________________, I guess, that ex haustion does\nnot entitle you to a jury.\nThat's the part of this that would ordinarily say you don't get a jury, but\nit's the fact of intertwinement that brings to the fore the question of\nwhether or not the Seventh Amendment has to be satisfied.\nSo we don't really have to worry or think about or rule on whether or not\nthe exhaustion claim gets a jury independent of the other one, right?\"",
+          "options": {
+            "A": "we should never assume",
+            "B": "we cannot just assume",
+            "C": "we can just assume",
+            "D": "we must not assume"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "we can just assume",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 1,
+              "speaker": "Justice Jackson",
+              "original_statement": "But, Ms. Sherman, do we really have to get into that? I guess what I was a\nlittle confused about from your briefing was that I took you to concede\nthat there's intertwinement here.\nAnd if that's the case, we can just assume, I guess, that ex haustion does\nnot entitle you to a jury.\nThat's the part of this that would ordinarily say you don't get a jury, but\nit's the fact of intertwinement that brings to the fore the question of\nwhether or not the Seventh Amendment has to be satisfied.\nSo we don't really have to worry or think about or rule on whether or not\nthe exhaustion claim gets a jury independent of the other one, right?"
+            },
+            "explanation": "This phrase indicates a judicial approach to assumption in legal reasoning, prompting students to consider how assumptions can shape judicial outcomes in complex cases."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"I understand, but if I assume it, okay, so fine, aren't we still faced with\nthe question that you present, as a matter of your question presented, is\nthen we have ________________________ that does not get a jury, the\nexhaustion claim, with a claim that does? Do you concede that the First\nAmendment retaliation claim is one that would ordinarily go to the jury?\"",
+          "options": {
+            "A": "intertwined claims of exhaustion",
+            "B": "intertwinement of a claim",
+            "C": "intertwining of legal claims",
+            "D": "intertwinement of claims process"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "intertwinement of a claim",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 2,
+              "speaker": "Justice Jackson",
+              "original_statement": "I understand, but if I assume it, okay, so fine, aren't we still faced with\nthe question that you present, as a matter of your question presented, is\nthen we have intertwinement of a claim that does not get a jury, the\nexhaustion claim, with a claim that does? Do you concede that the First\nAmendment retaliation claim is one that would ordinarily go to the jury?"
+            },
+            "explanation": "This phrase challenges the understanding of how intertwined claims can affect the right to a jury trial, requiring knowledge of procedural implications in litigation."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"I understand, but if I assume it, okay, so fine, aren't we still faced with\nthe question that you present, as a matter of your question presented, is\nthen we have intertwinement of a claim that does not get a jury, the\n____________, with a claim that does? Do you concede that the First\nAmendment retaliation claim is one that would ordinarily go to the jury?\"",
+          "options": {
+            "A": "exhaustion issue",
+            "B": "exhaustion standard",
+            "C": "exhaustion claim",
+            "D": "exhaustion defense"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "exhaustion claim",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 2,
+              "speaker": "Justice Jackson",
+              "original_statement": "I understand, but if I assume it, okay, so fine, aren't we still faced with\nthe question that you present, as a matter of your question presented, is\nthen we have intertwinement of a claim that does not get a jury, the\nexhaustion claim, with a claim that does? Do you concede that the First\nAmendment retaliation claim is one that would ordinarily go to the jury?"
+            },
+            "explanation": "This term probes the specific legal doctrine of exhaustion under the PLRA, necessitating familiarity with statutory requirements for prisoner lawsuits."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"I understand, but if I assume it, okay, so fine, aren't we still faced with\nthe question that you present, as a matter of your question presented, is\nthen we have intertwinement of a claim that does not get a jury, the\nexhaustion claim, with a claim that does? Do you concede that the First\nAmendment retaliation claim is one that would ordinarily ________________________?\"",
+          "options": {
+            "A": "go to jury trial",
+            "B": "go to trial jury",
+            "C": "go to the jury",
+            "D": "go before the jury"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "go to the jury",
+            "category": "judicial_test",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 2,
+              "speaker": "Justice Jackson",
+              "original_statement": "I understand, but if I assume it, okay, so fine, aren't we still faced with\nthe question that you present, as a matter of your question presented, is\nthen we have intertwinement of a claim that does not get a jury, the\nexhaustion claim, with a claim that does? Do you concede that the First\nAmendment retaliation claim is one that would ordinarily go to the jury?"
+            },
+            "explanation": "This phrase examines the judicial standard for determining which claims are entitled to a jury trial, requiring an understanding of jury rights in civil litigation."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"All right.\nSo we do have the ______.\nAt least you concede it in your brief.\nAnd so why wouldn't the sort of standard Beacon Theatres view of how\nwe deal with that situation apply here?\"",
+          "options": {
+            "A": "interrelation",
+            "B": "interdependency",
+            "C": "interconnection",
+            "D": "intertwinement"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "intertwinement",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 1,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 3,
+              "speaker": "Justice Jackson",
+              "original_statement": "All right.\nSo we do have the intertwinement.\nAt least you concede it in your brief.\nAnd so why wouldn't the sort of standard Beacon Theatres view of how\nwe deal with that situation apply here?"
+            },
+            "explanation": "This term refers to the complex relationship between different legal issues, requiring an understanding of how intertwined facts can affect judicial proceedings."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"All right.\nSo we do have the intertwinement.\nAt least you concede it in your brief.\nAnd so why wouldn't the sort of ________________________ of how\nwe deal with that situation apply here?\"",
+          "options": {
+            "A": "standard Beacon Theatres precedent",
+            "B": "standard Beacon Theatres ruling",
+            "C": "standard Beacon Theatres view",
+            "D": "standard Beacon Theatres doctrine"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "standard Beacon Theatres view",
+            "category": "case_law",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 3,
+              "speaker": "Justice Jackson",
+              "original_statement": "All right.\nSo we do have the intertwinement.\nAt least you concede it in your brief.\nAnd so why wouldn't the sort of standard Beacon Theatres view of how\nwe deal with that situation apply here?"
+            },
+            "explanation": "This phrase references a specific legal standard established in the case of Beacon Theatres, Inc. v. Westover, which is crucial for understanding how courts handle intertwined legal issues."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"I don't see that in the opinion.\nI mean, I see that it talks about ____________, but that didn't\nnecessarily seem to me to be driving the analysis.\nAnd -- and we've had a lot of cases that have applied this sort of\nintertwinement principle in which preclusion really hasn't been the\nmain focus.\"",
+          "options": {
+            "A": "preclusive effect",
+            "B": "preliminary effect",
+            "C": "conclusive impact",
+            "D": "exclusive effect"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "preclusive effect",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 4,
+              "speaker": "Justice Jackson",
+              "original_statement": "I don't see that in the opinion.\nI mean, I see that it talks about preclusive effect, but that didn't\nnecessarily seem to me to be driving the analysis.\nAnd -- and we've had a lot of cases that have applied this sort of\nintertwinement principle in which preclusion really hasn't been the\nmain focus."
+            },
+            "explanation": "This phrase reveals the importance of understanding how preclusion operates in legal contexts, particularly regarding the implications of a judge's determination on exhaustion and its impact on subsequent jury trials."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"I don't see that in the opinion.\nI mean, I see that it talks about preclusive effect, but that didn't\nnecessarily seem to me to be driving the analysis.\nAnd -- and we've had a lot of cases that have applied this sort of\n____________ in which preclusion really hasn't been the\nmain focus.\"",
+          "options": {
+            "A": "intertwined doctrine",
+            "B": "interrelation rule",
+            "C": "interdependency standard",
+            "D": "intertwinement principle"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "intertwinement principle",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 4,
+              "speaker": "Justice Jackson",
+              "original_statement": "I don't see that in the opinion.\nI mean, I see that it talks about preclusive effect, but that didn't\nnecessarily seem to me to be driving the analysis.\nAnd -- and we've had a lot of cases that have applied this sort of\nintertwinement principle in which preclusion really hasn't been the\nmain focus."
+            },
+            "explanation": "This phrase challenges students to grasp the judicial reasoning behind how intertwined issues are treated in litigation, particularly in relation to exhaustion and merits."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"I don't see that in the opinion.\nI mean, I see that it talks about preclusive effect, but that didn't\nnecessarily seem to me to be __________________.\nAnd -- and we've had a lot of cases that have applied this sort of\nintertwinement principle in which preclusion really hasn't been the\nmain focus.\"",
+          "options": {
+            "A": "driving the analysis",
+            "B": "driving the conclusion",
+            "C": "driving the inquiry",
+            "D": "driving the argument"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "driving the analysis",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 4,
+              "speaker": "Justice Jackson",
+              "original_statement": "I don't see that in the opinion.\nI mean, I see that it talks about preclusive effect, but that didn't\nnecessarily seem to me to be driving the analysis.\nAnd -- and we've had a lot of cases that have applied this sort of\nintertwinement principle in which preclusion really hasn't been the\nmain focus."
+            },
+            "explanation": "This phrase prompts examination of the underlying reasoning and motivations that guide judicial decisions, requiring a nuanced understanding of judicial analysis."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"I don't see that in the opinion.\nI mean, I see that it talks about preclusive effect, but that didn't\nnecessarily seem to me to be driving the analysis.\nAnd -- and we've had a lot of cases that have applied this sort of\nintertwinement principle in which preclusion really hasn't been the\n____________.\"",
+          "options": {
+            "A": "central concern",
+            "B": "primary emphasis",
+            "C": "key priority",
+            "D": "main focus"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "main focus",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 4,
+              "speaker": "Justice Jackson",
+              "original_statement": "I don't see that in the opinion.\nI mean, I see that it talks about preclusive effect, but that didn't\nnecessarily seem to me to be driving the analysis.\nAnd -- and we've had a lot of cases that have applied this sort of\nintertwinement principle in which preclusion really hasn't been the\nmain focus."
+            },
+            "explanation": "This phrase encourages students to consider what constitutes the primary concern in judicial reasoning, particularly in the context of preclusion and intertwined issues."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"All right.\nSo why isn't that a case here? I mean, what --what law do we have that\nsays that an ______________________________ in this situation that\nrequires them to find all the facts about whether or not there was actual\"",
+          "options": {
+            "A": "exhaustion requirement by a jury",
+            "B": "exhaustion determination by a judge",
+            "C": "exhaustion ruling by a magistrate",
+            "D": "exhaustion review by a court"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "exhaustion determination by a judge",
+            "category": "judicial_test",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 5,
+              "speaker": "Justice Jackson",
+              "original_statement": "All right.\nSo why isn't that a case here? I mean, what --what law do we have that\nsays that an exhaustion determination by a judge in this situation that\nrequires them to find all the facts about whether or not there was actual"
+            },
+            "explanation": "This phrase highlights the judicial inquiry into the exhaustion requirement, which is a critical aspect of the Prison Litigation Reform Act and its application in federal courts."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"All right.\nSo why isn't that a case here? I mean, what --what law do we have that\nsays that an exhaustion determination by a judge in this situation that\n__________________________________________ about whether or not there was actual\"",
+          "options": {
+            "A": "requires them to find all the facts",
+            "B": "requires them to establish all the elements",
+            "C": "requires them to determine all the issues",
+            "D": "requires them to present all the evidence"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "requires them to find all the facts",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 7,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 5,
+              "speaker": "Justice Jackson",
+              "original_statement": "All right.\nSo why isn't that a case here? I mean, what --what law do we have that\nsays that an exhaustion determination by a judge in this situation that\nrequires them to find all the facts about whether or not there was actual"
+            },
+            "explanation": "This phrase underscores the necessity for judges to engage in fact-finding related to exhaustion, emphasizing the judicial role in determining procedural prerequisites before proceeding to trial."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 3,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nWhy?",
+      "questions": []
+    },
+    {
+      "conversation_id": 4,
+      "dialogue": "Justice Barrett",
+      "questions": []
+    },
+    {
+      "conversation_id": 5,
+      "dialogue": "Justice Kagan",
+      "questions": []
+    },
+    {
+      "conversation_id": 6,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nWhy? If we take your starting proposition that exhaustion is a judge\ndetermination and you've had a full and fair opportunity to litigate it,\nwhy wouldn't that --if it's interwound with the merits, why wouldn't\nyou bound -- be bound by it? So you go back later, but -- and you get\nexhausted and you come back to court on your substantive decision, like\nyou're arguing should be done here.\nWhy wouldn't you be bound?\n### Ann M. Sherman:\nThere may be factual overlap, and we concede that there's\n### Justice Sotomayor:\nAssume everything you say.\nOur normal preclusion rules would say: If you've had a fair and full\nopportunity to -- to litigate a case -- it doesn't mean before a jury.\nIt just means, if you were entitled to litigate this issue and you had a full\nand fair opportunity to litigate it and you lost on this issue, then you go\nback and you exhaust and you come back again.\nAt the new trial, you would be collaterally estopped.\n### Ann M. Sherman:\nRespectfully, Your Honor, those -- neither side has had a full and fair",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Why? If we take your starting proposition that exhaustion is a judge\ndetermination and you've had a __________________________________________,\nwhy wouldn't that --if it's interwound with the merits, why wouldn't\nyou bound -- be bound by it? So you go back later, but -- and you get\nexhausted and you come back to court on your substantive decision, like\nyou're arguing should be done here.\nWhy wouldn't you be bound?\"",
+          "options": {
+            "A": "full and fair opportunity to litigate it",
+            "B": "full and fair chance to adjudicate it",
+            "C": "complete and equitable opportunity to litigate it",
+            "D": "full and fair opportunity to contest it"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "full and fair opportunity to litigate it",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 7,
+            "context_info": {
+              "conversation_id": 6,
+              "statement_index": 1,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "Why? If we take your starting proposition that exhaustion is a judge\ndetermination and you've had a full and fair opportunity to litigate it,\nwhy wouldn't that --if it's interwound with the merits, why wouldn't\nyou bound -- be bound by it? So you go back later, but -- and you get\nexhausted and you come back to court on your substantive decision, like\nyou're arguing should be done here.\nWhy wouldn't you be bound?"
+            },
+            "explanation": "This phrase emphasizes the standard of fairness in litigation, which is essential for evaluating whether a party has received adequate due process in judicial proceedings."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Why? If we take your starting proposition that exhaustion is a judge\ndetermination and you've had a full and fair opportunity to litigate it,\nwhy wouldn't that --if it's ________________________, why wouldn't\nyou bound -- be bound by it? So you go back later, but -- and you get\nexhausted and you come back to court on your substantive decision, like\nyou're arguing should be done here.\nWhy wouldn't you be bound?\"",
+          "options": {
+            "A": "interwound with the merits",
+            "B": "interlaced with the issues",
+            "C": "interconnected with the claims",
+            "D": "intertwined with the merits"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "interwound with the merits",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 6,
+              "statement_index": 1,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "Why? If we take your starting proposition that exhaustion is a judge\ndetermination and you've had a full and fair opportunity to litigate it,\nwhy wouldn't that --if it's interwound with the merits, why wouldn't\nyou bound -- be bound by it? So you go back later, but -- and you get\nexhausted and you come back to court on your substantive decision, like\nyou're arguing should be done here.\nWhy wouldn't you be bound?"
+            },
+            "explanation": "This phrase addresses the complex relationship between exhaustion and substantive claims, testing the understanding of how procedural and substantive issues interact in legal contexts."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Why? If we take your starting proposition that exhaustion is a judge\ndetermination and you've had a full and fair opportunity to litigate it,\nwhy wouldn't that --if it's interwound with the merits, why wouldn't\nyou bound -- be __________________? So you go back later, but -- and you get\nexhausted and you come back to court on your substantive decision, like\nyou're arguing should be done here.\nWhy wouldn't you be bound?\"",
+          "options": {
+            "A": "bound by it",
+            "B": "bound against it",
+            "C": "bound to it",
+            "D": "bound under it"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "bound by it",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 6,
+              "statement_index": 1,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "Why? If we take your starting proposition that exhaustion is a judge\ndetermination and you've had a full and fair opportunity to litigate it,\nwhy wouldn't that --if it's interwound with the merits, why wouldn't\nyou bound -- be bound by it? So you go back later, but -- and you get\nexhausted and you come back to court on your substantive decision, like\nyou're arguing should be done here.\nWhy wouldn't you be bound?"
+            },
+            "explanation": "This phrase raises questions about the binding nature of judicial determinations and their implications for subsequent litigation, particularly in the context of exhaustion and merits."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Assume everything you say.\nOur normal preclusion rules would say: If you've had a fair and full\nopportunity to -- to litigate a case -- it doesn't mean before a jury.\nIt just means, if you were entitled to litigate this issue and you had a full\nand fair opportunity to litigate it and you lost on this issue, then you go\nback and you exhaust and you come back again.\nAt the new trial, you would be ____________.\"",
+          "options": {
+            "A": "collaterally barred",
+            "B": "collaterally precluded",
+            "C": "collaterally estopped",
+            "D": "collateral estoppel"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "collaterally estopped",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 6,
+              "statement_index": 2,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "Assume everything you say.\nOur normal preclusion rules would say: If you've had a fair and full\nopportunity to -- to litigate a case -- it doesn't mean before a jury.\nIt just means, if you were entitled to litigate this issue and you had a full\nand fair opportunity to litigate it and you lost on this issue, then you go\nback and you exhaust and you come back again.\nAt the new trial, you would be collaterally estopped."
+            },
+            "explanation": "This phrase reveals important judicial reasoning regarding the application of preclusion principles in subsequent litigation, particularly how prior determinations can affect future claims."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Assume everything you say.\nOur __________________ would say: If you've had a fair and full\nopportunity to -- to litigate a case -- it doesn't mean before a jury.\nIt just means, if you were entitled to litigate this issue and you had a full\nand fair opportunity to litigate it and you lost on this issue, then you go\nback and you exhaust and you come back again.\nAt the new trial, you would be collaterally estopped.\"",
+          "options": {
+            "A": "normal preclusion rules",
+            "B": "standard preclusion principles",
+            "C": "general preclusion standards",
+            "D": "usual preclusion guidelines"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "normal preclusion rules",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 6,
+              "statement_index": 2,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "Assume everything you say.\nOur normal preclusion rules would say: If you've had a fair and full\nopportunity to -- to litigate a case -- it doesn't mean before a jury.\nIt just means, if you were entitled to litigate this issue and you had a full\nand fair opportunity to litigate it and you lost on this issue, then you go\nback and you exhaust and you come back again.\nAt the new trial, you would be collaterally estopped."
+            },
+            "explanation": "This phrase indicates the established legal framework governing the preclusive effect of judgments, which is critical for understanding how courts handle successive claims."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Assume everything you say.\nOur normal preclusion rules would say: If you've had a fair and full\nopportunity to -- to litigate a case -- it doesn't mean before a jury.\nIt just means, if you were entitled to litigate this issue and you had a full\nand fair opportunity to litigate it and you lost on this issue, then you go\nback and __________________________________________.\nAt the new trial, you would be collaterally estopped.\"",
+          "options": {
+            "A": "you exhaust and you proceed with litigation",
+            "B": "you exhaust and you file again later",
+            "C": "you exhaust and you come back again",
+            "D": "you exhaust and you return to court"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "you exhaust and you come back again",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 7,
+            "context_info": {
+              "conversation_id": 6,
+              "statement_index": 2,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "Assume everything you say.\nOur normal preclusion rules would say: If you've had a fair and full\nopportunity to -- to litigate a case -- it doesn't mean before a jury.\nIt just means, if you were entitled to litigate this issue and you had a full\nand fair opportunity to litigate it and you lost on this issue, then you go\nback and you exhaust and you come back again.\nAt the new trial, you would be collaterally estopped."
+            },
+            "explanation": "This phrase underscores the procedural requirement of exhaustion in litigation, particularly in the context of prisoner lawsuits under the PLRA, and the implications for subsequent claims."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 7,
+      "dialogue": "Justice Barrett",
+      "questions": []
+    },
+    {
+      "conversation_id": 8,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nIt has nothing to do with it.\nIt has to do with would you be bound by collateral estoppel.\n### Ann M. Sherman:\nAnd they would not -- respectfully, they would not be bound unless\n### Justice Sotomayor:\nThey did.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 9,
+      "dialogue": "Justice Barrett\n### Ann M. Sherman:\nThey have had a full and fair opportunity on exhaustion, and that is\ndifferent.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 10,
+      "dialogue": "Justice Sotomayor",
+      "questions": []
+    },
+    {
+      "conversation_id": 11,
+      "dialogue": "Justice Barrett",
+      "questions": []
+    },
+    {
+      "conversation_id": 12,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nI'm sorry.",
+      "questions": []
+    },
+    {
+      "conversation_id": 13,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nSorry.\nI was just going to say I don't understand why you're talking about full\nand fair opportunity, because preclusion requires a judgment.\nAnd for exhaustion, you're dismissed with prejudice, so there is no\njudgment.\nSo, even if you filed a later suit -- I mean, it is a full and fair opportunity\n### Ann M. Sherman:\nYeah.\n### Justice Barrett:\nI mean, maybe there's a law-of-the -case argument to be made, but I\ndon't see how collateral estoppel applies.\n### Ann M. Sherman:\nWell, I --I would agree with that.\nThat's one of the key elements of the test for collateral estoppel.\nAnd the other is whether the issue was litigated in the prior litigation\nand then again in the subsequent litigation.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Sorry.\nI was just going to say I don't understand why you're talking about full\nand fair opportunity, because preclusion requires a judgment.\nAnd for exhaustion, you're dismissed with prejudice, so there is no\njudgment.\nSo, even if you filed a later suit -- I mean, it is a ________________________\"",
+          "options": {
+            "A": "full and fair hearing",
+            "B": "full and final opportunity",
+            "C": "full and fair access",
+            "D": "full and fair opportunity"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "full and fair opportunity",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 13,
+              "statement_index": 1,
+              "speaker": "Justice Barrett",
+              "original_statement": "Sorry.\nI was just going to say I don't understand why you're talking about full\nand fair opportunity, because preclusion requires a judgment.\nAnd for exhaustion, you're dismissed with prejudice, so there is no\njudgment.\nSo, even if you filed a later suit -- I mean, it is a full and fair opportunity"
+            },
+            "explanation": "This phrase challenges the understanding of the legal standard for preclusion and the implications of dismissal with prejudice in the context of exhaustion under the PLRA."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Sorry.\nI was just going to say I don't understand why you're talking about full\nand fair opportunity, because ________________________.\nAnd for exhaustion, you're dismissed with prejudice, so there is no\njudgment.\nSo, even if you filed a later suit -- I mean, it is a full and fair opportunity\"",
+          "options": {
+            "A": "preclusion necessitates a ruling",
+            "B": "preclusion requires a judgment",
+            "C": "preclusion needs a decision",
+            "D": "preclusion demands a verdict"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "preclusion requires a judgment",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 13,
+              "statement_index": 1,
+              "speaker": "Justice Barrett",
+              "original_statement": "Sorry.\nI was just going to say I don't understand why you're talking about full\nand fair opportunity, because preclusion requires a judgment.\nAnd for exhaustion, you're dismissed with prejudice, so there is no\njudgment.\nSo, even if you filed a later suit -- I mean, it is a full and fair opportunity"
+            },
+            "explanation": "This phrase highlights the judicial reasoning related to the doctrine of preclusion and its reliance on the existence of a judgment, testing knowledge of procedural law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Sorry.\nI was just going to say I don't understand why you're talking about full\nand fair opportunity, because preclusion requires a judgment.\nAnd for exhaustion, you're __________________, so there is no\njudgment.\nSo, even if you filed a later suit -- I mean, it is a full and fair opportunity\"",
+          "options": {
+            "A": "dismissed for cause",
+            "B": "dismissed without prejudice",
+            "C": "dismissed with conditions",
+            "D": "dismissed with prejudice"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "dismissed with prejudice",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 13,
+              "statement_index": 1,
+              "speaker": "Justice Barrett",
+              "original_statement": "Sorry.\nI was just going to say I don't understand why you're talking about full\nand fair opportunity, because preclusion requires a judgment.\nAnd for exhaustion, you're dismissed with prejudice, so there is no\njudgment.\nSo, even if you filed a later suit -- I mean, it is a full and fair opportunity"
+            },
+            "explanation": "This phrase probes the implications of a dismissal with prejudice on a litigant's ability to refile, requiring an understanding of the consequences of such a dismissal."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"I mean, maybe there's a law-of-the -case argument to be made, but I\ndon't see how __________________.\"",
+          "options": {
+            "A": "collateral estoppel applies",
+            "B": "res judicata applies",
+            "C": "collateral review applies",
+            "D": "collateral consequences apply"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "collateral estoppel applies",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 13,
+              "statement_index": 2,
+              "speaker": "Justice Barrett",
+              "original_statement": "I mean, maybe there's a law-of-the -case argument to be made, but I\ndon't see how collateral estoppel applies."
+            },
+            "explanation": "This phrase pertains to the doctrine that prevents a party from re-litigating an issue that has already been judged in a final verdict, highlighting the complexities of res judicata and its application in judicial proceedings."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 14,
+      "dialogue": "Justice Sotomayor\n### Ann M. Sherman:\nAnd, here, you have two separate issues.",
+      "questions": []
+    },
+    {
+      "conversation_id": 15,
+      "dialogue": "Justice Alito",
+      "questions": []
+    },
+    {
+      "conversation_id": 16,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nCan I go back -- I'm sorry.",
+      "questions": []
+    },
+    {
+      "conversation_id": 17,
+      "dialogue": "Justice Alito\n### Justice Alito:\nGo ahead.",
+      "questions": []
+    },
+    {
+      "conversation_id": 18,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nCan I go back to the floodgates argument? The Second Circuit hasn't\nhad a decision like this circuit, but it has said so in dicta, and the district\ncourts have followed that dicta basically.\nAnd I've gone back 12 years and had our library and my clerks search\nSecond Circuit opinions, and in those 12 years, only five cases has there\nbeen litigation over whether or not there was exhaustion because only\nfive cases was it interwound with the merits.\nI don't see where the floodgates have come up.\nAnd if any circuit has pro se litigation, it's this one.\nAnd I also look at all of the other barriers to litigation by -- you have to -\n- you have screening that has to go on.\nYou have to -- the defendant has to raise an exhaustion defense, the\nplaintiff has to counter that exhaustion was unavailable, the complaint\nsurvives any motion to dismiss and that you have a genuine dispute of\nmaterial fact unrelated to exhaustion to justify. I don't understand the\nfloodgates argument.\n### Ann M. Sherman:\nI appreciate all the steps that -- that you have talked about, Justice\n### Justice Sotomayor:\nI didn't make them up.\nThey came up from an amicus that pointed them out.\n### Ann M. Sherman:\nYes.\nBut -- but our Michigan data reflects something a little bit different\nthan the data that you have attempted to collect.\nLast year alone, Michigan had 574 cases that were opened.\nIn 96 of those, we filed motions for summary judgment.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Can I go back to the ____________? The Second Circuit hasn't\nhad a decision like this circuit, but it has said so in dicta, and the district\ncourts have followed that dicta basically.\nAnd I've gone back 12 years and had our library and my clerks search\nSecond Circuit opinions, and in those 12 years, only five cases has there\nbeen litigation over whether or not there was exhaustion because only\nfive cases was it interwound with the merits.\nI don't see where the floodgates have come up.\nAnd if any circuit has pro se litigation, it's this one.\nAnd I also look at all of the other barriers to litigation by -- you have to -\n- you have screening that has to go on.\nYou have to -- the defendant has to raise an exhaustion defense, the\nplaintiff has to counter that exhaustion was unavailable, the complaint\nsurvives any motion to dismiss and that you have a genuine dispute of\nmaterial fact unrelated to exhaustion to justify. I don't understand the\nfloodgates argument.\"",
+          "options": {
+            "A": "floodgates argument",
+            "B": "floodgates theory",
+            "C": "floodgates principle",
+            "D": "floodgates issue"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "floodgates argument",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 18,
+              "statement_index": 1,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "Can I go back to the floodgates argument? The Second Circuit hasn't\nhad a decision like this circuit, but it has said so in dicta, and the district\ncourts have followed that dicta basically.\nAnd I've gone back 12 years and had our library and my clerks search\nSecond Circuit opinions, and in those 12 years, only five cases has there\nbeen litigation over whether or not there was exhaustion because only\nfive cases was it interwound with the merits.\nI don't see where the floodgates have come up.\nAnd if any circuit has pro se litigation, it's this one.\nAnd I also look at all of the other barriers to litigation by -- you have to -\n- you have screening that has to go on.\nYou have to -- the defendant has to raise an exhaustion defense, the\nplaintiff has to counter that exhaustion was unavailable, the complaint\nsurvives any motion to dismiss and that you have a genuine dispute of\nmaterial fact unrelated to exhaustion to justify. I don't understand the\nfloodgates argument."
+            },
+            "explanation": "This phrase refers to the concern that a legal ruling may lead to an overwhelming number of cases, testing the understanding of judicial reasoning regarding the implications of legal decisions."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Can I go back to the floodgates argument? The Second Circuit hasn't\nhad a decision like this circuit, but it has said so in ______, and the district\ncourts have followed that dicta basically.\nAnd I've gone back 12 years and had our library and my clerks search\nSecond Circuit opinions, and in those 12 years, only five cases has there\nbeen litigation over whether or not there was exhaustion because only\nfive cases was it interwound with the merits.\nI don't see where the floodgates have come up.\nAnd if any circuit has pro se litigation, it's this one.\nAnd I also look at all of the other barriers to litigation by -- you have to -\n- you have screening that has to go on.\nYou have to -- the defendant has to raise an exhaustion defense, the\nplaintiff has to counter that exhaustion was unavailable, the complaint\nsurvives any motion to dismiss and that you have a genuine dispute of\nmaterial fact unrelated to exhaustion to justify. I don't understand the\nfloodgates argument.\"",
+          "options": {
+            "A": "ratio",
+            "B": "holding",
+            "C": "dicta",
+            "D": "obiter"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "dicta",
+            "category": "case_law",
+            "difficulty": "hard",
+            "word_count": 1,
+            "context_info": {
+              "conversation_id": 18,
+              "statement_index": 1,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "Can I go back to the floodgates argument? The Second Circuit hasn't\nhad a decision like this circuit, but it has said so in dicta, and the district\ncourts have followed that dicta basically.\nAnd I've gone back 12 years and had our library and my clerks search\nSecond Circuit opinions, and in those 12 years, only five cases has there\nbeen litigation over whether or not there was exhaustion because only\nfive cases was it interwound with the merits.\nI don't see where the floodgates have come up.\nAnd if any circuit has pro se litigation, it's this one.\nAnd I also look at all of the other barriers to litigation by -- you have to -\n- you have screening that has to go on.\nYou have to -- the defendant has to raise an exhaustion defense, the\nplaintiff has to counter that exhaustion was unavailable, the complaint\nsurvives any motion to dismiss and that you have a genuine dispute of\nmaterial fact unrelated to exhaustion to justify. I don't understand the\nfloodgates argument."
+            },
+            "explanation": "This term refers to statements in a judicial opinion that are not essential to the decision and thus not legally binding, requiring knowledge of how courts differentiate between binding precedent and non-binding commentary."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Can I go back to the floodgates argument? The Second Circuit hasn't\nhad a decision like this circuit, but it has said so in dicta, and the district\ncourts have followed that dicta basically.\nAnd I've gone back 12 years and had our library and my clerks search\nSecond Circuit opinions, and in those 12 years, only five cases has there\nbeen litigation over whether or not there was exhaustion because only\nfive cases was it ________________________.\nI don't see where the floodgates have come up.\nAnd if any circuit has pro se litigation, it's this one.\nAnd I also look at all of the other barriers to litigation by -- you have to -\n- you have screening that has to go on.\nYou have to -- the defendant has to raise an exhaustion defense, the\nplaintiff has to counter that exhaustion was unavailable, the complaint\nsurvives any motion to dismiss and that you have a genuine dispute of\nmaterial fact unrelated to exhaustion to justify. I don't understand the\nfloodgates argument.\"",
+          "options": {
+            "A": "intertwined with the merits",
+            "B": "interwound with the merits",
+            "C": "interconnected with the claims",
+            "D": "interlaced with the issues"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "interwound with the merits",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 18,
+              "statement_index": 1,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "Can I go back to the floodgates argument? The Second Circuit hasn't\nhad a decision like this circuit, but it has said so in dicta, and the district\ncourts have followed that dicta basically.\nAnd I've gone back 12 years and had our library and my clerks search\nSecond Circuit opinions, and in those 12 years, only five cases has there\nbeen litigation over whether or not there was exhaustion because only\nfive cases was it interwound with the merits.\nI don't see where the floodgates have come up.\nAnd if any circuit has pro se litigation, it's this one.\nAnd I also look at all of the other barriers to litigation by -- you have to -\n- you have screening that has to go on.\nYou have to -- the defendant has to raise an exhaustion defense, the\nplaintiff has to counter that exhaustion was unavailable, the complaint\nsurvives any motion to dismiss and that you have a genuine dispute of\nmaterial fact unrelated to exhaustion to justify. I don't understand the\nfloodgates argument."
+            },
+            "explanation": "This phrase highlights the complexity of legal issues where exhaustion and merits are connected, challenging students to understand the interplay between procedural and substantive legal questions."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Can I go back to the floodgates argument? The Second Circuit hasn't\nhad a decision like this circuit, but it has said so in dicta, and the district\ncourts have followed that dicta basically.\nAnd I've gone back 12 years and had our library and my clerks search\nSecond Circuit opinions, and in those 12 years, only five cases has there\nbeen litigation over whether or not there was exhaustion because only\nfive cases was it interwound with the merits.\nI don't see where the floodgates have come up.\nAnd if any circuit has pro se litigation, it's this one.\nAnd I also look at all of the other barriers to litigation by -- you have to -\n- you have screening that has to go on.\nYou have to -- the defendant has to raise an ____________, the\nplaintiff has to counter that exhaustion was unavailable, the complaint\nsurvives any motion to dismiss and that you have a genuine dispute of\nmaterial fact unrelated to exhaustion to justify. I don't understand the\nfloodgates argument.\"",
+          "options": {
+            "A": "exhaustion claim",
+            "B": "exhaustion standard",
+            "C": "exhaustion defense",
+            "D": "exhaustion issue"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "exhaustion defense",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 18,
+              "statement_index": 1,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "Can I go back to the floodgates argument? The Second Circuit hasn't\nhad a decision like this circuit, but it has said so in dicta, and the district\ncourts have followed that dicta basically.\nAnd I've gone back 12 years and had our library and my clerks search\nSecond Circuit opinions, and in those 12 years, only five cases has there\nbeen litigation over whether or not there was exhaustion because only\nfive cases was it interwound with the merits.\nI don't see where the floodgates have come up.\nAnd if any circuit has pro se litigation, it's this one.\nAnd I also look at all of the other barriers to litigation by -- you have to -\n- you have screening that has to go on.\nYou have to -- the defendant has to raise an exhaustion defense, the\nplaintiff has to counter that exhaustion was unavailable, the complaint\nsurvives any motion to dismiss and that you have a genuine dispute of\nmaterial fact unrelated to exhaustion to justify. I don't understand the\nfloodgates argument."
+            },
+            "explanation": "This term refers to the legal requirement that a plaintiff must exhaust all available administrative remedies before bringing a lawsuit, testing knowledge of procedural prerequisites in litigation."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"I didn't make them up.\nThey came up from an ______ that pointed them out.\"",
+          "options": {
+            "A": "amicus",
+            "B": "amicii",
+            "C": "amicus",
+            "D": "amici"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "amicus",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 1,
+            "context_info": {
+              "conversation_id": 18,
+              "statement_index": 2,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "I didn't make them up.\nThey came up from an amicus that pointed them out."
+            },
+            "explanation": "The term 'amicus' refers to an amicus curiae, or 'friend of the court,' which is a person or entity that is not a party to a case but offers information or expertise relevant to the case. Understanding this concept is crucial for grasping how external perspectives can influence judicial reasoning."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"I didn't make them up.\nThey came up from an amicus that __________________.\"",
+          "options": {
+            "A": "pointed them out",
+            "B": "identified their issues",
+            "C": "noted the objections",
+            "D": "highlighted the concerns"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "pointed them out",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 18,
+              "statement_index": 2,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "I didn't make them up.\nThey came up from an amicus that pointed them out."
+            },
+            "explanation": "This phrase indicates the role of the amicus in highlighting specific issues or arguments for the court's consideration, emphasizing the importance of external contributions to judicial inquiry and the development of legal arguments."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 19,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nOkay.\n### Ann M. Sherman:\nsummary judgment on exhaustion.\nWe had four Pavey hearings or evidentiary hearings on exhaustion.\nAnd if those -- under Richards's rule, those four Pavey hearings would\nnow be trials.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 20,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nThis is an unusual case because this case is about not the rape\nnecessarily but the --of the First Amendment violation.\n### Justice Sotomayor:\nWell, that's not granular.\nThat's the whole case.\n### Ann M. Sherman:\nWell, but an exhaustion --a Pavey hearing would only arise if there were\nfactual disputes.\nAnd many of those factual disputes are happening over prisoners\nasserting unavailability.\n### Justice Sotomayor:\nI'm sorry, I'm -- I'm just still confused.\nIt has to do with whether the exhaustion is interwound with the merits\nof the claim, the underlying claim.\n### Ann M. Sherman:\nWhat I'm attempting to do is to respond to Your Honor's question about\nwill the floodgates open.\nAnd the best that we can tell from us doing Pavey hearings, if those had\nto be trials -- and many of those are going to be on intertwined facts\nbecause that's when Pavey hearings come up.\nThere are disputed facts, and it tends to be credibility determinations, a\nhe said/she said.\nAnd if you take that data from Michigan and you use that even as a\nnational average and you say: Well, okay, in Michigan, it's four\nthat's -- that's 200 additional jury trials.\nThat's not municipalities.\nThat's not the Federal Bureau of Prisons.\nThat -- that is a huge, overwhelming estimated number, especially\nwhen you consider that last year across the board with -- there were\nonly about 1300 jury -- civil jury trials in all federal district courts.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"This is an unusual case because this case is about not the rape\nnecessarily but the --of the __________________.\"",
+          "options": {
+            "A": "First Amendment interpretation",
+            "B": "First Amendment violation",
+            "C": "First Amendment exemption",
+            "D": "First Amendment application"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "First Amendment violation",
+            "category": "constitutional",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 20,
+              "statement_index": 1,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "This is an unusual case because this case is about not the rape\nnecessarily but the --of the First Amendment violation."
+            },
+            "explanation": "This phrase highlights the constitutional framework being examined, requiring a deep understanding of First Amendment jurisprudence and its implications in legal reasoning."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"I'm sorry, I'm -- I'm just still confused.\nIt has to do with ________________________________________________\nof the claim, the underlying claim.\"",
+          "options": {
+            "A": "whether the exhaustion is entangled with the merits",
+            "B": "whether exhaustion is interwoven with the merits",
+            "C": "whether the exhaustion is interwound with the merits",
+            "D": "whether the exhaustion is intertwined with merits"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "whether the exhaustion is interwound with the merits",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 8,
+            "context_info": {
+              "conversation_id": 20,
+              "statement_index": 2,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "I'm sorry, I'm -- I'm just still confused.\nIt has to do with whether the exhaustion is interwound with the merits\nof the claim, the underlying claim."
+            },
+            "explanation": "This phrase probes the critical legal distinction between procedural exhaustion requirements and substantive merits of a claim, testing the understanding of how courts assess intertwined issues in litigation."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 21,
+      "dialogue": "Justice Kagan",
+      "questions": []
+    },
+    {
+      "conversation_id": 22,
+      "dialogue": "Justice Alito",
+      "questions": []
+    },
+    {
+      "conversation_id": 23,
+      "dialogue": "Justice Kagan",
+      "questions": []
+    },
+    {
+      "conversation_id": 24,
+      "dialogue": "Justice Alito\n### Justice Alito:\nMay I just ask you this quick question? Under the Prison Rape\nElimination Act and your policy, could Mr. Richards go back and now\nexhaust administrative remedies?\n### Ann M. Sherman:\nAbsolutely.\nThere are no time constraints for him to -- or for any prisoner across the\ncountry that has a Prison Rape Elimination Act grievance, there are no\ntime constraints.\n### Justice Alito:\nSo why in this case should we be concerned about --about\nintertwinement, you know, if --if exhaustion is decided by the judge,\nthe judge says you didn't exhaust, the prisoner can go back and exhaust,\nand then the prisoner can come back to court and, if it can get by\nsummary judgment, can have a jury trial?\n### Justice Alito:\nSo what's the -- what --what's --I don't get it.\n### Ann M. Sherman:\nThere still is a question with intertwinement here whether even --for\nthe prisoner that can come back, like Mr.\n### Justice Alito:\nWell, it's not a judgment and it's a flexible doctrine.\nAnd I think every court of appeals but one has said this is a matter for the\njudge.\nAnd what have they said about collateral estoppel? Haven't they said\nthat -- that the determination that there was no exhaustion would not\ncarry over, would not have an effect on the trial of the merits?\n### Ann M. Sherman:\nI -- I -- I agree. Collateral estoppel is not a bar here, but that's the\nreason why it's important to consider this, and that's why I believe this\nCourt granted cert.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"May I just ask you this quick question? Under the Prison Rape\nElimination Act and your policy, could Mr. Richards go back and now\n__________________?\"",
+          "options": {
+            "A": "exhaust administrative remedies",
+            "B": "exhaust civil remedies",
+            "C": "exhaust available options",
+            "D": "exhaust judicial remedies"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "exhaust administrative remedies",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 24,
+              "statement_index": 1,
+              "speaker": "Justice Alito",
+              "original_statement": "May I just ask you this quick question? Under the Prison Rape\nElimination Act and your policy, could Mr. Richards go back and now\nexhaust administrative remedies?"
+            },
+            "explanation": "This phrase pertains to the legal requirement that a party must pursue all available administrative options before seeking judicial intervention, a critical concept in administrative law and litigation."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"So why in this case should we be concerned about --about\n______, you know, if --if exhaustion is decided by the judge,\nthe judge says you didn't exhaust, the prisoner can go back and exhaust,\nand then the prisoner can come back to court and, if it can get by\nsummary judgment, can have a jury trial?\"",
+          "options": {
+            "A": "interrelation",
+            "B": "intertwinement",
+            "C": "interdependency",
+            "D": "intertwined"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "intertwinement",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 1,
+            "context_info": {
+              "conversation_id": 24,
+              "statement_index": 2,
+              "speaker": "Justice Alito",
+              "original_statement": "So why in this case should we be concerned about --about\nintertwinement, you know, if --if exhaustion is decided by the judge,\nthe judge says you didn't exhaust, the prisoner can go back and exhaust,\nand then the prisoner can come back to court and, if it can get by\nsummary judgment, can have a jury trial?"
+            },
+            "explanation": "This term requires an understanding of how intertwined issues can affect the procedural posture of a case, particularly in relation to exhaustion and merits."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, it's not a judgment and it's a ____________.\nAnd I think every court of appeals but one has said this is a matter for the\njudge.\nAnd what have they said about collateral estoppel? Haven't they said\nthat -- that the determination that there was no exhaustion would not\ncarry over, would not have an effect on the trial of the merits?\"",
+          "options": {
+            "A": "rigid doctrine",
+            "B": "flexible doctrine",
+            "C": "mandatory principle",
+            "D": "flexible standard"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "flexible doctrine",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 24,
+              "statement_index": 3,
+              "speaker": "Justice Alito",
+              "original_statement": "Well, it's not a judgment and it's a flexible doctrine.\nAnd I think every court of appeals but one has said this is a matter for the\njudge.\nAnd what have they said about collateral estoppel? Haven't they said\nthat -- that the determination that there was no exhaustion would not\ncarry over, would not have an effect on the trial of the merits?"
+            },
+            "explanation": "This phrase indicates the justice's inquiry into the adaptability of legal principles, challenging students to consider how flexibility in legal doctrines can affect judicial outcomes."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 25,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nMs. Sherman, would the same judge who made a determination in the\nexhaustion realm related to the facts of whether or not this person\nexhausted be presiding over the subsequent trial in which those same\nquestions about what happened go to the jury?\n### Ann M. Sherman:\nI don't think there's any -- any rule that would require that the same\njudge hear that.\n### Justice Jackson:\nyou have a judge originally -- and I guess I'm just sort of musing about\n### Ann M. Sherman:\nMm-hmm.\n### Justice Jackson:\nI would think that if the concern in Beacon Theatres and in other cases in\nwhich the Seventh Amendment right is fronted is that people really\nhave the right to a jury deciding these questions and once you've had a\njudge decide it, the same --we have intertwinement, it's the same set\nof factual issues -- I wonder whether there wouldn't be a burden on\nyour right to make your presentation to the jury, especially if the same\njudge has prejudged those facts because they had the essential hearing\nand heard all the evidence and whatnot and ruled themselves as to\nwhether or not they think this happened in this way.\n### Ann M. Sherman:\nTwo responses.\nThe -- this is a dismissal, and whether -- it's typically without\nprejudice, but that doesn't mean that that's going to come back to the\nsame judge.\nIt's not the same case.\nThey're going to re-file a -- a --a federal lawsuit. So I don't think\nthere's any reason to think that that's going to come back to the same\njudge.\nI don't think it matters either way because the key here --and this is to\nmy second point -- is that there wouldn't be any preclusive effect.\n### Justice Jackson:\nNot by the judgment. Not by the judgment.\nBut you appreciate that what I'm suggesting, that, you know, if it was\n### Ann M. Sherman:\nMm-hmm.\n### Justice Jackson:\nthat he or she has already decided because they heard the testimony\nbefore, they went through the record, they said no, you know, Mr.\n### Ann M. Sherman:\nMm-hmm.\n### Justice Jackson:\njury trial on that same question, one might be concerned at least that it\nwould be difficult for Mr. Richards to present his case to the jury with the\nsame judge presiding.\n### Ann M. Sherman:\nI don't think there's a reason to think it would be the same judge. But,\neven if it were, the jury is deciding that anew, and they are, in that\ncapacity, the ultimate fact-finder.\nAnd so, if -- if on exhaustion there was a particular fact that the judge\nfound, the jury may not even know about that, probably shouldn't know\nabout that.\n### Justice Jackson:\nWell, maybe.\n### Justice Jackson:\nin the cont ext, if --if it is the same judge.\n### Ann M. Sherman:\nYes, but, ultimately, the jury is the fact-finder on those key facts that",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Ms. Sherman, would the same judge who made a determination in the\nexhaustion realm related to the facts of whether or not this person\nexhausted be ______________________________ in which those same\nquestions about what happened go to the jury?\"",
+          "options": {
+            "A": "presiding over the final judgment",
+            "B": "presiding over the preliminary motions",
+            "C": "presiding over the initial hearing",
+            "D": "presiding over the subsequent trial"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "presiding over the subsequent trial",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 25,
+              "statement_index": 1,
+              "speaker": "Justice Jackson",
+              "original_statement": "Ms. Sherman, would the same judge who made a determination in the\nexhaustion realm related to the facts of whether or not this person\nexhausted be presiding over the subsequent trial in which those same\nquestions about what happened go to the jury?"
+            },
+            "explanation": "This phrase raises procedural concerns about the continuity of judicial oversight and the implications of having the same judge handle both exhaustion and merits, which is essential for understanding judicial roles."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"you have __________________ -- and I guess I'm just sort of musing about\"",
+          "options": {
+            "A": "the court ultimately",
+            "B": "an attorney primarily",
+            "C": "the jury initially",
+            "D": "a judge originally"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "a judge originally",
+            "category": "other",
+            "difficulty": "medium",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 25,
+              "statement_index": 2,
+              "speaker": "Justice Jackson",
+              "original_statement": "you have a judge originally -- and I guess I'm just sort of musing about"
+            },
+            "explanation": "This phrase indicates the importance of the initial judicial role in determining legal issues, which is crucial for understanding the procedural dynamics of litigation."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 26,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nMs. Sherman, who bears the burden on -- on --on the question of\nwhether the Seventh Amendment attaches?\n### Ann M. Sherman:\nThe --what's the standard?\n### Ann M. Sherman:\nOh, it's absolutely the defendant's burden.\n### Ann M. Sherman:\nIt's an affirmative defense.\n### Justice Gorsuch:\nWell -- well, that strikes me as odd.\nWright and Miller, for example, says, in cases of doubt, you presume the\njury, and it's really incumbent upon those who would displace the jury\nand say the Seventh Amendment doesn't attach, but the default rule is\nthat you have a right to a trial by jury.\nDo you have any authority for the contrary?\n### Justice Gorsuch:\nI didn't see it in your briefs.\n### Ann M. Sherman:\nI think what the -- what the authority is for the Seventh Amendment\n### Justice Gorsuch:\nNow who -- who bears the burden of showing -- I would have thought\nyou would have borne the burden of showing the Seventh Amendment\ndoesn't attach to a suit at law.\n### Justice Gorsuch:\nI mean, isn't the default rule in this country you have a right to trial by\njury?\n### Justice Gorsuch:\nOkay.\n### Ann M. Sherman:\nAnd so, you know, before -- before the claim accrues, I don't think the\n### Justice Gorsuch:\nWell, we have a claim.\nThe claim --claim is here.\n### Justice Gorsuch:\nAnd once the case begins, I would have thought that you would have an\nassumption, subject to background rules, there are lots of exceptions,\nbut, generally, you have a right to a trial by jury when --if you have some\ncontrary authority for that, I'd like to know what it is.\n### Justice Gorsuch:\nAuthority.\nThat means a case.\n### Justice Gorsuch:\nThat means a statute.\n### Ann M. Sherman:\nYes.\n### Justice Gorsuch:\nI'm not aware of one either.\n### Justice Gorsuch:\nOkay.\n### Justice Gorsuch:\nlike Beacon, we have cases like Land versus Dollar, we have cases like\nSmith ers versus Smith, where there are jurisdictional issues or -- or\nsovereign immunity issues, right, amounts in controversy and -- and\nintertwined.\nAgain, default rule is jury. That --that's --and I just wonder.\nNow Congress, maybe -- maybe it has the power to displace that.\nMay -- may -- maybe, you know, question mark, but maybe, right? But,\nif the default rule through history has always been intertwined issues go\nto the jury, and we have -- have a lot of cases, why shouldn't we at least,\nas a matter of constitutional avoidance perhaps or statutory\ninterpretation perhaps, read this statute to conform with those normal\nbackground principles, absent some contrary evidence from you?\n### Ann M. Sherman:\nI think it is the nature of -- the unique nature of PLRA exhaustion. And -\n### Justice Gorsuch:\nWhy is exhaustion different than sovereign immunity or amount in\n### Ann M. Sherman:\none is that jurisdiction generally, those jurisdictional cases, they are\nclosing the courthouse door at least practically speaking to that --that\nlitigant. Also, there is a collateral estoppel effect to the fact-finding on\njurisdiction, where that is not true here.\n### Justice Gorsuch:\nIt's -- it's hard to see those in any of our cases, though, resting on any of\nthat.\nThey seem to be resting on the notion that you -- you have a",
+      "questions": []
+    },
+    {
+      "conversation_id": 27,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nBut it's not a prerequisite to suit.\nWe called it an affirmative defense.",
+      "questions": []
+    },
+    {
+      "conversation_id": 28,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nYeah, sovereign immunity.",
+      "questions": []
+    },
+    {
+      "conversation_id": 29,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nSo it's not a prerequisite to suit.\nIt's an affirmative defense.\nAnd I don't know of any other affirmative defense that we've said isn't",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 30,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nSovereign immunity, yeah.",
+      "questions": []
+    },
+    {
+      "conversation_id": 31,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nSovereign immunity is an affirmative defense, and we require to go to a\njury.\n### Ann M. Sherman:\nThis Court said in Porter versus Nussle that PLRA exhaustion was an\n### Justice Sotomayor:\nBut, when we got to the issue in Jonas, we said it's an affirmative\ndefense.\n### Ann M. Sherman:\nIt's affirmative defense.\nIt doesn't change the fact that it is a prerequisite to suit.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 32,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nWell, whatever it is, right, you have conceded that it's completely\nintertwined with the merits in this case, correct?\n### Ann M. Sherman:\nOne --one correction. I've --we have conceded that it's intertwined. I\n### Justice Kagan:\nOkay.\nWell, let's just take an example, which is a prisoner says he tore up my\ngrievance papers, and that is the claim.\nYou know, that -- that's -- it's also the exhaustion question, right,\nbecause, if he tore up his grievous --grievance papers, then the\ngrievance process wasn't available to him. So that's the nature of the\nexhaustion question.\nBut it's as well the nature of the substantive claim that he tore up my\ngrievance papers and in -- in some kind of retaliatory act, right? So let's\nsay that.\nCompletely intertwined?\n### Justice Kagan:\nWhy?\n### Ann M. Sherman:\nThere is an intertwining of the fact of whether the -- somebody at the\nprison facility tore up the grievance.\n### Justice Kagan:\nOkay.\n### Ann M. Sherman:\nThat's the intertwined fact.\n### Ann M. Sherman:\nOkay.\n### Justice Kagan:\nSo in --the -- the question of exhaustion is goin g to depend on\nsomebody's finding of whether the warden tore up his grievance papers.\nAnd, similarly, on the merits, it's going to depend on somebody's\nfinding of whether the warden tore up his grievance papers.\n### Ann M. Sherman:\nThat is the overlapping fact, but exhaustion is also going to look at what\nwas the grievance process, what was the system setup, were there other\navenues.\n### Justice Kagan:\nI don't really think so, General.\nI mean, I think, if, like, the warden tears up your grievance papers,\nsomebody is going to say that the exhaustion process wasn't available\nin the way it should be according to Ross v. Blake.\nSo, in the end, the same fact is going to be dispositive as to both these\nissues.\n### Ann M. Sherman:\nOkay.\n### Justice Kagan:\nAnd so then I think that the question that",
+      "questions": []
+    },
+    {
+      "conversation_id": 33,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\n, for example,\nwas asking is, okay, when that is the fact, that's the crucial fact, whether\nit's Beacon Theatres, whether it's Beacon Theatres plus the default rule\nof the Seventh Amendment, it should be the jury that decides that\nquestion, shouldn't it?",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 34,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nBut you see first you have to convince the judge of the exact same fact\nbecause, if you can't convince the judge, you can't get to the jury.\nAnd so that seems as though, well, if you have to convince the judge\nbefore you get to the jury, the jury right doesn't mean all that much.\n### Ann M. Sherman:\nI -- I disagree because I -- you know, even Moore's Federal Practice has\nsaid when there is a --a resolution of a preliminary matter, for example,\nsomething like exhaustion, it's not a -- a merits decision. It's not --you\nare not deciding the merits.\n### Justice Kagan:\nnot so intertwined as a general matter.\nBut where they are so intertwined so that the question of fact that\nyou're asking the judge to decide is essentially the same as the question\nof fact that you're asking the jury to decide, in that context, which won't\nbe every context, but in that context, to say that you have to convince\nthe judge that you're right before you get to the jury seems kind of like a\nflipping of the usual default rule that",
+      "questions": []
+    },
+    {
+      "conversation_id": 35,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nwas talk -- talking\nabout.\n### Ann M. Sherman:\nYou're convincing the judge of exhaustion.\nAnd then, because -- what saves the day is that collateral estoppel\nwouldn't apply.\nAnd so, when you're coming back, the jury is fully acting as the fact-\nfinder in that case.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 36,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nJustice Thomas?",
+      "questions": []
+    },
+    {
+      "conversation_id": 37,
+      "dialogue": "Justice Thomas",
+      "questions": []
+    },
+    {
+      "conversation_id": 38,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nYou're not done, sorry.",
+      "questions": []
+    },
+    {
+      "conversation_id": 39,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nYou're not, yeah.\n(Laughter.)\n### Ann M. Sherman:\nI'm sorry.",
+      "questions": []
+    },
+    {
+      "conversation_id": 40,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nThis was dismissed without prejudice, right?\n### Ann M. Sherman:\nYes.\n### Justice Thomas:\nSo what preclusive effect would that have?\n### Ann M. Sherman:\nWell, it would have no preclusive effect.\nMr. Richards can come back and he can -- he can come back.\nHe still has to convince a judge that he has exhausted.\nAnd then, when it gets to a jury, there would be no preclusive effect.\n### Justice Thomas:\nAnd he would have a complete trial on whether or not his filings were\ndestroyed or his grievances torn up?\n### Ann M. Sherman:\nIn --in part.\nI mean, he -- he would have a trial, a full trial, on his First Amendment\nclaim.\n### Justice Thomas:\nExactly.\n### Ann M. Sherman:\nAnd that would include not just whether a grievance was torn up or -- or\nhe was threatened but the reasons for that, the motives, the -- that\nthere -- there would be a more extensive inquiry appropriate to the First\nAmendment.",
+      "questions": []
+    },
+    {
+      "conversation_id": 41,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Alito?",
+      "questions": []
+    },
+    {
+      "conversation_id": 42,
+      "dialogue": "Justice Alito\n### Justice Alito:\nOn this issue of the default rule, I thought the Seventh Amendment was\nlimited to suits at common law and, therefore, applies only if a\nparticular claim is a claim that could have been asserted at common law\nor is a close analog to a claim that could be asserted at common law.\nSo, in light of that, I don't know why there's -- I don't know where this\nidea that there's a default rule in favor of jury trial with respect to every\nclaim for damages, every new claim at law that Congress may create.\nAm I wrong?\n### Ann M. Sherman:\nI agree that there is no right to a jury trial here on exhaustion, and the\nreason is it didn't exist in 1791.\nThe closest analogs we have are equitable defenses that would have\nbeen heard by judges and not by injuries.\n### Justice Alito:\nThank you.\nThank you.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 4/10",
+      "complexity_score": 4
+    },
+    {
+      "conversation_id": 43,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Sotomayor?",
+      "questions": []
+    },
+    {
+      "conversation_id": 44,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nCounsel, if we limited the rule to your situation, meaning he's not\nprecluded because he can come back because of the law that Justice\nAlito pointed to, the rape law, I'm not sure that's true because is he\nalleging rape or is he alleging a First Amendment violation?\n### Ann M. Sherman:\nUnder the Prison Rape Elimination Act, First Amendment retaliation for\n### Justice Sotomayor:\nAll right.\n### Justice Sotomayor:\nSo that's it.\nBut what happens to the ordinary prisoner? If we announced the rule\nthat you want us to announce, which is exhaustion never goes to a jury,\nin the mine-run of cases that are not rape-related, prisoners are\nprecluded, practically speaking.\nWe have an amicus brief that says that most exhaustion requirements\nare --half of them, half the states, are 15 days or less.\nAnd in the others, they are matters of days more than that but no more\nthan 30.\nMost of the time, when you file a suit as a prisoner, it takes --the answer\ntakes 30 days.\nSo most cases as a practical matter would be precluded if we adopt your\nrule that exhaustion under all circumstances is not preclusive.\n### Ann M. Sherman:\nI don't agree that in most cases the prisoner would not be able to return.\n### Justice Sotomayor:\nWhy not?\n### Justice Sotomayor:\nSo, if they're very short, it seems to me, as a practical matter, I can't see\nhow almost any prisoner could go back.\n### Ann M. Sherman:\nYou have 31 states, the District of Columbia, and the Bureau -- Federal\nBureau of Prisons, all that allow for some level of discretion to excuse\n### Justice Sotomayor:\nWait a minute. That depends on you, meaning the prison.\nWhy would a prison ever do it? Are you aware of any prison that says you\nfailed to exhaust, but now you can come back?\n### Ann M. Sherman:\nThe reason -- I assume that when they put it -- they can -- they don't\nhave to put it in their policy, so if they put it in their policy, I assume that\n### Justice Sotomayor:\nThis is news to me that there is any state that says if you fail to -- you go\nto court, they say you failed to exhaust after a factual finding, that we're\nnow going to let you come back to court after you've brought it back to\n### Justice Sotomayor:\nDoes your state do that?\n### Ann M. Sherman:\nYes.\nYes.\nWe have a provision.\n### Justice Sotomayor:\nNo, no.\nPoint -- I'd like you --I ask the Court to -- to have you give us examples\nof that situation occurring.\n### Ann M. Sherman:\nI -- I can't provide those examples.\n### Justice Sotomayor:\nYou can't because I haven't found one.\nThe policy is discretionary.\n### Ann M. Sherman:\nWell, I --this policy is discretionary.\nAnd I -- the reason that a prison system would want to do that is\nbecause everything in the PLRA is designed to encourage, to allow the\nprison system to work out their problems, and they do want to work\nthose out.\n### Justice Sotomayor:\nCounsel, what you are proposing to me is that they have an exhaustion\nrequirement that they're willing to excuse every time a prisoner goes to\ncourt, the court says you failed to exhaust, and now the prison's going to\nsay come back and we'll let you exhaust now anyway.\n### Ann M. Sherman:\nIt -- it --it will depend on the circumstances.\nThere -- there -- and -- and a lot of these policies say there are\n### Justice Sotomayor:\nIt -- it -- it begs the question -- it begs the question that a judge has\nfound that the prison guard didn't stop you from exhausting and now\nthe state is going to permit you to come back and try again.\n### Ann M. Sherman:\nI think it is in the best interest of the prison systems to try to work out\nproblems.\nAnd one of the things that our amicus, multi-state amicus brief, led by\nOhio, has pointed out is that under Mr. Richards's rule, if this Court\nadopts it, there are going to be very few prison systems that want to\nallow for any excusal of untimeliness.\nThat's going to be a disincentive for them to do that because they've\nalready gone through a jury trial.\nNow why are they going to excuse untimeliness? But, if they -- a\n### Justice Sotomayor:\nHuh?\n### Justice Sotomayor:\nI --I -- I'm a little lost.\nThey've gone through a jury trial.\nThey won.\nAnd the prison is going to listen to the complaint again?\n### Justice Sotomayor:\nWhy would they bother?\n### Justice Sotomayor:\nWhy would the state bother having -- want to?\n### Justice Sotomayor:\nWhat incentive does it need to?\n### Ann M. Sherman:\nThe question is whether Richards's rule incentivizes any kind of\ndiscretion.\n### Justice Sotomayor:\nAll right.\n### Justice Sotomayor:\nThank you, counsel.\n### Justice Sotomayor:\nWe're on different pages.",
+      "questions": []
+    },
+    {
+      "conversation_id": 45,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Kagan?",
+      "questions": []
+    },
+    {
+      "conversation_id": 46,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nSo tell me why this reading of Beacon Theatres would be wrong, that\nalthough it talks about preclusion, it's not particularly a preclusion case,\nthat you can draw a slightly broader principle from it, not at all an all-\nexpansive principle, that the principle would be if the -- in a particular\ncase, the judge and jury are --are deciding the same question, would\nhave to decide the same question and they would have to make the\nsame findings on that question in their respective roles, that in that\ncase, the jury goes first and that that's necessary to protect the jury\nyou know, wipe it off the table.\nWhy -- why shouldn't -- why doesn't Beacon Theatres say that?\n### Ann M. Sherman:\nBeacon Theatres doesn't say that because Beacon Theatres was not\ndealing with a prerequisite to suit and then a later legal issue.\n### Justice Kagan:\nSo that's true.\nI mean, that's a factual distinction.\nAnd I guess the question is why should that factual distinction matter if\nwhat I said was true, is that the judge and jury are expected to decide the\nsame questions on the same facts.\nLike, whether we label something a prerequisite or an affirmative\ndefense or anything else under the sun, the same problem is being\npresented, which is that in that case, the -- it -- it seems as though it's\nnot protective of the Seventh Amendment right for you have to\nconvince the judge before you can get to the jury.\n### Ann M. Sherman:\nWhen an equitable and a legal claim arise together and those claims\nhave --are -- are now in front of a -- a court fully, that --now Beacon\nTheaters matters and now preclusion matters.\nWhen you have --it does matter.\nthe prerequisites aren't met, this Court has said, if you have to meet\ncertain prerequisites in order to have your case proceed and those\nprerequisites haven't been met, then the case doesn't proceed. This\nCourt said that in Woodford versus Ngo.\nAnd so it is everything that the case --the case isn't proceeding.\nAnd then, when it does proceed, if there is no collateral estoppel effect,\npreclusion isn't barring the -- the jury from performing full on their\nfact-finding role.\nAnd that is what -- that is what the Seventh Amendment preserves and\nonly what the Seventh Amendment preserves.\n### Justice Kagan:\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 47,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Gorsuch?",
+      "questions": []
+    },
+    {
+      "conversation_id": 48,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nSo, if -- if it were impossible to re -file, exhaustion not possible, would\nthat change the analysis?\n### Justice Gorsuch:\nBecause then there would be preclusion effectively by the district --by\nthe magistrate judge's order, wouldn't there?\n### Ann M. Sherman:\nIf for those prisoners that can't come back because there has been\neither a dismissal with prejudice or because their -- their prison system\ndoesn't allow for any -- any kind of leeway, any discretion, for those\nprisoners, there still is not a violation of a Seventh Amendment right.\nLooking back historically, there is no Seventh Amendment right to be\n### Justice Gorsuch:\nSo there's -- so preclusion really has nothing to do with it then on your\ntheory.\n### Ann M. Sherman:\nIt --it has something to do with the inquiry for those prisoners that can\n### Justice Gorsuch:\nI'm asking about those who can't.\n### Ann M. Sherman:\nYes.\n### Justice Gorsuch:\nSo something else has to be doing the work.\n### Justice Gorsuch:\nWhat is that something else?\n### Ann M. Sherman:\nWhat's doing the work for the prisoners that can't come back is that\ntheir claims --they have not met the exhaustion requirements that\nCongress set forth.\nCongress can set forth what they have to prove in front of a jury, and\n### Justice Gorsuch:\nWell, now that's interesting.\n### Justice Gorsuch:\nOkay.\nSo that's essentially saying Congress can choose to get rid of the jury.\nAnd I thought just last term, in Jarkesy, where Congress expressly said\nno jury trial right, and we said no.\nWe said nice policy you have there.\nWe've got the Seventh Amendment here.\nNo good.\nNow why would we interpret the PLRA, which is silent about juries, to\nhave a rule that you never get a jury? That -- I agree, I think that has to\nbe your argument.\nIt can't be this exhaustion thing because you want the same rule\nwhether they're precluded or not precluded. It's got to be that there's a\ncongressional policy, but yet there's none embodied in the\n### Ann M. Sherman:\nThe congressional policy is in the PLRA.\n### Justice Gorsuch:\nIt says exhaustion, but it doesn't talk about juries.\nWhy shouldn't we understand that statute as we often have against the\n### Ann M. Sherman:\nMm-hmm.\n### Ann M. Sherman:\nIt doesn't -- because it doesn't implicate the Constitution.\nAnd I -- I -- although the PLRA did not say -- Congress did not say this\nhas to be decided by a judge instead of a jury, Congress was not silent on\nthat issue either.\nThey said \"no action shall be brought until.\" Now Congress also didn't\nuse the term \"proper exhaustion.\" But this Court said everything in the\nPLRA, the language, the way it was structured, suggested that proper\nexhaustion was -- was -- was what had to happen.\n### Justice Gorsuch:\nNow you're not disputing at common law somebody could bring a suit\nfor sexual abuse and ask for a jury, right? You don't dispute that?\n### Ann M. Sherman:\nI don't dispute that.\n### Justice Gorsuch:\nYeah.\nAll right. And, here, we have an individual who brought such a claim, and\ninstead of a -- and demanded a jury of his peers and, instead, he got a\nmagistrate judge over Zoom.\n### Ann M. Sherman:\nBecause Congress can set what has to be required, what has to be met in\norder to get your jury trial right.\nThat is not -- that leaves intact the Seventh Amendment.\n### Justice Gorsuch:\nAnd it says you can have sovereign immunity as a defense and there's\ncertain jurisdictional amounts and lots of other things, and in all of\nthose circumstances through history, we've said, when those are bound\nup with merits questions, the jury right wins out.\nWe're going to presume the jury. We're not going to -- we're not going\nto go against that presumption, absent something clearer.\n### Ann M. Sherman:\nThis Court has given district courts even in the jurisdictional context\nwide authority to decide the mode of how to decide jurisdictional\nquestions. And this Court has said when it is dependent -- and I read -- I\nread Land versus Dollar to be pretty much wholly dependent, the\njurisdictional question, on get -- you can't answer it until you get to the\nmerits.\nAnd then the -- the -- the Court has said, you know, it should go to a\njury.\n### Justice Gorsuch:\nYeah.\n### Ann M. Sherman:\nThere is nothing stop -- in the jurisdictional context, especially because\nthe door is closing for that litigant, there's -- there's nothing that stops\nthe jury --the judge from having that discretion. Here, the barrier is the\nlanguage of the PLRA.\n### Justice Gorsuch:\nYeah.\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 49,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Kavanaugh?",
+      "questions": []
+    },
+    {
+      "conversation_id": 50,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\n? Justice Jackson?",
+      "questions": []
+    },
+    {
+      "conversation_id": 51,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nCan I just ask you about the very last thing you said? Because I think the\nthing that is puzzling me so much about your argument is that even\nbefore we had Beacon Theatres, we have the intertwinement principle\nbeing articulated --articulated in cases like Land versus Dollar and\nSmithers.\nAnd so, in Land versus Dollar, which involved sovereign immunity, the\nCourt says you have to go to the jury because this is the type of case\nwhere the question of jurisdiction is dependent on the merits.\nIn your response to",
+      "questions": []
+    },
+    {
+      "conversation_id": 52,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\n, you seem to say that the case we\nhave before us is not the same.\nSo can -- can I --can I understand why if, as",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 53,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\npoints out,\nthe critical fact is did your client do what he's being accused of doing\nthat resulted in the grievance not being filed -- and that's the same fact\nin both the merits and this exhaustion question --why is this not one in\nwhich both of those are so bound up that you can't separate them out in\nthe way that you would like to?\n### Ann M. Sherman:\nI -- I'm not going to fight with the idea that they're intertwined.\nI do disagree that they are inextricably intertwined.\nThere are things that have to be decided in -- for First Amendment\npurposes that don't need to be decided for exhaustion and vice versa.\nBut, in the end, it doesn't matter because what is different here from\nthe jurisdictional context is that jurisdiction itself is different.\nThis Court typically, you know, because it's --this Court is not going to",
+      "questions": []
+    },
+    {
+      "conversation_id": 54,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nBut different in what way? I mean, you say the reason why exhaustion\ndeserves this special treatment is because it's a prerequisite to suit.\nWell, so is jurisdiction.\nYou have to convince the Court that they have jurisdiction in order to\nallow the suit to proceed.\nSo I don't understand why that's not the same for the purpose of this\nanalysis.\n### Ann M. Sherman:\nThere are still critical distinctions.\nThis Court typically is looking -- is going to try to look at jurisdiction at\nthe -- the outset of the case but may not be able to.\nAnd -- but this Court has the authority and the obligation to revisit\nsubject matter jurisdiction at any time in a case.\n### Justice Jackson:\nNo, I understand.\n### Justice Jackson:\nBut we're at the beginning.\nWe're at the beginning.\nAnd the obligation at the beginning for all courts in the federal system is\nto assure that you have jurisdiction before you continue.\nSo we're at the beginning for both jurisdiction and exhaustion, and it\ninvolves consideration of a fact that you've said at least in your briefing\nis intertwined with the fact of the merits.\nI -- I don't understand, first of all, why preclusion -- I appreciate that\nBeacon Theatres has the preclusion language.\nBut this principle, as I'm now talking about it, predates Beacon\nTheatres.\nIt has nothing to do with preclusion.\nAnd so help me to understand how you get around the what I'll call Land\nversus Dollar problem.\n### Ann M. Sherman:\nThere are distinctions with --with the -- the subject matter jurisdiction\ninquiry.\nThe court is generally deciding it at the beginning, and the judge is\ndoing it without a jury.\n### Ann M. Sherman:\nWhen it's intertwined, this Court still has expressed that the district\nit's dependent, that it should go to a jury.\nThere's no barrier at that point in terms of this Court's jurisdiction to\nsending it to a jury.\n### Justice Jackson:\nThank you.\n### Ann M. Sherman:\nThat's not true with exhaustion.",
+      "questions": []
+    },
+    {
+      "conversation_id": 55,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\n### Ann M. Sherman:\nThank you.\n### Chief Justice Roberts:\nMs. McGill.\n### Lori Alvino McGill:\nThank you, Mr. Chief Justice, and may it please the Court: I just wanted\nto begin with two clarifying points.\nThis is the first time in this five years of litigation that the State has\nrepresented that the --all of the claims might be able to be exhausted.\nThe First Amendment claim that was the subject of the Sixth Circuit's\ndecision here, as far as we can tell, is not protected by the PREA policy.\nAnd the Sixth Circuit held that exhaustion and the merits here were\ncompletely coterminous under Sixth Circuit First Amendment law.\nThe State also agrees that the historical facts at issue here are of the\ntype that juries decide, and I think that makes this an easy case on the\nactual question presented because, whatever else is true, this is a 1983\naction for money damages.\nSo the jury must resolve those facts regardless of how you characterize\nexhaustion.\nThat is the point of Beacon Theatres, which is just a specific application\nof the general rule that even truly threshold issues must be deferred to\nthe jury when they're intertwined with the merits.\nIt's no answer to say that the facts could be relitigated in front of a jury\nmaybe if and only if the case proceeds.\nIt's simply not good enough that the jury trial right might sometimes be\npreserved.\nAnd the State's suggestion that judicial findings would not be binding\non a future hypothetical fact-finder really gives the game away.\nThe only reason that would be so is because of the Seventh Amendment.\nThat was this Court's unanimous holding in Lytle.\nAnd there's certainly nothing in the statute or the federal rules that\nwould suggest the non-binding factual findings procedure that the\nState suggests here.\nThe State warns that having jury trials on exhaustion will undermine the\ngoals of the PLRA.\nThose very same arguments were presented and rejected in Jones, and\nthey're even less persuasive here.\nThe State's approach would not reduce the number of trials required.\nWe're talking about the cases that have survived judicial screening and\nRule 56, the needles in the haystack as it were.\nRegardless, policy arguments are no match for the Bill of Rights.\nI welcome the Court's questions.",
+      "questions": []
+    },
+    {
+      "conversation_id": 56,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nAre you suggesting that the exhaustion --or your exhaustion argument\nhas historical analogs?\n### Lori Alvino McGill:\nI'm suggesting that this Court held in Del Monte Dunes that a 1983\naction at law for damages is an action at law for Seventh Amendment\npurposes. And I think the State has conceded, and we submit as well,\nthat there is no precise historical analog for the specific theory of the\naffirmative defense in this case.\nAnd I think Del Monte Dunes tells you that when that is so, you look to\nthe functional considerations, the -- the divide between the judge and\njury, and, predominantly, factual issues are for the jury as a default rule.",
+      "questions": []
+    },
+    {
+      "conversation_id": 57,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nWhy isn't it enough for you to get the right to a jury after an exhaustion\ndetermination if that determination is non-binding?\n### Lori Alvino McGill:\nTwo things.\nI'm not sure why it would be non-binding.\nBut the second is, in this lawsuit, Mr. Richards got past summary\njudgment on a theory of unavailability under Ross versus Blake and a\nFirst Amendment claim that the Sixth Circuit said stated a prima facie\ncase for --for First Amendment retaliation. He got to the point where he\nshould have had a jury decide that.\nThe Seventh Amendment can't turn on whether, after dismissal, a pro\nse plaintiff might be able to file Lawsuit 2.0 on -- on some of these\nclaims.\n### Chief Justice Roberts:\nWell, why not? I mean, it -- it -- if the prior determination without a\njury is not binding, what exactly has been taken away? If you can\n### Chief Justice Roberts:\nYeah.\n### Lori Alvino McGill:\nIt's no small feat for a litigant like Mr. Richards, who was representing\nhimself throughout these proceedings until the Sixth Circuit appointed\ncounsel, to even get a case filed and before a court and all the way past\nsummary judgment.\nSo I think that's a significant consideration.\nBut our, you know, second point is that I think, you know, the modern\nRestatement of Judgments would say that once an issue is finally\ndecided, the words \"without prejudice\" are not magic words that mean\nthat nothing has actually been decided.\nAnd I don't think the State would take the position that in this\nhypothetical Lawsuit 2.0, Mr. Richards could re -argue the very\nthwarting facts and allegations that were the basis of both the\nunavailability claim and the First Amendment claim.",
+      "questions": []
+    },
+    {
+      "conversation_id": 58,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nCounsel, can I ask you a question? This is a methodological one.\nIn some ways, this case presents the problem that we've seen in the\nSecond Amendment context because this is a history and tradition test,\nbut it's one that goes all the way back to Justice Story in, like, 1812,\nright? And, you know, in other cases, we've been able to draw analogs\nbased on the cause of action.\nAnd I think that's a more or less stable line when you're trying to find a\nhistorical analog, is this more like a common law or an equitable\nquestion.\nThis defense thing is a lot harder, right, especially since there was no\nreally good analog at the time of the founding.\nSo I think what we have now is Congress coming up with something new\nand then how do -- what do we do in the face of historical uncertainty.\nAnd, you know, functional considerations may guide, but I guess what\nI'm trying to figure out --and this is really just a question -- I mean, it's\ntrue, as you say, that one set of circumstances we could look at in\nmaking a judgment about whether this goes to a jury or has to go to a\njury if he invokes the Seventh Amendment right is the factual nature of\nAnother one, though, is does Congress have some room here to create\nnew defenses that are functioning more as equitable, like these\nthreshold questions.\nAnd it seems to me l ike in Wetmore, the Court did, even though\njurisdiction was a jury issue in the beginning, did kind of back off a little\nbit and said: Well, you know, a judge has discretion to go one way or\nanother based on the 1875 Act that didn't lock in the form of pleading.\nSo, I mean, I -- I guess my question is: In the face of historical\nuncertainty, how do we weigh what Congress has to say about threshold\nconsiderations? Because it is clear that in the PLRA, exhaustion was\ndesigned to try to weed out suits.\n### Lori Alvino McGill:\nOkay.\n### Justice Barrett:\nI'm not saying that that's determi native.\n### Lori Alvino McGill:\nRight.\n### Justice Barrett:\nI'm just trying to figure out how to think about it.\n### Lori Alvino McGill:\nI think I understand the question.\nI mean, I think most of your question is sort of answered by the detailed\nanalysis of the majority opinion and Justice Scalia's concurring opinion,\nwhich the majority said that they agreed with in full in Del Monte Dunes.\nAnd, there, I mean, history certainly was the guide and -- and provided\nthe analog, which was a common law, you know, tort claim for damages,\nwas the historical analog that allowed the Court to say: No question that\na 1983 action for damages is an action at law.\nAnd so the question is, you know, how -- what work does the history do\non the specific issue question, and I think the Court resolved that by\nsimply saying: Where we don't have a guide, we look to precedent and\nthen, you know, functional considerations.\nAnd the Court described those functional considerations as preserving\nthe -- the jury's historic role as the trier of fact. So I think it's sort of a\nwell -worn path. And the -- the only thing I would add is that this Court\nlast term in Jarkesy pointed out that Congress can't sort of take an\naction at law and morph it into something else by tweaking its elements\nor adding something or narrowing it in some respect and then just\nsaying: Hey, this isn't actually the common law cause of action\nanymore.\n### Justice Barrett:\nYeah.\nBut, in Jarkesy -- I agree, but in Jarkesy, we drew an analogy to fraud and\nsaid, like, this is fraud, it's analogous to frog and -- fraud, not frog, sorry\nAnd, here, the problem is we don't have that same line.\nAnd I'm not saying that -- I'm not saying that you lose.\nI'm just saying we haven't had a case quite like this where we had to\nmake that methodological choice, which does make it a bit different.\nAnd I think Wetmore does complicate the question --the issue a little\nbit for you.\n### Lori Alvino McGill:\nSo I think, if you --if you wanted to take a slightly more circuitous route\nthan what Justice Scalia and the majority did in Del Monte Dunes, what\nyou would say is: We have this action at law.\nThere's no specific analog.\nBut you could still look to history to see, for example, well, what are the\ntypes of -- you know, would a jury have --have gotten to decide factual\nissues with respect to an affirmative defense in this type of tort action\nand common law.\nWe think that historical answer is very clear.\nSo, even though there wasn't an affirmative defense called\n\"exhaustion\" in 1791, there were affirmative defenses to tort liability\ndamages, including the statute of limitations.\nAnd we know that juries decided factual disputes with regard to an\naffirmative defense.",
+      "questions": []
+    },
+    {
+      "conversation_id": 59,
+      "dialogue": "Justice Kavanaugh",
+      "questions": []
+    },
+    {
+      "conversation_id": 60,
+      "dialogue": "Justice Alito\n### Justice Alito:\nWell, along those lines, I want to understand the implications of what\nyou are asking the Court to hold.\nSo, in Judge Posner's decision in Pavey -- I know you think his logic is\nnonsense --he ticked off a number of other questions that are\nthreshold issues that are not necessarily decided by the jury: subject\nmatter jurisdiction, personal jurisdiction, abstention, forum non\nconveniens, venue.\nWhat would be the implications of a decision in your favor here on all of\nthose?\n### Lori Alvino McGill:\nRight.\n### Justice Alito:\nnot?\n### Lori Alvino McGill:\nIt -- it would.\nIt would, Justice Alito.\nI think the general rule, the rule that is applied by the federal courts\nalmost uniformly -- I think uniformly, and the State doesn't really take\nissue with it -- is where you have a common factual issue.\nSo you have real intertwinement with the merits.\nEven so-called matters in abatement or judicial administration get\ndeferred to the jury, and that is because we're preserving the -- the\njury's historic role to resolve factual disputes on the merits.\n### Justice Alito:\nWell, I -- I don't know that we've ever --I don't think we've ever held\nthat, and I don't know that the lower courts say that that always has to\nbe done.\nWell, let me ask you another question about the implications of this.\nWhat about other exhaustion requirements that are connected with a\nclaim that may have a 1791 analog? So something that occurred to me -\n- maybe this is completely off base, but it did occur to me.\nWhat about a Title --exhaustion under Title VII? So that has never been\nconsidered to be a jury issue.\nNow there is a right to a jury trial on a Title VII claim.\nCongress has -- has extended it, but there's an --an argument,\ncommentators have made the argument, that the Seventh Amendment\nwould also cover that because a claim for unlawful termination would\nhave some 1791 analog. So what about that?\n### Lori Alvino McGill:\nIf I understand the question correctly, you're asking about exhaustion in\n### Justice Alito:\nYeah.\n### Justice Alito:\nYeah.\n### Lori Alvino McGill:\nI mean, Judge Posner, four years after Pavey, wrote a decision saying\nexactly that, that because Title VII exhaustion is very similar to the\nstatute of limitations and is an affirmative defense, there's no basis in\nthe statute or history to treat it differently than another affirmative\ndefense for Seventh Amendment purposes.\nSo, actually, the -- at least the Seventh Circuit and several other circuit\ndecisions that we cite in our brief have treated that as a jury trial issue\nregardless of -- of overlap with the merits.",
+      "questions": []
+    },
+    {
+      "conversation_id": 61,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nBut do we really have to take a position as to whether or not exhaustion\nis a jury trial issue? I mean, I -- I -- I'm maybe confused, but I thought\nintertwinement was really the principle that was doing the work here so\nthat we could assume for the purpose of this argument that exhaustion\ndoes not have a jury trial attached -- right attached to it, but the -- your\nfriend on the other side has conceded that it is intertwined with a claim\nthat has a jury trial issue.\nSo, in that case -- in that situation, we're not touching any of the cases\nthat Ju stice Alito mentioned or making a determination about whether\nthere's an analog to exhaustion.\nWe're assuming for the moment that there is no jury trial right on the\nexhaustion issue and speaking to what happens with respect to\nintertwinement.\nIs that right?\n### Lori Alvino McGill:\nThat's right, Justice Jackson.\nYou could --and we think in most cases you would normally --just\naddress the question presented, which is about intertwinement.\nWe did brief the broader issue, but that is, you know, principally because\nof the way the State briefed it as well.",
+      "questions": []
+    },
+    {
+      "conversation_id": 62,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nAnd would --would one even need to go that far? I mean, you've got an\namicus brief and others have pointed out there's a long federal policy of\ninterpretive of --of the statute and what constitutional avoidance\nconcerns that say, unless Congress speaks more clearly, we're not going\nto assume it took away the jury trial right in cases of intertwinement\nunder the PLRA.\n### Lori Alvino McGill:\nI think that's also right.\nI mean, Congress didn't speak to this issue, and you could hold,\nconsistent with your opinion in Jones versus Bock, that Congress's\nsilence means that the ordinary procedures should apply.\nAnd in this case, the ordinary situation is that disputed facts about\naffirmative defenses that are intertwined with the merits go to a jury.",
+      "questions": []
+    },
+    {
+      "conversation_id": 63,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nIf we get to the functional considerations that",
+      "questions": []
+    },
+    {
+      "conversation_id": 64,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nwas\nraising, it does seem to me like you would look at the policy of the PLRA.\nThe Court has said to look to statutory policies.\nAnd that policy seems quite inconsistent with a jury trial right on the\nexhaustion question because the whole idea of exhaustion was to be\nspeedy, to have the prison be able to resolve things quickly. And it seems\njust -- you know -- you know the argument on the other side, it just\nseems generally inconsistent with the policy in the PLRA.\nSo you want to respond to that?\n### Lori Alvino McGill:\nSure, Justice Kavanaugh. Two points.\nI mean, I -- the State relies, I think, principally upon a 1966 case called\nKatchen versus Landy that has some language that sort of suggests that\ncongressional policy can be relevant to functional considerations.\nI think the Court has moved significantly away from that, and after\ncases like Granfinanciera, I'm not sure about the continuing viability of\nKatchen versus Landy.",
+      "questions": []
+    },
+    {
+      "conversation_id": 65,
+      "dialogue": "Justice Kavanaugh\n### Lori Alvino McGill:\nI mean, Del Monte Dunes was an application of Markman itself.\nAnd I think that, you know, this case, if -- if you have a spectrum from\nsort of pure historical facts to legal issues, Markman is sort of on one\nend and our case and Del Monte Dunes are on the other.\nin a legal instrument.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 66,
+      "dialogue": "Justice Barrett",
+      "questions": []
+    },
+    {
+      "conversation_id": 67,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nOne would have thought that if Congress was thinking about this as\nrequiring the judge to make a determination to supplant the jury trial\nquestion, the PLRA does have a list of things that a court has to do\nwithout objection.\nIt has to look at the complaint and decide whether any immunities\napply, whether --a bunch of other things that it requires.\nGrievance is not one of them.\n### Lori Alvino McGill:\nThat's right, Justice Sotomayor.\n### Justice Sotomayor:\nJonas.\n### Lori Alvino McGill:\nI mean, to be clear, there are other things that Congress could do but\nhasn't done to narrow the scope of cases that can get past Rule 56 and\nrequire a trial.\nBut, once an issue is made, to use the language from Tellabs, once a\ngenuine issue of fact is made under whatever the requirements are in\nthe statute, it goes to the jury, and I don't think Congress has anything\nto say on that.",
+      "questions": []
+    },
+    {
+      "conversation_id": 68,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nSo, on this antecedent question of whether you're entitled to the jury\ntrial right in the first place, because of the analog, because of the\nhistorical considerations, what have you, no circuit has held that, right?\nSo we would be kind of treading into new territory that's different -- I\nmean, it goes beyond the QP.\nIt was briefed that way.\nAnd --and let's just assume, if you lose on the intertwined question,\nyou could still win if we decided that the, you know, defense was\nentitled to a jury trial regardless, that it didn't depend on factual\nintertwinement.\nBut isn't it the case that that would be going into -- that would be\nstriking significantly new ground?\n### Lori Alvino McGill:\nIn some sense, it would, and in some sense, it wouldn't.\nI think the problem with the -- the current state of the law, frankly, is\nthat the fist decisions on this after the PLRA was enacted came about in\nthe early 2000s.\nI think it was a Ninth Circuit case called Wyatt.\nAnd it was before this Court decided Jones.\nAnd the Court just sort of referred to exhaustion as a matter of\nabatement or a rule of judicial administration without really thinking\nthrough what that means.\nAnd the courts have -- have not reconsidered those decisions in a\nmeaningful way after Jones.\n### Justice Barrett:\nSo, true, I'm not -- I'm not saying that they've gotten it right. That's\nkind of an argument for, hey, they've done this reflexively or they all\n### Lori Alvino McGill:\nRight.\n### Justice Barrett:\nBut we don't have cases where circuit courts or courts of appeals have\nreflected on this issue and said here are, you know, the historical\nanalogs and the reasons why it comes within the Seventh Amendment\nor here are the functional reasons why it does or it doesn't. We would be\ndoing that for the first time, right?\n### Lori Alvino McGill:\nYou would.\nAnd I don't think it's that different than what you did in Jones, although\nthere were a couple circuits on -- on the Court's side.\nBut I think that there's a pretty well-worn path between what you've\nheld in Jones and what we know from Del Monte Dunes and other cases.",
+      "questions": []
+    },
+    {
+      "conversation_id": 69,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nAnd why -- why would we do that, though? I mean, just to follow up on\nthat question, that seems like a big question.\nA lot of the questions from my colleagues have pointed out the\nhistorical uncertainty.\n### Lori Alvino McGill:\nRight.\n### Justice Kavanaugh:\nI guess I'm not certain why, as a matter of pr udence, we would leap into\nsomething like that without lower court opinions, et cetera.\n### Lori Alvino McGill:\nYeah.\nI mean, it would be contrary to the Court's normal sort of preference to\ndecide only what must be decided. I think the only reason you would do\nit is if you thought the law is so clear that it's actually the simpler path\nto resolution and it would clarify the confusion that would, you know,\notherwise still exist in the courts of appeals and the district courts.\nSo that would be the reason to do it.",
+      "questions": []
+    },
+    {
+      "conversation_id": 70,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nWell -- well, we would have to do it if we don't rule in your favor on the\nlimited Beacon -- Beacon Theatres question, meaning, if we say that\nBeacon Theatres doesn't control here for whatever set of reasons we\nmake up, then we would have to reach your alternative argument that\n### Lori Alvino McGill:\nYou -- you would be saying in effect -- I mean, it's hard for me to -- to\nsort of figure out what the opinion looks like that rules against us on\n### Justice Sotomayor:\nagainst you, and not by definition answer the broader question.\n### Lori Alvino McGill:\nRight, I mean, because, if you don't think that Mr. Richards has a right to\na jury on his First Amendment claim, it seems unlikely to me that you're\ngoing to rule for him on the broader question.\n### Justice Sotomayor:\nI --I agree.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 71,
+      "dialogue": "Justice Alito\n### Justice Alito:\nWell, he has a -- he has a right to a jury on his First Amendment claim\nassuming that he does -- his suit is not barred for failure to exhaust.\nBut, if we want to decide this case on the narrow ground -- on narrow\ngrounds, if, in fact, he can go back and exhaust now, I think Beacon\nTheatres is completely out of the picture.\nBeacon Theatres is either about collateral estoppel -- and -- and, in my\nview, that's what it was about --or it's a rule of equity and has nothing\nto do, essentially, with the right to a -- the Seventh Amendment right\nto a jury trial.\nIf it weren't about collateral estoppel, the -- the --you could -- the\njudge could have -- the two -- the two claims could have been tried.\nThey both could have been tried.\nYou could try the -- and it wouldn't matter which order -- which order\nyou did it in. You try the -- whichever one you want to do first and then\nyou try the other one.\nIf it's a rule of equity, then that -- a rule of equity is different from\nanything that's protected by the Seventh Amendment.\n### Lori Alvino McGill:\nSo I think, you know, this Court's unanimous opinion in Lytle referred to\nit as a constitutional mandate that the Seventh Amendment --that\nLytle's Seventh Amendment rights could not be protected, except for a\nremand on a clean slate with a -- a jury trial on all the issues that had\nalready been decided by the Court.\nAnd it did that.\nIt -- it sort of declined to apply collateral estoppel, which is, I -- I think,\nthe solution the State is proposing here, only because, otherwise, the\nSeventh Amendment would be violated.\nBut this Court has solved that problem by saying ex ante we want to\navoid judicial fact findings that are going to extinguish legal claims, so\nwe're going to make sure the jury goes first. And it doesn't mean that\nthere's exact perfect co --- you know, a coextensive intertwinement.\nIt's enough that the judge decides a fact that the jury would have to\ndecide the other way in order to prevail on the merits of the claim.\n### Justice Alito:\nWell, as you present this, this may not be just a case about the right to a\njury trial on the issu e of exhaustion under the PLRA when there's\nintertwinement because it may have a lot of other implications. And we\ndon't know what the implications are of the logic of the argument that\nyou're presenting as to all of these other threshold issues that Judge\nPosner set out as to other statutes that have exhaustion requirements.\nYou're really asking us to -- and go against the consensus so far of the\ncourts of appeals.\nYou're really asking us to take a big step.\n### Lori Alvino McGill:\nI think, with respect,\n### Justice Alito:\n, it -- it would be a very small step if\nyou wrote your opinion and just affirm the Sixth Circuit on the ground of\ndecision there.\nThe --the only appellate opinion I am aware of that disagrees on the\nbasic intertwinement issue is Judge Posner's opinion in Pavey.\nAnd, you know, so, with respect, we -- we don't think it would be a sea\nchange in the law to rule on the -- the narrower question presented\nhere.",
+      "questions": []
+    },
+    {
+      "conversation_id": 72,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nI think one concern is that even if we rule that narrowly, it still has a big\neffect on PLRA litigation, in other words, that it's easy enough for any\nprisoner to essentially evade the exhaustion requirement by pleading\nhis claims in the right way and ensuring that the case immediately goes\nto a jury.\nSo what do you think about that?\n### Lori Alvino McGill:\nSure.\nI mean, to the extent there --there are concerns about a roadmap, it\nalready exists, right? This trial -- I mean, this case got through Rule 56.\nThere was going to be a trial. So I'm not sure that the incentives are any\ngreater from a -- a roadmap perspective. I mean, also, this Court\ndoesn't usually fashion constitutional rules assuming that litigants are\ngoing to perjure themselves or fabricate evidence to get past Rule 56, so\nI don't think it should do so here.\nAnd the other point I would just make is that this has been the rule in the\nSecond Circuit and the First Circuit more recently for more than a\ndecade.\nThere hasn't been a flood of litigation.\nIn fact, the data show that the cases filed and the trials have gone down i\nn those districts.\nI found one case that's actually going to trial in the Southern District of\nNew York on exhaustion, an intertwined case.\nThis --this has not been a --a big problem in the last, you know, 30\nyears that we've had the PLRA.",
+      "questions": []
+    },
+    {
+      "conversation_id": 73,
+      "dialogue": "Justice Alito\n### Justice Alito:\nSuppose you have a prisoner who's serving a lengthy prison sentence\nand files a -- files a grievance, and the State says: Well, you didn't\nexhaust.\nSo the prisoner says: Well, yeah, I did exhaust.\nI put the -- I put the grievance in the box or I handed it to a guard.\nSo, at a minimum, he gets a -- he gets a trip to the courthouse.\nHe gets a trip out of the prison.\n### Lori Alvino McGill:\nUnderstood.\n### Lori Alvino McGill:\nRight.\n### Justice Alito:\nhe not telling the truth?\n### Justice Alito:\nIs he really going to fear that on top of everything else that's happened\nthey're going to bring a perjury prosecution against him?\n### Lori Alvino McGill:\nI -- I think this is not a new problem, right, and that the rule that the\nSixth Circuit adopted isn't really relevant to whether a case is going to\npass, you know, screening and -- and all of these other hurdles and get\npast summary judgment.\nWe're talking about the very few cases that --that get there.\nAnd district courts are well-equipped to decide whether there's a\ngenuine issue of material fact even in prisoner litigation.",
+      "questions": []
+    },
+    {
+      "conversation_id": 74,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nJustice Thomas, anything further? Anything further? No? Thank you,\ncounsel. Rebuttal, Ms. Sherman?\n### Ann M. Sherman:\nThank you, Mr. Chief Justice.\nAll claims, including First Amendment claims here, stem from the\nsexual harassment claim.\nAnd the PREA grievance policy for the MDOC includes First Amendment\nretaliation. That's in Joint Appendix 72, 73.\nMr. Richards, contrary to my friend's argument, can reargue facts if he\nexhausts and gets in front of a jury again, and that is crucial here to\npreserving the Seventh Amendment even if this Court believes that the\nSeventh Amendment is somehow otherwise implicated.\nAddressing Justice Barrett's questions about discretion, Wetmore does\ncourt judge.\nHere, that's discretion that, you know, based on historical\nconsiderations and based on the --especially the functional\nconsiderations here, the fact that there is no precise analog, based on\nthe functional considerations and the goals of the PLRA, that discretion\nshould -- in -- in every case, it would have to -- there would be no\ndiscretion, whereas that is what drove the jurisdictional decisions in\nWetmore and other cases.\nJustice Kagan, you asked about a roadmap.\nIt would be very easy for prisoners to create disputes of fact that turned\non credibility, a he said/she said where those cases would have to go to a\njury.\nAnd I think, even if there aren't floodgates open now, they will be open\nunder Richards's proposed rule because it is not hard for a prisoner to do\nthat.\nAs this Court said in Woodford versus Ngo, not all -- sometimes\nprisoners file claims in bad faith, and if they want to make trouble for a\ncorrections officer they don't like or they want to get out of their cell\nthey will file in bad faith, and you are incentivizing them to add facts\nthat will get them to a jury.\nOn a final point, it is the nature of exhaustion as a prerequisite that\nleaves the Seventh Amendment intact here because the Seventh\nAmendment doesn't guarantee that claims get to a jury, they --it\napplies once the claims get to a jury.\nAnd, here, once the claims are getting to a jury, because exhaustion has\nbeen met, as Congress intended, Mr. Richards and other prisoners will\nhave their day in court.\nThank you.\n\n### Chief Justice Roberts:\nThank you, counsel.\nThe case is submitted.",
+      "questions": []
+    }
+  ],
+  "generation_stats": {
+    "total_conversations": 74,
+    "conversations_with_questions": 8,
+    "conversations_without_questions": 66,
+    "processed_conversations": 74,
+    "questions_generated": 40,
+    "skipped_for_low_complexity": 11,
+    "coverage_rate": "10.8%",
+    "methodology": "Extract key phrases from justice statements and create multiple choice questions with extremely deceptive distractors"
+  },
+  "answer_distribution": {
+    "counts": {
+      "A": 13,
+      "B": 7,
+      "C": 12,
+      "D": 8
+    },
+    "percentages": {
+      "A": 32.5,
+      "B": 17.5,
+      "C": 30.0,
+      "D": 20.0
+    },
+    "total_questions": 40
+  }
+}

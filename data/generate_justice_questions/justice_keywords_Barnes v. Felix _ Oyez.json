@@ -1,0 +1,1368 @@
+{
+  "source_file": "Barnes v. Felix _ Oyez.md",
+  "background": "Chief Justice Roberts\n### Chief Justice Roberts:\nWe'll hear argument first this morning in Case 23-1239, Barnes versus\nFelix.\nMr. Zelinsky.\n### Nathaniel A.G. Zelinsky:\nMr. Chief Justice, and may it please the Court: We are here today because\nAshtian Barnes was shot and killed on the side of a Texas highway after\nbeing pulled over for unpaid tolls.\nThe question before this Court is how to determine whether Ashtian's\nFourth Amendment rights were violated.\nThe Fourth Amendment prohibits unreasonable seizures.\nJustice Scalia was no fan of a totality-of-the-circumstances test, but, in\nScott, Justice Scalia made clear that courts must \"slosh through the\nfact-bound morass of reasonableness.\" In this case, the district court\nand the Fifth Circuit didn't do that.\nInstead, they applied the \"moment of the threat\" doctrine. According\nto the Fifth Circuit decision below, \"we may only ask whether Officer\nFelix was in danger at the moment of the threat,\" and \"any of the\nofficer's actions leading up to the shooting are not relevant.\" This kind\nof legal amnesia is incompatible with precedent, conflicts with common\nlaw, and defies common sense.\nUntil now, Respondents had embraced the \"moment of the threat\"\ndoctrine, but, before this Court, Respondents have abruptly shifted\nposition. They now argue that courts should look to what occurs before\nthe moment of the threat and apply the law of self-defense and\nsuperseding cause. Absolutely none of this appears in the decision\nbelow.\nAll of it confirms why the \"moment of the threat\" doctrine is so wrong.\nFinally, as Judge Higginbotham underscored in his concurrence, the\nfacts show that Officer Felix acted unreasonably.\nBut this is a court of review, not of first view.\nThe Court should rule for Petitioner on the sole question presented and\nremand for the lower courts to apply the correct constitutional\nstandard. I welcome this Court's questions.",
+  "conversations": [
+    {
+      "conversation_id": 1,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nUnder your approach, what would that correct standard look like and\nhow would it be applied here?\n### Nathaniel A.G. Zelinsky:\nJustice Thomas, we think the standard is the \"totality of the\ncircumstances\" standard that this Court articulated in Graham and\nGarner, Scott, and Plumhoff.\nIn this particular case, it would require looking at more than just the two\nseconds in which Officer Felix was on the moving vehicle.\n### Justice Thomas:\nHow much more than the -- than the last two seconds?\n### Nathaniel A.G. Zelinsky:\nJustice Thomas, if you include an extra three seconds, then you would\nlook at the seizure in its totality.\nI think that this Court shouldn't be drawing bright -line rules on exactly\nhow much of the seizure should or shouldn't come in.\nThat's what Justice Scalia underscored in Scott.\nThere are no rigid rules.\nAnd courts can apply ordinary principles of relevancy and proximate\ncause to determine the -- the reasonableness of a seizure.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Under your approach, what would that ____________ look like and\nhow would it be applied here?\"",
+          "options": {
+            "A": "valid criterion",
+            "B": "appropriate measure",
+            "C": "relevant benchmark",
+            "D": "correct standard"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "correct standard",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 1,
+              "speaker": "Justice Thomas",
+              "original_statement": "Under your approach, what would that correct standard look like and\nhow would it be applied here?"
+            },
+            "explanation": "This phrase challenges the understanding of what constitutes a proper legal standard in the context of constitutional rights, particularly the Fourth Amendment."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Under your approach, what would that correct standard look like and\n______________________________ here?\"",
+          "options": {
+            "A": "how could it be enforced",
+            "B": "how would it be applied",
+            "C": "how should it be analyzed",
+            "D": "how might it be interpreted"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "how would it be applied",
+            "category": "judicial_test",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 1,
+              "speaker": "Justice Thomas",
+              "original_statement": "Under your approach, what would that correct standard look like and\nhow would it be applied here?"
+            },
+            "explanation": "This phrase probes the application of legal standards to specific facts, requiring knowledge of judicial reasoning and the ability to analyze case law."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 2,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nWas it reasonable to --for the officer to jump on the side of the car?\n### Nathaniel A.G. Zelinsky:\nSo, Just -- Justice Kavanaugh, we don't think it was in this particular\ncase, but that's precisely the issue that the lower courts couldn't\nevaluate because they applied this legal amnesia and only look at the\nfact that the officer was on the moving vehicle.\nJudge Higginbotham, in his concurrence, looked to the totality of the\ncircumstances and said: I think it was unreasonable in this case.\nWe want the opportunity for a court to be able to look at that and for us\nto be able to litigate that core claim.\n### Justice Kavanaugh:\nWhat's an officer supposed to do when at a traffic stop and someone\npulls away? Just let him go?\n### Nathaniel A.G. Zelinsky:\nNo, Justice Kavanaugh. I think there are a number of other options that\nwere available to Officer Felix that day.\nLet me give you four. First, the highway was a camera -controlled\nhighway.\nSo you can monitor all the cars by camera.\nThat's, in fact, how Ashtian Barnes was pulled over in the first place.\nThe cameras automatically identified his car as one with unpaid tolls.\nSecond, he could have radioed to somebody else on the road to follow\nAshtian Barnes.\nThird, he could have gotten back into his squad car and followed him.\nAnd, fourth, they also had the car's license plate.\nSo we're not suggesting that somebody should just get away scot-free,\nbut it is unreasonable to use deadly force because what happened was\nOfficer Felix put himself in a position where he had no alternative but to\nshoot the driver.\nAnd that's unreasonable, and you have to look at the whole picture, not\njust the two seconds in which he's on the car.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Was it ____________ --for the officer to jump on the side of the car?\"",
+          "options": {
+            "A": "reasonable standard",
+            "B": "reasonable belief",
+            "C": "reasonable to",
+            "D": "reasonable cause"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "reasonable to",
+            "category": "judicial_test",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 1,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": "Was it reasonable to --for the officer to jump on the side of the car?"
+            },
+            "explanation": "This phrase probes the standard of reasonableness, which is a critical component in Fourth Amendment analysis regarding seizures and the actions of law enforcement."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Was it reasonable to --for the officer to __________________________________________?\"",
+          "options": {
+            "A": "jump beside the side of the car",
+            "B": "jump off the side of the vehicle",
+            "C": "jump on the side of the car",
+            "D": "jump over the side of the vehicle"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "jump on the side of the car",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 7,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 1,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": "Was it reasonable to --for the officer to jump on the side of the car?"
+            },
+            "explanation": "This phrase raises questions about the appropriateness of the officer's actions in the context of the circumstances, which is essential for evaluating the legality of police conduct."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"What's an officer supposed to do when at a ____________ and someone\npulls away? Just let him go?\"",
+          "options": {
+            "A": "vehicle seizure",
+            "B": "motorway checkpoint",
+            "C": "traffic stop",
+            "D": "roadside arrest"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "traffic stop",
+            "category": "other",
+            "difficulty": "medium",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 2,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": "What's an officer supposed to do when at a traffic stop and someone\npulls away? Just let him go?"
+            },
+            "explanation": "This phrase highlights the context of police encounters with civilians, which is critical in analyzing Fourth Amendment implications."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"What's an officer supposed to do when at a traffic stop and someone\npulls away? ________________________\"",
+          "options": {
+            "A": "Just let them go",
+            "B": "Just let him go?",
+            "C": "Just let it go",
+            "D": "Just let him stay"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "Just let him go?",
+            "category": "other",
+            "difficulty": "medium",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 2,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": "What's an officer supposed to do when at a traffic stop and someone\npulls away? Just let him go?"
+            },
+            "explanation": "This rhetorical question challenges the legal standards governing police discretion and the balance between public safety and individual rights."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 3,
+      "dialogue": "Justice Alito\n### Justice Alito:\nDid the officer violate the Fourth Amendment at any point prior to the\ntime when he used deadly force? If he had not -- if he had not used\ndeadly force, but he had jumped on the side of the car and done\neverything else he did prior to that moment, would there be a violation\nof the Fourth Amendment?\n### Nathaniel A.G. Zelinsky:\nSo, Justice Alito, we had brought a predicate claim below about the\ndrawing of the firearm.\nMy friends on the other side have suggested we should have brought a\npredicate claim based on the jumping onto the car.\nBut, at the end of the day, I don't think that it matters whether there is a\npredicate claim because, in the -- let me give you an analogy.\nIn the search context, you have an obligation to knock before you\nsearch.\nThere's no freestanding requirement under the Fourth Amendment if\nyou're an officer standing outside a door to knock.\nBut, if you are going to engage in a search, we evaluate the\nreasonableness of that search by looking a couple seconds before, did\nyou knock? here.\n### Nathaniel A.G. Zelinsky:\nIt's the same thing\n### Justice Alito:\nThe reason for the question is to probe whether you are using the term\n\"unreasonable\" in a sense that's different from the sense in which the\nFourth Amendment prohibits unreasonable searches and seizures. So\n\"unreasonable\" has a particular meaning when the Court has to decide\nwhether there was a Fourth Amendment violation.\nBut, in lay speech, \"unreasonable\" could go to whether the action was\nprudent, whether it was a violation of best police practices or the\npractices of a particular police department.\nThose are not necessarily the same thing.\nIn fact, it seems that they're probably different.\nSo you are eliding these two different meanings of \"reasonable.\" Now\nmaybe that's -- maybe that's sound.\nMaybe that's unsound.\n### Nathaniel A.G. Zelinsky:\nJustice Alito, what we're asking for is the standard that this Court has\napplied in Garner, Graham, and Scott and Plumhoff, which is you have to\nlook at the -- the balance here.\nThere's, on the one side, the state interest in seizing someone in a\nparticular manner.\nOn the other side, there is the harm to the suspect, here, the ultimate\nharm, the loss of his life. The problem in this case is that the Fifth Circuit\ncouldn't engage in that core balancing because it couldn't ask was there\na really pressing reason for an officer to jump onto a car and give himself\nno other opportunity but to shoot the driver.\n### Justice Alito:\nit is wrong for a court to look just at the moment of the threat, that the\ncourt has to judge the reasonableness of the alleged unreasonable\nseizure based on -- taking into account to whatever extent they are\nrelevant the events that occurred before that? Would you be satisfied if\n### Nathaniel A.G. Zelinsky:\nOne hundred percent.\nI think it would be helpful if the Court makes clear that that means that\nyou can look at the jump in addition to the shoot, right? That's the core\nissue that we want to be able to litigate.\nBut, yes, Justice Alito, we'd be happy with a very narrow holding.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Did the officer ________________________ at any point prior to the\ntime when he used deadly force? If he had not -- if he had not used\ndeadly force, but he had jumped on the side of the car and done\neverything else he did prior to that moment, would there be a violation\nof the Fourth Amendment?\"",
+          "options": {
+            "A": "violate the federal standard",
+            "B": "violate the Fourth Amendment",
+            "C": "violate the Fifth Amendment",
+            "D": "violate the Fourth Clause"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "violate the Fourth Amendment",
+            "category": "constitutional",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 1,
+              "speaker": "Justice Alito",
+              "original_statement": "Did the officer violate the Fourth Amendment at any point prior to the\ntime when he used deadly force? If he had not -- if he had not used\ndeadly force, but he had jumped on the side of the car and done\neverything else he did prior to that moment, would there be a violation\nof the Fourth Amendment?"
+            },
+            "explanation": "This phrase requires a deep understanding of the Fourth Amendment's protections against unreasonable searches and seizures, and the judicial reasoning surrounding its application."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Did the officer violate the Fourth Amendment at any point prior to the\ntime when he used deadly force? If he had not -- if he had not used\ndeadly force, but he had jumped on the side of the car and done\neverything else he did prior to that moment, ______________________________\nof the Fourth Amendment?\"",
+          "options": {
+            "A": "would there be a defense",
+            "B": "would there be a seizure",
+            "C": "would there be a standard",
+            "D": "would there be a violation"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "would there be a violation",
+            "category": "judicial_test",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 1,
+              "speaker": "Justice Alito",
+              "original_statement": "Did the officer violate the Fourth Amendment at any point prior to the\ntime when he used deadly force? If he had not -- if he had not used\ndeadly force, but he had jumped on the side of the car and done\neverything else he did prior to that moment, would there be a violation\nof the Fourth Amendment?"
+            },
+            "explanation": "This phrase invites analysis of hypothetical scenarios that test the application of legal standards and the thresholds for constitutional violations."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Did the officer violate the Fourth Amendment at any point prior to the\ntime when he used deadly force? If he had not -- if he had not used\ndeadly force, but he had jumped on the side of the car and done\n________________________________________________, would there be a violation\nof the Fourth Amendment?\"",
+          "options": {
+            "A": "everything else he did prior to that moment",
+            "B": "all actions he took leading up to that moment",
+            "C": "all conduct he exhibited during that critical moment",
+            "D": "everything he did after the moment of threat"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "everything else he did prior to that moment",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 8,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 1,
+              "speaker": "Justice Alito",
+              "original_statement": "Did the officer violate the Fourth Amendment at any point prior to the\ntime when he used deadly force? If he had not -- if he had not used\ndeadly force, but he had jumped on the side of the car and done\neverything else he did prior to that moment, would there be a violation\nof the Fourth Amendment?"
+            },
+            "explanation": "This phrase emphasizes the need to evaluate the totality of circumstances leading up to an event, which is crucial in Fourth Amendment jurisprudence."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"The reason for the question is to probe whether you are using the term\n\"unreasonable\" in a sense that's different from the sense in which the\n__________________________________________. So\n\"unreasonable\" has a particular meaning when the Court has to decide\nwhether there was a Fourth Amendment violation.\nBut, in lay speech, \"unreasonable\" could go to whether the action was\nprudent, whether it was a violation of best police practices or the\npractices of a particular police department.\nThose are not necessarily the same thing.\nIn fact, it seems that they're probably different.\nSo you are eliding these two different meanings of \"reasonable.\" Now\nmaybe that's -- maybe that's sound.\nMaybe that's unsound.\"",
+          "options": {
+            "A": "Fourth Amendment prohibits unreasonable searches and seizures",
+            "B": "Fourth Amendment protects against unreasonable searches and arrests",
+            "C": "Fourth Amendment allows reasonable searches and seizures",
+            "D": "Fourth Amendment restricts unreasonable searches and detentions"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "Fourth Amendment prohibits unreasonable searches and seizures",
+            "category": "constitutional",
+            "difficulty": "hard",
+            "word_count": 7,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 2,
+              "speaker": "Justice Alito",
+              "original_statement": "The reason for the question is to probe whether you are using the term\n\"unreasonable\" in a sense that's different from the sense in which the\nFourth Amendment prohibits unreasonable searches and seizures. So\n\"unreasonable\" has a particular meaning when the Court has to decide\nwhether there was a Fourth Amendment violation.\nBut, in lay speech, \"unreasonable\" could go to whether the action was\nprudent, whether it was a violation of best police practices or the\npractices of a particular police department.\nThose are not necessarily the same thing.\nIn fact, it seems that they're probably different.\nSo you are eliding these two different meanings of \"reasonable.\" Now\nmaybe that's -- maybe that's sound.\nMaybe that's unsound."
+            },
+            "explanation": "This phrase highlights the constitutional standard that governs the legality of searches and seizures, requiring a deep understanding of Fourth Amendment jurisprudence."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"The reason for the question is to probe whether you are using the term\n\"unreasonable\" in a sense that's different from the sense in which the\nFourth Amendment prohibits unreasonable searches and seizures. So\n\"unreasonable\" has a particular meaning when the Court has to decide\nwhether there was a Fourth Amendment violation.\nBut, in lay speech, \"unreasonable\" could go to whether the action was\nprudent, whether it was a ______________________________ or the\npractices of a particular police department.\nThose are not necessarily the same thing.\nIn fact, it seems that they're probably different.\nSo you are eliding these two different meanings of \"reasonable.\" Now\nmaybe that's -- maybe that's sound.\nMaybe that's unsound.\"",
+          "options": {
+            "A": "violation of reasonable police procedures",
+            "B": "violation of established police protocols",
+            "C": "violation of constitutional police standards",
+            "D": "violation of best police practices"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "violation of best police practices",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 2,
+              "speaker": "Justice Alito",
+              "original_statement": "The reason for the question is to probe whether you are using the term\n\"unreasonable\" in a sense that's different from the sense in which the\nFourth Amendment prohibits unreasonable searches and seizures. So\n\"unreasonable\" has a particular meaning when the Court has to decide\nwhether there was a Fourth Amendment violation.\nBut, in lay speech, \"unreasonable\" could go to whether the action was\nprudent, whether it was a violation of best police practices or the\npractices of a particular police department.\nThose are not necessarily the same thing.\nIn fact, it seems that they're probably different.\nSo you are eliding these two different meanings of \"reasonable.\" Now\nmaybe that's -- maybe that's sound.\nMaybe that's unsound."
+            },
+            "explanation": "This phrase introduces the concept of police practices as a standard for evaluating reasonableness, which requires an understanding of the intersection between legal standards and law enforcement protocols."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"it is wrong for a court to look just at ______________________________, that the\ncourt has to judge the reasonableness of the alleged unreasonable\nseizure based on -- taking into account to whatever extent they are\nrelevant the events that occurred before that? Would you be satisfied if\"",
+          "options": {
+            "A": "the moment of reasonable threat",
+            "B": "the moment before the threat",
+            "C": "the moments leading to danger",
+            "D": "the moment of the threat"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "the moment of the threat",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 3,
+              "speaker": "Justice Alito",
+              "original_statement": "it is wrong for a court to look just at the moment of the threat, that the\ncourt has to judge the reasonableness of the alleged unreasonable\nseizure based on -- taking into account to whatever extent they are\nrelevant the events that occurred before that? Would you be satisfied if"
+            },
+            "explanation": "This phrase refers to a specific legal doctrine that is being challenged, requiring an understanding of how courts assess reasonableness in the context of Fourth Amendment rights."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 4,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nSo, Mr.",
+      "questions": []
+    },
+    {
+      "conversation_id": 5,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nYou don't want to limit it just to that, though.\nI mean, I thought that the totality of the circumstances, as we described\nit, has at least three factors, the nature of the crime for which the stop\noccurred, the circumstances, et cetera.\nThe three minutes, are you starting that from the moment that the stop\n### Justice Sotomayor:\nwhen he jumped on the car?\n### Nathaniel A.G. Zelinsky:\nSo we don't want to look at it just from when he jumps on the car.\n### Justice Sotomayor:\nRight.\n### Nathaniel A.G. Zelinsky:\nI do think you have to consider things like what he's stopped for.\nMy friends on the other side, by the way, agree on that, because they say\nall of that comes in because it's part of the officer's mind.\n### Justice Sotomayor:\nI --I know.\n### Nathaniel A.G. Zelinsky:\nYeah.\n### Justice Sotomayor:\ncase, but that's not what the Fifth Circuit said.\n### Nathaniel A.G. Zelinsky:\nTotally.\n### Justice Sotomayor:\nBut I can ask those -- them that question. Having said that, there is a\n### Nathaniel A.G. Zelinsky:\nMm-hmm.\n### Justice Sotomayor:\njust the moment of threat. Correct?\n### Nathaniel A.G. Zelinsky:\nThat's correct, Justice Sotomayor.\n### Justice Sotomayor:\nSo, if we do what",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 6,
+      "dialogue": "Justice Alito\n### Justice Alito:\nhas defined as a narrow approach, that's\nnot really narrow.\nThat's deciding a circuit split, correct?\n### Nathaniel A.G. Zelinsky:\nYes.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 7,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nMm-hmm.\n### Nathaniel A.G. Zelinsky:\n-- to clarify my answer to",
+      "questions": []
+    },
+    {
+      "conversation_id": 8,
+      "dialogue": "Justice Alito\n### Justice Alito:\n? I think you could resolve this\ncase by saying: The moment of the threat doctrine is wrong.\nIt was too narrow.\nIt didn't apply the totality of the circumstances.\nAnd we, this Court, are not going to try and delineate every mete and\nbound in every case.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"? I think you could resolve this\ncase by saying: The moment of the threat doctrine is wrong.\nIt was ____________.\nIt didn't apply the totality of the circumstances.\nAnd we, this Court, are not going to try and delineate every mete and\nbound in every case.\"",
+          "options": {
+            "A": "too strict",
+            "B": "too narrow",
+            "C": "too broad",
+            "D": "too vague"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "too narrow",
+            "category": "legal_concept",
+            "difficulty": "medium",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 8,
+              "statement_index": 1,
+              "speaker": "Justice Alito",
+              "original_statement": "? I think you could resolve this\ncase by saying: The moment of the threat doctrine is wrong.\nIt was too narrow.\nIt didn't apply the totality of the circumstances.\nAnd we, this Court, are not going to try and delineate every mete and\nbound in every case."
+            },
+            "explanation": "This phrase critiques the scope of a legal doctrine, prompting analysis of how narrow interpretations can affect judicial outcomes."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"? I think you could resolve this\ncase by saying: The moment of the threat doctrine is wrong.\nIt was too narrow.\nIt didn't apply the ________________________.\nAnd we, this Court, are not going to try and delineate every mete and\nbound in every case.\"",
+          "options": {
+            "A": "totality of relevant factors",
+            "B": "totality of circumstances analysis",
+            "C": "totality of the evidence",
+            "D": "totality of the circumstances"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "totality of the circumstances",
+            "category": "judicial_test",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 8,
+              "statement_index": 1,
+              "speaker": "Justice Alito",
+              "original_statement": "? I think you could resolve this\ncase by saying: The moment of the threat doctrine is wrong.\nIt was too narrow.\nIt didn't apply the totality of the circumstances.\nAnd we, this Court, are not going to try and delineate every mete and\nbound in every case."
+            },
+            "explanation": "This phrase references a key legal standard used in Fourth Amendment cases, necessitating familiarity with how courts assess reasonableness."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 9,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nYou've given up in your reply brief, I understood, that you're not asking\nus to --the -- the -- to address the question of what an officer-created\ndanger rule is like?\n### Nathaniel A.G. Zelinsky:\nWe're not asking for an officer-created danger test at all.\n### Justice Sotomayor:\nAnd -- and that wasn't even addressed below, correct?\n### Nathaniel A.G. Zelinsky:\nThat's correct.\n### Justice Sotomayor:\nOkay.\nThank you.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 10,
+      "dialogue": "Justice Jackson",
+      "questions": []
+    },
+    {
+      "conversation_id": 11,
+      "dialogue": "Justice Kavanaugh",
+      "questions": []
+    },
+    {
+      "conversation_id": 12,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nSo yo u're happy with the -- you're happy with the narrow -- I'm going\nto call it narrow in the sense that if we said moment of the threat is\nwrong and we don't articulate a precise standard, other than saying our\nregular totality-of-the -circumstances test applies, as Justice\nSotomayor said, that's really what you're asking for?\n### Nathaniel A.G. Zelinsky:\nI think, in this case, we're trying to be able to litigate the fact that he\njumped onto a car.\nAnd we have sharply different views.\nMy friend on the other side and I have sharply different views about\nwhether it was reasonable to jump onto that car.\nThat's the issue we were not able to litigate.\nI think this Court doesn't need to go and say: In every case, here are the\nmetes and bounds.\nI do think, Justice Barrett, if you want to put a little bit of flesh on the\nbones of that test, you could look to your decision in Biegert for the\nSeventh Circuit, where you said an officer might act unreasonably where\nthey're primarily responsible for the danger.\n### Justice Barrett:\nAnd you would be happy with that language?\n### Nathaniel A.G. Zelinsky:\nWe would be happy with that language.\n### Justice Barrett:\nAnd you don't have a position on whether a prior Fourth -- it kind of\ngoes to Justice Alito's point, whether kind of a predicate Fourth\nAmendment violation that's unrelated to the excessive force\nnecessarily means that if the -- if the officer violate d constitutional\nrights -- let's imagine it's not a car stop, let's imagine it's a home entry\nor something like that --you know, that then it's off the table.\n### Nathaniel A.G. Zelinsky:\nThe first is, in Mendez, this Court already held that where the damages\n### Justice Barrett:\nYeah.\n### Nathaniel A.G. Zelinsky:\nI think that goes a long way toward disproving the parade of horribles on\nthe other side because you are, in those cases, going to look at preceding\nconduct.\nBut the second answer to your question is that we, of course, agree,\nthings like superseding cause.\nAgain, your decision in Biegert for the Seventh Circuit is a great example\nof that.\nSuperseding cause comes into play.\nThe Fifth Circuit couldn't apply those kinds of tests because all it looks\nat is the fact that Office r Felix is standing on that vehicle.\nAnd that's why it's so concerning.\nIt prevents you from engaging in that core Fourth Amendment\nbalancing: What was the nature of the government interest on the one\nhand? What was the harm to the individual on the other?",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"So yo u're happy with the -- you're happy with the narrow -- I'm going\nto call it narrow in the sense that if we said moment of the threat is\nwrong and we don't ________________________, other than saying our\nregular totality-of-the -circumstances test applies, as Justice\nSotomayor said, that's really what you're asking for?\"",
+          "options": {
+            "A": "articulate a general standard",
+            "B": "articulate a broad principle",
+            "C": "articulate a vague criterion",
+            "D": "articulate a precise standard"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "articulate a precise standard",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 12,
+              "statement_index": 1,
+              "speaker": "Justice Barrett",
+              "original_statement": "So yo u're happy with the -- you're happy with the narrow -- I'm going\nto call it narrow in the sense that if we said moment of the threat is\nwrong and we don't articulate a precise standard, other than saying our\nregular totality-of-the -circumstances test applies, as Justice\nSotomayor said, that's really what you're asking for?"
+            },
+            "explanation": "This phrase probes the necessity for clarity in legal standards, which is crucial for judicial reasoning and the application of law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"So yo u're happy with the -- you're happy with the narrow -- I'm going\nto call it ________________________ that if we said moment of the threat is\nwrong and we don't articulate a precise standard, other than saying our\nregular totality-of-the -circumstances test applies, as Justice\nSotomayor said, that's really what you're asking for?\"",
+          "options": {
+            "A": "general in the meaning",
+            "B": "broad in the context",
+            "C": "wide in the scope",
+            "D": "narrow in the sense"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "narrow in the sense",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 12,
+              "statement_index": 1,
+              "speaker": "Justice Barrett",
+              "original_statement": "So yo u're happy with the -- you're happy with the narrow -- I'm going\nto call it narrow in the sense that if we said moment of the threat is\nwrong and we don't articulate a precise standard, other than saying our\nregular totality-of-the -circumstances test applies, as Justice\nSotomayor said, that's really what you're asking for?"
+            },
+            "explanation": "This phrase indicates the importance of specificity in legal arguments and the implications of narrow interpretations in judicial decisions."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"And you don't have a position on whether a prior Fourth -- it kind of\ngoes to Justice Alito's point, whether kind of a predicate Fourth\nAmendment violation that's unrelated to the ____________\nnecessarily means that if the -- if the officer violate d constitutional\nrights -- let's imagine it's not a car stop, let's imagine it's a home entry\nor something like that --you know, that then it's off the table.\"",
+          "options": {
+            "A": "improper restraint",
+            "B": "excessive action",
+            "C": "excessive force",
+            "D": "unreasonable force"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "excessive force",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 12,
+              "statement_index": 2,
+              "speaker": "Justice Barrett",
+              "original_statement": "And you don't have a position on whether a prior Fourth -- it kind of\ngoes to Justice Alito's point, whether kind of a predicate Fourth\nAmendment violation that's unrelated to the excessive force\nnecessarily means that if the -- if the officer violate d constitutional\nrights -- let's imagine it's not a car stop, let's imagine it's a home entry\nor something like that --you know, that then it's off the table."
+            },
+            "explanation": "This term is critical in evaluating law enforcement conduct under the Fourth Amendment, requiring an understanding of the standards and precedents that define what constitutes excessive force."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"And you don't have a position on whether a prior Fourth -- it kind of\ngoes to Justice Alito's point, whether kind of a predicate Fourth\nAmendment violation that's unrelated to the excessive force\nnecessarily means that if the -- if the officer violate d constitutional\nrights -- let's imagine it's not a car stop, let's imagine it's a home entry\nor something like that --you know, that then it's __________________.\"",
+          "options": {
+            "A": "off the table",
+            "B": "under the law",
+            "C": "on the table",
+            "D": "in the record"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "off the table",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 12,
+              "statement_index": 2,
+              "speaker": "Justice Barrett",
+              "original_statement": "And you don't have a position on whether a prior Fourth -- it kind of\ngoes to Justice Alito's point, whether kind of a predicate Fourth\nAmendment violation that's unrelated to the excessive force\nnecessarily means that if the -- if the officer violate d constitutional\nrights -- let's imagine it's not a car stop, let's imagine it's a home entry\nor something like that --you know, that then it's off the table."
+            },
+            "explanation": "This phrase indicates a legal determination that certain arguments or considerations may be excluded from consideration, which challenges students to think about procedural implications in judicial reasoning."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"And you don't have a position on whether a prior Fourth -- it kind of\ngoes to Justice Alito's point, whether kind of a predicate Fourth\nAmendment violation that's unrelated to the excessive force\nnecessarily means that if the -- if the officer violate d constitutional\nrights -- let's imagine it's not a car stop, let's imagine it's a ____________\nor something like that --you know, that then it's off the table.\"",
+          "options": {
+            "A": "domestic invasion",
+            "B": "home entry",
+            "C": "residential access",
+            "D": "private entry"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "home entry",
+            "category": "constitutional",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 12,
+              "statement_index": 2,
+              "speaker": "Justice Barrett",
+              "original_statement": "And you don't have a position on whether a prior Fourth -- it kind of\ngoes to Justice Alito's point, whether kind of a predicate Fourth\nAmendment violation that's unrelated to the excessive force\nnecessarily means that if the -- if the officer violate d constitutional\nrights -- let's imagine it's not a car stop, let's imagine it's a home entry\nor something like that --you know, that then it's off the table."
+            },
+            "explanation": "This phrase introduces a specific scenario under the Fourth Amendment, prompting analysis of how constitutional protections apply in different contexts, such as home searches versus vehicle stops."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 13,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nDo you agree with the language in the Seventh Circuit opinion that said\nit applies when the officer created a situation where deadly force\nbecame essentially inevitable?\n### Nathaniel A.G. Zelinsky:\nI think that that is our view of this case,\n### Justice Kavanaugh:\n. Once --\nAnd are you asking then --I realize you're going to say this is for the\nFifth Circuit on remand, but I'm going to ask it anyway.\nAre officers always prohibited at traffic stops, when the car pulls away,\nfrom jumping on the car?\n### Nathaniel A.G. Zelinsky:\nAbsolutely not.\n### Justice Kavanaugh:\nOkay.\nWhen can they and when can't they?\n### Nathaniel A.G. Zelinsky:\nLet me give you an example when they can.\nLet's say they see an abducted child in the back seat, and they know, if\nthey don't jump onto the car then, something terrible might happen to\nthat abducted child.\nThat's a -- a type of the totality-of- the-circumstances inquiry that\nlooks at: What's the nature of the government interest at play? What's\nthe harm to the individual? In this particular case, we're talking about\nunpaid tolls.\n### Justice Kavanaugh:\nWell, true.\nBut, obviously, you know, traffic stops sometimes identify people who\nare doing things that are much worse.\nOftentimes, major criminals are apprehended for things like that, and I\ncan give you some historical examples that are obvious, but -- so I don't\nknow that an officer can assume that's the only thing going on.\nAnd if someone's pulling away, they could be a danger to others on the\nroad.\nWho knows what's going on, right?\n### Nathaniel A.G. Zelinsky:\nSo, Justice Kavanaugh, that's precisely -- and -- and maybe this was\nprefaced in your opening colloquy, but that's precisely what the Fifth\nCircuit couldn't engage in in this case.\n### Justice Kavanaugh:\nAnd when an officer jumps on the car, the deadly force can be avoided by\n### Nathaniel A.G. Zelinsky:\nWell, in this particular case, Officer Felix's own expert testifies that\nOfficer Felix shot so quickly, Ashtian Barnes didn't have time to stop.\nAnd -- and if I could, let me sketch out,\n### Justice Kavanaugh:\n, why it's so\ndangerous for you to shoot a driver.\nIn fact, there is -- I'm not aware of any police department that\nrecommends that its officers shoot drivers.\nThe high likelihood -- in this particular case, Ashtian Barnes didn't\nimmediately die.\nHe was able to brake the car and put it into park.\nIf he had been immediately killed, that car could have careened and\ncrashed into the highway.\nOfficer Felix put other people on that highway in grave, very serious\ndanger that particular day.\nSo I don't think it's just a he's jumping on to stop Ashtian from getting\naway. He's also jumping on in a manner that is going to put a lot of other\npeople at risk.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Do you agree with the ____________________________________ that said\nit applies when the officer created a situation where deadly force\nbecame essentially inevitable?\"",
+          "options": {
+            "A": "language within the Eighth Circuit decision",
+            "B": "language in the Seventh Circuit opinion",
+            "C": "language from the Fifth Circuit ruling",
+            "D": "language in the Ninth Circuit opinion"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "language in the Seventh Circuit opinion",
+            "category": "case_law",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 13,
+              "statement_index": 1,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": "Do you agree with the language in the Seventh Circuit opinion that said\nit applies when the officer created a situation where deadly force\nbecame essentially inevitable?"
+            },
+            "explanation": "This phrase highlights the importance of circuit court opinions in shaping legal standards and doctrines, challenging students to recognize the precedential value and interpretative nuances of judicial language."
+          }
+        },
+        {
+          "question": "Fill in the blank: \". Once --\nAnd are you asking then --I realize you're going to say this is for the\nFifth Circuit on remand, but I'm going to ask it anyway.\nAre __________________ at traffic stops, when the car pulls away,\nfrom jumping on the car?\"",
+          "options": {
+            "A": "officers always prohibited",
+            "B": "officers never permitted",
+            "C": "officers sometimes authorized",
+            "D": "officers often allowed"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "officers always prohibited",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 13,
+              "statement_index": 2,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": ". Once --\nAnd are you asking then --I realize you're going to say this is for the\nFifth Circuit on remand, but I'm going to ask it anyway.\nAre officers always prohibited at traffic stops, when the car pulls away,\nfrom jumping on the car?"
+            },
+            "explanation": "This phrase challenges the understanding of the legal standards governing police conduct during traffic stops, particularly regarding the use of force."
+          }
+        },
+        {
+          "question": "Fill in the blank: \". Once --\nAnd are you asking then --I realize you're going to say this is for the\nFifth Circuit on remand, but I'm going to ask it anyway.\nAre officers always prohibited at ____________, when the car pulls away,\nfrom jumping on the car?\"",
+          "options": {
+            "A": "roadblocks incidents",
+            "B": "traffic stops",
+            "C": "law enforcement",
+            "D": "vehicle checkpoints"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "traffic stops",
+            "category": "statute",
+            "difficulty": "medium",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 13,
+              "statement_index": 2,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": ". Once --\nAnd are you asking then --I realize you're going to say this is for the\nFifth Circuit on remand, but I'm going to ask it anyway.\nAre officers always prohibited at traffic stops, when the car pulls away,\nfrom jumping on the car?"
+            },
+            "explanation": "This term requires knowledge of the legal framework surrounding traffic stops and the constitutional implications of police actions during such encounters."
+          }
+        },
+        {
+          "question": "Fill in the blank: \". Once --\nAnd are you asking then --I realize you're going to say this is for the\nFifth Circuit on remand, but I'm going to ask it anyway.\nAre officers always prohibited at traffic stops, ______________________________,\nfrom jumping on the car?\"",
+          "options": {
+            "A": "when the car suddenly stops",
+            "B": "when the vehicle speeds forward",
+            "C": "when the car pulls away",
+            "D": "when the driver attempts escape"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "when the car pulls away",
+            "category": "judicial_test",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 13,
+              "statement_index": 2,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": ". Once --\nAnd are you asking then --I realize you're going to say this is for the\nFifth Circuit on remand, but I'm going to ask it anyway.\nAre officers always prohibited at traffic stops, when the car pulls away,\nfrom jumping on the car?"
+            },
+            "explanation": "This phrase probes the circumstances under which police may act, testing the understanding of the reasonableness standard in Fourth Amendment jurisprudence."
+          }
+        },
+        {
+          "question": "Fill in the blank: \". Once --\nAnd are you asking then --I realize you're going to say this is for the\nFifth Circuit on remand, but I'm going to ask it anyway.\nAre officers always prohibited at traffic stops, when the car pulls away,\nfrom ________________________?\"",
+          "options": {
+            "A": "jumping on the car",
+            "B": "jumping into the car",
+            "C": "jumping over the car",
+            "D": "jumping off the car"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "jumping on the car",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 13,
+              "statement_index": 2,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": ". Once --\nAnd are you asking then --I realize you're going to say this is for the\nFifth Circuit on remand, but I'm going to ask it anyway.\nAre officers always prohibited at traffic stops, when the car pulls away,\nfrom jumping on the car?"
+            },
+            "explanation": "This phrase raises questions about the legality and reasonableness of police actions in potentially dangerous situations, requiring familiarity with case law on police use of force."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, true.\nBut, obviously, you know, ______________________________ who\nare doing things that are much worse.\nOftentimes, major criminals are apprehended for things like that, and I\ncan give you some historical examples that are obvious, but -- so I don't\nknow that an officer can assume that's the only thing going on.\nAnd if someone's pulling away, they could be a danger to others on the\nroad.\nWho knows what's going on, right?\"",
+          "options": {
+            "A": "traffic enforcement often identifies offenders",
+            "B": "traffic violations sometimes identify individuals",
+            "C": "traffic stops sometimes identify people",
+            "D": "traffic stops rarely identify suspects"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "traffic stops sometimes identify people",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 13,
+              "statement_index": 3,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": "Well, true.\nBut, obviously, you know, traffic stops sometimes identify people who\nare doing things that are much worse.\nOftentimes, major criminals are apprehended for things like that, and I\ncan give you some historical examples that are obvious, but -- so I don't\nknow that an officer can assume that's the only thing going on.\nAnd if someone's pulling away, they could be a danger to others on the\nroad.\nWho knows what's going on, right?"
+            },
+            "explanation": "This phrase highlights the judicial reasoning regarding the broader implications of traffic stops beyond the immediate offense, suggesting a need for a nuanced understanding of law enforcement's role."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, true.\nBut, obviously, you know, traffic stops sometimes identify people who\nare doing things that are much worse.\nOftentimes, ________________________ for things like that, and I\ncan give you some historical examples that are obvious, but -- so I don't\nknow that an officer can assume that's the only thing going on.\nAnd if someone's pulling away, they could be a danger to others on the\nroad.\nWho knows what's going on, right?\"",
+          "options": {
+            "A": "major offenders are detained",
+            "B": "major criminals are apprehended",
+            "C": "violent offenders are prosecuted",
+            "D": "serious criminals are arrested"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "major criminals are apprehended",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 13,
+              "statement_index": 3,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": "Well, true.\nBut, obviously, you know, traffic stops sometimes identify people who\nare doing things that are much worse.\nOftentimes, major criminals are apprehended for things like that, and I\ncan give you some historical examples that are obvious, but -- so I don't\nknow that an officer can assume that's the only thing going on.\nAnd if someone's pulling away, they could be a danger to others on the\nroad.\nWho knows what's going on, right?"
+            },
+            "explanation": "This phrase emphasizes the potential for traffic stops to lead to significant law enforcement outcomes, challenging students to consider the implications of such encounters in the context of public safety."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, true.\nBut, obviously, you know, traffic stops sometimes identify people who\nare doing things that are much worse.\nOftentimes, major criminals are apprehended for things like that, and I\ncan give you some historical examples that are obvious, but -- so I don't\nknow that ____________________________________________________________.\nAnd if someone's pulling away, they could be a danger to others on the\nroad.\nWho knows what's going on, right?\"",
+          "options": {
+            "A": "an officer can assume that's the only thing going on",
+            "B": "an officer must assume this is the only thing happening",
+            "C": "an officer should believe this is the only thing transpiring",
+            "D": "an officer can presume this is the sole thing occurring"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "an officer can assume that's the only thing going on",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 10,
+            "context_info": {
+              "conversation_id": 13,
+              "statement_index": 3,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": "Well, true.\nBut, obviously, you know, traffic stops sometimes identify people who\nare doing things that are much worse.\nOftentimes, major criminals are apprehended for things like that, and I\ncan give you some historical examples that are obvious, but -- so I don't\nknow that an officer can assume that's the only thing going on.\nAnd if someone's pulling away, they could be a danger to others on the\nroad.\nWho knows what's going on, right?"
+            },
+            "explanation": "This phrase probes the limits of an officer's assumptions during a traffic stop, requiring an understanding of reasonable suspicion and the legal standards governing police conduct."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"And when an officer jumps on the car, the ______________________________ by\"",
+          "options": {
+            "A": "deadly force should be permitted",
+            "B": "deadly force can be avoided",
+            "C": "deadly force cannot be justified",
+            "D": "deadly force must be justified"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "deadly force can be avoided",
+            "category": "judicial_test",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 13,
+              "statement_index": 4,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": "And when an officer jumps on the car, the deadly force can be avoided by"
+            },
+            "explanation": "This phrase challenges the understanding of the legal standards regarding the use of deadly force by law enforcement and the circumstances under which it can be deemed avoidable."
+          }
+        },
+        {
+          "question": "Fill in the blank: \", why it's so\n__________________________________________.\nIn fact, there is -- I'm not aware of any police department that\nrecommends that its officers shoot drivers.\nThe high likelihood -- in this particular case, Ashtian Barnes didn't\nimmediately die.\nHe was able to brake the car and put it into park.\nIf he had been immediately killed, that car could have careened and\ncrashed into the highway.\nOfficer Felix put other people on that highway in grave, very serious\ndanger that particular day.\nSo I don't think it's just a he's jumping on to stop Ashtian from getting\naway. He's also jumping on in a manner that is going to put a lot of other\npeople at risk.\"",
+          "options": {
+            "A": "dangerous for an officer to shoot drivers",
+            "B": "unreasonable for you to shoot a driver",
+            "C": "reasonable for you to shoot a driver",
+            "D": "dangerous for you to shoot a driver"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "dangerous for you to shoot a driver",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 7,
+            "context_info": {
+              "conversation_id": 13,
+              "statement_index": 5,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": ", why it's so\ndangerous for you to shoot a driver.\nIn fact, there is -- I'm not aware of any police department that\nrecommends that its officers shoot drivers.\nThe high likelihood -- in this particular case, Ashtian Barnes didn't\nimmediately die.\nHe was able to brake the car and put it into park.\nIf he had been immediately killed, that car could have careened and\ncrashed into the highway.\nOfficer Felix put other people on that highway in grave, very serious\ndanger that particular day.\nSo I don't think it's just a he's jumping on to stop Ashtian from getting\naway. He's also jumping on in a manner that is going to put a lot of other\npeople at risk."
+            },
+            "explanation": "This phrase highlights the judicial inquiry into the reasonableness of the officer's actions in the context of the Fourth Amendment, probing the legal implications of using deadly force."
+          }
+        },
+        {
+          "question": "Fill in the blank: \", why it's so\ndangerous for you to shoot a driver.\nIn fact, there is -- I'm not aware of any police department that\nrecommends that its officers shoot drivers.\nThe ____________ -- in this particular case, Ashtian Barnes didn't\nimmediately die.\nHe was able to brake the car and put it into park.\nIf he had been immediately killed, that car could have careened and\ncrashed into the highway.\nOfficer Felix put other people on that highway in grave, very serious\ndanger that particular day.\nSo I don't think it's just a he's jumping on to stop Ashtian from getting\naway. He's also jumping on in a manner that is going to put a lot of other\npeople at risk.\"",
+          "options": {
+            "A": "high likelihood",
+            "B": "low probability",
+            "C": "clear certainty",
+            "D": "reasonable suspicion"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "high likelihood",
+            "category": "judicial_test",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 13,
+              "statement_index": 5,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": ", why it's so\ndangerous for you to shoot a driver.\nIn fact, there is -- I'm not aware of any police department that\nrecommends that its officers shoot drivers.\nThe high likelihood -- in this particular case, Ashtian Barnes didn't\nimmediately die.\nHe was able to brake the car and put it into park.\nIf he had been immediately killed, that car could have careened and\ncrashed into the highway.\nOfficer Felix put other people on that highway in grave, very serious\ndanger that particular day.\nSo I don't think it's just a he's jumping on to stop Ashtian from getting\naway. He's also jumping on in a manner that is going to put a lot of other\npeople at risk."
+            },
+            "explanation": "This phrase suggests a standard of risk assessment that the court may apply when evaluating the reasonableness of an officer's use of force, indicating a need for a nuanced understanding of judicial standards."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 14,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nMr. Zelinsky, can I take you back to the question presented, which is\nwhether or not it was correct for the Fifth Circuit to apply the moment of\nthreat doctrine. What is your understanding of that doctrine? I guess I\nwas surprised that Respondent in this case at this time sort of has\ncreated now a conception of it that did not seem to align with what the\nFifth Circuit said.\nSo what is your view of the moment of the threat doctrine?\n### Nathaniel A.G. Zelinsky:\nSo, Justice Jackson, Judge Higginbotham was very clear in his decision\nbelow.\nYou cannot look at any of the officer's actions prior to the moment of\nthe threat.\nHe's joined in that decision by Judge Elrod and Judge Smith.\nRespondents themselves agreed below that you can't look at anything\nprior to the moment.\n### Justice Jackson:\nAnd do you perceive them now to be saying that you can look at some\nthings?\n### Nathaniel A.G. Zelinsky:\nYes.\n### Justice Jackson:\nSo that's a different concept?\n### Nathaniel A.G. Zelinsky:\nA hundred percent. And,\n### Justice Jackson:\n, they've gone so far as to say, if\nan officer jumps in front of a moving car and shoots the driver, that's\nunreasona ble. Well, that's our view of this case.\nAnd part of the problem is we weren't able to have a lower court look at\nthe totality of the circumstances and decide was this like a case in which\nyou jump in front of a car and immediately shoot the driver.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Mr. Zelinsky, can I take you back to the question presented, which is\nwhether or not it was __________________________________________ the moment of\nthreat doctrine. What is your understanding of that doctrine? I guess I\nwas surprised that Respondent in this case at this time sort of has\ncreated now a conception of it that did not seem to align with what the\nFifth Circuit said.\nSo what is your view of the moment of the threat doctrine?\"",
+          "options": {
+            "A": "appropriate for the Fifth Circuit to determine",
+            "B": "valid for the Fifth Circuit to assess",
+            "C": "correct for the Fifth Circuit to apply",
+            "D": "correct for the Fifth Circuit to evaluate"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "correct for the Fifth Circuit to apply",
+            "category": "judicial_test",
+            "difficulty": "hard",
+            "word_count": 7,
+            "context_info": {
+              "conversation_id": 14,
+              "statement_index": 1,
+              "speaker": "Justice Jackson",
+              "original_statement": "Mr. Zelinsky, can I take you back to the question presented, which is\nwhether or not it was correct for the Fifth Circuit to apply the moment of\nthreat doctrine. What is your understanding of that doctrine? I guess I\nwas surprised that Respondent in this case at this time sort of has\ncreated now a conception of it that did not seem to align with what the\nFifth Circuit said.\nSo what is your view of the moment of the threat doctrine?"
+            },
+            "explanation": "This phrase probes the judicial reasoning behind the application of a legal standard by a lower court, requiring knowledge of appellate review and legal standards."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Mr. Zelinsky, can I take you back to the question presented, which is\nwhether or not it was correct for the Fifth Circuit to apply the moment of\nthreat doctrine. What is your ________________________? I guess I\nwas surprised that Respondent in this case at this time sort of has\ncreated now a conception of it that did not seem to align with what the\nFifth Circuit said.\nSo what is your view of the moment of the threat doctrine?\"",
+          "options": {
+            "A": "understanding of that doctrine",
+            "B": "recognition of such principles",
+            "C": "interpretation of that standard",
+            "D": "application of this doctrine"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "understanding of that doctrine",
+            "category": "legal_concept",
+            "difficulty": "medium",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 14,
+              "statement_index": 1,
+              "speaker": "Justice Jackson",
+              "original_statement": "Mr. Zelinsky, can I take you back to the question presented, which is\nwhether or not it was correct for the Fifth Circuit to apply the moment of\nthreat doctrine. What is your understanding of that doctrine? I guess I\nwas surprised that Respondent in this case at this time sort of has\ncreated now a conception of it that did not seem to align with what the\nFifth Circuit said.\nSo what is your view of the moment of the threat doctrine?"
+            },
+            "explanation": "This phrase tests the comprehension of the specific legal doctrine being discussed, which is crucial for analyzing judicial reasoning."
+          }
+        },
+        {
+          "question": "Fill in the blank: \", they've gone so far as to say, if\nan officer jumps in front of a moving car and shoots the driver, that's\nunreasona ble. Well, that's our view of this case.\nAnd part of the problem is we weren't able to have a lower court look at\nthe ________________________ and decide was this like a case in which\nyou jump in front of a car and immediately shoot the driver.\"",
+          "options": {
+            "A": "totality of circumstances analysis",
+            "B": "totality of the evidence",
+            "C": "totality of the circumstances",
+            "D": "totality of relevant factors"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "totality of the circumstances",
+            "category": "judicial_test",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 14,
+              "statement_index": 3,
+              "speaker": "Justice Jackson",
+              "original_statement": ", they've gone so far as to say, if\nan officer jumps in front of a moving car and shoots the driver, that's\nunreasona ble. Well, that's our view of this case.\nAnd part of the problem is we weren't able to have a lower court look at\nthe totality of the circumstances and decide was this like a case in which\nyou jump in front of a car and immediately shoot the driver."
+            },
+            "explanation": "This phrase refers to a legal standard used to evaluate the reasonableness of an officer's actions by considering all relevant factors in a situation, which is crucial for understanding Fourth Amendment jurisprudence."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 15,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nDo you agree with the language in the Solicitor General's brief that says\nthe circumstances at the moment that force is used will generally have\nprimary significance in the analysis?\n### Nathaniel A.G. Zelinsky:\nSo I think that there's very little daylight between us and the Solicitor\nGeneral.\nI think that language,\n### Justice Kavanaugh:\n, is descriptive.\nDo you agree with it?\n### Justice Kavanaugh:\nOkay.\n### Justice Kavanaugh:\nAnd do you agree with when the Solicitor General says the type of\nsituation that was described in Biegert will be rare?\n### Nathaniel A.G. Zelinsky:\nI think that the -- there are a series of reoccurring fact patterns. I think\nthere are two of them.\nI think that the jumping in front of or onto car does occur with some\nfrequency.\nSo we cited in our reply brief a study of 400 stops that found that there\nis a routine problem of officers jumping in front of cars --in the article,\nit's described \"in a Hollywood style\" -- and then shooting the driver.\nThe other reoccurring fact pattern is a pattern where officers fail to\nidentify themselves, and the suspect, exercising his or her own Second\nAmendment rights to self -defense, pulls out a firearm.\nThe Fifth Circuit alone has two cases in which they apply the moment of\nthe threat doctrine.\nThe cases are Cass and Royal.\nAnd they say: We can't look at the fact that the officer failed to identify\nhimself.\nWe can only look at the fact that the officer faced a loaded gun.\nAnd that, by the way, is just sharply inconsistent with how the common\nlaw approached the exact same circumstance.\n### Justice Kavanaugh:\nOn the jumping in front of the car, I think you said this earlier, but\nsometimes it'll be reasonable and sometimes not?\n### Nathaniel A.G. Zelinsky:\nSo, yeah, let me give you an example maybe where it might be\nreasonable just to help flesh it out. Take the tragic terrorist attack in\nNew Orleans.\nIn that particular case, someone used a car as a weapon of terror.\nIf an officer had jumped in front of the car and shot the driver, that\nofficer would be a hero, and it's because the state interest in that case in\nseizing that terrorist is incredibly high.\nAgain, that's the type of balancing that the Fifth Circuit just couldn't\nengage in in this case.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Do you agree with the language in the Solicitor General's brief that says\n______________________________________________________ will generally have\nprimary significance in the analysis?\"",
+          "options": {
+            "A": "the circumstances during the moment when force is initiated",
+            "B": "the circumstances at the instant when force is applied",
+            "C": "the circumstances surrounding the moment prior to confrontation",
+            "D": "the circumstances at the moment that force is used"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "the circumstances at the moment that force is used",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 9,
+            "context_info": {
+              "conversation_id": 15,
+              "statement_index": 1,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": "Do you agree with the language in the Solicitor General's brief that says\nthe circumstances at the moment that force is used will generally have\nprimary significance in the analysis?"
+            },
+            "explanation": "This phrase highlights the judicial focus on the specific context in which force is applied, which is crucial for analyzing reasonableness under the Fourth Amendment."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"On the ____________________________________, I think you said this earlier, but\nsometimes it'll be reasonable and sometimes not?\"",
+          "options": {
+            "A": "jumping in front of the vehicle",
+            "B": "jumping in front of the truck",
+            "C": "jumping in front of the motorcycle",
+            "D": "jumping in front of the car"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "jumping in front of the car",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 15,
+              "statement_index": 3,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": "On the jumping in front of the car, I think you said this earlier, but\nsometimes it'll be reasonable and sometimes not?"
+            },
+            "explanation": "This phrase highlights a specific factual scenario that requires analysis of reasonableness in the context of self-defense and the Fourth Amendment."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 16,
+      "dialogue": "Justice Alito\n### Justice Alito:\nWell, here, the stop is for a failure to pay tolls.\nBut we could ratchet up very gradually the severity of the reason for the\nstop, and at what point would the -- would the offense become\nsufficiently serious, if -- at what point, if any, would the offense\nbecome sufficiently serious in your judgment to make it reasonable for\nthe officer to get on the sill of the car?\n### Nathaniel A.G. Zelinsky:\nSo, Justice Alito, it's a very difficult question to answer because, as this\nCourt has said, that it is a fact-specific question that's going to depend\nin each given case.\nAnd there are no magic rules.\nThere's no on/off switch.\nAnd that's Justice Scalia and Scott.\nYou can't just start drawing the lines precisely because these cases are\nso numerous and there are so many different permutations.\nAnd so I think it would be very dangerous to start drawing those lines.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Well, here, the stop is for a failure to pay tolls.\nBut we could ratchet up very gradually the severity of the reason for the\nstop, and at what point would the -- would the offense become\n____________, if -- at what point, if any, would the offense\nbecome sufficiently serious in your judgment to make it reasonable for\nthe officer to get on the sill of the car?\"",
+          "options": {
+            "A": "sufficiently serious",
+            "B": "sufficiently substantial",
+            "C": "sufficiently severe",
+            "D": "sufficiently significant"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "sufficiently serious",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 16,
+              "statement_index": 1,
+              "speaker": "Justice Alito",
+              "original_statement": "Well, here, the stop is for a failure to pay tolls.\nBut we could ratchet up very gradually the severity of the reason for the\nstop, and at what point would the -- would the offense become\nsufficiently serious, if -- at what point, if any, would the offense\nbecome sufficiently serious in your judgment to make it reasonable for\nthe officer to get on the sill of the car?"
+            },
+            "explanation": "This phrase challenges the understanding of the threshold for reasonable suspicion and the balancing of interests in Fourth Amendment jurisprudence."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 17,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.",
+      "questions": []
+    },
+    {
+      "conversation_id": 18,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nWhat do you d o with the cases cited by the other side where the Fifth\ndoctrine and does take into account more of the totality of\ncircumstances?\n### Nathaniel A.G. Zelinsky:\nSo, Justice Sotomayor, let me give you three responses.\nFirst, there's never a Fifth Circuit case where they actually look at the\nofficer's prior conduct and say that's part of the calculus and it goes\nagainst the officer.\nSo it's always -- whenever they might do it, it's only in the officer's\nbenefit.\n### Justice Sotomayor:\nSome of my colleagues might agree with that.\nWhy should we not?\n### Nathaniel A.G. Zelinsky:\nBecause you have to look --reasonableness.\nThe framers gave us a test of reasonableness, and that is a --it's a two-\nway street, not a one-way ratchet.\n### Justice Sotomayor:\nThe common law -- you gave the prime example in the common law,\nwhich is, if an officer -- a plain clothes officer doesn't announce he's an\n### Nathaniel A.G. Zelinsky:\nYes.\n### Justice Sotomayor:\ndefend themselves and pull out a gun?\n### Nathaniel A.G. Zelinsky:\nYes.\n### Justice Sotomayor:\nAll right.\n### Nathaniel A.G. Zelinsky:\nYes.\n### Justice Sotomayor:\nSo -- okay.\n### Nathaniel A.G. Zelinsky:\nAnd then the other response to your question -- and I -- and I have two\nmore answers.\nThe first is that there's just a wealth of Fifth Circuit cases that come out\nin the other direction and are just crystal-clear. So I would just direct the\nCourt to the Harris v. Serpas case, and that's quoted by Judge\nHigginbotham in his decision below.\nIn Harris, the Fifth Circuit goes out of its way to say this Court has\nnarrowed that test, and \"that test\" is referring to the Graham test.\nThey are self-consciously clear that they are narrowing this Court's\nprecedent.\nAnd the court then goes on to say any of the officer's actions leading up\nto the shooting are not relevant for the purposes of an excessive force\ninquiry in this circuit.\nSo that's a categorical bar.\nAnd then the third point is that in this case, you don't just have Judge\nHigginbotham who's describing the split or the -- the moment of the\nthreat doctrine; you also have Judge Elrod and Judge Smith who sign on\nto that panel decision, and all of them agree this is how the doctrine\noperates in the Fifth Circuit.\n### Justice Sotomayor:\nThank you.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"What do you d o with the ____________________________________ where the Fifth\ndoctrine and does take into account more of the totality of\ncircumstances?\"",
+          "options": {
+            "A": "cases relied upon by the petitioner",
+            "B": "cases referenced by the opposing counsel",
+            "C": "cases cited by the opposing party",
+            "D": "cases cited by the other side"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "cases cited by the other side",
+            "category": "case_law",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 18,
+              "statement_index": 1,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "What do you d o with the cases cited by the other side where the Fifth\ndoctrine and does take into account more of the totality of\ncircumstances?"
+            },
+            "explanation": "This phrase highlights the importance of precedent and how opposing arguments can influence judicial decision-making, requiring a deep understanding of case law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"The common law -- you gave the prime example in __________________,\nwhich is, if an officer -- a plain clothes officer doesn't announce he's an\"",
+          "options": {
+            "A": "the common law",
+            "B": "the criminal code",
+            "C": "the federal rule",
+            "D": "the statutory law"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "the common law",
+            "category": "case_law",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 18,
+              "statement_index": 2,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "The common law -- you gave the prime example in the common law,\nwhich is, if an officer -- a plain clothes officer doesn't announce he's an"
+            },
+            "explanation": "This phrase indicates the foundational legal principles derived from judicial decisions, which are crucial for understanding how justices interpret and apply law in specific cases."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 19,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice -- Justice Kavanaugh?",
+      "questions": []
+    },
+    {
+      "conversation_id": 20,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\n? Justice Jackson? Thank\nyou, counsel. Ms. Jacoby.\n### Zoe A. Jacoby:\nMr. Chief Justice, and may it please the Court: The Fifth Circuit analyzed\nthis case by examining only the so-called moment of the threat and\ncategorically ignoring all prior events.\nNone of the parties defends that approach.\nThat is because reasonableness is assessed under the totality of the\ncircumstances and pre-force events can be critical to that assessment.\nPrior events often show that the force was reasonable.\nFor example, police may have issued warnings or attempted\ndeescalation, all of which a split -second moment -of -the-threat\ndoctrine misses.\nOf course, when officers face a moment of danger, that is by far the\nmost important factor under Graham.\nBut, in rare cases, a moment of danger doesn't tell the whole story.\nIf the danger was manufactured entirely by police conduct outside the\nbounds of reasonable behavior and not by the suspect's intervening\napparent misconduct, it is unreasonable to use force in the moment.\nThe panel's approach fails to provide a constitutional backstop in those\ncases, and it disregards context that may show that force was\nreasonable in others.\nI welcome the Court's questions.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Justice Barrett\n### Justice Barrett:\n? Justice Jackson? Thank\nyou, counsel. Ms. Jacoby.\n### Zoe A. Jacoby:\nMr. Chief Justice, and may it please the Court: The Fifth Circuit analyzed\nthis case by examining only the so-called ________________________ and\ncategorically ignoring all prior events.\nNone of the parties defends that approach.\nThat is because reasonableness is assessed under the totality of the\ncircumstances and pre-force events can be critical to that assessment.\nPrior events often show tha\"",
+          "options": {
+            "A": "moment of reasonable threat",
+            "B": "moment of the threat",
+            "C": "moment of perceived threat",
+            "D": "moment of imminent threat"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "moment of the threat",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 20,
+              "statement_index": 1,
+              "speaker": "Unknown Justice",
+              "original_statement": "Justice Barrett\n### Justice Barrett:\n? Justice Jackson? Thank\nyou, counsel. Ms. Jacoby.\n### Zoe A. Jacoby:\nMr. Chief Justice, and may it please the Court: The Fifth Circuit analyzed\nthis case by examining only the so-called moment of the threat and\ncategorically ignoring all prior events.\nNone of the parties defends that approach.\nThat is because reasonableness is assessed under the totality of the\ncircumstances and pre-force events can be critical to that assessment.\nPrior events often show tha"
+            },
+            "explanation": "This phrase identifies a specific doctrine that the court is critiquing, highlighting a narrow focus that may overlook critical context in assessing reasonableness."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 21,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nWould that also include -- those circumstances also include the conduct\nof the victim that preceded the shooting?\n### Zoe A. Jacoby:\nAbsolutely.\nAnd, as we explained in our brief, the officer's conduct and the suspect's\nconduct are often intertwined. It's how t he suspect reacted to what the\nofficer did.\nAnd that can be very important in the reasonableness assessment.\n### Justice Thomas:\nAnd the other way, how the officer reacted to the victim?\n### Zoe A. Jacoby:\nExactly.\nIt's truly a totality-of-the -circumstances approach, and the Fifth\nCircuit's narrow, cramped reasoning didn't allow for any of that to be\nconsidered.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Would that also include -- those circumstances also include the conduct\nof the victim that __________________?\"",
+          "options": {
+            "A": "preceded the arrest",
+            "B": "preceded the shooting",
+            "C": "preceded the incident",
+            "D": "preceded the encounter"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "preceded the shooting",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 21,
+              "statement_index": 1,
+              "speaker": "Justice Thomas",
+              "original_statement": "Would that also include -- those circumstances also include the conduct\nof the victim that preceded the shooting?"
+            },
+            "explanation": "This phrase raises the issue of temporal relevance in legal analysis, questioning how prior actions may impact the assessment of reasonableness under the Fourth Amendment."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 22,
+      "dialogue": "Chief Justice Roberts",
+      "questions": []
+    },
+    {
+      "conversation_id": 23,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nMs. Jacoby, what do you -- oh, sorry, Chief.",
+      "questions": []
+    },
+    {
+      "conversation_id": 24,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nI just wondered, is there any area where you disagree with the\nPetitioner?\n### Zoe A. Jacoby:\nNo .\nI think that what Petitioner's just articulated aligns well with --with our\nview, and I'm glad to hear that he endorses some of the statements in\nour -- in our brief.\nWe agree this Court doesn't need to go further than just saying that the\nFifth Circuit's approach here was wrong because it focused only on a\nnarrow two-second snippet of the encounter rather than looking at the\nentirety, and the Court probably doesn't need to go further and\ndelineate the precise bounds of when force will be sort of reasonable or\nnot.\nAnd -- and so I think we don't have a lot of daylight.\nTo be honest, I don't think we have a lot of daylight between us and\nRespondents either because Respondent also seems to agree now that\npre-force circumstances matter.\nAnd I think Respondent also agrees that a moment of danger doesn't\ntell the whole story because, at page 33 and 34 of his brief, he agrees\nthere are circumstances where there can be an imminent danger to the\nofficer and the use of force can still be reasonable.",
+      "questions": []
+    },
+    {
+      "conversation_id": 25,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nWhat do you tell an officer who pulls someone over for a traffic\nviolation, but, as often, or not often, but sometimes happens, that\nperson has done or is planning to do something more serious and, you\nknow, driving away is one potential indicator of that? An officer does\nnot get the time we've spent here today to make the decision, do I let it\ngo knowing that this person could do serious harm or has done and we'll\nnever catch the person, or do I jump on the car? And they have to make\nthat decision in about -- what do you tell them?\n### Zoe A. Jacoby:\nSo, Justice Kavanaugh, we completely agree that the -- the Graham\ninquiry has to be very sensitive and deferential to the officer's need for -\n-for split-second decision-making.\nI think the training, the guidance we would have officers be given is one\nthat officers are already trained under, as Petitioner points out at page\n41 of -- of her brief.\nBasically, you may use force to respond to a danger to yourself or the\npublic, but don't manufacture a situation where the use of force\nbecomes essentially inevitable.\nAnd I think that kind of guidance would be helpful to officers.\nWhen they are in a split-second moment in a traffic stop, as you're\ndiscussing, it may often be reasonable to use force to stop the -- the\nvehicle.\nA vehicle can be a dangerous weapon, as this Court has recognized.\nBut that's not true in every single case, and the Graham inquiry has to be\ncase-sensitive to that also.\n### Justice Kavanaugh:\nWell, I think the officers are going to want to know do I let him go or do I\nnot let him go as a general proposition when someone pulls away from a\ntraffic stop, or do I try to jump on the car, jump in front of the car.\nAnd I don't know that your --and I realize we're not going to flesh all\nthis out in this case, but officers are presumably paying attention to\nthis, and they have to make those decisions all the time.\nI'm curious, let him go or not?\n### Zoe A. Jacoby:\nOf course.\nI think it's going to depend on what you've pulled them over for: if you\nknow or suspect them to be armed; how they are behaving in your\ninteraction with them; if you're getting the sense that, as they pull\naway, they're going to pose right away a big danger to people on the\nroad.\nAnd Respondent says that that was the case here, and it may well have\nbeen, and it may well have been reasonable to --to use force to stop the\nofficer or to jump on the car to -- to stop Barnes from getting away.\nBut the Fifth Circuit just didn't consider any of that, and that's what we\nthink is wrong.",
+      "questions": []
+    },
+    {
+      "conversation_id": 26,
+      "dialogue": "Justice Kagan",
+      "questions": []
+    },
+    {
+      "conversation_id": 27,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nIs this an objective or subjective inquiry in terms of what type of conduct\nis going to create the danger? I mean, it's like -- what about in sort of\nthe equivalent of an eggshell plaintiff? I mean, is the officer subject to\nvarieties in terms of reaction from people that he pulls over?\n### Zoe A. Jacoby:\nMr. Chief Justice, it's --the Fourth Amendment test is always an\nobjective reasonableness test.\nWe're not looking into the subjective state of mind of the officer to see if\nhe was acting in good faith or being particularly sensitive or something\nlike that.\nIt's whether he acted o bjectively reasonably.\n### Chief Justice Roberts:\nI'm thinking more of the -- of the perpetrator in the officer's mind.\nI mean, maybe somebody is -- really -- really views something as -- as\na serious danger, and the officer doesn't know that.\nIs that at all pertinent?\n### Zoe A. Jacoby:\nI think the officer should take into account sort of the imminence of the\nthreat he perceives.\nAnd he may perceive that the suspect is about to --you know, has a bad\nmotivation, is about to do something dangerous, and -- and that does\nmatter, but the ultimate inquiry is the reasonableness of the officer's\nperception that there was an imminent threat and it was reasonable to\nuse force.\nI do want to just briefly address -- on the subject of objective versus\nsubjective standards.\nI think Texas argues in its amicus brief, and we haven't had a chance to\nrespond, that we are sort of improperly inserting a subjective element\ninto the qualified immunity inquiry because we say that reasonableness\nis assessed based on the actual facts that the officer knew.\nThat's not correct.\nOur test is an objective reasonableness one.\nAnd this Court has actually rejected that precise argument that Texas\nmakes in Anderson versus Creighton, which is a case that Texas cites in\nits brief.\nIf I could quote from page 641 of the U.S. Reports there, the Court says\nthat the qualified immunity inquiry \"will often require examination of\nthe information possessed by the searching s.\nBut, contrary to the Creightons' assertion, this does not reintroduce\ninto qualified immunity analysis the inquiry into subjective intent that\nHarlow sought t o minimize.\" So this really is an objective test.\nOf course, the --the officer will be making perceptions about whether\nthe subject that he's engaging with is acting in bad faith or about to do\nsomething dangerous.\nBut -- but the ultimate inquiry is objective.",
+      "questions": []
+    },
+    {
+      "conversation_id": 28,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nI assume --tell me if I'm wrong, but I assume that you would want us to\nwrite an opinion that doesn't say anything about the weight to be given\nto the off icer himself creating the danger.\nBut I'm -- I'm trying to think of -- of -- given the facts of this case, how\nan opinion that you would want us to write avoids that question entirely.\n### Zoe A. Jacoby:\nI think the narrowest opinion this Court could write would just be to say:\nPrior circums matter -- circumstances matter.\nThey're part of the totality of the circumstances.\nThe Fifth Circuit didn't recognize that.\nIf the Court wants to put more meat on the bones, I think it could say, as\nwe've said in our brief: The circumstances at the moment of the threat\nare going to have prime importance, and it's going to be a rare case in\nwhich an officer is experiencing a moment of danger and it's\nnevertheless unreasonable to use force.\nof the sort that",
+      "questions": []
+    },
+    {
+      "conversation_id": 29,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nrecognized in her Biegert opinion, where\nthe officer has done something outside the bounds of reasona ble\nbehavior that essentially makes the use of force almost inevitable.\nThere's really no intervening misconduct by the suspect.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 30,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nWhy would we do that? Why would we put a thumb on the scale that way\nand --and say that it's almost impossible to make out a Fourth\nAmendment claim in those circumstances given the varied nature of\nencounters between police officers and citizens across the country, the\nstandard -- we've always said reasonableness is the totality of the\ncircumstances.\nAnd, at common law, these are all questions for the jury.\nAnd you also have layered on top of the Fourth Amendment qualified\nimmunity to protect the officers in these cases. Why would we --why\nwould we start creating a new jurisprudence of exceptional\ncircumstances?\n### Zoe A. Jacoby:\nI don't think it would be a -- a new jurisprudence or a thu mb on the\nscale so much as a reflection that when balancing the Fourth\nAmendment interests of the individual and the government, the\ngovernment has a very strong interest when there is an imminent\ndanger to himself or to the public.\nBut you're right, of course, it is a totality-of-the -circumstances\ninquiry.\nAnd we wouldn't be asking for a departure of that.\nI think the reason the Court might want to go further and -- and say it's\ngoing to be rare when there truly is a moment of danger is because you\nwant to avoid a situation where courts are taking this as license to do\nsome kind of officer-created danger rule, where merely getting into a\nbad circumstance, making a bad stop, means that the later use of force\nis automatically unreasonable.\nI think that would be what we're trying to guard against, Justice\nGorsuch.",
+      "questions": []
+    },
+    {
+      "conversation_id": 31,
+      "dialogue": "Justice Jackson",
+      "questions": []
+    },
+    {
+      "conversation_id": 32,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nThat's nice, but this is not the issue before this Court, correct?\n### Zoe A. Jacoby:\nCorrect.\nThis Court does not need to go -- to go any further than to say that in\n### Justice Sotomayor:\nAnd Justice Scalia was very clear in his Scott writings that we shouldn't\nbe trying to do black-line rules here.\n### Zoe A. Jacoby:\nCertainly.\nWe're -- we're not asking for --for black -line rules.\nI think just, if the Court wanted to give more -- more color, it could say,\nas Justice Barrett said in the Biegert opinion: We think, you know, when\nthere's a moment of danger, that's -- that's very often going to be\n### Justice Sotomayor:\nWell, why don't we just say it's important, just as everything is\nimportant, but it's important? You're putting a scale on it.\nBy the words you use, you're putting a thumb on it.\n### Zoe A. Jacoby:\nthan the narrow opinion that -- that",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 4/10",
+      "complexity_score": 4
+    },
+    {
+      "conversation_id": 33,
+      "dialogue": "Justice Alito\n### Justice Alito:\nsketched out with my\nfriend.\nBut I do think, given that the question is the reasonableness of the use\nof force in the moment, the circumstances in the moment and the\npresence of a danger in the moment will have to be quite important.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 34,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nJustice Thomas? Justice Alito?",
+      "questions": []
+    },
+    {
+      "conversation_id": 35,
+      "dialogue": "Justice Alito\n### Justice Alito:\nWell, it's fine to tell someone, a court or anybody else: Take into account\nthe totality of the circumstances.\nwhat you are examining the totality of the circumstances to de termine.\nAnd that's really the --the difficult question here.\nAre you examining the totality of the circumstances to determine\nwhether the act that forms the gravamen of the Fourth Amendment\nclaim -- let's say it is the -- the use -- the allegedly unreasonable use of\ndeadly force -- is unreasonable? Or are you asking the court or the jury\nto determine whether the whole course of conduct in which the officer is\nengaged was unreasonable, in part in the sense that it wasn't prudent, it\nwas in violation of perhaps departmental policies or the best practices\nthat had been established for police department -- that --that some\npeople think should be followed by police departments around the\ncountry? That -- that's really the difficult question, and what -- what\nwould you say to that?\n### Zoe A. Jacoby:\nI would say, Justice Alito, the former.\nThe question is: Was the use of force, the seizure, reasonable in the\nmoment? That's what we're trying to get at when we look at the totality\nof circumstances.\nWe're not doing some sort of freewheeling inquiry into whether the\nofficer overall, over the course of five minutes, acted reasonably.\nSo -- so that is why we think the circumstances in the moment do have\nprime importance.\nBut that does not mean that courts have a license to ignore everything\nbefore that moment, as the Fifth Circuit did here.\n### Justice Alito:\nWell, would it be -- would a court hearing this case be obligated to\nadmit expert testimony by various individuals who have a view about\nwhat are good police practices and what are not good police practices?\nWould the -- would that be what the jury's determination would boil\ndown to?\n### Zoe A. Jacoby:\nSo the ultimate determination here about whether the officer acted\nreasonably is, according to Scott, a pure question of law.\nThe jury's not deciding that.\nThe jury could be making factual determinations about what actually\nhappened, you know, when the officer jumped and -- and all the rest.\nAs the Court is examining whether that initial thing that the officer did\nhere, jumping on the car, was outside the bounds of reasonable\nbehavior, I do think it's appropriate to look at training manuals and the\nlike.\nThat can't resolve the question, but that could provide helpful\nguidance.\n### Justice Alito:\nWell, there are federal -- there are some federal law enforcement\nofficers who make vehicle stops.\nSo what is the -- the teaching? Do you know? What --what are they\ntaught about placing themselves in front of the car or in a position\nwhere they could be killed or injured if the driver decides to try to drive\naway?\n### Zoe A. Jacoby:\nI don't know across the board a rule for stepping in front of cars.\nI know that federal officers are trained to use force to respond to danger\nbut not to enter into situations where the use of force becomes sort of\ninevitable.\nThat's like the DHS manual that my friend points to at page 41 of her\nbrief.\nI think, again, we don't really train officers to go right up to the\nconstitutional line.\nWe often will train officers to not enter in these situations to begin with\neven if -- if they ultimately do so, it could end up being not a Fourth\nAmendment violation.\nSo I suspect we would train officers not to -- you know, to frequently\navoid using force on roads and whatnot, even if it would be permissible\nunder the circumstances to do so, because we just want to -- to train\nthem more cautiously, I suspect.\n### Justice Alito:\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 36,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Sotomayor?",
+      "questions": []
+    },
+    {
+      "conversation_id": 37,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 38,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Kagan? Justice Gorsuch?",
+      "questions": []
+    },
+    {
+      "conversation_id": 39,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\n?\nI just am curious, after this case gets resolved on remand, if it goes back\non remand, what the rule will be for officers and what those training\nmanuals will say.\nYou know, put aside the abducted child example.\nSomeone's pulling away, it might be they just don't feel like they want\nto be hassled for a traffic violation, but they could be, you know, about\nto drive down the street in New Orleans.\nYou don't know.\nOr they might be on drugs and about to kill someone else who's, you\nknow, on a bike on the side of the road.\nAnd I don't know what we want officers to do, and I don't know how\nthat's going to get fleshed out.\nBut I'm not -- you know, officers, if they're held liable for jumping on\ncars, for anything that happens thereafter, are just going to let cars go.\nAnd maybe that's the rule that the United States thinks is appropriate.\nI don't know.\n### Zoe A. Jacoby:\nThat's not the rule the United States thinks is appropriate.\nI do think that it is sometimes appropriate to use force to stop a car from\nI think Brosseau is good guidance on that. But Brosseau also says that\nthe use of force to stop a vehicular flight is necessarily a context-\nspecific thing.\nI think it says in Brosseau that that is an area that depends very much on\nthe facts of each case.\nSo I recognize that can be unsatisfying.\nIn giving guidance to officers, police departments may well say: You\nknow, don't jump on the car no matter what, unless you see a weapon or\nsomething like that.\nAgain, they may train them not to go all the way up to the Fourth\n### Justice Kavanaugh:\nrisk -averse on being held liable for something like this is just not going\nto do it.\nBut anyway, I'll -- I'll stop there. Thank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 40,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Barrett?",
+      "questions": []
+    },
+    {
+      "conversation_id": 41,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nMs. Jacoby, to -- to this point, there is a split on this.\nSo what about in the circuits that don't take the moment -of-threat\napproach, these questions that",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 42,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nis asking about\nguidance for police officers? I'm just wondering what your view is of\nhow courts are handling these kinds of cases in that circuit in ways that\nmight affect police behavior.\n### Zoe A. Jacoby:\nSo I do think, actually, the split is maybe not so much a two-sided split\nas a three -sided.\nI do think there have been some courts that veer a little bit towards an\nofficer-created danger rule, where they seem to say that --almost\nsuggest that the use of force is automatically unreasonable if earlier in\nthe sequence the officer did anything unreasonable.\nAnd we don't think that's correct, and we do think that would be bad\nguidance for officers and would lead them to police less aggressively\nthan they need to be able to.\nBut I think, in a -- in a court that appropriately takes into account the\ntotality of the circumstances, officers will have good guidance to use\nforce when necessary, w hen -- when there's a danger and they need to\nprotect themselves or the public.\nBut, to avoid situations, as I said, where, you know -- to avoid\nmanufacturing a situation where the use of force effectively becomes\ninevitable.\nThat's, you know, jumping in front of the car, that type of thing.\nAgain, obviously, Respondent disputes that's what he's done here.\nPetitioner thinks it is.\nThat's what they'll sort of hash out below.\nBut I think guidance that says you can use force to respond to danger,\ndon't manufacture a dangerous situation, would -- would go a long\nway.",
+      "questions": []
+    },
+    {
+      "conversation_id": 43,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nSo you say -- you said it's a three-sided split and you're kind of saying\nFifth Circuit on one side and then these, you know, officer-fabricated or\nofficer -caused dangers on the other side.\nWhat about those circuits in the middle and this concern that, you know,\nJustice Kavanaugh is correctly expressing about what cops do in the\nmoment? And in that -- in those circuits that take the more middle\napproach, I take it that's what the United States is supporting?\n### Zoe A. Jacoby:\nCorrect.\nCorrect.\n### Justice Barrett:\nAnd this isn't a problem in those circuits or --or it is?\n### Zoe A. Jacoby:\nI don't think so.\nI mean, we have amicus briefs on the other side from, for example, the\nlaw enforcement officers from Wisconsin, which is in the Seventh\nCircuit, which does take this kind of more middle -of-the- road\napproach, and I don't see in their brief something saying that they have\na uniquely difficult time policing.\nI think they are, of course, going to have to make split-second decisions,\nand very often in the cases where a court sort of ultimately decides that\nthe decision they made was on the wrong side of the line, they'll still be\nprotected by qualified immunity.\nSo, of course, we are definitely very concerned as the United States\nabout officers not being able to engage in aggressive-enough policing.\nThey need to be able to.\nBut -- but we don't think that a totality -of -the- circumstances\napproach, which is what Graham cautions, what Scott cautions, what\nthis Court has endorsed over and over again, would lead down that path.\n### Justice Barrett:\nAnd last question, what's the deal -- you know, in Respondent's brief at\nFootnote 3, it says \"United States questions whether Sergeant Felix\njumped onto the door sill shortly before or shortly after.\nBut the parties agree it was after.\" What's the deal with that factual\ndispute?\n### Zoe A. Jacoby:\nI think it's a dispute about where -- the way the district court phrased\nits opinion.\nIt seems to have suggested a distinction between the moment that the\ncar started moving forward and a moment of acceleration.\nSo it seems now everyone agrees that the officer stepped on the car\nafter it started moving forward.\nThere is that passage that we quoted from the district court opinion that\nsays it's not clear if it's before or after the acceleration.\nI think that may be where the confusion comes from.\nThe fact that there is some confusion about this matter of timing, which\ncould go to the -- to the question whether the decision to jump on the\nto vacate and remand and send it back to the Fifth Circuit.",
+      "questions": []
+    },
+    {
+      "conversation_id": 44,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Jackson?",
+      "questions": []
+    },
+    {
+      "conversation_id": 45,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nYeah.\nJust to follow up on",
+      "questions": []
+    },
+    {
+      "conversation_id": 46,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\n's questions, it's the majority of\ncircuits that use a totality test, is that correct?\n### Zoe A. Jacoby:\nYes, I think that's correct.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 47,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nAnd is there any indication in those circuits that there is confusion or\nconcern about the application of that test either on the part of the\ncourts or on the part of the officers who do their jobs in that context?\n### Zoe A. Jacoby:\nNot to my knowledge.\nI do think that, again, a feature of the sort of totality-of-the -\ncircumstances approach that applie s to the Fourth Amendment across\nthe board is that it doesn't always provide perfect guidance to officers.\nThat's why we do have the backstop of the \"clearly established\" prong\nof the qualified immunity analysis, to make sure that officers are not\nheld liable for things that they sort of weren't on notice were on the\nwrong side of the line.\nBut I'm not aware of a problem in the circuits that are correctly applying\na totality-of-the -circumstances approach.\n### Justice Jackson:\nAnd is it the case that in those circuits that are correctly applying the\ntest, officers are regularly found to have engaged in using reasonable\nforce? We're not talking about the application of a test that necessarily\nresults in officer liability, right?\n### Zoe A. Jacoby:\nAbsolutely.\nObviously, the United States would not endorse such a test. Of course.\n### Justice Jackson:\nAnd can I just clarify that the United States is not taking a position on\nthe facts of this case and whether or not Officer Felix used reasonable\nforce, and, in fact, you would be satisfied with just a clarification that\n\"moment of the threat\" doctrine i s not what courts should be using,\nand then sending it back to the Fifth Circuit for the Fourth Amendment\nanalysis in this situation?\n### Zoe A. Jacoby:\nThat's absolutely correct.\nOur interest in this dispute is a narrow one.\nWe're really just interested in correcting the Fifth Circuit's legal error.\nAnd -- and we have no position on the facts of this case.\n### Justice Jackson:\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 48,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nMr. McCloud.\n### Charles L. McCloud:\nThank you, Mr. Chief Justice, and may it please the Court: When an\nofficer doing his duty confronts a threat to his safety or the safety of\nothers, it is reasonable for that officer to use force to end that threat.\nThat's the conclusion this Court has consistently reached, and that's\nwhat the Fifth Circuit correctly held below.\nAt the moment Sergeant Felix used force, he was clinging to the side of a\nfleeing suspect's car, and Felix reasonably believed that his life was in\nimminent danger.\nThat conclusion should end this case. Petitioner's contrary argument\nattacks a strawman.\nLet me be very clear.\nWe are defending the decision below and the moment of threat doctrine\nas it actually exists.\nThe core premise of that doctrine is that an officer doesn't lose his right\nto defend himself just because he made a mistake at an earlier point in\ntime.\nBut applying that rule does not require courts to ignore everything that\noccurred prior to the use of force.\nLike other circuits, the Fifth Circuit has repeatedly held that preceding\nevents are relevant to the extent they inform the officer's perception of\nthe danger that he faced.\nThe panel decision below repeatedly cited to and quoted from those\nvery precedents.\nThe panel did not and could not overrule them sub silentio.\nPetitioner asked the Court to create a new breed of constitutional tort\nunder which an officer facing the barrel of a gun loses his right to defend\nhimself if he previousl y used bad tactics or poor planning.\nThat's contrary to precedent and common sense.\nGraham asks only whether an officer's use of force was reasonable in the\nparticular circumstances he faced.\nIt requires courts to put themselves in the shoes of the officer who used\nforce, not to second-guess every decision the officer made in some of\nthe most stressful circumstances imaginable.\nAnd Plumhoff and Mendez rejected similar officer-created danger\ntheories as illogical, unwarranted, and inconsistent with precedent.\nThe Court should reject the theory again in this case and affirm the\njudgment of the court of appeals.\nI welcome the Court's questions.",
+      "questions": []
+    },
+    {
+      "conversation_id": 49,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nHow would you assess the difference between the Fifth Circuit's\napproach, what you -- as you see it, and the totality-of-the -\ncircumstances approach, as we heard it this morning?\n### Charles L. McCloud:\nSo I don't think that there is any difference between what the Fifth\nCircuit does and what Graham directs.\n### Justice Thomas:\nNo, I mean, as -- what the Solicitor General and Petitioner, as they see\nthe totality of the circumstances, not so much Graham.\n### Charles L. McCloud:\nSo the difference, I think, between our position and -- and somewhat\nthe government's position is they want to include within the totality of\nthe circumstances arguments that the officer escalated the danger or\ncreated the danger.\nAnd we think that that is not a relevant consideration under Graham and\nunder the Fourth Amendment.\nIn those cases, the question is, was there a legitimate threat that the\nofficer is responding to?\n### Justice Thomas:\nWere they arguing that this morning?\n### Charles L. McCloud:\nThat was exactly their argument that I heard this morning.\nHe said that --Mr. Zelinsky said that Sergeant Felix created a dangerous\nsituation by jumping onto the car.\n### Justice Thomas:\nBut I thought he said he wants to argue that later, when he -- when it\ngoes back.\n### Charles L. McCloud:\nWell, that was the argument that they tried to advance in the Fifth\nCircuit.\nAnd this is, I think, the one thing I agree with in Judge Higginbotham's\nsolo concurrence.\nAt 15a of the Petition Appendix, he says that argument is foreclosed\nunder Fifth Circuit law.\nAnd that is the actual issue that divides the circuits.\nThere is no split on the question of whether you can consider preceding\nevents.\nEvery court in the country considers preceding events.\nThe question is whether you can use those preceding events as a basis\nfor making an argument that the officer made a mistake or used poor",
+      "questions": []
+    },
+    {
+      "conversation_id": 50,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nBut, Mr. McCloud, that's not what you argued before, and I'm very, very\nconfused now.\nI mean, it --it seems as though the moment of the threat doctrine, as it\nexists and as everybody has understood it, is about evidence essentially.\nIt's what can you look at to prove the alleged Fourth Amendment\nexcessive force claim.\nCan you look at anything that occurred outside of the moment of the\nthreat, anything that occurred previously? You seem to be now\nsuggesting that it is about liability.\nYou said that they are creating a new breed of constitutional tort and\nthis is about, you know, whether or not the police officer can be held\nliable for his own negligence in the time preceding.\nI haven't seen that concept anywhere.\n### Charles L. McCloud:\nThat -- that was the argument that was made below.\nIssue Number 1 in Petitioner's Fifth Circuit brief was that Sergeant Felix\nescalated the danger and was negligent in jumping onto the car, and\nthat is the issue that actually divides the circuits.\nThe Fifth Circuit has never adopted a rule that you can't ever look to\n### Justice Jackson:\ninvolves reviewing only the events immediately prior to the use of\ndeadly force as opposed to other prior conduct?\n### Charles L. McCloud:\nThe other prior conduct that was being referred to there is conduct that\nis alleged to have created the danger.\n### Justice Jackson:\nThat might be what you're saying is referred to now.\nI -- the sentence suggests that the dividing line is between looking only\nat the events immediately prior to the use of deadly force as opposed to\nother prior conduct.\n### Charles L. McCloud:\nNo, Your Honor, and on page 33 of the bio, we said there was no circuit\nsplit on that issue.\nWe said that every court considers prior events.",
+      "questions": []
+    },
+    {
+      "conversation_id": 51,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nWhatever you said or you didn't say, Mr. McCloud, I think it's pretty clear\nthat if you look at the court below, the court below said: We're only\nlooking at the prior two seconds, and we're not going to look at\nanything before that.\nAnd -- and so, again, even if there's some kind of intra-circuit\nconfusion going on in the Fifth Circuit --there might be.\nIt wouldn't be surprising if, on an issue like this, there were some -- but\nwe have two opinions below, actually, both the circuit court and the\ndistrict court, who expressed a desire to look beyond two seconds but\nsaid: We can only look at the prior two seconds.\nAnd -- and you seem to be saying: Well, that is wrong.\nI mean, you -- you can look back beyond the prior two seconds.\nSo that suggests to me that there's an easy way of just, you know,\nvacating and remanding and giving it back to the courts below to\naddress, okay, once we look behind -- beyond the two seconds and we\nhave a fuller scope of evidence, then we'll make our reasonableness\ninquiry, hopefully without our putting a thumb on the scales either way.\n### Charles L. McCloud:\nSo I have a couple of responses on that.\nFirst, I don't think that that's the best reading of the panel decision.\nI understand that that's what Judge Higginbotham asserted in his solo\nconcurrence, but that is not the law, and he doesn't get to make the law",
+      "questions": []
+    },
+    {
+      "conversation_id": 52,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nOkay.\nFair enough. I understand you read the opinion differently than Justice\nKagan does or maybe Justice -- Judge Higginbotham did, but what's\nwrong with proceeding on that understanding?\n### Charles L. McCloud:\nWell, I think there are a number of things wrong.\nThe first thing I would say is, to the extent you are concerned about the\nbreadth of the statements in the panel decision, I think the better\ncourse of action is to affirm the judgment, which is clearly correct.\n### Justice Gorsuch:\nIf the only thing we're concerned with is this two-minute -- this two-\nsecond rule, whether it's there or not, Mr. McCloud, and we just clarify\nthat is not the law, send it back, any objections to that?\n### Charles L. McCloud:\nYes, because then you would be sending it back for a remand that is\ngoing to be pointless.\nAs I said before, the argument that Petitioner wants to make on remand\n### Justice Gorsuch:\nMr. McCloud, the number of remands from this Court that lawyers tell\nus are pointless -- (Laughter.)\n### Justice Gorsuch:\nAny other -- any other -- any other objection besides your view that it\nwould be pointless?\n### Charles L. McCloud:\nYes.\nMy other objection is it would be creating, I think, a dangerous\nprecedent because it could be seen as endorsing the sort of officer-\ncreated danger argument that Petitioner wants to make.\n### Justice Gorsuch:\nBut we've also talked about putting that aside and bracketing that and\nmaking clear, as we did in Men -- Mendez, I believe?\n### Charles L. McCloud:\nMendez.\n### Justice Gorsuch:\nreserve it again, possibly, possibly.\nAny -- if we do that, any other objections?\n### Charles L. McCloud:\nSo I guess, if I --if I could ask, if you do that, to do one additional thing,\nwhich is to make clear that the standard would have to be high, and\nmere negligence alone would not be enough to satisfy this officer-\n### Justice Gorsuch:\nWell, now negligence involves mens rea, and that's subjective.\nAnd we've said in the Fourth Amendment it's an objective test.\nSo I --I -- that one, I -- up until then, you had me.\nBut now you -- now I'm afraid I'm getting off the train.\n### Charles L. McCloud:\nWell, I --I think the problem is -- I completely agree that negligence is\nnot a relevant consideration.\nAnd that's why we object to that test.\n### Justice Gorsuch:\nOkay.\nGood.\nAll right.\nThank you.\n### Charles L. McCloud:\nBut that is the test that courts of appeals are applying in the country\nright now.\n### Justice Gorsuch:\nDo you want a negligence test or do you not want a negligence test?\n### Charles L. McCloud:\nI do not want a negligence test.\n### Justice Gorsuch:\nOkay.\nAll right. All right.\n### Justice Gorsuch:\nYes.\nAnd it's an objective inquiry looking at the totality of the circumstances,\nright?\n### Charles L. McCloud:\nIt is an objective inquiry that looks at the totality of the circumstances\nto determine whether the officer genuinely believed there was a threat.\nYou do not look at the totality to determine, well, did the officer make a\nmistake and should he have gotten himself in that circumstance?\n### Justice Gorsuch:\nNo, whether he genuinely believes or whether there was an excessive\nuse of force.\nI thought -- I thought the latter was the question.\n### Charles L. McCloud:\nAnd this Court has consistently said that when an officer confronts a\ngenuine threat, it is not excessive to use force.\n### Justice Gorsuch:\nThat's an objective inquiry, though, isn't it?\n### Charles L. McCloud:\nThat is an objective inquiry, yes, sir.\n### Justice Gorsuch:\nOkay.\nAll right. Thank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 53,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nHow broad is the totality of circumstances under your view? Do you get\nto put in: This is the training record of the officer, and, look, he got D\nminuses in all the -- the excessive force parts of it?\n### Chief Justice Roberts:\nI mean, is that part of the totality as you view it?\n### Charles L. McCloud:\nNo, Your Honor.\nWe don't view that as relevant.\nI think Whren says that very clearly.\nThose sorts of policies and -- and procedures do not inform the\nreasonableness question that is being asked by the Fourth Amendment.\nAnd Justice Alito's questioning alluded to this before.\nThe Fourth Amendment is not a regulation on the reasonableness in a\ngeneral sense of everything that officers do.\nIt is a regulation of very specific conduct, searches and seizures.\nAnd this Court has established clear guidelines for determining when\nsearches and seizures are reasonable.\nThe problem with the other's side position is they want to take literally\nanything that an officer does and say: If a jury, through the lens of\nhindsight, could say that was a bad call, or if an expert could come in and\nsay I wouldn't have done that if I were in the officer's shoes, that could\nbe the basis for a Fourth Amendment claim.",
+      "questions": []
+    },
+    {
+      "conversation_id": 54,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nSo it could be that when this goes down below, the Fifth Circuit will\nactually address that question. But it didn't.\nIt repeatedly said: We can't look at any event ever.\nYou concede in your own brief that there could be situations in which an\nofficer is the aggressor.\nPage 34, I think, is the page of your brief.\nYou admit that an officer could be an aggressor and act unlawfully in\ndoing so, correct?\n### Charles L. McCloud:\nYes.\n### Justice Sotomayor:\nBut your articulation of this rule is just trying to get us to draw lines that\nhaven't even been addressed by the court below.\n### Charles L. McCloud:\nI think they have been, Your Honor, respectfully.\n### Justice Sotomayor:\nNo, the -- respectfully, Mr. McCloud, the court repeatedly said: We can\nonly look at the actions in the two minutes before the moment of\nthreat.\nIf your answer had been -- if he had walked up in an unmarked car, in\nplain clothes, with a gun drawn, and this person -- and he walked up to\nthe car and this person took off and/or accelerated slightly, and he\njumped on and shot blindly, do you think that's reasonable?\n### Charles L. McCloud:\nI think that would not be reasonable for a number of reasons.\n### Justice Sotomayor:\nAll right.\nSo you've given the game away because, at that point, you have to look\nat what the officer did.\n### Charles L. McCloud:\nAnd, Your Honor, we agree that you can look at what the officer did. And\nthe Fifth Circuit does look at what the officer did.\n### Justice Sotomayor:\nIt didn't in this case.\n### Charles L. McCloud:\nIn this case, that's because the on ly argument that Petitioner made\nbelow, the only action she said you should look at was an action based\non officer -created danger.\n### Justice Sotomayor:\nAnd we have three judges who said: We shouldn't be limited in this way\nin the mine-run of cases, and we -- and so we're stuck with this.\nWe think the -- the judgment is right, but it wasn't addressed at all.\nOfficer -created danger wasn't addressed. And the other side says\nclearly it's not raising it here.\n### Charles L. McCloud:\nIt is going to raise it on remand.\n### Justice Sotomayor:\nThen you want an --and you want an intense -- an anticipatory ruling\nfrom us.\n### Charles L. McCloud:\nNo, Your Honor.\nI think it was addressed.\nAnd the best evidence I can give you of that are the cases that the Fifth\nCircuit itself cited for the proposition that we don't look at the action of\nthe officer.\nAll of those are cases in which the argument that was being made was\nthe argument that they made below, that the officer created a\ndangerous situation, and that was the basis for liability.\nSo that is the argument the Fifth Circuit said it's not considering.\nAnd that's what Judge Higginbotham said he wanted to consider.",
+      "questions": []
+    },
+    {
+      "conversation_id": 55,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nMr. M cCloud, did the plaintiff argue that the court should be looking at\nthe totality of the circumstances?\n### Charles L. McCloud:\nYes.\n### Justice Jackson:\nAnd did you object to that as being the test that the court should apply\nwhen it decided what it was going to look at to make this\ndetermination?\n### Charles L. McCloud:\nOur objection was that you should not be adopting this officer-created\ndanger theory in considering whether Sargeant Felix escalated the\n### Justice Jackson:\nSo you did not say the moment of the threat doctrine is the -- the test in\nthe Fifth Circuit, and that's only what you should be looking at, you\nshould not be looking at circumstances and facts and things that\nhappened before the moment of the threat? If I look at the record, I'll\nfind that you're arguing that below?\n### Charles L. McCloud:\nSo, in the Fifth Circuit briefing, I don't believe we did because the\nlabeled moment of the threat doctrine didn't come up until Judge\nHigginbotham's opinion in this case.\nThat was not a label that had been recognized prior to that.\nIf you look in Westlaw for \"moment of the threat doctrine,\" I think there\nare four hits for that, and this is the -- the one that really originated\nthat term.\nSo that was not our argument below. Our argument below was whether\nSergeant Felix escalated the danger was irrelevant.\nAnd that's consistent with Fifth Circuit precedent.\nThat's what Judge Higginbotham rejected.\n### Justice Jackson:\nAll right.\nBut do you concede that that's not what the Fifth Circuit held in this\ncase, that it was irrelevant whether or not he accelerated the danger or\n### Charles L. McCloud:\nThat is --I believe that is their holding.\nAnd that is what Judge Higginbotham objected to.\nSo, if you look at page 15A of the Petition Appendix, Judge\nHigginbotham says: I would come out differently because I believe we\nshould consider the fact that Sergeant Felix escalated the danger of this\nsituation.\nThat was the argument that they made, that he wanted them to\nconsider.\nAnd that is the whole basis for the disagreement between us and the\ncourt of appeals and the disagreement that actually divides the circuit\ncourts on this question.",
+      "questions": []
+    },
+    {
+      "conversation_id": 56,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nCounsel, can I read you three sentences from this opinion?\n### Charles L. McCloud:\nCertainly.\n### Justice Sotomayor:\nThis is the majority: We may only ask whether Officer Felix was in\ndanger at the moment of the threat that caused him to use deadly force\nagainst Barnes.\nIt said its inquiry was \"confined to whether the officers or other persons\nwho were in danger at the moment of the threat resulted in a\" -- \"in a\nofficer's use of deadly force.\" And it stated, \"any of the officer's actions\nleading up to the shootings are not relevant for the purposes of an\nexcessive force inquiry in this circuit.\" So Higginbotham did not make\nup the moment of the threat doctrine. It's been used, it's been cited\nrepeatedly by other circuits.\nIt's well-known by that name. This is not a made up theory.\n### Justice Sotomayor:\nNow, let me finish.\nIf you concede, in page 34, that if the -- that if the officer was the\naggressor, then there are circumstances -- you don't think this is one of\nthem -- but there are circumstances in which the officer's actions are\nrelevant, correct?\n### Charles L. McCloud:\nWe agree that the officer's actions are relevant.\nAnd the Fifth Circuit considers officer actions.\n### Justice Sotomayor:\nYou just said the officer's actions leading up to the shootings are not\nrelevant.\nThat --I -- I can't -- I don't see how I can read that any other way.\n### Justice Sotomayor:\nAgain, they didn't say they're not relevant in this case.\nThey said they're never relevant.\n### Charles L. McCloud:\nAnd, Your Honor, I think you have to read the opinion that's being cited\nthere.\nThat's Harris versus Serpas.\nAnd that is a case that says we apply totality of the circumstances.\nAnd then when it makes the statement that we don't consider the\n### Justice Sotomayor:\nTotality of the circumstances were not used by this court, correct, in this\nopinion?\n### Charles L. McCloud:\nIt was.\nThey considered the totality of the circumstances.\nWhat they did not consider was Petitioner's argument that Sergeant\nFelix created the danger.\n### Justice Sotomayor:\nCan you point me to a place in the opinion where it used the words\n\"totality of the circumstances\"?\n### Charles L. McCloud:\nI cannot, but that was the argument that was made below.",
+      "questions": []
+    },
+    {
+      "conversation_id": 57,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nCan you explain Judge Higginbotham's concurrence sentence, \"I write\nseparately to express my concern with this Circuit's moment of the\nthreat doctrine, as it counters the Supreme Court's instruction to look to\nthe totality of the circumstances when assessing the reasonableness of\nan officer's use of deadly force\"?\n### Charles L. McCloud:\nYes, he is wrong about that.\nAnd the best evidence I can give you of that is Cole versus Carson.\n### Justice Jackson:\nI'm asking you, did he believe that there was such a thing as the\nmoment of threat doctrine and that it was in opposition to the totality\nof the circumstances test, which is what he was hoping that the court\nwould be able to apply?\n### Charles L. McCloud:\nI don't know how he could reasonably believe that, given that he wrote\nCole versus Carson, which is an en banc decision of the Fifth Circuit that\nis all about pre-shooting facts.",
+      "questions": []
+    },
+    {
+      "conversation_id": 58,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nBut I mean he did believe it, and that belief produced the decision below.\n### Charles L. McCloud:\nWell, I don't think that you should attribute his statements in a solo\nconcurrence that others didn't join to the other members of the panel.\nI -- I think you should read the cases that they cited.\n### Justice Kagan:\nWell, he wrote both and he was telling you exactly why he wrote the\nmajority opinion the way he did, because he felt constrained to.\nAnd I understand that you think he was not so constrained.\nBut we're su pposed to be reviewing this decision.\nAnd he was telling us: I, the majority opinion writer, felt that I was\nconstrained to do nothing more than look at the prior two seconds.\nAnd you don't say that that's the right rule.\nSo it seems as though we should kick it back and let you guys fight it out\nas to the relevance of anything that happened bey ond the prior two\nseconds.\n### Charles L. McCloud:\nSo I guess I would encourage the Court, if it does end up remanding, to\nsay a little more than simply do it again, Fifth Circuit.\nI think it is important to say something about this issue of officer-\ncreated danger because it has divided the circuits for a number of years.\nAnd the Court has gotten a number of cases that present that issue.\nMendez is one.\nThe Bond versus City of Talequah case from a few term ago that was\nsummarily reversed was another.\nAnd so it is lurking in the background of many of these excessive force\ncases.\nAnd it is doing real harm in the circuits that apply that, the -- the Ninth\nCircuit, the Tenth Circuit.\nThat is the reason we have amici from California that say this standard\nmakes it impossible for us to train officers and give them clear guidance.\nSo I think it's incumbent on the Court to offer a little more clarity on\nthat in an opinion, even if it does remand.",
+      "questions": []
+    },
+    {
+      "conversation_id": 59,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nAnd you want to -- just to make sure I have it, what -- what clarity\nwould you want us to give?\n### Charles L. McCloud:\nSo if the Court is going to offer or accept some version of officer-created\ndanger perhaps along the lines that Your Honor's Biegert opinion\nsuggested, I think you would want to make clear that something like\nnegligence alone is not going to be enough.\nIt's going to be an extraordinary case in which an officer's creation of\nthe danger is the basis for a Fourth Amendment claim.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 60,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nJustice Thomas?",
+      "questions": []
+    },
+    {
+      "conversation_id": 61,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nAs I understand you, you're saying that it isn't so much that the -- a\ndifference between whether to use the totality of the circumstances\nbut, rather, what evidence would be available or could be used in that\nanalysis? And here you say the officer -created danger should -- that\nthe Fifth Circuit said it could not -- it would not permit that assessment.\n### Charles L. McCloud:\nThat's correct.\n### Justice Thomas:\nWithin the context of totality of circumstances.\n### Charles L. McCloud:\nExactly.\n### Justice Thomas:\nSo it's a subcategory of the totality of circumstances.\nI hear you.\n### Charles L. McCloud:\nIt is a particular argument that is off limits in the Fifth Circuit and in the\nmajority of the circuits, when you're considering the totality of the\ncircumstances. You can still look to things that the officer did prior to\nusing force, but you cannot blame the officer for creating a bad situation\nand -- and second -guess all of the decisions he made.",
+      "questions": []
+    },
+    {
+      "conversation_id": 62,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Alito? Justice Sotomayor?",
+      "questions": []
+    },
+    {
+      "conversation_id": 63,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nI go back, you do believe there are situations, you admitted it t o me\nearlier, where an officer's actions can be considered to have created a\ndanger unreasonably?\n### Charles L. McCloud:\nI don't agree with that framing.\nI agree that you can consider an officer's actions, and I agree that an\nofficer's actions can make the use of force less reasonable.\nAgain, the Cole versus Carson example is -- is one that's instructive on\nthat.\nThat is a case where the majority of the Fifth Circuit en banc said things\nthat the officers did prior to using force made it unreasonable for them\nto use force at a later point.\nBut what they did not do is say, well, did they violate policies or could I\nhave made a better decision? And that is the fundamental difference\nbetween my approach and Petitioner's approach.",
+      "questions": []
+    },
+    {
+      "conversation_id": 64,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Kagan?",
+      "questions": []
+    },
+    {
+      "conversation_id": 65,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nSo the question presented that we took certiorari on is whether courts\nshould apply the moment of the threat doctrine when evaluating an\nexcessive force claim.\nSo, to me, what that means is moment of the threat doctrine, do you\njust look at the second or two before or do you widen the -- your scope\nto look at other things beyond that? What we did not take cert on is the\nquestion that you're raising, a very important question, probably one on\nwhich there is some confusion, wouldn't be a surprise to me, but\ndefinitely not the question in this case, the question of what weight to\ngive the fact that or the possibility that the officer created the danger, in\nthe reasonableness inquiry. That's a completely different question,\nwhich we didn't take cert on, which -- you know, it does not seem to me\nwe're well positioned in this case to discuss.\n### Charles L. McCloud:\nSo if I can just respectfully push back on that, I think in order to answer\nthe question presented as Petitioner framed it, you have to understand\nwhat the moment of threat doctrine is.\nAnd for all of the reasons we explain in our brief, it is absolutely not a\ndoctrine that says prior events are off limits.\nThere is no court in the country that is applying that version of the\nstandard.\nThe dispute between the courts and -- and what divides us in this case is\nwhether, when looking at those prior events, you can identify\nsomething the officers did that was unreasonable in a sort of general\ncosmic sense and say that contributed to the danger.\nAnd even though that is not itself a violation of the Fourth Amendment,\nit is the basis for your Fourth Amendment excessive force claim.\nThat's -- that's the nub of the issue.\n### Justice Kagan:\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 66,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Gorsuch?",
+      "questions": []
+    },
+    {
+      "conversation_id": 67,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\n? Justice Barrett? Justice Jackson?\nThank you, counsel.\n### Charles L. McCloud:\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 68,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nMs. Pettit.\n### Lanora C. Pettit:\nThank you, Mr. Chief Justice, and may it please the Court: In the last 15\nyears, this Court has rejected at least three times that an officer's\notherwise liable conduct violates the Fourth Amendment because an\nearlier split-second decision made a confrontation more likely.\nProperly understood, what Judge Higginbotham dubbed the moment of\nthreat doctrine merely applies that rule.\nAs this Court recognized in cases like Mendez and Sheehan, it is\nnecessary because the Fourth Amendment must be applied by\nthousands of real cops in the real world without, in the words of\nKentucky against King, an unacceptable degree of unpredictability.\nThe moment the officer-created risk theory, which Petitioners have\ncontinuously pressed at least until the reply brief in this Court, is\nantithetical to that proposition because it invites an open -ended,\nsubjective inquiry into the officer's intent that cannot be conducted\nwithout the benefit of hindsight.\nIt also, as Mendez recognized, involves tricky questions and fuzzy\nstandards of causation that cannot be easily be applied.\nBecause the Fifth Circuit has properly rejected that proposition, its\njudgment should be affirmed.\nAnd I welcome the Court's questions.",
+      "questions": []
+    },
+    {
+      "conversation_id": 69,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nWould you articulate for us what you think the district court and the\ncourt of appeals held?\n### Lanora C. Pettit:\nI think that the district court held -- and I would point Your Honor to\nPet. App. page 17a and 24a of footnote 2 -- under the Fifth Circuit\nprecedent that prior actions that created a risk were not relevant under\nthe Fifth Circuit's test because that is the argument that Petitioner was\npursuing at that time.\nAnd to Justice Sotomayor's questions earlier, the statements that she is\nreferring to have to be read in light of those arguments because that is\nwhat the Fifth Circuit was rejecting when it said the prior actions were\nirrelevant.",
+      "questions": []
+    },
+    {
+      "conversation_id": 70,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nI'm sorry, you're saying the statements that the Fifth Circuit made in its\nopinion regarding what its holding was have to be read in light of the\narguments that were before it?\n### Lanora C. Pettit:\nI believe that's what they're referring to when they say these actions\nthat you're talking to are irrelevant.\n### Justice Jackson:\nWell, what is -- what is Judge Higginbotham saying when he says in his\nconcurrence: I write separately to express my concern with the circuit's\nmoment of the threat doctrine.\nAnd then he doesn't d efine it in the way that you have.\nHe says: This doctrine counters the Supreme Court's instructions to look\nat the totality of the circumstances.\n### Lanora C. Pettit:\nYour Honor, I would point your --you to page 15A of his opinion, where\nhe also says that: In our reasonableness analysis, references to our\nsupposed obligation to consider the totality of circumstances are\nmerely performative.\nSo the dispute here appears to be not the formulation of the rule as I\narticulated it but its application.\n### Justice Jackson:\nNo, he says it's performative --you didn't read the first part of the\nsentence -- if the moment of the threat is the sole determinative factor\nin our reasonableness analysis.\nSo he says: We have a moment of the threat doctrine that tells us we\nonly look at this moment.\nAnd what that does is it makes any references to totality merely\nperformative because we're not looking at the totality, we're just\nlooking at the moment of the threat.\nSo do you dispute that at least he conceptualized the doc -- the doctrine\nin the way that I'm describing and the way that Petitioners have put it\nforward?\n### Lanora C. Pettit:\nThere are certainly statements to that effect.\nHe has, for -- however, created a very similar concurrence in a case\n### Justice Jackson:\nNo, I'm talking about this case.\nSo let me --let me -- let me tell you what I think is happening, and I just\nwant to get your reaction and then I'll be done.\nIt seems as though the question presented here is asking us to decide\nwhich test the courts should apply, and it sees the moment of the threat\ndoctrine as different, distinct, from the totality of the circumstances.\nWhich test? The Fifth Circui t applied moment of the threat.\nIs that right or wrong? It seems now that you are arguing which\ncircumstances, assuming totality, is it okay to include or consider the c\nircumstance of the officer's own conduct.\nYou know, if courts are doing that, is that a problem? That is a separate\nquestion that is not, I think, properly within the scope of the question\npresented, which just asks us which test.\nSo can you help me to understand why we would get into whether or not\nthe particular circumstance you've identified is one that courts should\nbe looking at or not?\n### Lanora C. Pettit:\nBecause I agree with my -- my colleague that it is difficult to answer the\nquestion -- the question presented without getting into that.\nAnd I would point this Court to pages 15, 23, 28, 32, and 41 to 42 of the\nPetitioner's opening brief in which they are discussing precisely this\ntype of question.\nSo, while they claim to disclaim it, they actually are talking about\ncreation of the risk.\nIn fact, in responding to questions from Justice Alito and",
+      "questions": []
+    },
+    {
+      "conversation_id": 71,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nto articulate their test, I heard them say at least twice that they're\nasking why was he jumping up on the car.\nI also heard from the United States multiple times manufacturing the\nrisk.\nThat is conflating the two questions because they are quite related.\namongst the circuit courts.\nThe Ninth and the Tenth Circuit's say: Intentional and deliberate\nconduct can -- creating the risk can obviate the officer's ability to\ndefend himself.\nThe Fifth Circuit says that's not the rule.\nThat's the nature of the dispute.\nAnd so trying to take it out of that context and say just are you\nconsidering two seconds or are you considering 30 gets into the point\nwhere there's not a circuit split, as my colleague mentioned. They --the\nFifth Circuit is looking at those issues.\nIn fact, I would point this Court to Singleton against Casanova, in which\nJudge Higginbotham joined an opinion six months after this one and\nwhich -- like Cole v. Carson, which he wrote three years earlier.\nThe Fifth Circuit was describing all pre -force conduct. So the Fifth\nCircuit is not applying the moment of the threat doctrine,\nnotwithstanding some of the comments in Judge Higginbotham's\nopinion.\nAnd this Court ultimately reviews judgments, not -- not statements\nand opinions.",
+      "questions": []
+    },
+    {
+      "conversation_id": 72,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nCounsel, I -- I appreciate that what happened below may be different\nthan what's happening here.\nAt least that's your view. But we did take a question presented about the\nmoment of threat doctrine.\nI understand you think it's not a thing.\nBut what's wrong with resolving just the question presented? And\nputting aside your -- your record -based concerns, it is a question.\nWe granted cert on it.\nI think everybody agrees it's wrong.\nWhy -- what's the harm of saying that?\n### Lanora C. Pettit:\nAs long as Your Honor is very clear that you are not endorsing the\ncreation of the risk theory adopted by the Ninth and Tenth Circuit, then I\ndon't think there's anything necessarily wrong.\n### Justice Gorsuch:\nOkay.\n### Lanora C. Pettit:\nI agree with my colleague that it is unnecessary, and the reason I say that\nthe --sorry, the Fifth Circuit quoted at length a district court opinion\nthat looked at those earlier circumstances.\nSo I don't think it's necessary.\nAs long as the Court is clear that we are not adopting the creation-of-\nthe-risk theory, we have no quarrel with such an action.\n### Justice Gorsuch:\nThank you.\n### Lanora C. Pettit:\nGoing to the nature of the questions here for just a minute, I would point\nout that the inquiry here is -- I heard a lot of concerns about line -\ndrawing, and I find that interesting because the Petitioner's argument\nhere was that they just wanted to consider the jump as well as the shoot.\nThat itself is a line-drawing question, and it -- and it's very deliberate\nbecause they have actually litigated whether everything up until the\njump was reasonable, and the district court concluded that it was,\nbecause, again, courts below are not considering just the two seconds.\nInstead, they are considering the totality of the circumstances.\nAnd to the question from the United States about the subjective nature\nof the test, this goes, again, to the arguments that had been raised up\nuntil the --the reply brief, which was after our argument, in which -- or\nour brief, in which the Petitioner was endorsing the view of the Ninth\nand Tenth Circuit, which this Court in Mendez expressly acknowledged\nwas subjective and therefore inconsistent with the Fourth Amendment,\nwhich, again, is why we think this Court, if it is going to remand, which,\nagain, is unnecessary, makes very clear that it is not adopting that view\nbecause it would be a fundamental shift in the Fourth Amendment.\nAnd it also is a shift that, going to",
+      "questions": []
+    },
+    {
+      "conversation_id": 73,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\n's questions earlier,\nwould create an impossibility for -- for law enforcement agencies to\ntrain their officers for the reasons described in the California Sheriffs'\nAssociation's brief.\nIf there are no further questions, we -- I request that you affirm.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 74,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nJustice Thomas? Justice Sotomayor?",
+      "questions": []
+    },
+    {
+      "conversation_id": 75,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\n? Justice Gorsuch?\nJustice Kavanaugh?",
+      "questions": []
+    },
+    {
+      "conversation_id": 76,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\n? Justice Jackson? Okay.\nThank you, counsel. Rebuttal, Mr. Zelinsky.\n### Nathaniel A.G. Zelinsky:\nI have five very brief points.\nFirst, Justice Jackson, you asked my friend on the other side when they\nargued for the test that was applied below.\nListen to minutes 28 and 29 of oral argument.\nThen you'll hear that there.\nJustice Sotomayor, you noted that my friends on the other side agree in\nmany cases that the jump-in-front -of-car case, you need to look at the\nwhole picture of what the officer did, the jump and the shoot.\nIt is -- there is no rule that --they can't distinguish that case from this\ncase.\nThird, Justice Kavanaugh, you had some practical questions about how\nthis is going to impact effective policing.\nOfficers receive qualified immunity.\nAs the Cato brief discusses, 99-plus percent of the time they are also\nindemnified by the municipality.\nYou have a brief of 22 former high-ranking police chiefs who are in front\nof you saying that you should rule for Petitioner and it will not hamper\nbut promote good policing.\nAnd then, third, the DHS rule is a great example of why this is not going\nto harm effective policing.\nFourth, Justice Alito, I want to be very clear, we are not saying that every\nsingle mistake is going to result in liability.\nWhat we are saying is you have to look at the whole picture, and, here,\nthat's more than ju st two seconds.\nFinally, Justice Gorsuch, we agree wholeheartedly this rule is\ninconsistent with the common law.\nIf you rule and adopt the moment of the threat doctrine, you will\nessentially enact a hereto unprecedented rule permitting the killing of\nfleeing misdemeanants. You should not do that.\nYou should vacate and remand.\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 77,
+      "dialogue": "Chief Justice Roberts\n\n### Chief Justice Roberts:\nThank you, counsel.\nThe case is submitted.",
+      "questions": []
+    }
+  ],
+  "generation_stats": {
+    "total_conversations": 77,
+    "conversations_with_questions": 12,
+    "conversations_without_questions": 65,
+    "processed_conversations": 77,
+    "questions_generated": 40,
+    "skipped_for_low_complexity": 10,
+    "coverage_rate": "15.6%",
+    "methodology": "Extract key phrases from justice statements and create multiple choice questions with extremely deceptive distractors"
+  },
+  "answer_distribution": {
+    "counts": {
+      "A": 10,
+      "B": 11,
+      "C": 8,
+      "D": 11
+    },
+    "percentages": {
+      "A": 25.0,
+      "B": 27.500000000000004,
+      "C": 20.0,
+      "D": 27.500000000000004
+    },
+    "total_questions": 40
+  }
+}

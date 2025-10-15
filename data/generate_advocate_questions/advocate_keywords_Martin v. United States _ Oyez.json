@@ -1,0 +1,821 @@
+{
+  "source_file": "Martin v. United States _ Oyez.md",
+  "background": "In October 2017, six FBI agents, led by Special Agent Lawrence Guerra, mistakenly executed a no-knock search warrant at the home of Curtrina Martin and her family in Atlanta, Georgia. The intended target was a nearby home suspected to contain violent gang member Joseph Riley. Due to similarities between the two properties and issues with navigating to the correct address, the agents entered Martin’s home instead. The SWAT team, in full tactical gear, entered the house, causing fear and distress to its occupants. They later realized the mistake and promptly left the scene, later apologizing and assuring the family that the FBI would handle any damages. Martin and her family sued the U.S. government and the agents, claiming violations of their Fourth Amendment rights and seeking damages under Georgia state law. The district court granted summary judgment for the defendants. On appeal, the U.S. Court of Appeals for the Eleventh Circuit affirmed the decision, ruling that the agents were entitled to qualified immunity and that the Federal Tort Claims Act claims were barred by the Supremacy Clause and the discretionary function exception.",
+  "conversations": [
+    {
+      "conversation_id": 1,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nHow broadly does the proviso extend?\n### Patrick M. Jaicomo:\nWell, if -- if this Court reads the proviso in harmony with the\ndiscretionary-function exception, it doesn't expand any more broadly\nthan it needs to to make sure that those two don't come into conflict.\nBut, if the Court presumes that there is conflict, Your Honor, then it\nwould extend -- supersede the other exceptions.\n### Justice Thomas:\nSo, in this case, how would it apply?\n### Patrick M. Jaicomo:\nIn this case, it would apply because the Court would simply say the\ndiscretionary-function exception doesn't apply to this category of\nclaims.\nThe law enforcement proviso does.\nAnd that's the end of the analysis for the second question presented.\n### Justice Thomas:\nSo how -- how do we know in statutory interpretation how far a proviso\nlike this applies?\n### Patrick M. Jaicomo:\nWell, Your Honor, there are a number of -- of statutory canons of\nconstruction, and I think the answer to this specific question here is we\nknow that it extends beyond simply subsection (h) because Congress\nstated it as an affirmative freestanding rule as opposed to somehow\nbeing parasitic to the language before it in subsection (h).\n### Justice Thomas:\nWell, wouldn't you expect it to be placed someplace other than in one\nsubsection after a colon?\n### Patrick M. Jaicomo:\nSo I would say as a general rule, Your Honor, the answer would probably\nbe yes, but the reason the answer is no here is because, when Congress\nenacted the law enforcement proviso, it understood that the only\nbarrier to liability for the United States was the intentional torts\nexception, meaning Congress's understanding of the discretionary-\nfunction exception is the same as the one I'm articulating here today.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Well, if -- if this Court ______________________________ with the\ndiscretionary-function exception, it doesn't expand any more broadly\nthan it needs to to make sure that those two don't come into conflict.\nBut, if the Court presumes that there is conflict, Your Honor, then it\nwould extend -- supersede the other exceptions.\"",
+          "options": {
+            "A": "reads the statute in conflict",
+            "B": "reads the proviso in harmony",
+            "C": "interprets the proviso in isolation",
+            "D": "analyzes the law in discord"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "reads the proviso in harmony",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 1,
+              "speaker": "Patrick M. Jaicomo",
+              "original_statement": "Well, if -- if this Court reads the proviso in harmony with the\ndiscretionary-function exception, it doesn't expand any more broadly\nthan it needs to to make sure that those two don't come into conflict.\nBut, if the Court presumes that there is conflict, Your Honor, then it\nwould extend -- supersede the other exceptions."
+            },
+            "explanation": "This phrase indicates the interpretative approach of reconciling different statutory provisions, which requires advanced statutory interpretation skills."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, if -- if this Court reads the proviso in harmony with the\ndiscretionary-function exception, it doesn't expand any more broadly\nthan it needs to to make sure that those two don't come into conflict.\nBut, if the Court presumes that there is conflict, Your Honor, then it\nwould extend -- ________________________.\"",
+          "options": {
+            "A": "displace the prior exceptions",
+            "B": "supersede the other exceptions",
+            "C": "supplant the previous clauses",
+            "D": "override the other provisions"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "supersede the other exceptions",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 1,
+              "speaker": "Patrick M. Jaicomo",
+              "original_statement": "Well, if -- if this Court reads the proviso in harmony with the\ndiscretionary-function exception, it doesn't expand any more broadly\nthan it needs to to make sure that those two don't come into conflict.\nBut, if the Court presumes that there is conflict, Your Honor, then it\nwould extend -- supersede the other exceptions."
+            },
+            "explanation": "This phrase involves the concept of one legal provision taking precedence over others, which requires familiarity with hierarchical legal principles and statutory interpretation."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"In this case, it would apply because the Court would simply say the\ndiscretionary-function exception doesn't apply to this category of\nclaims.\nThe law enforcement proviso does.\nAnd that's ______________________________ for the second question presented.\"",
+          "options": {
+            "A": "the end of the analysis",
+            "B": "the conclusion of the review",
+            "C": "the beginning of the inquiry",
+            "D": "the start of the discussion"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "the end of the analysis",
+            "category": "other",
+            "difficulty": "medium",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 2,
+              "speaker": "Patrick M. Jaicomo",
+              "original_statement": "In this case, it would apply because the Court would simply say the\ndiscretionary-function exception doesn't apply to this category of\nclaims.\nThe law enforcement proviso does.\nAnd that's the end of the analysis for the second question presented."
+            },
+            "explanation": "This phrase signifies the conclusion of a legal argument, indicating a definitive stance on the applicability of legal principles, which is crucial for effective legal reasoning."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, Your Honor, there are a number of -- of statutory canons of\nconstruction, and I think the answer to this specific question here is we\nknow that it extends beyond simply subsection (h) because Congress\nstated it as an __________________ as opposed to somehow\nbeing parasitic to the language before it in subsection (h).\"",
+          "options": {
+            "A": "affirmative legal standard",
+            "B": "affirmative freestanding rule",
+            "C": "freestanding liability rule",
+            "D": "affirmative statutory provision"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "affirmative freestanding rule",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 3,
+              "speaker": "Patrick M. Jaicomo",
+              "original_statement": "Well, Your Honor, there are a number of -- of statutory canons of\nconstruction, and I think the answer to this specific question here is we\nknow that it extends beyond simply subsection (h) because Congress\nstated it as an affirmative freestanding rule as opposed to somehow\nbeing parasitic to the language before it in subsection (h)."
+            },
+            "explanation": "This phrase indicates a legal standard that stands independently, which is significant in determining the scope and applicability of statutory provisions."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, Your Honor, there are a number of -- of statutory canons of\nconstruction, and I think the answer to this specific question here is we\nknow that it extends beyond simply subsection (h) because Congress\nstated it as an affirmative freestanding rule as opposed to somehow\nbeing ____________________________________ in subsection (h).\"",
+          "options": {
+            "A": "parasitic to the statute's language preceding",
+            "B": "parasitic to the text preceding it",
+            "C": "parasitic to the language before it",
+            "D": "parasitic to the provisions before it"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "parasitic to the language before it",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 3,
+              "speaker": "Patrick M. Jaicomo",
+              "original_statement": "Well, Your Honor, there are a number of -- of statutory canons of\nconstruction, and I think the answer to this specific question here is we\nknow that it extends beyond simply subsection (h) because Congress\nstated it as an affirmative freestanding rule as opposed to somehow\nbeing parasitic to the language before it in subsection (h)."
+            },
+            "explanation": "This phrase highlights a nuanced distinction in statutory interpretation, addressing whether a provision relies on another for its meaning or effect."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, Your Honor, there are a number of -- of statutory canons of\nconstruction, and I think the answer to this specific question here is we\nknow that it ______________________________ because Congress\nstated it as an affirmative freestanding rule as opposed to somehow\nbeing parasitic to the language before it in subsection (h).\"",
+          "options": {
+            "A": "extends beyond solely subsection (h)",
+            "B": "extends beyond just subsection (h)",
+            "C": "extends beyond simply subsection (h)",
+            "D": "extends beyond merely subsection (h)"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "extends beyond simply subsection (h)",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 3,
+              "speaker": "Patrick M. Jaicomo",
+              "original_statement": "Well, Your Honor, there are a number of -- of statutory canons of\nconstruction, and I think the answer to this specific question here is we\nknow that it extends beyond simply subsection (h) because Congress\nstated it as an affirmative freestanding rule as opposed to somehow\nbeing parasitic to the language before it in subsection (h)."
+            },
+            "explanation": "This phrase indicates the broader applicability of a statute beyond a specific subsection, which is critical for understanding legislative scope."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 2,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nAnd you get that from what? The legislative history?\n### Patrick M. Jaicomo:\nNo, Your Honor.\nI -- we get it directly from the language of the law enforcement proviso.\nBut the legislative history or at least the context in which this\namendment was made make very clear that our interpretation is the\ncorrect one.\n### Justice Jackson:\nBut I guess I don't understand why in absolutely every case you say the\ntwo are mutually exclusive.\nI mean, isn't there a possibility -- I mean, I -- I completely understand\n### Patrick M. Jaicomo:\nYeah.\n### Justice Jackson:\nbeing, it was a wrong-house raid scenario just like the one that you are\naddressing here, I understand how you say that this should not be a\nsituation in which the claims are barred, but does reaching that\nconclusion require us to say that there can never be a situation in which\nthe discretionary-function exception applies in the law enforcement\ncontext? That seems to be what you're saying, those two are just totally\nseparate, and I -- I wonder whether the kinds of policy determinations\nthat I thought the discretionary function was about could arise in some\nlaw enforcement circumstances, albeit perhaps not here.\n### Patrick M. Jaicomo:\nSo let me -- let me say a few things, and then maybe we can have a\ndialogue about how this would operate.\nBut, to answer your question, no, certainly, the Petitioners in this case\ndo not need this broader rule to be articulated for us to win this case.\nThis is the quintessential proviso case.\nThis is the type of case that motivated Congress, as we know from all the\nnews coverage and the language of --of the statute, to enact the\nproviso.\nBut, of course, we're offering this answer in -- in response to the second\nquestion that the Court granted here, which is asking categorically how\nthese two things interact.\nBut, to get then to that question, it -- it --it's simply the case that, as\nwe can see from this Court's precedent addressing the discretionary-\nfunction exception and the broader intentional torts exception since\n1946, there's been no overlap even between those categories.\nAnd so now we're moving into the space with intentional torts\ncommitted by law enforcement officers where there simply can't be a\nsituation where you're exercising the type of discretionary function that\nthe exception in 2680(a) covers where you're also somehow\ncommitting an intentional tort because those intentional torts will all\nhinge on some portion of the elements or defenses being there's a lack\nof legal justification, there's no probable cause, or something along\nthose lines.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"So let me -- let me say a few things, and then maybe we can have a\ndialogue about how this would operate.\nBut, to answer your question, no, certainly, the Petitioners in this case\ndo not need this broader rule to be articulated for us to win this case.\nThis is the quintessential proviso case.\nThis is the type of case that motivated Congress, as we know from all the\nnews coverage and the language of --of the statute, to enact the\nproviso.\nBut, of course, we're offering this answer in -- in response to the second\nquestion that the Court granted here, which is asking categorically how\nthese two things interact.\nBut, to get then to that question, it -- it --it's simply the case that, as\nwe can see from this Court's precedent addressing the discretionary-\nfunction exception and the broader __________________ since\n1946, there's been no overlap even between those categories.\nAnd so now we're moving into the space with intentional torts\ncommitted by law enforcement officers where there simply can't be a\nsituation where you're exercising the type of discretionary function that\nthe exception in 2680(a) covers where you're also somehow\ncommitting an intentional tort because those intentional torts will all\nhinge on some portion of the elements or defenses being there's a lack\nof legal justification, there's no probable cause, or something along\nthose lines.\"",
+          "options": {
+            "A": "intentional torts provision",
+            "B": "intentional torts exemption",
+            "C": "intentional torts exception",
+            "D": "intentional torts allowance"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "intentional torts exception",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 2,
+              "speaker": "Patrick M. Jaicomo",
+              "original_statement": "So let me -- let me say a few things, and then maybe we can have a\ndialogue about how this would operate.\nBut, to answer your question, no, certainly, the Petitioners in this case\ndo not need this broader rule to be articulated for us to win this case.\nThis is the quintessential proviso case.\nThis is the type of case that motivated Congress, as we know from all the\nnews coverage and the language of --of the statute, to enact the\nproviso.\nBut, of course, we're offering this answer in -- in response to the second\nquestion that the Court granted here, which is asking categorically how\nthese two things interact.\nBut, to get then to that question, it -- it --it's simply the case that, as\nwe can see from this Court's precedent addressing the discretionary-\nfunction exception and the broader intentional torts exception since\n1946, there's been no overlap even between those categories.\nAnd so now we're moving into the space with intentional torts\ncommitted by law enforcement officers where there simply can't be a\nsituation where you're exercising the type of discretionary function that\nthe exception in 2680(a) covers where you're also somehow\ncommitting an intentional tort because those intentional torts will all\nhinge on some portion of the elements or defenses being there's a lack\nof legal justification, there's no probable cause, or something along\nthose lines."
+            },
+            "explanation": "This term denotes a specific category of claims under the FTCA that involves intentional wrongdoing, necessitating a deep understanding of the distinctions between intentional and negligent torts."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"So let me -- let me say a few things, and then maybe we can have a\ndialogue about how this would operate.\nBut, to answer your question, no, certainly, the Petitioners in this case\ndo not need this broader rule to be articulated for us to win this case.\nThis is the quintessential proviso case.\nThis is the type of case that motivated Congress, as we know from all the\nnews coverage and the language of --of the statute, to enact the\nproviso.\nBut, of course, we're offering this answer in -- in response to the second\nquestion that the Court granted here, which is asking categorically how\nthese two things interact.\nBut, to get then to that question, it -- it --it's simply the case that, as\nwe can see from this Court's precedent addressing the discretionary-\nfunction exception and the broader intentional torts exception since\n1946, there's been no overlap even between those categories.\nAnd so now we're moving into the space with intentional torts\ncommitted by law enforcement officers where there simply can't be a\nsituation where you're exercising the type of discretionary function that\nthe exception in 2680(a) covers where you're also somehow\ncommitting an intentional tort because those intentional torts will all\nhinge on some portion of the elements or defenses being there's a lack\nof legal justification, there's __________________, or something along\nthose lines.\"",
+          "options": {
+            "A": "no probable cause",
+            "B": "no established cause",
+            "C": "no sufficient evidence",
+            "D": "no reasonable suspicion"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "no probable cause",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 2,
+              "speaker": "Patrick M. Jaicomo",
+              "original_statement": "So let me -- let me say a few things, and then maybe we can have a\ndialogue about how this would operate.\nBut, to answer your question, no, certainly, the Petitioners in this case\ndo not need this broader rule to be articulated for us to win this case.\nThis is the quintessential proviso case.\nThis is the type of case that motivated Congress, as we know from all the\nnews coverage and the language of --of the statute, to enact the\nproviso.\nBut, of course, we're offering this answer in -- in response to the second\nquestion that the Court granted here, which is asking categorically how\nthese two things interact.\nBut, to get then to that question, it -- it --it's simply the case that, as\nwe can see from this Court's precedent addressing the discretionary-\nfunction exception and the broader intentional torts exception since\n1946, there's been no overlap even between those categories.\nAnd so now we're moving into the space with intentional torts\ncommitted by law enforcement officers where there simply can't be a\nsituation where you're exercising the type of discretionary function that\nthe exception in 2680(a) covers where you're also somehow\ncommitting an intentional tort because those intentional torts will all\nhinge on some portion of the elements or defenses being there's a lack\nof legal justification, there's no probable cause, or something along\nthose lines."
+            },
+            "explanation": "This phrase is essential in the context of intentional torts, particularly in assessing the legality of law enforcement actions, and demands an understanding of constitutional protections against unreasonable searches and seizures."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 3,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nCounsel, I don't think it was quite fair to say that everybody agrees on\nthe first question.\nAmici doesn't agree on the first question.\nBut putting that aside, because amici could address Nguyen, and I\nunderstand your argument on that first question, I believe it's that\nNguyen, which was the basis of this circuit's decision, was a case\ninvolving state law conflict with federal law.\nThere's no conflict here because federal law is what makes the officers\nliable, correct?\n### Patrick M. Jaicomo:\nThat's correct, Your Honor.\n### Justice Sotomayor:\nSo there can't be sovereign immunity preemption of federal law itself?\n### Patrick M. Jaicomo:\nThat's correct, Your Honor.\n### Justice Sotomayor:\nAll right.\nNow, going to the second point, there are 12 exceptions besides the law\nenforcement exception at issue here.\nI don't think you quarrel with the proposition that if a police officer\nassaults someone in a foreign land, which is another proviso among\nthose 12, that the intentional tort provision would not control, correct?\n### Patrick M. Jaicomo:\nThat's correct, Your Honor.\n### Justice Sotomayor:\nWhat you're asking us to do is to say 11 of the 12 other exceptions are still\noperative against the law enforcement proviso, but only this one, the\ndiscretionary one, is not.\nIs that your position?\n### Patrick M. Jaicomo:\nNot quite, Your Honor.\n### Justice Sotomayor:\nWell, but that's what it sounds like to me because, if the other 12 are\n### Patrick M. Jaicomo:\nMm-hmm.\n### Justice Sotomayor:\nprovisions of this chapter, and the chapter includes all 12 of the other\nexceptions, shall apply to any claim for a police officer's assault and\nbattery.\n### Patrick M. Jaicomo:\nYes.\nSo, if I could clarify what --what I mean, Your Honor, as we articulate in\ninterpretive methods for how the Court could address QP 2.\nOn the first path, which is the harmony approach, there is not any\noverlap between provision (a) and provision -- subprovision (h), and so\nyou don't need to get into what to do if there's a conflict.\nIf the Court, as the government asks, assumes that there's a conflict\nhere, even though none was found below in the Eleventh Circuit, then\nour analysis would extend beyond the reach of subsection (h).\nAnd to address your specific textual question about the language of\nChapter 171, the government actually agrees with us at Footnote 3 of its\nbrief, where it says the appropriate natural reading of that means that\nthe Chapter 171 other than Section 2680.\nAnd the reason why that's the case is because that same language\nappears in the preamble of Section 2680, and it also appears in\nsubsection (c) and subsection (h).\nAnd so to take the position that subsection 2680 would cancel itself out\nwould require the Court to read that language differently in the\npreamble than how it would read it in subsections (c) and (h).\n### Justice Sotomayor:\nIt does seem to me that what you're asking us to do is to answer the\nquestion we didn't grant cert on.\n### Justice Sotomayor:\nYou're asking us to say that an intentional tort is never discretionary.\nAs Justice Ketanji Jackson mentioned, I don't --I'm not quite sure that's\ntrue.\nThe -- the case involving the Secret Service agent who arrested\n### Patrick M. Jaicomo:\nMm-hmm.\n### Justice Sotomayor:\ndirectly appeared to be threatening, that might not be an intentional\ntort, a false arrest.\nAnd yet I think there's enough measure of discretion of deciding when\nsomeone could be a threat to the president or to some other protectee,\nthat would fall within the discretionary.\n### Patrick M. Jaicomo:\nSo let me -- let me respond in a few ways, Your Honor.\nFirst was your --your -- your -- your note about the scope of the second\nquestion presented.\nSo I would -- I would say that our arguments here fall squarely within\nthat scope because, as we explained, to understand whether there's a\ncategorical application of one provision to the other, of course, we need\nto know what the categories are to see if they overlap at all.\nAnd that's not some sort of word games from us.\nIf you read the -- the government's BIO at pages 21 and 22, where they\npropose the language for what this Court ultimately adopted as QP 2,\nthey follow on with the next sentence explaining that what's wrong\nwith our position is that it mischaracterizes the scope of the\ndiscretionary-function exception. And so that question is not only\nexplicitly in the language of Question Presented 2.\n### Justice Sotomayor:\nWell, I --I'm not sure because that's -- there's a huge circuit split and a\nlot of judges talking about how to define that --the discretionary\nexception. Judge Bibas said -- has a -- has a wonderful concurrence in\nwhich he says it's been read too broadly.\n### Patrick M. Jaicomo:\nYes.\n### Justice Sotomayor:\nI might be sympathetic to that argument, okay, but I don't know\nwhether we should be answering it.\n### Patrick M. Jaicomo:\nSo -- so I agree that we -- that the Court shouldn't be answering that\nbroader question.\nAnd -- and, to clarify, in our cert petition, we relied on Judge Bibas's\narticulation of there being three separate circuit splits.\nWe offered a fourth as well.\nAnd the one articulated in Section 2(a) of our cert petition is the one\nwe're talking about here, this question of whether the law enforcement\nproviso and the discretionary-function exception interact and, if so,\nwhat happens.\nAnd this Court, of course, granted on that narrower question, which now\nasks the Court only to consider what to do with intentional torts and\ntorts that are committed by law enforcement officers as opposed to the\nentire sphere of negligent torts that would also potentially come into\nplay.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Yes.\nSo, if I could clarify what --what I mean, Your Honor, as we articulate in\n____________ for how the Court could address QP 2.\nOn the first path, which is the harmony approach, there is not any\noverlap between provision (a) and provision -- subprovision (h), and so\nyou don't need to get into what to do if there's a conflict.\nIf the Court, as the government asks, assumes that there's a conflict\nhere, even though none was found below in the Eleventh Circuit, then\nour analysis would extend beyond the reach of subsection (h).\nAnd to address your specific textual question about the language of\nChapter 171, the government actually agrees with us at Footnote 3 of its\nbrief, where it says the appropriate natural reading of that means that\nthe Chapter 171 other than Section 2680.\nAnd the reason why that's the case is because that same language\nappears in the preamble of Section 2680, and it also appears in\nsubsection (c) and subsection (h).\nAnd so to take the position that subsection 2680 would cancel itself out\nwould require the Court to read that language differently in the\npreamble than how it would read it in subsections (c) and (h).\"",
+          "options": {
+            "A": "interpretive principles",
+            "B": "interpretive standards",
+            "C": "interpretive methods",
+            "D": "interpretive doctrines"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "interpretive methods",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 1,
+              "speaker": "Patrick M. Jaicomo",
+              "original_statement": "Yes.\nSo, if I could clarify what --what I mean, Your Honor, as we articulate in\ninterpretive methods for how the Court could address QP 2.\nOn the first path, which is the harmony approach, there is not any\noverlap between provision (a) and provision -- subprovision (h), and so\nyou don't need to get into what to do if there's a conflict.\nIf the Court, as the government asks, assumes that there's a conflict\nhere, even though none was found below in the Eleventh Circuit, then\nour analysis would extend beyond the reach of subsection (h).\nAnd to address your specific textual question about the language of\nChapter 171, the government actually agrees with us at Footnote 3 of its\nbrief, where it says the appropriate natural reading of that means that\nthe Chapter 171 other than Section 2680.\nAnd the reason why that's the case is because that same language\nappears in the preamble of Section 2680, and it also appears in\nsubsection (c) and subsection (h).\nAnd so to take the position that subsection 2680 would cancel itself out\nwould require the Court to read that language differently in the\npreamble than how it would read it in subsections (c) and (h)."
+            },
+            "explanation": "This phrase refers to the various approaches courts may use to interpret statutes, which is crucial for understanding statutory construction and the application of legal principles."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Yes.\nSo, if I could clarify what --what I mean, Your Honor, as we articulate in\ninterpretive methods for how the Court could address QP 2.\nOn the first path, which is the ____________, there is not any\noverlap between provision (a) and provision -- subprovision (h), and so\nyou don't need to get into what to do if there's a conflict.\nIf the Court, as the government asks, assumes that there's a conflict\nhere, even though none was found below in the Eleventh Circuit, then\nour analysis would extend beyond the reach of subsection (h).\nAnd to address your specific textual question about the language of\nChapter 171, the government actually agrees with us at Footnote 3 of its\nbrief, where it says the appropriate natural reading of that means that\nthe Chapter 171 other than Section 2680.\nAnd the reason why that's the case is because that same language\nappears in the preamble of Section 2680, and it also appears in\nsubsection (c) and subsection (h).\nAnd so to take the position that subsection 2680 would cancel itself out\nwould require the Court to read that language differently in the\npreamble than how it would read it in subsections (c) and (h).\"",
+          "options": {
+            "A": "harmony doctrine",
+            "B": "harmony principle",
+            "C": "harmony approach",
+            "D": "harmony standard"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "harmony approach",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 1,
+              "speaker": "Patrick M. Jaicomo",
+              "original_statement": "Yes.\nSo, if I could clarify what --what I mean, Your Honor, as we articulate in\ninterpretive methods for how the Court could address QP 2.\nOn the first path, which is the harmony approach, there is not any\noverlap between provision (a) and provision -- subprovision (h), and so\nyou don't need to get into what to do if there's a conflict.\nIf the Court, as the government asks, assumes that there's a conflict\nhere, even though none was found below in the Eleventh Circuit, then\nour analysis would extend beyond the reach of subsection (h).\nAnd to address your specific textual question about the language of\nChapter 171, the government actually agrees with us at Footnote 3 of its\nbrief, where it says the appropriate natural reading of that means that\nthe Chapter 171 other than Section 2680.\nAnd the reason why that's the case is because that same language\nappears in the preamble of Section 2680, and it also appears in\nsubsection (c) and subsection (h).\nAnd so to take the position that subsection 2680 would cancel itself out\nwould require the Court to read that language differently in the\npreamble than how it would read it in subsections (c) and (h)."
+            },
+            "explanation": "This phrase describes a method of statutory interpretation that seeks to reconcile different provisions of a statute, requiring a nuanced understanding of legislative intent and coherence."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Yes.\nSo, if I could clarify what --what I mean, Your Honor, as we articulate in\ninterpretive methods for how the Court could address QP 2.\nOn the first path, which is the harmony approach, there is not any\n______________________________________________________, and so\nyou don't need to get into what to do if there's a conflict.\nIf the Court, as the government asks, assumes that there's a conflict\nhere, even though none was found below in the Eleventh Circuit, then\nour analysis would extend beyond the reach of subsection (h).\nAnd to address your specific textual question about the language of\nChapter 171, the government actually agrees with us at Footnote 3 of its\nbrief, where it says the appropriate natural reading of that means that\nthe Chapter 171 other than Section 2680.\nAnd the reason why that's the case is because that same language\nappears in the preamble of Section 2680, and it also appears in\nsubsection (c) and subsection (h).\nAnd so to take the position that subsection 2680 would cancel itself out\nwould require the Court to read that language differently in the\npreamble than how it would read it in subsections (c) and (h).\"",
+          "options": {
+            "A": "discrepancy between provision (a) and provision -- subpart (h)",
+            "B": "relationship between provision (a) and provision -- subsection (h)",
+            "C": "interaction among provision (a) and provision -- subclause (h)",
+            "D": "overlap between provision (a) and provision -- subprovision (h)"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "overlap between provision (a) and provision -- subprovision (h)",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 9,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 1,
+              "speaker": "Patrick M. Jaicomo",
+              "original_statement": "Yes.\nSo, if I could clarify what --what I mean, Your Honor, as we articulate in\ninterpretive methods for how the Court could address QP 2.\nOn the first path, which is the harmony approach, there is not any\noverlap between provision (a) and provision -- subprovision (h), and so\nyou don't need to get into what to do if there's a conflict.\nIf the Court, as the government asks, assumes that there's a conflict\nhere, even though none was found below in the Eleventh Circuit, then\nour analysis would extend beyond the reach of subsection (h).\nAnd to address your specific textual question about the language of\nChapter 171, the government actually agrees with us at Footnote 3 of its\nbrief, where it says the appropriate natural reading of that means that\nthe Chapter 171 other than Section 2680.\nAnd the reason why that's the case is because that same language\nappears in the preamble of Section 2680, and it also appears in\nsubsection (c) and subsection (h).\nAnd so to take the position that subsection 2680 would cancel itself out\nwould require the Court to read that language differently in the\npreamble than how it would read it in subsections (c) and (h)."
+            },
+            "explanation": "This phrase highlights the importance of distinguishing between different statutory provisions, which is essential for precise legal analysis and application."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Yes.\nSo, if I could clarify what --what I mean, Your Honor, as we articulate in\ninterpretive methods for how the Court could address QP 2.\nOn the first path, which is the harmony approach, there is not any\noverlap between provision (a) and provision -- subprovision (h), and so\nyou don't need to get into what to do if there's a conflict.\nIf the Court, as the government asks, assumes that there's a conflict\nhere, even though none was found below in the Eleventh Circuit, then\nour analysis would extend beyond the reach of subsection (h).\nAnd to address your specific textual question about the language of\nChapter 171, the government actually agrees with us at Footnote 3 of its\nbrief, where it says the __________________ of that means that\nthe Chapter 171 other than Section 2680.\nAnd the reason why that's the case is because that same language\nappears in the preamble of Section 2680, and it also appears in\nsubsection (c) and subsection (h).\nAnd so to take the position that subsection 2680 would cancel itself out\nwould require the Court to read that language differently in the\npreamble than how it would read it in subsections (c) and (h).\"",
+          "options": {
+            "A": "appropriate statutory interpretation",
+            "B": "appropriate natural reading",
+            "C": "appropriate legal reading",
+            "D": "appropriate natural interpretation"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "appropriate natural reading",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 1,
+              "speaker": "Patrick M. Jaicomo",
+              "original_statement": "Yes.\nSo, if I could clarify what --what I mean, Your Honor, as we articulate in\ninterpretive methods for how the Court could address QP 2.\nOn the first path, which is the harmony approach, there is not any\noverlap between provision (a) and provision -- subprovision (h), and so\nyou don't need to get into what to do if there's a conflict.\nIf the Court, as the government asks, assumes that there's a conflict\nhere, even though none was found below in the Eleventh Circuit, then\nour analysis would extend beyond the reach of subsection (h).\nAnd to address your specific textual question about the language of\nChapter 171, the government actually agrees with us at Footnote 3 of its\nbrief, where it says the appropriate natural reading of that means that\nthe Chapter 171 other than Section 2680.\nAnd the reason why that's the case is because that same language\nappears in the preamble of Section 2680, and it also appears in\nsubsection (c) and subsection (h).\nAnd so to take the position that subsection 2680 would cancel itself out\nwould require the Court to read that language differently in the\npreamble than how it would read it in subsections (c) and (h)."
+            },
+            "explanation": "This phrase pertains to the principle of interpreting statutory language in a way that aligns with its ordinary meaning, a fundamental aspect of statutory interpretation."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Yes.\nSo, if I could clarify what --what I mean, Your Honor, as we articulate in\ninterpretive methods for how the Court could address QP 2.\nOn the first path, which is the harmony approach, there is not any\noverlap between provision (a) and provision -- subprovision (h), and so\nyou don't need to get into what to do if there's a conflict.\nIf the Court, as the government asks, assumes that there's a conflict\nhere, even though none was found below in the Eleventh Circuit, then\nour analysis would extend beyond the reach of subsection (h).\nAnd to address your specific textual question about the language of\nChapter 171, the government actually agrees with us at Footnote 3 of its\nbrief, where it says the appropriate natural reading of that means that\nthe Chapter 171 other than Section 2680.\nAnd the reason why that's the case is because that same language\nappears in the ________________________, and it also appears in\nsubsection (c) and subsection (h).\nAnd so to take the position that subsection 2680 would cancel itself out\nwould require the Court to read that language differently in the\npreamble than how it would read it in subsections (c) and (h).\"",
+          "options": {
+            "A": "preamble of Section 2680",
+            "B": "clause of Section 2680",
+            "C": "paragraph of Section 2680",
+            "D": "provision of Section 2680"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "preamble of Section 2680",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 1,
+              "speaker": "Patrick M. Jaicomo",
+              "original_statement": "Yes.\nSo, if I could clarify what --what I mean, Your Honor, as we articulate in\ninterpretive methods for how the Court could address QP 2.\nOn the first path, which is the harmony approach, there is not any\noverlap between provision (a) and provision -- subprovision (h), and so\nyou don't need to get into what to do if there's a conflict.\nIf the Court, as the government asks, assumes that there's a conflict\nhere, even though none was found below in the Eleventh Circuit, then\nour analysis would extend beyond the reach of subsection (h).\nAnd to address your specific textual question about the language of\nChapter 171, the government actually agrees with us at Footnote 3 of its\nbrief, where it says the appropriate natural reading of that means that\nthe Chapter 171 other than Section 2680.\nAnd the reason why that's the case is because that same language\nappears in the preamble of Section 2680, and it also appears in\nsubsection (c) and subsection (h).\nAnd so to take the position that subsection 2680 would cancel itself out\nwould require the Court to read that language differently in the\npreamble than how it would read it in subsections (c) and (h)."
+            },
+            "explanation": "This phrase refers to the introductory section of a statute that can provide context and guidance for interpreting the statute's provisions, emphasizing the need for careful statutory analysis."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Yes.\nSo, if I could clarify what --what I mean, Your Honor, as we articulate in\ninterpretive methods for how the Court could address QP 2.\nOn the first path, which is the harmony approach, there is not any\noverlap between provision (a) and provision -- subprovision (h), and so\nyou don't need to get into what to do if there's a conflict.\nIf the Court, as the government asks, assumes that there's a conflict\nhere, even though none was found below in the Eleventh Circuit, then\nour analysis would extend beyond the reach of subsection (h).\nAnd to address your specific textual question about the language of\nChapter 171, the government actually agrees with us at Footnote 3 of its\nbrief, where it says the appropriate natural reading of that means that\nthe Chapter 171 other than Section 2680.\nAnd the reason why that's the case is because that same language\nappears in the preamble of Section 2680, and it also appears in\n______________________________.\nAnd so to take the position that subsection 2680 would cancel itself out\nwould require the Court to read that language differently in the\npreamble than how it would read it in subsections (c) and (h).\"",
+          "options": {
+            "A": "subsection (a) and subsection (j)",
+            "B": "subsection (b) and subsection (g)",
+            "C": "subsection (d) and subsection (i)",
+            "D": "subsection (c) and subsection (h)"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "subsection (c) and subsection (h)",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 1,
+              "speaker": "Patrick M. Jaicomo",
+              "original_statement": "Yes.\nSo, if I could clarify what --what I mean, Your Honor, as we articulate in\ninterpretive methods for how the Court could address QP 2.\nOn the first path, which is the harmony approach, there is not any\noverlap between provision (a) and provision -- subprovision (h), and so\nyou don't need to get into what to do if there's a conflict.\nIf the Court, as the government asks, assumes that there's a conflict\nhere, even though none was found below in the Eleventh Circuit, then\nour analysis would extend beyond the reach of subsection (h).\nAnd to address your specific textual question about the language of\nChapter 171, the government actually agrees with us at Footnote 3 of its\nbrief, where it says the appropriate natural reading of that means that\nthe Chapter 171 other than Section 2680.\nAnd the reason why that's the case is because that same language\nappears in the preamble of Section 2680, and it also appears in\nsubsection (c) and subsection (h).\nAnd so to take the position that subsection 2680 would cancel itself out\nwould require the Court to read that language differently in the\npreamble than how it would read it in subsections (c) and (h)."
+            },
+            "explanation": "This phrase indicates specific parts of a statute that may have distinct meanings or implications, requiring a detailed understanding of statutory structure and interpretation."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Yes.\nSo, if I could clarify what --what I mean, Your Honor, as we articulate in\ninterpretive methods for how the Court could address QP 2.\nOn the first path, which is the harmony approach, there is not any\noverlap between provision (a) and provision -- subprovision (h), and so\nyou don't need to get into what to do if there's a conflict.\nIf the Court, as the government asks, assumes that there's a conflict\nhere, even though none was found below in the Eleventh Circuit, then\nour analysis would extend beyond the reach of subsection (h).\nAnd to address your specific textual question about the language of\nChapter 171, the government actually agrees with us at Footnote 3 of its\nbrief, where it says the appropriate natural reading of that means that\nthe Chapter 171 other than Section 2680.\nAnd the reason why that's the case is because that same language\nappears in the preamble of Section 2680, and it also appears in\nsubsection (c) and subsection (h).\nAnd so to take the position that subsection 2680 would __________________\nwould require the Court to read that language differently in the\npreamble than how it would read it in subsections (c) and (h).\"",
+          "options": {
+            "A": "cancel itself out",
+            "B": "negate itself entirely",
+            "C": "void itself completely",
+            "D": "repeal itself altogether"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "cancel itself out",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 1,
+              "speaker": "Patrick M. Jaicomo",
+              "original_statement": "Yes.\nSo, if I could clarify what --what I mean, Your Honor, as we articulate in\ninterpretive methods for how the Court could address QP 2.\nOn the first path, which is the harmony approach, there is not any\noverlap between provision (a) and provision -- subprovision (h), and so\nyou don't need to get into what to do if there's a conflict.\nIf the Court, as the government asks, assumes that there's a conflict\nhere, even though none was found below in the Eleventh Circuit, then\nour analysis would extend beyond the reach of subsection (h).\nAnd to address your specific textual question about the language of\nChapter 171, the government actually agrees with us at Footnote 3 of its\nbrief, where it says the appropriate natural reading of that means that\nthe Chapter 171 other than Section 2680.\nAnd the reason why that's the case is because that same language\nappears in the preamble of Section 2680, and it also appears in\nsubsection (c) and subsection (h).\nAnd so to take the position that subsection 2680 would cancel itself out\nwould require the Court to read that language differently in the\npreamble than how it would read it in subsections (c) and (h)."
+            },
+            "explanation": "This phrase addresses the concept of conflicting statutory provisions and the implications for legal interpretation, which is critical for resolving ambiguities in the law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"So let me -- let me respond in a few ways, Your Honor.\nFirst was your --your -- your -- your note about the scope of the second\nquestion presented.\nSo I would -- I would say that our arguments here fall squarely within\nthat scope because, as we explained, to understand whether there's a\n________________________________________________, of course, we need\nto know what the categories are to see if they overlap at all.\nAnd that's not some sort of word games from us.\nIf you read the -- the government's BIO at pages 21 and 22, where they\npropose the language for what this Court ultimately adopted as QP 2,\nthey follow on with the next sentence explaining that what's wrong\nwith our position is that it mischaracterizes the scope of the\ndiscretionary-function exception. And so that question is not only\nexplicitly in the language of Question Presented 2.\"",
+          "options": {
+            "A": "categorical interpretation of one statute against another",
+            "B": "discretionary application of one provision to the other",
+            "C": "categorical application of multiple provisions to the statute",
+            "D": "categorical application of one provision to the other"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "categorical application of one provision to the other",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 8,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 2,
+              "speaker": "Patrick M. Jaicomo",
+              "original_statement": "So let me -- let me respond in a few ways, Your Honor.\nFirst was your --your -- your -- your note about the scope of the second\nquestion presented.\nSo I would -- I would say that our arguments here fall squarely within\nthat scope because, as we explained, to understand whether there's a\ncategorical application of one provision to the other, of course, we need\nto know what the categories are to see if they overlap at all.\nAnd that's not some sort of word games from us.\nIf you read the -- the government's BIO at pages 21 and 22, where they\npropose the language for what this Court ultimately adopted as QP 2,\nthey follow on with the next sentence explaining that what's wrong\nwith our position is that it mischaracterizes the scope of the\ndiscretionary-function exception. And so that question is not only\nexplicitly in the language of Question Presented 2."
+            },
+            "explanation": "This phrase requires understanding the nuances of how different legal provisions interact and the implications of their categorical applications."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"So -- so I agree that we -- that the Court shouldn't be answering that\nbroader question.\nAnd -- and, to clarify, in our cert petition, we relied on Judge Bibas's\narticulation of there being ________________________.\nWe offered a fourth as well.\nAnd the one articulated in Section 2(a) of our cert petition is the one\nwe're talking about here, this question of whether the law enforcement\nproviso and the discretionary-function exception interact and, if so,\nwhat happens.\nAnd this Court, of course, granted on that narrower question, which now\nasks the Court only to consider what to do with intentional torts and\ntorts that are committed by law enforcement officers as opposed to the\nentire sphere of negligent torts that would also potentially come into\nplay.\"",
+          "options": {
+            "A": "three separate circuit splits",
+            "B": "three unified circuit decisions",
+            "C": "three overlapping circuit interpretations",
+            "D": "three distinct circuit conflicts"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "three separate circuit splits",
+            "category": "case_law",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 3,
+              "speaker": "Patrick M. Jaicomo",
+              "original_statement": "So -- so I agree that we -- that the Court shouldn't be answering that\nbroader question.\nAnd -- and, to clarify, in our cert petition, we relied on Judge Bibas's\narticulation of there being three separate circuit splits.\nWe offered a fourth as well.\nAnd the one articulated in Section 2(a) of our cert petition is the one\nwe're talking about here, this question of whether the law enforcement\nproviso and the discretionary-function exception interact and, if so,\nwhat happens.\nAnd this Court, of course, granted on that narrower question, which now\nasks the Court only to consider what to do with intentional torts and\ntorts that are committed by law enforcement officers as opposed to the\nentire sphere of negligent torts that would also potentially come into\nplay."
+            },
+            "explanation": "This phrase indicates the existence of differing interpretations among federal appellate courts regarding a legal issue, highlighting the importance of understanding case law distinctions and their implications for legal practice."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 4,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nSo -- so why wouldn't --why wouldn't a perfectly sensible approach be\nto say you might lose on whether the proviso applies outside of (h) and\nsend it back for further consideration of the discretionary-function\narguments that you've made before us, that Judge Bibas has raised and\nthat are the subject of I don't know how many circuit splits? Wouldn't\nthat be a --a sensible course?\n### Patrick M. Jaicomo:\nSo the reason I would suggest that the Court doesn't take that approach,\nYour Honor, is that that would effectively be the Court overruling the\nNguyen decision but leaving in place all the other bad decisions like\n### Justice Gorsuch:\nWe would leave in place everything as we found it, to be sure. And I -- I\ndon't doubt that there's a interesting circuit split that might merit our\nattention sometime soon, but this is an awkward vehicle to address it\ngiven that it really wasn't teed up for us that way because of the peculiar\nnature of circuit law below.\n### Patrick M. Jaicomo:\nSo I -- I would say, Your Honor, as the government argued in its BIO for\nasking this separately phrased question to be taken, it said this is\n### Justice Gorsuch:\nI -- I understand that, but I think it thought a different version of it was\nthe threshold question, and that is how far does the proviso extend,\ndoes it extend beyond (h).\n### Justice Gorsuch:\nI think -- I can understand how you had read it -- would read it\ndifferently, but I think that's what the government was asking us to\ndecide.\n### Patrick M. Jaicomo:\nWell, Your Honor, I would just point out, again, at the BIO at 21 and 22,\nthey articulate this point and they say that resolving this question of QP\n2 is threshold to QP 1 because the Eleventh Circuit's articulation of the\nSupremacy Clause bar is effectively just an importation of what it\nunderstands the discretionary-function exception to be.\nAnd so, if this Court were to only address QP 1, it would essentially be\nresolving the question only for the Eleventh Circuit but leaving all the\n### Justice Gorsuch:\nNo, I -- I would answer both QPs, I think, but I --I'm wondering whether\nyou to argue below that the discretionary -function exception doesn't\ninclude unconstitutional acts, intentional torts.\n### Justice Gorsuch:\nAnd that would be something you could argue below.\n### Patrick M. Jaicomo:\nSure.\n### Patrick M. Jaicomo:\nOkay.\n### Patrick M. Jaicomo:\nI'll be up here. (Laughter.)\n### Justice Gorsuch:\nWell, I've got a lot of friends who want to have their chance too.\nI'd also like you to address the government's suggestion that we\nshouldn't address the Supremacy Clause question because we don't\nneed to in this case.\n### Patrick M. Jaicomo:\nOkay.\n### Justice Gorsuch:\nYour -- your thoughts about that?\n### Patrick M. Jaicomo:\nSure.\nSo the first question on why the Court shouldn't simply say the answer\nis that there isn't a categorical situation for QP 2 and send it back is that\nthen we go back to the Eleventh Circuit, where the case law is such that\nthere is no constitutional exception even.\nAnd so you're sending the Petitioners back down into the Eleventh\nCircuit, where even the government agrees that the Eleventh Circuit\nprecedent, which we'll say it doesn't matter if the Constitution's been\nviolated, you can still act with discretion, is wrong.\nAnd we'll be stuck there with the hope of perhaps getting en banc\nreview of the Eleventh Circuit.\nAnd the government will have then short-circuited the Nguyen decision\nwithout having to confront the way that the discretionary-function\nexception actually overlaps with -- with the law enforcement proviso.\nNow, to answer the second question about why or whether this Court\nshould address QP 1, of course, it should address QP 1, but the point that\nthe government is trying to get the Court to decide QP 2 on its preferred\nnew text of QP 2, which is whether it extends to the other 12\nsubcategories, that would --that just goes to show that these two\nthings are basically the same.\nThe -- the Supremacy Clause bar of the Eleventh Circuit is just a\ndressed-up version of the discretionary-function exception, as the\nEleventh Circuit and many of the other circuits have too broadly\nunderstood.\nAnd so this Court can simply address, by citing to Gaubert, here's where\nwe know the line comes for the edge of the discretionary-function\nexception without getting into every nook and cranny to still say: Even\nwith that line, maybe the further line not fully defined, we know that\nintentional torts committed by law enforcement officers are not going\nto touch that form of discretion as Congress articulated in --in\nsubsection (a).",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Well, Your Honor, I would just point out, again, at the BIO at 21 and 22,\nthey articulate this point and they say that resolving this question of QP\n2 is ________________________ because the Eleventh Circuit's articulation of the\nSupremacy Clause bar is effectively just an importation of what it\nunderstands the discretionary-function exception to be.\nAnd so, if this Court were to only address QP 1, it would essentially be\nresolving the question only for the Eleventh Circuit but leaving all the\"",
+          "options": {
+            "A": "threshold under QP 1",
+            "B": "threshold to QP 1",
+            "C": "threshold for QP 1",
+            "D": "threshold to QP 2"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "threshold to QP 1",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 4,
+              "statement_index": 3,
+              "speaker": "Patrick M. Jaicomo",
+              "original_statement": "Well, Your Honor, I would just point out, again, at the BIO at 21 and 22,\nthey articulate this point and they say that resolving this question of QP\n2 is threshold to QP 1 because the Eleventh Circuit's articulation of the\nSupremacy Clause bar is effectively just an importation of what it\nunderstands the discretionary-function exception to be.\nAnd so, if this Court were to only address QP 1, it would essentially be\nresolving the question only for the Eleventh Circuit but leaving all the"
+            },
+            "explanation": "This phrase indicates a procedural relationship between two questions presented, highlighting the importance of resolving one before the other, which is critical in legal argumentation."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, Your Honor, I would just point out, again, at the BIO at 21 and 22,\nthey articulate this point and they say that resolving this question of QP\n2 is threshold to QP 1 because the Eleventh Circuit's articulation of the\n__________________ is effectively just an importation of what it\nunderstands the discretionary-function exception to be.\nAnd so, if this Court were to only address QP 1, it would essentially be\nresolving the question only for the Eleventh Circuit but leaving all the\"",
+          "options": {
+            "A": "Discretionary Function bar",
+            "B": "Sovereign Immunity clause",
+            "C": "Supremacy Clause exception",
+            "D": "Supremacy Clause bar"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "Supremacy Clause bar",
+            "category": "constitutional",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 4,
+              "statement_index": 3,
+              "speaker": "Patrick M. Jaicomo",
+              "original_statement": "Well, Your Honor, I would just point out, again, at the BIO at 21 and 22,\nthey articulate this point and they say that resolving this question of QP\n2 is threshold to QP 1 because the Eleventh Circuit's articulation of the\nSupremacy Clause bar is effectively just an importation of what it\nunderstands the discretionary-function exception to be.\nAnd so, if this Court were to only address QP 1, it would essentially be\nresolving the question only for the Eleventh Circuit but leaving all the"
+            },
+            "explanation": "This phrase refers to the constitutional principle that federal law takes precedence over state law, requiring a nuanced understanding of federalism and its implications in legal disputes."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Sure.\nSo the first question on why the Court shouldn't simply say the answer\nis that there isn't a ______________________________ and send it back is that\nthen we go back to the Eleventh Circuit, where the case law is such that\nthere is no constitutional exception even.\nAnd so you're sending the Petitioners back down into the Eleventh\nCircuit, where even the government agrees that the Eleventh Circuit\nprecedent, which we'll say it doesn't matter if the Constitution's been\nviolated, you can still act with discretion, is wrong.\nAnd we'll be stuck there with the hope of perhaps getting en banc\nreview of the Eleventh Circuit.\nAnd the government will have then short-circuited the Nguyen decision\nwithout having to confront the way that the discretionary-function\nexception actually overlaps with -- with the law enforcement proviso.\nNow, to answer the second question about why or whether this Court\nshould address QP 1, of course, it should address QP 1, but the point that\nthe government is trying to get the Court to decide QP 2 on its preferred\nnew text of QP 2, which is whether it extends to the other 12\nsubcategories, that would --that just goes to show that these two\nthings are basically the same.\nThe -- the Supremacy Clause bar of the Eleventh Circuit is just a\ndressed-up version of the discretionary-function exception, as the\nEleventh Circuit and many of the other circuits have too broadly\nunderstood.\nAnd so this Court can simply address, by citing to Gaubert, here's where\nwe know the line comes for the edge of the discretionary-function\nexception without getting into every nook and cranny to still say: Even\nwith that line, maybe the further line not fully defined, we know that\nintentional torts committed by law enforcement officers are not going\nto touch that form of discretion as Congress articulated in --in\nsubsection (a).\"",
+          "options": {
+            "A": "discretionary situation for QP 2",
+            "B": "categorical situation for QP 2",
+            "C": "categorical standard for QP 2",
+            "D": "categorical exception for QP 2"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "categorical situation for QP 2",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 4,
+              "statement_index": 4,
+              "speaker": "Patrick M. Jaicomo",
+              "original_statement": "Sure.\nSo the first question on why the Court shouldn't simply say the answer\nis that there isn't a categorical situation for QP 2 and send it back is that\nthen we go back to the Eleventh Circuit, where the case law is such that\nthere is no constitutional exception even.\nAnd so you're sending the Petitioners back down into the Eleventh\nCircuit, where even the government agrees that the Eleventh Circuit\nprecedent, which we'll say it doesn't matter if the Constitution's been\nviolated, you can still act with discretion, is wrong.\nAnd we'll be stuck there with the hope of perhaps getting en banc\nreview of the Eleventh Circuit.\nAnd the government will have then short-circuited the Nguyen decision\nwithout having to confront the way that the discretionary-function\nexception actually overlaps with -- with the law enforcement proviso.\nNow, to answer the second question about why or whether this Court\nshould address QP 1, of course, it should address QP 1, but the point that\nthe government is trying to get the Court to decide QP 2 on its preferred\nnew text of QP 2, which is whether it extends to the other 12\nsubcategories, that would --that just goes to show that these two\nthings are basically the same.\nThe -- the Supremacy Clause bar of the Eleventh Circuit is just a\ndressed-up version of the discretionary-function exception, as the\nEleventh Circuit and many of the other circuits have too broadly\nunderstood.\nAnd so this Court can simply address, by citing to Gaubert, here's where\nwe know the line comes for the edge of the discretionary-function\nexception without getting into every nook and cranny to still say: Even\nwith that line, maybe the further line not fully defined, we know that\nintentional torts committed by law enforcement officers are not going\nto touch that form of discretion as Congress articulated in --in\nsubsection (a)."
+            },
+            "explanation": "This phrase indicates a specific legal inquiry regarding the applicability of a legal principle, necessitating familiarity with the procedural context and the implications of categorical exceptions."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Sure.\nSo the first question on why the Court shouldn't simply say the answer\nis that there isn't a categorical situation for QP 2 and send it back is that\nthen we go back to the Eleventh Circuit, where the case law is such that\nthere is no constitutional exception even.\nAnd so you're sending the Petitioners back down into the Eleventh\nCircuit, where even the government agrees that the Eleventh Circuit\nprecedent, which we'll say it doesn't matter if the Constitution's been\nviolated, you can still act with discretion, is wrong.\nAnd we'll be stuck there with the hope of perhaps getting en banc\nreview of the Eleventh Circuit.\nAnd the government will have then short-circuited the Nguyen decision\nwithout having to confront the way that the discretionary-function\nexception actually overlaps with -- with the law enforcement proviso.\nNow, to answer the second question about why or whether this Court\nshould address QP 1, of course, it should address QP 1, but the point that\nthe government is trying to get the Court to decide QP 2 on its preferred\nnew text of QP 2, which is whether it extends to the other 12\nsubcategories, that would --that just goes to show that these two\nthings are basically the same.\nThe -- the Supremacy Clause bar of the Eleventh Circuit is just a\ndressed-up version of the discretionary-function exception, as the\nEleventh Circuit and many of the other circuits have too broadly\nunderstood.\nAnd so this Court can simply address, by citing to Gaubert, here's where\nwe know the line comes for the edge of the discretionary-function\nexception without getting into every nook and cranny to still say: Even\nwith that line, maybe the further line not fully defined, we know that\n__________________________________________ are not going\nto touch that form of discretion as Congress articulated in --in\nsubsection (a).\"",
+          "options": {
+            "A": "intentional torts executed by federal agents only",
+            "B": "intentional torts conducted by state police officers",
+            "C": "unintentional torts performed by law enforcement officers",
+            "D": "intentional torts committed by law enforcement officers"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "intentional torts committed by law enforcement officers",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 7,
+            "context_info": {
+              "conversation_id": 4,
+              "statement_index": 4,
+              "speaker": "Patrick M. Jaicomo",
+              "original_statement": "Sure.\nSo the first question on why the Court shouldn't simply say the answer\nis that there isn't a categorical situation for QP 2 and send it back is that\nthen we go back to the Eleventh Circuit, where the case law is such that\nthere is no constitutional exception even.\nAnd so you're sending the Petitioners back down into the Eleventh\nCircuit, where even the government agrees that the Eleventh Circuit\nprecedent, which we'll say it doesn't matter if the Constitution's been\nviolated, you can still act with discretion, is wrong.\nAnd we'll be stuck there with the hope of perhaps getting en banc\nreview of the Eleventh Circuit.\nAnd the government will have then short-circuited the Nguyen decision\nwithout having to confront the way that the discretionary-function\nexception actually overlaps with -- with the law enforcement proviso.\nNow, to answer the second question about why or whether this Court\nshould address QP 1, of course, it should address QP 1, but the point that\nthe government is trying to get the Court to decide QP 2 on its preferred\nnew text of QP 2, which is whether it extends to the other 12\nsubcategories, that would --that just goes to show that these two\nthings are basically the same.\nThe -- the Supremacy Clause bar of the Eleventh Circuit is just a\ndressed-up version of the discretionary-function exception, as the\nEleventh Circuit and many of the other circuits have too broadly\nunderstood.\nAnd so this Court can simply address, by citing to Gaubert, here's where\nwe know the line comes for the edge of the discretionary-function\nexception without getting into every nook and cranny to still say: Even\nwith that line, maybe the further line not fully defined, we know that\nintentional torts committed by law enforcement officers are not going\nto touch that form of discretion as Congress articulated in --in\nsubsection (a)."
+            },
+            "explanation": "This phrase highlights a specific category of torts that involve deliberate actions by law enforcement, requiring an understanding of the legal standards and implications for liability."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 5,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nSo would it be helpful to you that if we were to send it back --on Justice\nGorsuch's suggestion that we just address the categorical separation\nbetween the two, would it be helpful to say something about whether or\nnot we are speaking to the scope or extent of the discretionary-function\nexception? I mean, I -- I understood your response to",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Justice Jackson\n### Justice Jackson:\nSo would it be helpful to you that if we were to send it back --on Justice\nGorsuch's suggestion that we just address the ____________\nbetween the two, would it be helpful to say something about whether or\nnot we are speaking to the scope or extent of the discretionary-function\nexception? I mean, I -- I understood your response to\"",
+          "options": {
+            "A": "categorical exemption",
+            "B": "conditional separation",
+            "C": "categorical separation",
+            "D": "categorical distinction"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "categorical separation",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 5,
+              "statement_index": 1,
+              "speaker": "Unknown",
+              "original_statement": "Justice Jackson\n### Justice Jackson:\nSo would it be helpful to you that if we were to send it back --on Justice\nGorsuch's suggestion that we just address the categorical separation\nbetween the two, would it be helpful to say something about whether or\nnot we are speaking to the scope or extent of the discretionary-function\nexception? I mean, I -- I understood your response to"
+            },
+            "explanation": "This phrase refers to the distinction between different legal doctrines or exceptions, requiring a nuanced understanding of how the discretionary-function exception applies in various contexts."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 6,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nto\nbe that if you just say no categorical exclusion of discretionary function,\nit goes back and the Eleventh Circuit is going to say: Fine, discretionary\nfunction applies, barred.\nAnd that your point is that, even if there's no categorical preclusion, we\nstill have to have a debate about the extent to which the discretionary\nfunction actually covers these situations or the one that you've\npresented in this case.\n### Patrick M. Jaicomo:\nThat's correct.\nAnd I would even go a little bit further, Your Honor, and say, if the\nultimate result is this Court takes the government's selected approach\nand just does -- answers basically each QP with a one-word answer and\nsend the case back down, then it will also implicitly be saying that the\nexact sort of case that Congress amended this act to allow is going to be\ndoomed by the Eleventh Circuit's precedent, which inverts the Gaubert\nstandard and says: Unless something specifically tells you in federal law\nyou can't do anything, you have open discretion to do it, and we would",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"That's correct.\nAnd I would even go a little bit further, Your Honor, and say, if the\nultimate result is this Court takes the government's selected approach\nand just does -- answers basically each QP with a one-word answer and\nsend the case back down, then it will also implicitly be saying that the\nexact sort of case that ____________________________________ is going to be\ndoomed by the Eleventh Circuit's precedent, which inverts the Gaubert\nstandard and says: Unless something specifically tells you in federal law\nyou can't do anything, you have open discretion to do it, and we would\"",
+          "options": {
+            "A": "Congress revised this law to prohibit",
+            "B": "Congress amended this statute to restrict",
+            "C": "Congress modified this act to deny",
+            "D": "Congress amended this act to allow"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "Congress amended this act to allow",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 6,
+              "statement_index": 1,
+              "speaker": "Patrick M. Jaicomo",
+              "original_statement": "That's correct.\nAnd I would even go a little bit further, Your Honor, and say, if the\nultimate result is this Court takes the government's selected approach\nand just does -- answers basically each QP with a one-word answer and\nsend the case back down, then it will also implicitly be saying that the\nexact sort of case that Congress amended this act to allow is going to be\ndoomed by the Eleventh Circuit's precedent, which inverts the Gaubert\nstandard and says: Unless something specifically tells you in federal law\nyou can't do anything, you have open discretion to do it, and we would"
+            },
+            "explanation": "This phrase highlights the legislative intent behind amendments to the Federal Tort Claims Act, requiring an understanding of statutory interpretation and the significance of legislative history."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 7,
+      "dialogue": "Justice Alito\n### Justice Alito:\nNo, we -- we wouldn't be saying that.\nAll we would be saying is that it is -- we're deciding this particular case.\nI know you would like us to go quite far, but all we would be saying is that\nthe -- that the law -- the proviso applies only to (h), and the Eleventh\nCircuit's Supremacy Clause cases appear to be a work-around based on\ntrying to work around their prior determination that the proviso applies\nacross the board.\nthat's why you're arguing what you're arguing.\nBut, as far as the development of our case law is concerned, why should\nwe go further than that and get into this enormously complicated\nquestion about the scope of the discretionary -function exception?\n### Patrick M. Jaicomo:\nSo, Your Honor, I wouldn't ask the Court to get into the more\nenormously complicated aspects of the discretionary-function\nexception.\nAgain, we're simply saying there's a line where it's obviously not going\nto touch things like the law enforcement proviso.\nAnd the reason that this Court should get into that question here is\nbecause, as you explained, the Eleventh Circuit's work-around for what\nto do with this is its Supremacy Clause bar.\nBut many of the other circuits have created work-arounds.\nThey're just messier and built into a factual analysis of each case, where,\nfor instance, all of the other cases except for Linder have held, well, of\ncourse, the discretionary-function exception can't reach the sort of\nheartland law enforcement things, but maybe, in this case, because it's\nan INS arrest or because it's something outside of what we perceive to\nbe normal law enforcement, things are different.\nAnd so the line is being drawn right now by all the circuits.\nThey're just confused about where to draw it.\nAnd because of that confusion, the line varies from circuit to circuit.\nAnd so, if this Court is going to take this issue up and provide any clarity,\nit should provide clarity to all of the circuits instead of just the Eleventh\nCircuit.\nAnd I think that's doubly important here because, again, Congress went\nout of its way in 1974 to go through all the steps it needed to go through\nto specifically amend the FTCA to say this very affirmative freestanding\nthing: If you're a federal law enforcement who commits an intentional\ntort, we, the United States, not you, the officer, will pay for it to make\nsure that there's a remedy for the innocent victims of your mistake or\nwrongdoing.\nAnd so it's more important than simply just answering a categorical\nquestion.\nThere needs to be some guidance on this so that this statutory provision\nactually has effect because, going back to",
+      "questions": []
+    },
+    {
+      "conversation_id": 8,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\n's discussion\nwith me, the result in this case of the Martin family having no remedy\nhere is that that provision has no effect.\nIt's a complete nullity if that is the outcome of this case.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 9,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nIt does seem to me that we need to address the Supremacy Clause\nquestion because, if we were to send this case back on the narrow\ngrounds we've been discussing with you and that you're resisting so\nwell, it's possible that the Eleventh Circuit could wind up agreeing with\nyou that the discretionary-function exception doesn't reach your case.\nPerhaps that requires the en banc court's intervention, but it might do\nAnd then it would still have its Supremacy Clause jurisprudence that\nwould bar your case.\nSo, at the very least, it seems to me that we need to address that.\nDo you -- do you see it differently, and what --what are your thoughts\nabout that?\n### Patrick M. Jaicomo:\nNo, Your Honor.\nI think the Court should definitely address the Supremacy Clause bar as\nthe Eleventh Circuit articulated it because that bar, of course, as it's\nphrased as any -- any actions that are within the nexus of federal\nofficials' acts and within the furthest reaches of the Constitution are\ngoing to be provided Supremacy Clause protection basically takes away\nmost of, if not all of, the thrust of the FTCA, which, of course, is why my\nfriend amicus on the other side has said, well, maybe we can just go back\nto private bills, which is I think the -- the main mischief that Congress\nwas intending to remedy with the FTCA in the same way that the\nmischief that they were trying to remedy with the proviso are the very\nsort of intentional torts committed by the FBI agents in this case.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"No, Your Honor.\nI think the Court should definitely address the Supremacy Clause bar as\nthe Eleventh Circuit articulated it because that bar, of course, as it's\nphrased as any -- any actions that are within the nexus of federal\nofficials' acts and within the furthest reaches of the Constitution are\ngoing to be provided __________________ basically takes away\nmost of, if not all of, the thrust of the FTCA, which, of course, is why my\nfriend amicus on the other side has said, well, maybe we can just go back\nto private bills, which is I think the -- the main mischief that Congress\nwas intending to remedy with the FTCA in the same way that the\nmischief that they were trying to remedy with the proviso are the very\nsort of intentional torts committed by the FBI agents in this case.\"",
+          "options": {
+            "A": "Supremacy Clause exemption",
+            "B": "Supremacy Clause protection",
+            "C": "Supremacy Clause immunity",
+            "D": "Supremacy Clause limitation"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "Supremacy Clause protection",
+            "category": "constitutional",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 9,
+              "statement_index": 1,
+              "speaker": "Patrick M. Jaicomo",
+              "original_statement": "No, Your Honor.\nI think the Court should definitely address the Supremacy Clause bar as\nthe Eleventh Circuit articulated it because that bar, of course, as it's\nphrased as any -- any actions that are within the nexus of federal\nofficials' acts and within the furthest reaches of the Constitution are\ngoing to be provided Supremacy Clause protection basically takes away\nmost of, if not all of, the thrust of the FTCA, which, of course, is why my\nfriend amicus on the other side has said, well, maybe we can just go back\nto private bills, which is I think the -- the main mischief that Congress\nwas intending to remedy with the FTCA in the same way that the\nmischief that they were trying to remedy with the proviso are the very\nsort of intentional torts committed by the FBI agents in this case."
+            },
+            "explanation": "This phrase refers to the constitutional principle that federal law takes precedence over state law, requiring a nuanced understanding of its implications in the context of federal statutes like the FTCA."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 10,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Thomas, anything further?",
+      "questions": []
+    },
+    {
+      "conversation_id": 11,
+      "dialogue": "Justice Alito\n### Justice Alito:\n? Justice Kagan? Justice\nKavanaugh? Justice Jackson? Thank you, counsel.\n### Patrick M. Jaicomo:\nThank you, Your Honor.",
+      "questions": []
+    },
+    {
+      "conversation_id": 12,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nMr. Liu.\n### Frederick Liu:\nMr. Chief Justice, and may it please the Court: This Court granted cert on\ntwo questions: one about the reach of the proviso in subsection (h) and\nthe other about the Supremacy Clause.\nTo resolve this case, this Court need only decide the question about the\nproviso, namely, whether the proviso in subsection (h) modifies the\ndiscretionary-function exception in subsection (a).\nThe answer's no.\nCongress placed the proviso in subsection (h), and given that choice, the\nproviso modifies only subsection (h).\nIt does not modify the discretionary-function exception in (a). That\nexception, therefore, bars Petitioners' claims, and, because it does, this\nCourt need not reach the other question presented, which asks whether\nthe Supremacy Clause bars those claims.\nThe Eleventh Circuit resorted to the Supremacy Clause only because,\nunder circuit -- circuit precedent, the proviso in (h) modifies the\ndiscretionary-function exception in (a) and renders that exception\ninapplicable.\nBut, if this Court rejects that interpretation of the proviso, it should\nsimply affirm on the ground that the discretionary-function exception\nbars Petitioners' claims without reaching the Supremacy Clause issue.\nNow Petitioners have injected a third issue into the case, whether their\nclaims satisfy the discretionary-function exception in the first place, in\nother words, whether they satisfy the two-part test this Court\narticulated in United States versus Gaubert.\nBut that issue isn't fairly encompassed by the questions presented, and\nit's not independently cert-worthy. In any event, if this Court does\nreach the issue, all that it would need to do is reaffirm Gaubert because\nPetitioners' claims clearly satisfy Gaubert's test.\nAnd I welcome the Court's questions.",
+      "questions": []
+    },
+    {
+      "conversation_id": 13,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nDo -- can a proviso such as this extend more broadly than --than your -\n-than this case?\n### Frederick Liu:\nSo the presumption is a proviso applies only to the thing that it's\nattached to, but there are cases where the Court has found that\npresumption rebutted and has thus read a proviso to state a general\nfreestanding rule.\nWe don't think there's any indication here, any basis for finding the\npresumption that the proviso applies only to the thing it's attached to\nbe rebutted.\nAnd so we think the -- the general principle that a proviso applies only\nto the thing it's attached survives and -- and applies here.",
+      "questions": []
+    },
+    {
+      "conversation_id": 14,
+      "dialogue": "Chief Justice Roberts",
+      "questions": []
+    },
+    {
+      "conversation_id": 15,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nCounsel, I'm having a --I'm sorry.",
+      "questions": []
+    },
+    {
+      "conversation_id": 16,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\ndraftsmen in Congress to organization along that line.\nIt's certainly plausible that (h) was the main thing that the proviso was\naddressed to but not necessarily the only thing.\n### Frederick Liu:\nYeah, I don't really think that's plausible.\nI mean, put yourself in the shoes of the 1974 Congress.\nIt had before it all of Section 2680, the lead-in language, plus 13\nexceptions, starting with (a), ending with (n), and if Congress had\nwanted to create a universally applicable proviso, i.e., one that applied\nto all 13 exceptions, I don't think they would have put it in the middle in\n### Chief Justice Roberts:\nNo, that's the most logical place to put it, but a heroic assumption to\nthink back to 1974 and put myself in Congress's shoes, but it's also, you\nknow, they've got a lot of things going on, they're very busy, and if it\napplies logically more generally, I don't know why we wouldn't at least\nentertain that.\n### Frederick Liu:\nWell, I --I don't think it -- I mean, I don't think it applies logically more\ngenerally.\nAll the textual and structural indications indicate that Congress put it in\n(h) because it wanted to apply in (h).\nAnd so it's not just that it's in (h); it's also that Congress used the -- the\nphrase \"provided that,\" which is words Congress uses when it wants to\nintroduce a proviso which then triggers this presumption that it applies\nonly to the thing it's attached.\nIt's the fact that Congress, before the \"provided that,\" used a colon,\nwhich suggests a connection between the proviso and the thing that\nimmediately precedes it.\nIt's the fact that Congress put a period after the proviso which then\nseparates the proviso from every other exception in the statute.\nIt's the fact that --even my friend concedes --that it would be\nimplausible for Congress to have wanted the proviso to apply to certain\nexceptions, especially subsection (k), which is the foreign country\nexception.\nNo one thought Congress wanted to open the door to the application of\nsubstantive foreign law in cases involving police conduct.\nIt's the idea that there is a similar parallel proviso or exception in\nsubsection (c), and no one thinks that exception applies to all the other\nexceptions.\nI think everyone agrees that that exception applies only to subsection\n(c).",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Well, I --I don't think it -- I mean, I don't think it applies logically more\ngenerally.\nAll the textual and structural indications indicate that Congress put it in\n(h) because it wanted to apply in (h).\nAnd so it's not just that it's in (h); it's also that Congress used the -- the\nphrase \"____________,\" which is words Congress uses when it wants to\nintroduce a proviso which then triggers this presumption that it applies\nonly to the thing it's attached.\nIt's the fact that Congress, before the \"provided that,\" used a colon,\nwhich suggests a connection between the proviso and the thing that\nimmediately precedes it.\nIt's the fact that Congress put a period after the proviso which then\nseparates the proviso from every other exception in the statute.\nIt's the fact that --even my friend concedes --that it would be\nimplausible for Congress to have wanted the proviso to apply to certain\nexceptions, especially subsection (k), which is the foreign country\nexception.\nNo one thought Congress wanted to open the door to the application of\nsubstantive foreign law in cases involving police conduct.\nIt's the idea that there is a similar parallel proviso or exception in\nsubsection (c), and no one thinks that exception applies to all the other\nexceptions.\nI think everyone agrees that that exception applies only to subsection\n(c).\"",
+          "options": {
+            "A": "permitted that",
+            "B": "provided that",
+            "C": "provided here",
+            "D": "granted when"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "provided that",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 16,
+              "statement_index": 2,
+              "speaker": "Frederick Liu",
+              "original_statement": "Well, I --I don't think it -- I mean, I don't think it applies logically more\ngenerally.\nAll the textual and structural indications indicate that Congress put it in\n(h) because it wanted to apply in (h).\nAnd so it's not just that it's in (h); it's also that Congress used the -- the\nphrase \"provided that,\" which is words Congress uses when it wants to\nintroduce a proviso which then triggers this presumption that it applies\nonly to the thing it's attached.\nIt's the fact that Congress, before the \"provided that,\" used a colon,\nwhich suggests a connection between the proviso and the thing that\nimmediately precedes it.\nIt's the fact that Congress put a period after the proviso which then\nseparates the proviso from every other exception in the statute.\nIt's the fact that --even my friend concedes --that it would be\nimplausible for Congress to have wanted the proviso to apply to certain\nexceptions, especially subsection (k), which is the foreign country\nexception.\nNo one thought Congress wanted to open the door to the application of\nsubstantive foreign law in cases involving police conduct.\nIt's the idea that there is a similar parallel proviso or exception in\nsubsection (c), and no one thinks that exception applies to all the other\nexceptions.\nI think everyone agrees that that exception applies only to subsection\n(c)."
+            },
+            "explanation": "This phrase indicates a specific legislative intent and introduces a proviso, which is crucial for understanding the application of statutory exceptions."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 17,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nSo, counsel, what was Congress doing? It passed this proviso because of\nthe Collinsville raids.\nThere, officers, without a warrant, broke into a home. They tied up\npeople.\nThey were as threatening as in the current situation.\nWhy bother if -- we accept that they had the discretion to think there\nwas danger.\nWith or without a warrant, the emergency doctrine exception would let\nthem break down a door.\nSo what was Congress thinking?\n### Frederick Liu:\nSo I -- I don't think that the conduct in the Collinsville raids falls within\nthe discretionary-function exception.\n### Justice Sotomayor:\nBut why? Only because there was no warrant?\n### Frederick Liu:\nBecause their conduct was well beyond the discretion conferred on\nthem because it violated clearly established Fourth Amendment rights.\n### Justice Sotomayor:\nAh, that's interesting because, in Gaubert, we said, if an drove an\nautomobile on a mission connected with his official duties and\nnegligently collided with another car, the exception, discretionary\nexception, would not apply.\nThat was because, and I'm quoting, \"Although driving requires the\nconstant exercise of discretion, the officials' decision in exercising that\ndiscretion\" negligently -- I'm putting in that word --\"can hardly be\nsaid to be grounded in regulatory policy.\" I mean, I don't see the\ndifference between that and saying that an officer's action in using a\nGPS to break into the wrong house has --has any policy related to it.\nIt's like driving negligently.\nYou got to that house by mistake.\nYou drove negligently and hit someone.\nSo I don't understand how the act of going into a wrong house can be\ndiscretionary.\n### Frederick Liu:\nWell, we understand the discretion here to be the discretion as to how to\nidentify the target of a search warrant.\n### Justice Sotomayor:\nOh, he had it identified.\nHe got the right target.\nHe just had the wrong house.\nIt's not a question of did he make a mistake in his warrant application\nabout this individual being a drug dealer, all right? There, I might agree\nwith you, okay? I'm talking about a wrong-house raid. He has the right\ntarget, the right house, but breaks into the wrong one.\n### Frederick Liu:\nRight, and it's because, as the courts below found, of a reasonable\n### Justice Sotomayor:\nWell, that's the issue, is that consistent with Gaubert, and I'm asking\nyou to show --to explain to me how that formulation is consistent with\nGaubert.\n### Frederick Liu:\nWell, I would just run the conduct here through Gaubert's two-part test,\nso step one of the test asks whether there is a federal law, statute, or\nregulation that specifically prescribes a course of action that the\nemployee needs to follow.\n### Justice Sotomayor:\nGo -- there is. Go get a search warrant for a drug dealer's house.\nNow what policy says now go search a house that's not the drug dealer's\nhouse?\n### Justice Sotomayor:\nAnd that is negligent driving.",
+      "questions": []
+    },
+    {
+      "conversation_id": 18,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nNo -- no policy says don't break down the wrong house, the door of a\nhouse?\n### Frederick Liu:\nNo, I -- I -- I -- excuse me.\n### Frederick Liu:\nOf course, it's the -- the United States' policy to execute the warrants at\n### Justice Gorsuch:\nI should hope so.\n### Frederick Liu:\nBut stating the -- the policy at that high level of generality doesn't\nforeclose or prescribe any particular course of action in how an officer\ngoes about in identifying the right house.\nAnd, as the district court found at 52(a), the sort of discretion left to the\nofficers here to determine the right house is filled with policy\nconsiderations.\nThe -- the officers here were weighing public safety considerations,\nefficiency considerations, operational security, the idea that they didn't\nwant to delay the start of the execution of the warrants because they\nwanted to execute all the warrants simultaneously.\nThose are precisely the sorts of policy tradeoffs that an officer makes in\ndetermining, well, should I take one more extra precaution to make sure\nI'm at the right house. Here, Petitioner suggests, for example, that the\nofficer should have checked the house number on the mailbox.\n### Justice Gorsuch:\nYeah, you might look at the address of the house before you knock down\nthe door.\n### Frederick Liu:\nYes.\nAnd -- and, as the district court found at 52(a), that sort of decision is\n### Justice Gorsuch:\nReally?",
+      "questions": []
+    },
+    {
+      "conversation_id": 19,
+      "dialogue": "Justice Jackson",
+      "questions": []
+    },
+    {
+      "conversation_id": 20,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nI mean, just the right street?",
+      "questions": []
+    },
+    {
+      "conversation_id": 21,
+      "dialogue": "Justice Jackson",
+      "questions": []
+    },
+    {
+      "conversation_id": 22,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nChecking the street sign, is that -- is that, you know, asking too much?\n### Frederick Liu:\nWhat I would say is exactly what the courts below found, which is that\nthe officers here made a reasonable mistake as to where they were.\nThe allegation from Petitioners' claims is that they should have done\nmore.\nThey should have stopped and got out of the caravan of vehicles and\nchecked the street sign.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 23,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nBut, I guess, Mr. Liu, the question is: How does that really differ from\nColesville? I mean, the problem that I think is sort of what is happening\nin your analysis is that you say that the Colesville conduct does not fall\nwithin the discretionary-function exception, which seems to me to be a\nconcession that even if we agree with you that these aren't in two\nseparate categories, law enforcement and discretionary function, we\nstill have to figure out how broad the discretionary-function exception\n### Frederick Liu:\nYeah.\n### Frederick Liu:\nThe conduct is Collinsville flunks the first step of the Gaubert two-part\ntest.\n### Justice Jackson:\nAnd is that the discretionary-function test?\n### Frederick Liu:\nYes.\n### Justice Jackson:\nAll right.\nSo then we are having to assess the scope of the discretionary function\nin this conduct -- in this context.\n### Frederick Liu:\nI don't think so.\n### Justice Jackson:\nout of the question presented, we can't look at it, and you're still\nanswering these questions in this way.\n### Frederick Liu:\nNo, because I -- I -- I think this case comes to the Court on the\nassumption, as the court --courts below found at 17 to 18a and at 58a,\nthat the conduct here did satisfy Gaubert's two-part test. Now the only\nout that Petitioners have left then is to say that the proviso nevertheless\nremoves those claims from the scope of (a).\nThat's what I took to be the threshold statutory question that this Court\ngranted cert to decide.",
+      "questions": []
+    },
+    {
+      "conversation_id": 24,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nI --I'm sorry, counsel.\nYou're doing exactly what the other side is doing.\nYou are begging the question, which is how far is -- does the\ndiscretionary exception go.\nThe other side wants an absolute rule that all intentional torts are not\ncovered.\nYou want the opposite, which is, if there's any -- any discretion in the\nactivity, then no negligences or intentional actions are covered.\n### Justice Sotomayor:\nThe two of you are going into separate corners.\n### Frederick Liu:\nI --I'm not asking for an absolute rule.\n### Justice Sotomayor:\nYes, because you got a great decision below, but is that fair?\n### Frederick Liu:\nSometimes that test will result in the United States being exposed to\nliability.\nSometimes it won't.\nIt's not an absolute test.\nIf I may just address my friend's suggestion that the proviso did nothing\nwhen Congress enacted it, we don't view that to be the case.\nBefore the proviso was enacted, officers like Guerra had two layers of\nprotection from liability.\nThey had the discretionary-function exception and then they had an\nextra special layer of protection provided by subsection (h), which gave\nthe United States blanket immunity for any claim based on a particular\ntype of tort.\nWhat the proviso did was remove that special layer of protection, but it\n### Justice Sotomayor:\nThat -- that -- that is so ridiculous.\nCongress is looking at the Collinsville raid and providing a remedy to\npeople who have been wrongfully raided, and you're now saying, no,\nthey really didn't want to protect them fully.\nThey were just going to take them out of that exception but leave in the\ndiscretionary exception.\nI gave you discretion in Collinsville. The officers are permitted to break\ninto a home if they think an emergency existed.\nThat's why those officers did that.\n### Frederick Liu:\nYeah.\n### Justice Sotomayor:\nThey may have been wrong about the emergency existing.\nThey may have been wrong about the warrant law.\nBut, under your test, it's their discretion to arrest when they think\nthere's an emergency.\n### Frederick Liu:\nWhat -- what --what -- what we understand the proviso to do is to\nremove that blanket special layer of protection in (h).\nThat requires the U.S. in these types of cases to battle it out under the\ndiscretionary-function exception. And that's quite significant because\nthere's a large set of cases that are going to flunk this Court's two -part\ntest in Gaubert, chief among them the raids in Collinsville.\n### Justice Sotomayor:\nThey'll flunk the --that's right, flunk it.\nAll right. Thank you.\n### Frederick Liu:\nSo, by removing the proviso, it exposes -- it requires the United States\nto hash it out under the discretionary-function exception.\nAs I -- as I say, there are plenty of cases that are going to fall outside\nthat discretionary-function exception.",
+      "questions": []
+    },
+    {
+      "conversation_id": 25,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nIs there anything else you wanted to add to that point?\n### Frederick Liu:\nThank you.\n### Chief Justice Roberts:\nThank you. Justice Thomas?",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 1/10",
+      "complexity_score": 1
+    },
+    {
+      "conversation_id": 26,
+      "dialogue": "Justice Alito\n### Justice Alito:\n? No? Justice Kagan? No?",
+      "questions": []
+    },
+    {
+      "conversation_id": 27,
+      "dialogue": "Justice Kavanaugh",
+      "questions": []
+    },
+    {
+      "conversation_id": 28,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Kavanaugh?",
+      "questions": []
+    },
+    {
+      "conversation_id": 29,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nJust so I'm clear, we can say the Supremacy Clause is not a bar.\nI know you don't want us to reach that, but we can say that.\nWe can say the proviso does not apply beyond (h).\nAnd we can stop there and leave questions about how to apply the\ndiscretionary- function exception to the facts of this case for remand,\ncorrect?\n### Frederick Liu:\nThat's right.\nI would say that the courts below already did that analysis, and so a\n### Justice Kavanaugh:\nBut, if so, they can say that?\n### Frederick Liu:\nThey can say that again on remand.\n### Justice Kavanaugh:\nThank you.\n### Frederick Liu:\nThanks.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 30,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Barrett?",
+      "questions": []
+    },
+    {
+      "conversation_id": 31,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\n?\nCan I just -- before you leave the podium, can I just ask you about your\npoint that we should not reach the Supremacy Clause question? I guess I\nhave a concern about our jurisdiction in this particular set of -- this\nparticular situation because I'm looking at 28 U.S.C.\n1254, which outlines our certiorari jurisdiction.\nIt allows us to hear appeals from lower courts by writ of certiorari\ngranted upon the petition of any party.\nAnd the only question that we're looking at now that was put to us by\npetition is the Supremacy Clause question.\nThe government in this case asked us in the bio to add the third -- what\nwe now call the second question.\n### Frederick Liu:\nMm-hmm.\n### Justice Jackson:\nAnd so I guess I don't understand that -- you know, I appreciate that we\ncould also hear that question, but I'm a little worried about suggesting\nthat we can exercise jurisdiction to resolve a question that never\nappeared -- only a question that never appeared any --in any cert\npetition before us.\n### Frederick Liu:\nYeah, I --I don't think that's quite right.\nI --I understand the granting of the petition to be necessary for this\n### Justice Jackson:\nThen we can totally change it and add questions that don't exist?\n### Justice Jackson:\nThat weren't there?\n### Frederick Liu:\nI do think it's within this Court's discretion at that point to decide for\nto decide in reviewing the judgment below because that's ultimately\nwhat's -- what's being reviewed, is the judgment.\n### Justice Jackson:\nOkay.",
+      "questions": []
+    },
+    {
+      "conversation_id": 32,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nMr. Mills.\n### Christopher E. Mills:\nMr. Chief Justice, and may it please the Court: The FTCA does not make\nthe United States liable for lawful acts of its agents.\nThat is true for three reasons.\nFirst, Section 2674 makes the government liable only to the same\nextent as a private person in like circumstances under state law, and a\nprivate person cannot face state liability that conflicts with federal law.\nSecond, Section 2674 reserves any other defenses, including those only\navailable to government agents.\nGovernment agents are not liable for acts within their federal duties.\nThird, a federal court in an FTCA case stands in state court shoes, which\nmeans it must consider applicable federal law.\nOtherwise, the United States would be liable where a private person and\na government agent would not, contradicting the statute.\nThus, the United States can have a Supremacy Clause defense in FTCA\ncases.\nI welcome the Court's questions.",
+      "questions": []
+    },
+    {
+      "conversation_id": 33,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nThe -- I --I don't quite understand your argument.\nI think you suggest that you can raise sovereign immunity as a defense,\na private individual?\n### Christopher E. Mills:\nNo, Your Honor.\nMy -- my argument is that a private individual can raise the Supremacy\n### Justice Thomas:\nOkay.\n### Justice Thomas:\nOkay.\n### Christopher E. Mills:\nAnd -- and they have in this Court's case law.\nSo Hunter versus Wood involves the government -- the --this Court\ngiving a Supremacy Clause defense to a private railroad ticket agent who\nwas following federal law.\n### Justice Thomas:\nDo you think that a private individual can enforce federal law?\n### Christopher E. Mills:\nYes, Your Honor.\nSo I think Hunter is -- is a perfect example of that. There, the railroad\nagent was following a federal court order.\nHere, you have something similar with the agents following the\nwarrant. You also have that sort of flavor in other cases.\nFor example, when an airline denies boarding to someone who, under\nFAA regulations, doesn't show the proper ID, that's another example of\na federal law duty.\n### Justice Thomas:\nWhy do you think the Eleventh Circuit took this tack of sovereign\nimmunity?\n### Christopher E. Mills:\nSo I -- I --I don't dispute the -- the parties' contention that there\nand its interpretation of the intentional tort proviso. But, more\nimportantly, I think the Eleventh Circuit was right.\nI think their position follows from Section 2674.",
+      "questions": []
+    },
+    {
+      "conversation_id": 34,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nBut I guess, Mr. Mills -- I --I mean, you're -- you're -- you're quite\nright, of course, that private parties can raise preemption arguments\nand that the United States could raise the same sort of preemption\narguments.\nBut I guess the question that I have is, how is that really relevant to this\ncase? Because that's not the nature of the immunity defense that the\nEleventh Circuit applied here. It wasn't a statutory preemption sort of\nargument.\nIt was a, you know, basic sovereign immunity kind of argument.\n### Christopher E. Mills:\nI --I disagree, Your Honor.\nI think it was a standard preemption analysis, just like this Court's\ndecision in Neagle.\nAnd so I think Neagle is -- is a prong of this Court's statutory\npreemption analysis that obviously comes up more rarely than the\ntypical preemption cases, but it involves the exact same conflict\nbetween federal law says you must do this and state law says you can't\ntake this action reasonably necessary to do that.\nSo I think that there --you do have the same implied conflict that you\nwould in other statutory preemption cases.\nAnd -- and I think the private person -- you know, the -- the key there\nis that it's in like circumstances.\nSo, you know, as an example, I would point the Court to 28 U.S.C. 530B,\nwhich says federal government attorneys are subject to state rules of\nprofessional conduct \"to the same extent as other attorneys in that\nstate.\" And the lower courts and the federal government have read that\nlanguage --look at their BIO in 1613-23 --to mean that a preemption\ndefense is available even though the federal statute references or\nincorporates the state rules.\nThe government says no attorney can be subject to a state rule that\nconflicts with federal law, and because government attorneys are -- are\nsubject to them only to the same extent, therefore, neither --neither\ncan the government attorneys.\nAnd that's the exact same point I'm making here.\nNo private person can face state liability that conflicts with and thus is\npreempted by federal law.\nAnd so, within the scope of 2674, neither can the United States.\nBut, even if you set -- set aside the private individual aspect, you still\nhave the -- the third paragraph in Section 2674, which -- which\nprovides any other defenses, including defenses available -- available\nto government agents.\nOn the Petitioners' theory, Neagle, in the famous case where he\nprotected Justice Field, escapes liability because he had a federal duty.\nMrs. Terry, the wife of the assailant, could turn around and sue the\nUnited States for damages, and the United States would be civilly liable\neven though Neagle was performing his federal duties.\nSame thing in this case.\nIf the agents had gone to the right house, under their theory, and state\ntort liability would have applied under whatever the state law happens\nto be, the United States would be civil -- civilly liable for money\ndamages for going to the right house.\nSo I think that that underscores that there has to be a Supremacy Clause\ndefense available when the federal agent was -- was acting within their\nfederal duties. And --and then the last -- last aspect I would point to is\nthis Court's decisions in Richards and Hess, where --where the Court\nsaid you have to consider applicable federal law.\nAgain, the Court said that's the only way to make sure that the statute\ndoesn't extend more liability to the United States than that faced by\nprivate individuals or --or the government agents.\nand --and that follows directly from this Court's decision in Neagle and\nthe rest of the Supremacy Clause defense cases we cite.",
+      "questions": []
+    },
+    {
+      "conversation_id": 35,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nMr. Mills, to be clear, the Eleventh Circuit is the only circuit that has\nadopted this particular line of thinking with respect to these kinds of\ncases, is that right?\n### Christopher E. Mills:\nThat's right.\nNo other court has considered it one way or the other.\n### Justice Jackson:\nAnd how long? Do you know how long this has been the precedent in the\nEleventh Circuit, the application of the Supremacy Clause in this way?\n### Christopher E. Mills:\nSince 2009.\n### Justice Jackson:\nThank you.\n### Christopher E. Mills:\nAnd -- and in the -- in that 15 years, there have only been three cases\nbefore the Eleventh Circuit.\nThe Supremacy Clause defense more broadly, the Cobb article we cite in\nthe brief says that since 1787, there have only been 59 cases involving a\nSupremacy Clause defense.\nSo, contrary to the Petitioners' argument, this is not a defense that\nwould swamp the FTCA.\nIt simply means that when the federal agents are performing their\nfederal duties, the United States can't be liable in money damages.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 36,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nAnything further?",
+      "questions": []
+    },
+    {
+      "conversation_id": 37,
+      "dialogue": "Justice Alito\n### Justice Alito:\n? Justice Sotomayor? Justice Barrett?\nThank you, counsel. Rebuttal?\n### Patrick M. Jaicomo:\nThank you, Your Honor. I'd like to respond to a few of the questions that\ncame up when my friend from the government was discussing things\nwith --with the Court.\nThe first thing I'd like to point out along the lines of what Justice\nSotomayor was asking is that the government's position in this case and\nthe Eleventh Circuit's decision below, their understanding of the\ndiscretionary-function exception would do two things.\nOne, it would eat up almost all of the entire FTCA, but, two, more\nimportantly, it would certainly eat up all the claims that the proviso was\nenacted to provide liability for.\nAnd, here, the language of the proviso itself is very direct.\nBut the Senate report backs that language up, and, there, the Senate\ntalked about the fact that what they were doing was removing a barrier\nto liability, not just a barrier so the rest of the FTCA could then still get in\nthe way, even though the officers had violated the proviso.\nAnd so to say that subsection (a) still applies to bar almost all of, unless\nyou take the government's qualified immunity application, the claims\nthat the proviso raises would mean that Congress has enacted a\ncompletely useless law in 1974.\nThat simply can't be the case.\nEven addressing it to the circumstances of Collinsville, as",
+      "questions": []
+    },
+    {
+      "conversation_id": 38,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nasked questions about, or this case, Gaubert doesn't apply.\nThe government gets around this by taking the position that the\nEleventh Circuit has taken, which is to say, unless there is something\ntelling you you can't do this, and the something either has to be a\nstatute or a clearly established law, you have discretion.\nThat's not what Gaubert says.\nThere's a whole step two to the analysis, which none of the courts in the\nEleventh Circuit or elsewhere that take a broader approach considered.\nOf course, there's discretion in the colloquial sense when police are\nraiding a house.\nBut that discretion is not legislative or administrative decision -making\ngrounded in social or economic policy.\nIt's the same discretion we see with driving a car or flying a plane or\nseizing horses in the Hadley case.\nAnd so it simply can't be the case that what Congress did when it\nenacted the proviso was to say: Even though the officers in this case had\na warrant commanding them to go to one address, there was discretion\nfor them to go to another.\nSo they should lose on step one.\nIf we get to step two, there's no question that there was no policy here.\nAs my friend said, the government's policy is to raid the right house.\nThey didn't do that.\nThe preparation is kind of immaterial to the ultimate result here.\nIf you really, really meant to drop the pizza off at the right address, it\ndoesn't matter, you still need to give a refund if you drop it off at the\nwrong address.\nEven then, if we look just to the concept of the conflict of the language,\nwe assume that there's a conflict, which, again, we do not think the\nCourt should do and the Court does not need to do.\nThe decision in Alaska is on point with this case.\nWe talk about colons and periods and indentations and --and the\npreamble.\nAll of that stuff was available in Alaska.\nThe government was on the wrong side of that case, and it made the\narguments we are now making, and those arguments prevailed.\nAnd, in fact, even the dissenting justices cited things that now support\nus here.\nUnlike in Alaska, where the proviso was limited to such claims, here, we\nhave an affirmative freestanding rule, as Justice Scalia requested.\nAnd unlike in Alaska, here, it doesn't --it doesn't matter that this was in\nthe middle of the -- the set of exceptions, because Alaska was the same\nway.\nThe Submerged Lands provision was (m), this other provision was (e).\nNone of that mattered.\nWhat's very clear here from the language Congress enacted and from\nthe fact that it took the time to add this amendment was that they\nwanted the claims if they satisfied the proviso to move forward.\nAnd it's crucial to keep in mind that if Petitioners win on this issue, they\ndon't win this case.\nWe're fighting to get a day in court where then we can duke it out over\nthe elements of torts and defenses in the Georgia -- under the Georgia\nelements standard.\nSo it's not as if this case being decided by this Court will even render the\ngovernment liable.\nWe still have more steps to take, but we want to be able to take those\nsteps.\nAnd through the law enforcement proviso, Congress --Congress said\nthat we should be able to take those steps.\nNow, on the question about the -- the second question presented in\njurisdiction, I can't say whether there's a jurisdictional problem, but\nwhat I can tell you is that when we wrote our QP and then saw the\ngovernment's suggested language for narrowing it, we understood that\nto mean our QP but narrowed.\nIf it was a completely separate issue that assumed the scope covered our\nconditional cross-petition. But we didn't, and we rightly understood\nthen that when this Court did that, it was narrowing our question to the\nspecifics that the government offered, as the government says at page\n22 of its BIO.\nThat narrowing still requires the Court to consider to some extent the\nscope of the discretionary-function exception, and if it doesn't, the\ngovernment's theory, which has prevailed across most of the circuits,\nthat anything that has any element of judgment or choice is good\nenough to get you into that exception means that the FTCA will become\nlargely a nullity.\nThis covers cases like the law enforcement proviso cases, but it also\ncovers the more run-of-the-mill cases like VA malpractice, where,\nobviously, a doctor has as much discretion to decide which artery to",
+      "questions": []
+    },
+    {
+      "conversation_id": 39,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nThank you.\n### Patrick M. Jaicomo:\nThank you.\n\n### Chief Justice Roberts:\nMr. Mills, this Court appointed you to brief and argue this case as an\namicus curiae in support of the judgment below.\nYou have ably discharged that responsibility, for which we are grateful.\nThe case is submitted.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 1/10",
+      "complexity_score": 1
+    }
+  ],
+  "generation_stats": {
+    "total_conversations": 39,
+    "conversations_with_questions": 11,
+    "conversations_without_questions": 28,
+    "processed_conversations": 39,
+    "questions_generated": 40,
+    "skipped_for_low_complexity": 6,
+    "coverage_rate": "28.2%",
+    "methodology": "Extract key phrases from advocate statements and create multiple choice questions with extremely deceptive distractors"
+  },
+  "answer_distribution": {
+    "counts": {
+      "A": 9,
+      "B": 12,
+      "C": 9,
+      "D": 10
+    },
+    "percentages": {
+      "A": 22.5,
+      "B": 30.0,
+      "C": 22.5,
+      "D": 25.0
+    },
+    "total_questions": 40
+  }
+}

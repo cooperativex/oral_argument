@@ -1,0 +1,931 @@
+{
+  "source_file": "Martin v. United States _ Oyez.md",
+  "description": "MODERATELY CHALLENGING predict-next Justice question generation with balanced legal distractors",
+  "methodology": "Two-step process: (1) Generate 10 related legal alternatives, (2) Select 3 balanced distractors for 70-80% target accuracy",
+  "difficulty_level": "MODERATE - Targets law students and legal professionals (70-80% accuracy)",
+  "distractor_approach": "Balanced mix: related but different, clearly different, and obviously wrong alternatives",
+  "context_mode": "with_previous_contexts",
+  "use_previous_contexts": true,
+  "background": "In October 2017, six FBI agents, led by Special Agent Lawrence Guerra, mistakenly executed a no-knock search warrant at the home of Curtrina Martin and her family in Atlanta, Georgia. The intended target was a nearby home suspected to contain violent gang member Joseph Riley. Due to similarities between the two properties and issues with navigating to the correct address, the agents entered Martin’s home instead. The SWAT team, in full tactical gear, entered the house, causing fear and distress to its occupants. They later realized the mistake and promptly left the scene, later apologizing and assuring the family that the FBI would handle any damages. Martin and her family sued the U.S. government and the agents, claiming violations of their Fourth Amendment rights and seeking damages under Georgia state law. The district court granted summary judgment for the defendants. On appeal, the U.S. Court of Appeals for the Eleventh Circuit affirmed the decision, ruling that the agents were entitled to qualified immunity and that the Federal Tort Claims Act claims were barred by the Supremacy Clause and the discretionary function exception.",
+  "conversations": [
+    {
+      "conversation_id": 1,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nWe will hear argument first this morning in Case 24-362, Martin versus\nUnited States.\nMr. Jaicomo.\n### Patrick M. Jaicomo:\nMr. Chief Justice, and may it please the Court: Congress amended the\nFederal Tort Claims Act in 1974 to ensure a legal remedy for the\nintentional torts of federal police.\nThe text of the law enforcement proviso is phrased affirmatively as a\nfreestanding rule.\nWith regard to acts or omissions of investigative or law enforcement\nofficers of the United States Government, the FTCA shall apply to any\nclaim arising out of six intentional torts.\nThe United States is therefore liable for these intentional torts when\ncommitted by FBI agents empowered by law to execute searches,\nseizures, and arrests.\nPetitioners bring the claims Congress expressly permitted, but the\nEleventh Circuit held that sovereign immunity bars them.\nAs a result, the Court asked the parties to address two questions: first,\nwhether the Supremacy Clause bars FTCA claims.\nThe answer is no, and the parties agree.\nAs a federal statute, the FTCA is protected by federal supremacy, not\nrestricted by it.\nSecond, whether the discretionary-function exception is categorically\ninapplicable to proviso claims. The answer is yes for two distinct\nreasons.\nRead in harmony, the provisions cover different categories.\nOnce a plaintiff satisfies Section 1346(b)(1) by alleging the elements of\nan intentional tort, the discretionary-function exception does not apply\nbecause intentional torts require unlawfulness. There's no such thing as\na discretionary intentional tort.\nRead in hostility, assuming interstatutory conflict, the text, informed by\nfamiliar canons of construction and this Court's precedent,\ndemonstrates that Congress gave the proviso's waiver of sovereign\nimmunity the last word.\nThe proviso is the clearest statement of liability in the entire FTCA.\nSo the government's argument in this case and the Eleventh Circuit's\nholding below invite a simple question: If even proviso claims Congress\namended the statute to affirmatively guarantee are barred by sovereign\nimmunity, what is left of the Federal Tort Claims Act? I welcome the\nCourt's questions.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 2,
+      "target_dialogue": "## Justice Thomas\n### Justice Thomas:\nHow broadly does the proviso extend?\n### Patrick M. Jaicomo:\nWell, if -- if this Court reads the proviso in harmony with the\ndiscretionary-function exception, it doesn't expand any more broadly\nthan it needs to to make sure that those two don't come into conflict.\nBut, if the Court presumes that there is conflict, Your Honor, then it\nwould extend -- supersede the other exceptions.\n### Justice Thomas:\nSo, in this case, how would it apply?\n### Patrick M. Jaicomo:\nIn this case, it would apply because the Court would simply say the\ndiscretionary-function exception doesn't apply to this category of\nclaims.\nThe law enforcement proviso does.\nAnd that's the end of the analysis for the second question presented.\n### Justice Thomas:\nSo how -- how do we know in statutory interpretation how far a proviso\nlike this applies?\n### Patrick M. Jaicomo:\nWell, Your Honor, there are a number of -- of statutory canons of\nconstruction, and I think the answer to this specific question here is we\nknow that it extends beyond simply subsection (h) because Congress\nstated it as an affirmative freestanding rule as opposed to somehow\nbeing parasitic to the language before it in subsection (h).\n### Justice Thomas:\nWell, wouldn't you expect it to be placed someplace other than in one\nsubsection after a colon?\n### Patrick M. Jaicomo:\nSo I would say as a general rule, Your Honor, the answer would probably\nbe yes, but the reason the answer is no here is because, when Congress\nenacted the law enforcement proviso, it understood that the only\nbarrier to liability for the United States was the intentional torts\nexception, meaning Congress's understanding of the discretionary-\nfunction exception is the same as the one I'm articulating here today.",
+      "justice_name": "Justice Thomas",
+      "total_justice_questions": 4,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Thomas most likely ask next?",
+          "options": {
+            "A": "What procedural steps are needed for this challenge?",
+            "B": "How would this impact state liability claims?",
+            "C": "How might the court interpret this provision broadly?",
+            "D": "So, in this case, how would it apply?"
+          },
+          "answer": "D",
+          "target_justice": "Justice Thomas",
+          "debug_info": {
+            "correct_answer": "So, in this case, how would it apply?",
+            "fake_questions": [
+              "How might the court interpret this provision broadly?",
+              "How would this impact state liability claims?",
+              "What procedural steps are needed for this challenge?"
+            ],
+            "all_generated_alternatives": [
+              "What is the relevant legal standard here?",
+              "How might the court interpret this provision broadly?",
+              "What are the implications for other exceptions?",
+              "How does this relate to previous case law?",
+              "What procedural steps are needed for this challenge?",
+              "How would this impact state liability claims?",
+              "What constitutional principles are involved in this case?",
+              "Could the proviso conflict with federal statutes?",
+              "What evidence supports your interpretation of the provision?",
+              "When should the court consider legislative intent?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 4
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 0
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Thomas most likely ask next?",
+          "options": {
+            "A": "How does the Seventh Amendment impact the civil claims under discussion here?",
+            "B": "What evidentiary standards govern the admissibility of statements in this case?",
+            "C": "What principles guide the interpretation of regulatory statutes in this context?",
+            "D": "So how -- how do we know in statutory interpretation how far a proviso\nlike this applies?"
+          },
+          "answer": "D",
+          "target_justice": "Justice Thomas",
+          "debug_info": {
+            "correct_answer": "So how -- how do we know in statutory interpretation how far a proviso\nlike this applies?",
+            "fake_questions": [
+              "What principles guide the interpretation of regulatory statutes in this context?",
+              "How does the Seventh Amendment impact the civil claims under discussion here?",
+              "What evidentiary standards govern the admissibility of statements in this case?"
+            ],
+            "all_generated_alternatives": [
+              "What principles guide the interpretation of regulatory statutes in this context?",
+              "How does the Seventh Amendment impact the civil claims under discussion here?",
+              "What evidentiary standards govern the admissibility of statements in this case?",
+              "How do we ascertain judicial intent when analyzing statutory language?",
+              "What are the implications of this proviso in the context of tort litigation?",
+              "How might a different proviso affect governmental immunity in this scenario?",
+              "What other interpretations of statutory provisions could be considered here?",
+              "How does legislative history inform our understanding of this legal provision?",
+              "What impact does precedent have on the interpretation of similar legal provisions?",
+              "What factors determine whether a law is constitutional in this context?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 4
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 0
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Thomas most likely ask next?",
+          "options": {
+            "A": "How might procedural aspects challenge the meaning of the substantive rule?",
+            "B": "How does a court determine the hierarchy of statutory provisions in this case?",
+            "C": "What implications arise from placing this rule in a separate statute entirely?",
+            "D": "Well, wouldn't you expect it to be placed someplace other than in one\nsubsection after a colon?"
+          },
+          "answer": "D",
+          "target_justice": "Justice Thomas",
+          "debug_info": {
+            "correct_answer": "Well, wouldn't you expect it to be placed someplace other than in one\nsubsection after a colon?",
+            "fake_questions": [
+              "How does a court determine the hierarchy of statutory provisions in this case?",
+              "What implications arise from placing this rule in a separate statute entirely?",
+              "How might procedural aspects challenge the meaning of the substantive rule?"
+            ],
+            "all_generated_alternatives": [
+              "Is it typical for provisions like this to appear at the end of a statute?",
+              "How does a court determine the hierarchy of statutory provisions in this case?",
+              "What implications arise from placing this rule in a separate statute entirely?",
+              "Could this proviso be interpreted similarly to another section of the law?",
+              "What context supports the placement of the proviso in this particular subsection?",
+              "How does this placement affect the overall interpretation of the statute?",
+              "Which legal principles govern how statutory language is organized?",
+              "Why might Congress choose to use a colon in this legislative context?",
+              "How might procedural aspects challenge the meaning of the substantive rule?",
+              "What relevance does this statutory provision have in case law precedents?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 4,
+            "total_questions_in_conversation": 4
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 0
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 3,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\nAnd you get that from what? The legislative history?\n### Patrick M. Jaicomo:\nNo, Your Honor.\nI -- we get it directly from the language of the law enforcement proviso.\nBut the legislative history or at least the context in which this\namendment was made make very clear that our interpretation is the\ncorrect one.\n### Justice Jackson:\nBut I guess I don't understand why in absolutely every case you say the\ntwo are mutually exclusive.\nI mean, isn't there a possibility -- I mean, I -- I completely understand\n### Patrick M. Jaicomo:\nYeah.\n### Justice Jackson:\nbeing, it was a wrong-house raid scenario just like the one that you are\naddressing here, I understand how you say that this should not be a\nsituation in which the claims are barred, but does reaching that\nconclusion require us to say that there can never be a situation in which\nthe discretionary-function exception applies in the law enforcement\ncontext? That seems to be what you're saying, those two are just totally\nseparate, and I -- I wonder whether the kinds of policy determinations\nthat I thought the discretionary function was about could arise in some\nlaw enforcement circumstances, albeit perhaps not here.\n### Patrick M. Jaicomo:\nSo let me -- let me say a few things, and then maybe we can have a\ndialogue about how this would operate.\nBut, to answer your question, no, certainly, the Petitioners in this case\ndo not need this broader rule to be articulated for us to win this case.\nThis is the quintessential proviso case.\nThis is the type of case that motivated Congress, as we know from all the\nnews coverage and the language of --of the statute, to enact the\nproviso.\nBut, of course, we're offering this answer in -- in response to the second\nquestion that the Court granted here, which is asking categorically how\nthese two things interact.\nBut, to get then to that question, it -- it --it's simply the case that, as\nwe can see from this Court's precedent addressing the discretionary-\nfunction exception and the broader intentional torts exception since\n1946, there's been no overlap even between those categories.\nAnd so now we're moving into the space with intentional torts\ncommitted by law enforcement officers where there simply can't be a\nsituation where you're exercising the type of discretionary function that\nthe exception in 2680(a) covers where you're also somehow\ncommitting an intentional tort because those intentional torts will all\nhinge on some portion of the elements or defenses being there's a lack\nof legal justification, there's no probable cause, or something along\nthose lines.",
+      "justice_name": "Justice Jackson",
+      "total_justice_questions": 3,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Jackson most likely ask next?",
+          "options": {
+            "A": "How might this argument change if we consider the broader context of federal vs. state responsibilities in law enforcement?",
+            "B": "Can the application of the discretionary-function exception coexist with the law enforcement proviso in certain legal contexts?",
+            "C": "What implications does the legislative history have on the interpretation of the law enforcement proviso in this situation?",
+            "D": "But I guess I don't understand why in absolutely every case you say the\ntwo are mutually exclusive.\nI mean, isn't there a possibility -- I mean, I -- I completely understand"
+          },
+          "answer": "D",
+          "target_justice": "Justice Jackson",
+          "debug_info": {
+            "correct_answer": "But I guess I don't understand why in absolutely every case you say the\ntwo are mutually exclusive.\nI mean, isn't there a possibility -- I mean, I -- I completely understand",
+            "fake_questions": [
+              "Can the application of the discretionary-function exception coexist with the law enforcement proviso in certain legal contexts?",
+              "How might this argument change if we consider the broader context of federal vs. state responsibilities in law enforcement?",
+              "What implications does the legislative history have on the interpretation of the law enforcement proviso in this situation?"
+            ],
+            "all_generated_alternatives": [
+              "How can we reconcile the differing interpretations of the law enforcement proviso with other statutory exceptions in similar cases?",
+              "Can the application of the discretionary-function exception coexist with the law enforcement proviso in certain legal contexts?",
+              "What implications does the legislative history have on the interpretation of the law enforcement proviso in this situation?",
+              "Are there any precedents that support the argument for or against the compatibility of the two legal concepts here?",
+              "How does the statutory interpretation impact the outcome of a case involving both the law enforcement proviso and discretionary-function exception?",
+              "What role does the intent of Congress play in understanding the scope of the law enforcement proviso in this case?",
+              "To what extent do general principles of tort law apply in determining the relationship between these two exceptions?",
+              "Is it possible that certain minor exceptions could allow for some overlap between the two legal standards discussed here?",
+              "How might this argument change if we consider the broader context of federal vs. state responsibilities in law enforcement?",
+              "What challenges arise when trying to interpret statutory language that appears conflicting without additional context?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 1
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Jackson most likely ask next?",
+          "options": {
+            "A": "Does the application of the law enforcement proviso suggest a shift away from traditional tort principles, and how far might that shift extend in terms of scope and application?",
+            "B": "Given the assertion that these claims are not barred in this case, could there be a scenario where the discretionary-function exception would apply even broadly within law enforcement actions, or is that a strict prohibition?",
+            "C": "being, it was a wrong-house raid scenario just like the one that you are\naddressing here, I understand how you say that this should not be a\nsituation in which the claims are barred, but does reaching that\nconclusion require us to say that there can never be a situation in which\nthe discretionary-function exception applies in the law enforcement\ncontext? That seems to be what you're saying, those two are just totally\nseparate, and I -- I wonder whether the kinds of policy determinations\nthat I thought the discretionary function was about could arise in some\nlaw enforcement circumstances, albeit perhaps not here.",
+            "D": "Is it possible to argue that the discretionary-function exception serves a universally applicable role in all government actions, including situations that specifically involve law enforcement?"
+          },
+          "answer": "C",
+          "target_justice": "Justice Jackson",
+          "debug_info": {
+            "correct_answer": "being, it was a wrong-house raid scenario just like the one that you are\naddressing here, I understand how you say that this should not be a\nsituation in which the claims are barred, but does reaching that\nconclusion require us to say that there can never be a situation in which\nthe discretionary-function exception applies in the law enforcement\ncontext? That seems to be what you're saying, those two are just totally\nseparate, and I -- I wonder whether the kinds of policy determinations\nthat I thought the discretionary function was about could arise in some\nlaw enforcement circumstances, albeit perhaps not here.",
+            "fake_questions": [
+              "Given the assertion that these claims are not barred in this case, could there be a scenario where the discretionary-function exception would apply even broadly within law enforcement actions, or is that a strict prohibition?",
+              "Does the application of the law enforcement proviso suggest a shift away from traditional tort principles, and how far might that shift extend in terms of scope and application?",
+              "Is it possible to argue that the discretionary-function exception serves a universally applicable role in all government actions, including situations that specifically involve law enforcement?"
+            ],
+            "all_generated_alternatives": [
+              "Given the assertion that these claims are not barred in this case, could there be a scenario where the discretionary-function exception would apply even broadly within law enforcement actions, or is that a strict prohibition?",
+              "In terms of statutory interpretation, how can we reconcile the discretionary-function exception with other potential government immunities, especially in cases of alleged misconduct by law enforcement?",
+              "How might the courts interpret the scope of permissible governmental actions in law enforcement cases outside of the discretionary-function exception, and what factors would inform that interpretation?",
+              "Does the application of the law enforcement proviso suggest a shift away from traditional tort principles, and how far might that shift extend in terms of scope and application?",
+              "Considering these legal analyses, have there been relevant precedents where law enforcement's discretionary actions were successfully challenged, and what were the outcomes of those cases?",
+              "What implications does the legislative history have on our understanding of the law enforcement proviso as it relates to the discretionary-function exception, and can those implications influence future cases?",
+              "Could the interpretation of this law enforcement proviso result in any unintended consequences for police accountability, especially in cases of constitutional violations?",
+              "What alternative defenses might law enforcement employ when faced with claims that fall outside the suggested bounds of the discretionary-function exception?",
+              "In evaluating the law enforcement context, what constitutional safeguards might still be invoked to protect individuals from government overreach outside of the discretionary-function framework?",
+              "Is it possible to argue that the discretionary-function exception serves a universally applicable role in all government actions, including situations that specifically involve law enforcement?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 1
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 4,
+      "target_dialogue": "## Justice Sotomayor\n### Justice Sotomayor:\nCounsel, I don't think it was quite fair to say that everybody agrees on\nthe first question.\nAmici doesn't agree on the first question.\nBut putting that aside, because amici could address Nguyen, and I\nunderstand your argument on that first question, I believe it's that\nNguyen, which was the basis of this circuit's decision, was a case\ninvolving state law conflict with federal law.\nThere's no conflict here because federal law is what makes the officers\nliable, correct?\n### Patrick M. Jaicomo:\nThat's correct, Your Honor.\n### Justice Sotomayor:\nSo there can't be sovereign immunity preemption of federal law itself?\n### Patrick M. Jaicomo:\nThat's correct, Your Honor.\n### Justice Sotomayor:\nAll right.\nNow, going to the second point, there are 12 exceptions besides the law\nenforcement exception at issue here.\nI don't think you quarrel with the proposition that if a police officer\nassaults someone in a foreign land, which is another proviso among\nthose 12, that the intentional tort provision would not control, correct?\n### Patrick M. Jaicomo:\nThat's correct, Your Honor.\n### Justice Sotomayor:\nWhat you're asking us to do is to say 11 of the 12 other exceptions are still\noperative against the law enforcement proviso, but only this one, the\ndiscretionary one, is not.\nIs that your position?\n### Patrick M. Jaicomo:\nNot quite, Your Honor.\n### Justice Sotomayor:\nWell, but that's what it sounds like to me because, if the other 12 are\n### Patrick M. Jaicomo:\nMm-hmm.\n### Justice Sotomayor:\nprovisions of this chapter, and the chapter includes all 12 of the other\nexceptions, shall apply to any claim for a police officer's assault and\nbattery.\n### Patrick M. Jaicomo:\nYes.\nSo, if I could clarify what --what I mean, Your Honor, as we articulate in\ninterpretive methods for how the Court could address QP 2.\nOn the first path, which is the harmony approach, there is not any\noverlap between provision (a) and provision -- subprovision (h), and so\nyou don't need to get into what to do if there's a conflict.\nIf the Court, as the government asks, assumes that there's a conflict\nhere, even though none was found below in the Eleventh Circuit, then\nour analysis would extend beyond the reach of subsection (h).\nAnd to address your specific textual question about the language of\nChapter 171, the government actually agrees with us at Footnote 3 of its\nbrief, where it says the appropriate natural reading of that means that\nthe Chapter 171 other than Section 2680.\nAnd the reason why that's the case is because that same language\nappears in the preamble of Section 2680, and it also appears in\nsubsection (c) and subsection (h).\nAnd so to take the position that subsection 2680 would cancel itself out\nwould require the Court to read that language differently in the\npreamble than how it would read it in subsections (c) and (h).\n### Justice Sotomayor:\nIt does seem to me that what you're asking us to do is to answer the\nquestion we didn't grant cert on.\n### Justice Sotomayor:\nYou're asking us to say that an intentional tort is never discretionary.\nAs Justice Ketanji Jackson mentioned, I don't --I'm not quite sure that's\ntrue.\nThe -- the case involving the Secret Service agent who arrested\n### Patrick M. Jaicomo:\nMm-hmm.\n### Justice Sotomayor:\ndirectly appeared to be threatening, that might not be an intentional\ntort, a false arrest.\nAnd yet I think there's enough measure of discretion of deciding when\nsomeone could be a threat to the president or to some other protectee,\nthat would fall within the discretionary.\n### Patrick M. Jaicomo:\nSo let me -- let me respond in a few ways, Your Honor.\nFirst was your --your -- your -- your note about the scope of the second\nquestion presented.\nSo I would -- I would say that our arguments here fall squarely within\nthat scope because, as we explained, to understand whether there's a\ncategorical application of one provision to the other, of course, we need\nto know what the categories are to see if they overlap at all.\nAnd that's not some sort of word games from us.\nIf you read the -- the government's BIO at pages 21 and 22, where they\npropose the language for what this Court ultimately adopted as QP 2,\nthey follow on with the next sentence explaining that what's wrong\nwith our position is that it mischaracterizes the scope of the\ndiscretionary-function exception. And so that question is not only\nexplicitly in the language of Question Presented 2.\n### Justice Sotomayor:\nWell, I --I'm not sure because that's -- there's a huge circuit split and a\nlot of judges talking about how to define that --the discretionary\nexception. Judge Bibas said -- has a -- has a wonderful concurrence in\nwhich he says it's been read too broadly.\n### Patrick M. Jaicomo:\nYes.\n### Justice Sotomayor:\nI might be sympathetic to that argument, okay, but I don't know\nwhether we should be answering it.\n### Patrick M. Jaicomo:\nSo -- so I agree that we -- that the Court shouldn't be answering that\nbroader question.\nAnd -- and, to clarify, in our cert petition, we relied on Judge Bibas's\narticulation of there being three separate circuit splits.\nWe offered a fourth as well.\nAnd the one articulated in Section 2(a) of our cert petition is the one\nwe're talking about here, this question of whether the law enforcement\nproviso and the discretionary-function exception interact and, if so,\nwhat happens.\nAnd this Court, of course, granted on that narrower question, which now\nasks the Court only to consider what to do with intentional torts and\ntorts that are committed by law enforcement officers as opposed to the\nentire sphere of negligent torts that would also potentially come into\nplay.",
+      "justice_name": "Justice Sotomayor",
+      "total_justice_questions": 3,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Sotomayor most likely ask next?",
+          "options": {
+            "A": "All right.\nNow, going to the second point, there are 12 exceptions besides the law\nenforcement exception at issue here.\nI don't think you quarrel with the proposition that if a police officer\nassaults someone in a foreign land, which is another proviso among\nthose 12, that the intentional tort provision would not control, correct?",
+            "B": "If we were to analyze the applicability of sovereign immunity in this context, would you agree that the outcome would differ if the case involved state law instead of federal law?",
+            "C": "Now, considering other provisions in this statute, if a federal officer engages in reckless conduct overseas, could the intentional tort provision still apply to limit liability, in your view?",
+            "D": "What implications arise if a police officer's actions are found to be reckless instead of intentional in the context of federal tort liability, especially concerning personal injury claims?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Sotomayor",
+          "debug_info": {
+            "correct_answer": "All right.\nNow, going to the second point, there are 12 exceptions besides the law\nenforcement exception at issue here.\nI don't think you quarrel with the proposition that if a police officer\nassaults someone in a foreign land, which is another proviso among\nthose 12, that the intentional tort provision would not control, correct?",
+            "fake_questions": [
+              "Now, considering other provisions in this statute, if a federal officer engages in reckless conduct overseas, could the intentional tort provision still apply to limit liability, in your view?",
+              "If we were to analyze the applicability of sovereign immunity in this context, would you agree that the outcome would differ if the case involved state law instead of federal law?",
+              "What implications arise if a police officer's actions are found to be reckless instead of intentional in the context of federal tort liability, especially concerning personal injury claims?"
+            ],
+            "all_generated_alternatives": [
+              "Now, considering other provisions in this statute, if a federal officer engages in reckless conduct overseas, could the intentional tort provision still apply to limit liability, in your view?",
+              "If we were to analyze the applicability of sovereign immunity in this context, would you agree that the outcome would differ if the case involved state law instead of federal law?",
+              "Transitioning to the broader context, can you clarify whether all 12 exceptions apply equally regardless of the intentional tort nature of the officer's conduct?",
+              "Looking at the exceptions list, do you believe that there are any scenarios where the immunity in this law could override a settled common law principle of liability for intentional torts?",
+              "Given the substantive nature of this case, could procedural avenues instead apply if the assault happened on U.S. military property abroad?",
+              "Can you explain how the intentional tort provision interacts specifically with statutory exceptions in cases other than law enforcement, particularly concerning torts committed in transit?",
+              "With regard to international law considerations, would your argument change if the officer's actions were deemed justified under the law of the foreign country?",
+              "Thinking about the definition of intentional torts, can you provide insight into how this differs when analyzing liability for federal versus state employees in similar circumstances?",
+              "What implications arise if a police officer's actions are found to be reckless instead of intentional in the context of federal tort liability, especially concerning personal injury claims?",
+              "In light of the conversation today, do you agree that the Court should assess whether any exceptions for intentional torts are being applied more stringently than others, regardless of the law enforcement exception?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 2
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Sotomayor most likely ask next?",
+          "options": {
+            "A": "Are you arguing that under the law enforcement proviso, the remaining exceptions maintain their applicability against federal claims involving law enforcement operations, except for the discretionary-function exception?",
+            "B": "What you're asking us to do is to say 11 of the 12 other exceptions are still\noperative against the law enforcement proviso, but only this one, the\ndiscretionary one, is not.\nIs that your position?",
+            "C": "Do you contend that the law enforcement exception requires us to consider how federal liabilities interact with state law claims in relation to the other exceptions provided by Congress?",
+            "D": "What is the impact of legislative history in influencing the interpretation of the law enforcement proviso relative to the discretionary-function exception?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Sotomayor",
+          "debug_info": {
+            "correct_answer": "What you're asking us to do is to say 11 of the 12 other exceptions are still\noperative against the law enforcement proviso, but only this one, the\ndiscretionary one, is not.\nIs that your position?",
+            "fake_questions": [
+              "Are you arguing that under the law enforcement proviso, the remaining exceptions maintain their applicability against federal claims involving law enforcement operations, except for the discretionary-function exception?",
+              "Do you contend that the law enforcement exception requires us to consider how federal liabilities interact with state law claims in relation to the other exceptions provided by Congress?",
+              "What is the impact of legislative history in influencing the interpretation of the law enforcement proviso relative to the discretionary-function exception?"
+            ],
+            "all_generated_alternatives": [
+              "Are you arguing that under the law enforcement proviso, the remaining exceptions maintain their applicability against federal claims involving law enforcement operations, except for the discretionary-function exception?",
+              "Do you contend that the law enforcement exception requires us to consider how federal liabilities interact with state law claims in relation to the other exceptions provided by Congress?",
+              "How do you propose the court should interpret the interaction between the law enforcement proviso and the broader intentional torts exception when assessing officer liability?",
+              "Could you clarify whether the discretionary tort exception applies universally across all twelve exceptions included in this statute, including those related to federal law enforcement actions?",
+              "In your analysis, should we consider if any of the eleven other exceptions could be influenced or overridden by the discretionary-function exception in this context?",
+              "What reasoning supports the belief that statutory provisions cannot overlap in their application, particularly in matters concerning the law enforcement exception and intentional torts?",
+              "Why do you maintain that this specific case categorically demonstrates a different interpretation of liability when contrasted with broader intentional tort contexts?",
+              "Could you detail how the procedural thresholds vary across the different exceptions listed in the statute concerning the law enforcement proviso's interpretation?",
+              "What factors must we weigh to determine if an officer's actions in this context could meet the criteria for an intentional tort in federal law?",
+              "What is the impact of legislative history in influencing the interpretation of the law enforcement proviso relative to the discretionary-function exception?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 2
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 5,
+      "target_dialogue": "## Justice Gorsuch\n### Justice Gorsuch:\nSo -- so why wouldn't --why wouldn't a perfectly sensible approach be\nto say you might lose on whether the proviso applies outside of (h) and\nsend it back for further consideration of the discretionary-function\narguments that you've made before us, that Judge Bibas has raised and\nthat are the subject of I don't know how many circuit splits? Wouldn't\nthat be a --a sensible course?\n### Patrick M. Jaicomo:\nSo the reason I would suggest that the Court doesn't take that approach,\nYour Honor, is that that would effectively be the Court overruling the\nNguyen decision but leaving in place all the other bad decisions like\n### Justice Gorsuch:\nWe would leave in place everything as we found it, to be sure. And I -- I\ndon't doubt that there's a interesting circuit split that might merit our\nattention sometime soon, but this is an awkward vehicle to address it\ngiven that it really wasn't teed up for us that way because of the peculiar\nnature of circuit law below.\n### Patrick M. Jaicomo:\nSo I -- I would say, Your Honor, as the government argued in its BIO for\nasking this separately phrased question to be taken, it said this is\n### Justice Gorsuch:\nI -- I understand that, but I think it thought a different version of it was\nthe threshold question, and that is how far does the proviso extend,\ndoes it extend beyond (h).\n### Justice Gorsuch:\nI think -- I can understand how you had read it -- would read it\ndifferently, but I think that's what the government was asking us to\ndecide.\n### Patrick M. Jaicomo:\nWell, Your Honor, I would just point out, again, at the BIO at 21 and 22,\nthey articulate this point and they say that resolving this question of QP\n2 is threshold to QP 1 because the Eleventh Circuit's articulation of the\nSupremacy Clause bar is effectively just an importation of what it\nunderstands the discretionary-function exception to be.\nAnd so, if this Court were to only address QP 1, it would essentially be\nresolving the question only for the Eleventh Circuit but leaving all the\n### Justice Gorsuch:\nNo, I -- I would answer both QPs, I think, but I --I'm wondering whether\nyou to argue below that the discretionary -function exception doesn't\ninclude unconstitutional acts, intentional torts.\n### Justice Gorsuch:\nAnd that would be something you could argue below.\n### Patrick M. Jaicomo:\nSure.\n### Patrick M. Jaicomo:\nOkay.\n### Patrick M. Jaicomo:\nI'll be up here. (Laughter.)\n### Justice Gorsuch:\nWell, I've got a lot of friends who want to have their chance too.\nI'd also like you to address the government's suggestion that we\nshouldn't address the Supremacy Clause question because we don't\nneed to in this case.\n### Patrick M. Jaicomo:\nOkay.\n### Justice Gorsuch:\nYour -- your thoughts about that?\n### Patrick M. Jaicomo:\nSure.\nSo the first question on why the Court shouldn't simply say the answer\nis that there isn't a categorical situation for QP 2 and send it back is that\nthen we go back to the Eleventh Circuit, where the case law is such that\nthere is no constitutional exception even.\nAnd so you're sending the Petitioners back down into the Eleventh\nCircuit, where even the government agrees that the Eleventh Circuit\nprecedent, which we'll say it doesn't matter if the Constitution's been\nviolated, you can still act with discretion, is wrong.\nAnd we'll be stuck there with the hope of perhaps getting en banc\nreview of the Eleventh Circuit.\nAnd the government will have then short-circuited the Nguyen decision\nwithout having to confront the way that the discretionary-function\nexception actually overlaps with -- with the law enforcement proviso.\nNow, to answer the second question about why or whether this Court\nshould address QP 1, of course, it should address QP 1, but the point that\nthe government is trying to get the Court to decide QP 2 on its preferred\nnew text of QP 2, which is whether it extends to the other 12\nsubcategories, that would --that just goes to show that these two\nthings are basically the same.\nThe -- the Supremacy Clause bar of the Eleventh Circuit is just a\ndressed-up version of the discretionary-function exception, as the\nEleventh Circuit and many of the other circuits have too broadly\nunderstood.\nAnd so this Court can simply address, by citing to Gaubert, here's where\nwe know the line comes for the edge of the discretionary-function\nexception without getting into every nook and cranny to still say: Even\nwith that line, maybe the further line not fully defined, we know that\nintentional torts committed by law enforcement officers are not going\nto touch that form of discretion as Congress articulated in --in\nsubsection (a).",
+      "justice_name": "Justice Gorsuch",
+      "total_justice_questions": 4,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Gorsuch most likely ask next?",
+          "options": {
+            "A": "How does the discretionary-function exception apply to constitutional claims involving negligence and intentional torts in this case?",
+            "B": "No, I -- I would answer both QPs, I think, but I --I'm wondering whether\nyou to argue below that the discretionary -function exception doesn't\ninclude unconstitutional acts, intentional torts.",
+            "C": "Is it possible to argue that discretionary-function protections could apply in cases of blatant constitutional violations?",
+            "D": "What implications does the law enforcement proviso have on sovereign immunity in this context?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Gorsuch",
+          "debug_info": {
+            "correct_answer": "No, I -- I would answer both QPs, I think, but I --I'm wondering whether\nyou to argue below that the discretionary -function exception doesn't\ninclude unconstitutional acts, intentional torts.",
+            "fake_questions": [
+              "How does the discretionary-function exception apply to constitutional claims involving negligence and intentional torts in this case?",
+              "What implications does the law enforcement proviso have on sovereign immunity in this context?",
+              "Is it possible to argue that discretionary-function protections could apply in cases of blatant constitutional violations?"
+            ],
+            "all_generated_alternatives": [
+              "How does the discretionary-function exception apply to constitutional claims involving negligence and intentional torts in this case?",
+              "What evidence was presented regarding the applicability of the intentional torts exception in federal law?",
+              "Are the interactions between state laws and federal intentional tort claims relevant to this analysis?",
+              "What implications does the law enforcement proviso have on sovereign immunity in this context?",
+              "Can you elaborate on how intentional torts are categorized under the federal tort claims act?",
+              "Is it possible to argue that discretionary-function protections could apply in cases of blatant constitutional violations?",
+              "What is the relationship between the statutory interpretation of exceptions and the discretionary-function standard?",
+              "How does the legislative intent behind the discretionary-function exception shape its limitations?",
+              "Could the inclusion of other tort exceptions impact the outcome of discretionary-function assessments in federal tort claims?",
+              "What procedural requirements must be demonstrated to overcome a discretionary-function dismissal in this case?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 4
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 3
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Gorsuch most likely ask next?",
+          "options": {
+            "A": "How does this case illustrate potential conflicts between state law and federal statutes in terms of civil rights protections?",
+            "B": "Well, I've got a lot of friends who want to have their chance too.\nI'd also like you to address the government's suggestion that we\nshouldn't address the Supremacy Clause question because we don't\nneed to in this case.",
+            "C": "What procedural hurdles could arise if the Court were to consider the broader implications of the discretionary-function exception in this legal dispute?",
+            "D": "How would the Court respond to assertions that the law enforcement proviso interacts with the discretionary-function exception in this case, particularly regarding the Supremacy Clause?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Gorsuch",
+          "debug_info": {
+            "correct_answer": "Well, I've got a lot of friends who want to have their chance too.\nI'd also like you to address the government's suggestion that we\nshouldn't address the Supremacy Clause question because we don't\nneed to in this case.",
+            "fake_questions": [
+              "How would the Court respond to assertions that the law enforcement proviso interacts with the discretionary-function exception in this case, particularly regarding the Supremacy Clause?",
+              "How does this case illustrate potential conflicts between state law and federal statutes in terms of civil rights protections?",
+              "What procedural hurdles could arise if the Court were to consider the broader implications of the discretionary-function exception in this legal dispute?"
+            ],
+            "all_generated_alternatives": [
+              "How would the Court respond to assertions that the law enforcement proviso interacts with the discretionary-function exception in this case, particularly regarding the Supremacy Clause?",
+              "Can you clarify the implications of addressing the legal standards governing the case while determining if the discretionary-function exception is applicable to federal law claims?",
+              "What is the significance of the Eleventh Circuit's interpretation of the Supremacy Clause in relation to the provisions governing law enforcement liability?",
+              "Is it necessary to consider whether the governmental interests could override individual rights when interpreting the law enforcement proviso?",
+              "What rationale supports addressing the Supremacy Clause issue given the precedent established by prior circuit decisions in this context?",
+              "If the Court decides not to examine the Supremacy Clause, how might that affect the interpretation of other exceptions applicable to law enforcement actions?",
+              "Would it be appropriate to analyze how the lack of legal justification may impact the discretionary-function exception in this case?",
+              "How does this case illustrate potential conflicts between state law and federal statutes in terms of civil rights protections?",
+              "In what ways might the Court's refusal to weigh in on the Supremacy Clause affect future litigation concerning law enforcement exceptions?",
+              "What procedural hurdles could arise if the Court were to consider the broader implications of the discretionary-function exception in this legal dispute?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 4
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 3
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Gorsuch most likely ask next?",
+          "options": {
+            "A": "What is your main argument here?",
+            "B": "What implications does this have for the law?",
+            "C": "Your -- your thoughts about that?",
+            "D": "What standard of review applies here?"
+          },
+          "answer": "C",
+          "target_justice": "Justice Gorsuch",
+          "debug_info": {
+            "correct_answer": "Your -- your thoughts about that?",
+            "fake_questions": [
+              "What implications does this have for the law?",
+              "What standard of review applies here?",
+              "What is your main argument here?"
+            ],
+            "all_generated_alternatives": [
+              "What is your main argument here?",
+              "How does this tie to precedent?",
+              "Can you clarify your position further?",
+              "What implications does this have for the law?",
+              "What are the potential legal outcomes?",
+              "How would this affect future cases?",
+              "What facts require more consideration?",
+              "What standard of review applies here?",
+              "Could you summarize your main points?",
+              "What underlying principles support your view?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 4,
+            "total_questions_in_conversation": 4
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 3
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 6,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\nSo would it be helpful to you that if we were to send it back --on Justice\nGorsuch's suggestion that we just address the categorical separation\nbetween the two, would it be helpful to say something about whether or\nnot we are speaking to the scope or extent of the discretionary-function\nexception? I mean, I -- I understood your response to",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 7,
+      "target_dialogue": "## Justice Gorsuch\n### Justice Gorsuch:\nto\nbe that if you just say no categorical exclusion of discretionary function,\nit goes back and the Eleventh Circuit is going to say: Fine, discretionary\nfunction applies, barred.\nAnd that your point is that, even if there's no categorical preclusion, we\nstill have to have a debate about the extent to which the discretionary\nfunction actually covers these situations or the one that you've\npresented in this case.\n### Patrick M. Jaicomo:\nThat's correct.\nAnd I would even go a little bit further, Your Honor, and say, if the\nultimate result is this Court takes the government's selected approach\nand just does -- answers basically each QP with a one-word answer and\nsend the case back down, then it will also implicitly be saying that the\nexact sort of case that Congress amended this act to allow is going to be\ndoomed by the Eleventh Circuit's precedent, which inverts the Gaubert\nstandard and says: Unless something specifically tells you in federal law\nyou can't do anything, you have open discretion to do it, and we would",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 8,
+      "target_dialogue": "## Justice Alito\n### Justice Alito:\nNo, we -- we wouldn't be saying that.\nAll we would be saying is that it is -- we're deciding this particular case.\nI know you would like us to go quite far, but all we would be saying is that\nthe -- that the law -- the proviso applies only to (h), and the Eleventh\nCircuit's Supremacy Clause cases appear to be a work-around based on\ntrying to work around their prior determination that the proviso applies\nacross the board.\nthat's why you're arguing what you're arguing.\nBut, as far as the development of our case law is concerned, why should\nwe go further than that and get into this enormously complicated\nquestion about the scope of the discretionary -function exception?\n### Patrick M. Jaicomo:\nSo, Your Honor, I wouldn't ask the Court to get into the more\nenormously complicated aspects of the discretionary-function\nexception.\nAgain, we're simply saying there's a line where it's obviously not going\nto touch things like the law enforcement proviso.\nAnd the reason that this Court should get into that question here is\nbecause, as you explained, the Eleventh Circuit's work-around for what\nto do with this is its Supremacy Clause bar.\nBut many of the other circuits have created work-arounds.\nThey're just messier and built into a factual analysis of each case, where,\nfor instance, all of the other cases except for Linder have held, well, of\ncourse, the discretionary-function exception can't reach the sort of\nheartland law enforcement things, but maybe, in this case, because it's\nan INS arrest or because it's something outside of what we perceive to\nbe normal law enforcement, things are different.\nAnd so the line is being drawn right now by all the circuits.\nThey're just confused about where to draw it.\nAnd because of that confusion, the line varies from circuit to circuit.\nAnd so, if this Court is going to take this issue up and provide any clarity,\nit should provide clarity to all of the circuits instead of just the Eleventh\nCircuit.\nAnd I think that's doubly important here because, again, Congress went\nout of its way in 1974 to go through all the steps it needed to go through\nto specifically amend the FTCA to say this very affirmative freestanding\nthing: If you're a federal law enforcement who commits an intentional\ntort, we, the United States, not you, the officer, will pay for it to make\nsure that there's a remedy for the innocent victims of your mistake or\nwrongdoing.\nAnd so it's more important than simply just answering a categorical\nquestion.\nThere needs to be some guidance on this so that this statutory provision\nactually has effect because, going back to",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 9,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\n's discussion\nwith me, the result in this case of the Martin family having no remedy\nhere is that that provision has no effect.\nIt's a complete nullity if that is the outcome of this case.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 10,
+      "target_dialogue": "## Justice Gorsuch\n### Justice Gorsuch:\nIt does seem to me that we need to address the Supremacy Clause\nquestion because, if we were to send this case back on the narrow\ngrounds we've been discussing with you and that you're resisting so\nwell, it's possible that the Eleventh Circuit could wind up agreeing with\nyou that the discretionary-function exception doesn't reach your case.\nPerhaps that requires the en banc court's intervention, but it might do\nAnd then it would still have its Supremacy Clause jurisprudence that\nwould bar your case.\nSo, at the very least, it seems to me that we need to address that.\nDo you -- do you see it differently, and what --what are your thoughts\nabout that?\n### Patrick M. Jaicomo:\nNo, Your Honor.\nI think the Court should definitely address the Supremacy Clause bar as\nthe Eleventh Circuit articulated it because that bar, of course, as it's\nphrased as any -- any actions that are within the nexus of federal\nofficials' acts and within the furthest reaches of the Constitution are\ngoing to be provided Supremacy Clause protection basically takes away\nmost of, if not all of, the thrust of the FTCA, which, of course, is why my\nfriend amicus on the other side has said, well, maybe we can just go back\nto private bills, which is I think the -- the main mischief that Congress\nwas intending to remedy with the FTCA in the same way that the\nmischief that they were trying to remedy with the proviso are the very\nsort of intentional torts committed by the FBI agents in this case.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 11,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Thomas, anything further?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 12,
+      "target_dialogue": "## Justice Alito\n### Justice Alito:\n? Justice Kagan? Justice\nKavanaugh? Justice Jackson? Thank you, counsel.\n### Patrick M. Jaicomo:\nThank you, Your Honor.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 13,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nMr. Liu.\n### Frederick Liu:\nMr. Chief Justice, and may it please the Court: This Court granted cert on\ntwo questions: one about the reach of the proviso in subsection (h) and\nthe other about the Supremacy Clause.\nTo resolve this case, this Court need only decide the question about the\nproviso, namely, whether the proviso in subsection (h) modifies the\ndiscretionary-function exception in subsection (a).\nThe answer's no.\nCongress placed the proviso in subsection (h), and given that choice, the\nproviso modifies only subsection (h).\nIt does not modify the discretionary-function exception in (a). That\nexception, therefore, bars Petitioners' claims, and, because it does, this\nCourt need not reach the other question presented, which asks whether\nthe Supremacy Clause bars those claims.\nThe Eleventh Circuit resorted to the Supremacy Clause only because,\nunder circuit -- circuit precedent, the proviso in (h) modifies the\ndiscretionary-function exception in (a) and renders that exception\ninapplicable.\nBut, if this Court rejects that interpretation of the proviso, it should\nsimply affirm on the ground that the discretionary-function exception\nbars Petitioners' claims without reaching the Supremacy Clause issue.\nNow Petitioners have injected a third issue into the case, whether their\nclaims satisfy the discretionary-function exception in the first place, in\nother words, whether they satisfy the two-part test this Court\narticulated in United States versus Gaubert.\nBut that issue isn't fairly encompassed by the questions presented, and\nit's not independently cert-worthy. In any event, if this Court does\nreach the issue, all that it would need to do is reaffirm Gaubert because\nPetitioners' claims clearly satisfy Gaubert's test.\nAnd I welcome the Court's questions.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 14,
+      "target_dialogue": "## Justice Thomas\n### Justice Thomas:\nDo -- can a proviso such as this extend more broadly than --than your -\n-than this case?\n### Frederick Liu:\nSo the presumption is a proviso applies only to the thing that it's\nattached to, but there are cases where the Court has found that\npresumption rebutted and has thus read a proviso to state a general\nfreestanding rule.\nWe don't think there's any indication here, any basis for finding the\npresumption that the proviso applies only to the thing it's attached to\nbe rebutted.\nAnd so we think the -- the general principle that a proviso applies only\nto the thing it's attached survives and -- and applies here.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 15,
+      "target_dialogue": "## Chief Justice Roberts",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 16,
+      "target_dialogue": "## Justice Sotomayor\n### Justice Sotomayor:\nCounsel, I'm having a --I'm sorry.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 17,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\ndraftsmen in Congress to organization along that line.\nIt's certainly plausible that (h) was the main thing that the proviso was\naddressed to but not necessarily the only thing.\n### Frederick Liu:\nYeah, I don't really think that's plausible.\nI mean, put yourself in the shoes of the 1974 Congress.\nIt had before it all of Section 2680, the lead-in language, plus 13\nexceptions, starting with (a), ending with (n), and if Congress had\nwanted to create a universally applicable proviso, i.e., one that applied\nto all 13 exceptions, I don't think they would have put it in the middle in\n### Chief Justice Roberts:\nNo, that's the most logical place to put it, but a heroic assumption to\nthink back to 1974 and put myself in Congress's shoes, but it's also, you\nknow, they've got a lot of things going on, they're very busy, and if it\napplies logically more generally, I don't know why we wouldn't at least\nentertain that.\n### Frederick Liu:\nWell, I --I don't think it -- I mean, I don't think it applies logically more\ngenerally.\nAll the textual and structural indications indicate that Congress put it in\n(h) because it wanted to apply in (h).\nAnd so it's not just that it's in (h); it's also that Congress used the -- the\nphrase \"provided that,\" which is words Congress uses when it wants to\nintroduce a proviso which then triggers this presumption that it applies\nonly to the thing it's attached.\nIt's the fact that Congress, before the \"provided that,\" used a colon,\nwhich suggests a connection between the proviso and the thing that\nimmediately precedes it.\nIt's the fact that Congress put a period after the proviso which then\nseparates the proviso from every other exception in the statute.\nIt's the fact that --even my friend concedes --that it would be\nimplausible for Congress to have wanted the proviso to apply to certain\nexceptions, especially subsection (k), which is the foreign country\nexception.\nNo one thought Congress wanted to open the door to the application of\nsubstantive foreign law in cases involving police conduct.\nIt's the idea that there is a similar parallel proviso or exception in\nsubsection (c), and no one thinks that exception applies to all the other\nexceptions.\nI think everyone agrees that that exception applies only to subsection\n(c).",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 18,
+      "target_dialogue": "## Justice Sotomayor\n### Justice Sotomayor:\nSo, counsel, what was Congress doing? It passed this proviso because of\nthe Collinsville raids.\nThere, officers, without a warrant, broke into a home. They tied up\npeople.\nThey were as threatening as in the current situation.\nWhy bother if -- we accept that they had the discretion to think there\nwas danger.\nWith or without a warrant, the emergency doctrine exception would let\nthem break down a door.\nSo what was Congress thinking?\n### Frederick Liu:\nSo I -- I don't think that the conduct in the Collinsville raids falls within\nthe discretionary-function exception.\n### Justice Sotomayor:\nBut why? Only because there was no warrant?\n### Frederick Liu:\nBecause their conduct was well beyond the discretion conferred on\nthem because it violated clearly established Fourth Amendment rights.\n### Justice Sotomayor:\nAh, that's interesting because, in Gaubert, we said, if an drove an\nautomobile on a mission connected with his official duties and\nnegligently collided with another car, the exception, discretionary\nexception, would not apply.\nThat was because, and I'm quoting, \"Although driving requires the\nconstant exercise of discretion, the officials' decision in exercising that\ndiscretion\" negligently -- I'm putting in that word --\"can hardly be\nsaid to be grounded in regulatory policy.\" I mean, I don't see the\ndifference between that and saying that an officer's action in using a\nGPS to break into the wrong house has --has any policy related to it.\nIt's like driving negligently.\nYou got to that house by mistake.\nYou drove negligently and hit someone.\nSo I don't understand how the act of going into a wrong house can be\ndiscretionary.\n### Frederick Liu:\nWell, we understand the discretion here to be the discretion as to how to\nidentify the target of a search warrant.\n### Justice Sotomayor:\nOh, he had it identified.\nHe got the right target.\nHe just had the wrong house.\nIt's not a question of did he make a mistake in his warrant application\nabout this individual being a drug dealer, all right? There, I might agree\nwith you, okay? I'm talking about a wrong-house raid. He has the right\ntarget, the right house, but breaks into the wrong one.\n### Frederick Liu:\nRight, and it's because, as the courts below found, of a reasonable\n### Justice Sotomayor:\nWell, that's the issue, is that consistent with Gaubert, and I'm asking\nyou to show --to explain to me how that formulation is consistent with\nGaubert.\n### Frederick Liu:\nWell, I would just run the conduct here through Gaubert's two-part test,\nso step one of the test asks whether there is a federal law, statute, or\nregulation that specifically prescribes a course of action that the\nemployee needs to follow.\n### Justice Sotomayor:\nGo -- there is. Go get a search warrant for a drug dealer's house.\nNow what policy says now go search a house that's not the drug dealer's\nhouse?\n### Justice Sotomayor:\nAnd that is negligent driving.",
+      "justice_name": "Justice Sotomayor",
+      "total_justice_questions": 3,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Sotomayor most likely ask next?",
+          "options": {
+            "A": "What protections do citizens have against warrantless searches?",
+            "B": "Does intent matter if there was no imminent danger?",
+            "C": "But why? Only because there was no warrant?",
+            "D": "Was the discretion valid under emergency circumstances?"
+          },
+          "answer": "C",
+          "target_justice": "Justice Sotomayor",
+          "debug_info": {
+            "correct_answer": "But why? Only because there was no warrant?",
+            "fake_questions": [
+              "Was the discretion valid under emergency circumstances?",
+              "What protections do citizens have against warrantless searches?",
+              "Does intent matter if there was no imminent danger?"
+            ],
+            "all_generated_alternatives": [
+              "Was the discretion valid under emergency circumstances?",
+              "How did Congress define lawful search procedures?",
+              "What protections do citizens have against warrantless searches?",
+              "Could officers argue a different legal justification here?",
+              "Does intent matter if there was no imminent danger?",
+              "How do Fourth Amendment rights apply to this case?",
+              "What factual context would justify the officers' actions?",
+              "How does case law interpret discretion for law enforcement?",
+              "Was the level of threat considered in their response?",
+              "What legislative intent did Congress communicate in this law?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 4
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Sotomayor most likely ask next?",
+          "options": {
+            "A": "Well, that's the issue, is that consistent with Gaubert, and I'm asking\nyou to show --to explain to me how that formulation is consistent with\nGaubert.",
+            "B": "What alternative tests could the court apply to evaluate sovereign immunity beyond the framework established in Gaubert?",
+            "C": "What precedent does this case rely on to determine the scope of absolute immunity for law enforcement officers?",
+            "D": "Can you clarify how the Fourth Amendment's protections influence the discretionary-function exception as interpreted in this context?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Sotomayor",
+          "debug_info": {
+            "correct_answer": "Well, that's the issue, is that consistent with Gaubert, and I'm asking\nyou to show --to explain to me how that formulation is consistent with\nGaubert.",
+            "fake_questions": [
+              "Can you clarify how the Fourth Amendment's protections influence the discretionary-function exception as interpreted in this context?",
+              "What precedent does this case rely on to determine the scope of absolute immunity for law enforcement officers?",
+              "What alternative tests could the court apply to evaluate sovereign immunity beyond the framework established in Gaubert?"
+            ],
+            "all_generated_alternatives": [
+              "How does the application of qualified immunity in this case relate to the standards set forth in Gaubert?",
+              "Can you clarify how the Fourth Amendment's protections influence the discretionary-function exception as interpreted in this context?",
+              "What precedent does this case rely on to determine the scope of absolute immunity for law enforcement officers?",
+              "In light of Gaubert, how do you define the boundaries of reasonable discretion in law enforcement actions during emergency situations?",
+              "How might the court assess the applicability of negligence standards to this case based on prior rulings?",
+              "What specific policy justifications underlie the law enforcement exception in this context as compared to Gaubert's discretionary principles?",
+              "How could the standards articulated in Gaubert be applied to non-law enforcement cases involving the negligence of federal employees?",
+              "What alternative tests could the court apply to evaluate sovereign immunity beyond the framework established in Gaubert?",
+              "How does the concept of subjective intent factor into the analysis of discretionary decisions made by public officials?",
+              "What procedural safeguards are in place to evaluate law enforcement conduct under both the discretionary-function exception and Gaubert?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 4
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 19,
+      "target_dialogue": "## Justice Gorsuch\n### Justice Gorsuch:\nNo -- no policy says don't break down the wrong house, the door of a\nhouse?\n### Frederick Liu:\nNo, I -- I -- I -- excuse me.\n### Frederick Liu:\nOf course, it's the -- the United States' policy to execute the warrants at\n### Justice Gorsuch:\nI should hope so.\n### Frederick Liu:\nBut stating the -- the policy at that high level of generality doesn't\nforeclose or prescribe any particular course of action in how an officer\ngoes about in identifying the right house.\nAnd, as the district court found at 52(a), the sort of discretion left to the\nofficers here to determine the right house is filled with policy\nconsiderations.\nThe -- the officers here were weighing public safety considerations,\nefficiency considerations, operational security, the idea that they didn't\nwant to delay the start of the execution of the warrants because they\nwanted to execute all the warrants simultaneously.\nThose are precisely the sorts of policy tradeoffs that an officer makes in\ndetermining, well, should I take one more extra precaution to make sure\nI'm at the right house. Here, Petitioner suggests, for example, that the\nofficer should have checked the house number on the mailbox.\n### Justice Gorsuch:\nYeah, you might look at the address of the house before you knock down\nthe door.\n### Frederick Liu:\nYes.\nAnd -- and, as the district court found at 52(a), that sort of decision is\n### Justice Gorsuch:\nReally?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 20,
+      "target_dialogue": "## Justice Jackson",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 21,
+      "target_dialogue": "## Justice Gorsuch\n### Justice Gorsuch:\nI mean, just the right street?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 22,
+      "target_dialogue": "## Justice Jackson",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 23,
+      "target_dialogue": "## Justice Gorsuch\n### Justice Gorsuch:\nChecking the street sign, is that -- is that, you know, asking too much?\n### Frederick Liu:\nWhat I would say is exactly what the courts below found, which is that\nthe officers here made a reasonable mistake as to where they were.\nThe allegation from Petitioners' claims is that they should have done\nmore.\nThey should have stopped and got out of the caravan of vehicles and\nchecked the street sign.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 24,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\nBut, I guess, Mr. Liu, the question is: How does that really differ from\nColesville? I mean, the problem that I think is sort of what is happening\nin your analysis is that you say that the Colesville conduct does not fall\nwithin the discretionary-function exception, which seems to me to be a\nconcession that even if we agree with you that these aren't in two\nseparate categories, law enforcement and discretionary function, we\nstill have to figure out how broad the discretionary-function exception\n### Frederick Liu:\nYeah.\n### Frederick Liu:\nThe conduct is Collinsville flunks the first step of the Gaubert two-part\ntest.\n### Justice Jackson:\nAnd is that the discretionary-function test?\n### Frederick Liu:\nYes.\n### Justice Jackson:\nAll right.\nSo then we are having to assess the scope of the discretionary function\nin this conduct -- in this context.\n### Frederick Liu:\nI don't think so.\n### Justice Jackson:\nout of the question presented, we can't look at it, and you're still\nanswering these questions in this way.\n### Frederick Liu:\nNo, because I -- I -- I think this case comes to the Court on the\nassumption, as the court --courts below found at 17 to 18a and at 58a,\nthat the conduct here did satisfy Gaubert's two-part test. Now the only\nout that Petitioners have left then is to say that the proviso nevertheless\nremoves those claims from the scope of (a).\nThat's what I took to be the threshold statutory question that this Court\ngranted cert to decide.",
+      "justice_name": "Justice Jackson",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Jackson most likely ask next?",
+          "options": {
+            "A": "What factors determine law enforcement liability?",
+            "B": "How does the government establish immunity?",
+            "C": "What are the elements of negligence claims?",
+            "D": "And is that the discretionary-function test?"
+          },
+          "answer": "D",
+          "target_justice": "Justice Jackson",
+          "debug_info": {
+            "correct_answer": "And is that the discretionary-function test?",
+            "fake_questions": [
+              "What factors determine law enforcement liability?",
+              "What are the elements of negligence claims?",
+              "How does the government establish immunity?"
+            ],
+            "all_generated_alternatives": [
+              "How does the government establish immunity?",
+              "What is the standard for intentional torts?",
+              "Can the statute permit civil suits against officers?",
+              "What are the elements of negligence claims?",
+              "Does jurisdiction impact this legal dispute?",
+              "What factors determine law enforcement liability?",
+              "How would you interpret the law enforcement proviso?",
+              "What exceptions apply to police misconduct cases?",
+              "What tests apply to federal employee conduct?",
+              "When can sovereign immunity be waived?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 5
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 25,
+      "target_dialogue": "## Justice Sotomayor\n### Justice Sotomayor:\nI --I'm sorry, counsel.\nYou're doing exactly what the other side is doing.\nYou are begging the question, which is how far is -- does the\ndiscretionary exception go.\nThe other side wants an absolute rule that all intentional torts are not\ncovered.\nYou want the opposite, which is, if there's any -- any discretion in the\nactivity, then no negligences or intentional actions are covered.\n### Justice Sotomayor:\nThe two of you are going into separate corners.\n### Frederick Liu:\nI --I'm not asking for an absolute rule.\n### Justice Sotomayor:\nYes, because you got a great decision below, but is that fair?\n### Frederick Liu:\nSometimes that test will result in the United States being exposed to\nliability.\nSometimes it won't.\nIt's not an absolute test.\nIf I may just address my friend's suggestion that the proviso did nothing\nwhen Congress enacted it, we don't view that to be the case.\nBefore the proviso was enacted, officers like Guerra had two layers of\nprotection from liability.\nThey had the discretionary-function exception and then they had an\nextra special layer of protection provided by subsection (h), which gave\nthe United States blanket immunity for any claim based on a particular\ntype of tort.\nWhat the proviso did was remove that special layer of protection, but it\n### Justice Sotomayor:\nThat -- that -- that is so ridiculous.\nCongress is looking at the Collinsville raid and providing a remedy to\npeople who have been wrongfully raided, and you're now saying, no,\nthey really didn't want to protect them fully.\nThey were just going to take them out of that exception but leave in the\ndiscretionary exception.\nI gave you discretion in Collinsville. The officers are permitted to break\ninto a home if they think an emergency existed.\nThat's why those officers did that.\n### Frederick Liu:\nYeah.\n### Justice Sotomayor:\nThey may have been wrong about the emergency existing.\nThey may have been wrong about the warrant law.\nBut, under your test, it's their discretion to arrest when they think\nthere's an emergency.\n### Frederick Liu:\nWhat -- what --what -- what we understand the proviso to do is to\nremove that blanket special layer of protection in (h).\nThat requires the U.S. in these types of cases to battle it out under the\ndiscretionary-function exception. And that's quite significant because\nthere's a large set of cases that are going to flunk this Court's two -part\ntest in Gaubert, chief among them the raids in Collinsville.\n### Justice Sotomayor:\nThey'll flunk the --that's right, flunk it.\nAll right. Thank you.\n### Frederick Liu:\nSo, by removing the proviso, it exposes -- it requires the United States\nto hash it out under the discretionary-function exception.\nAs I -- as I say, there are plenty of cases that are going to fall outside\nthat discretionary-function exception.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 26,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nIs there anything else you wanted to add to that point?\n### Frederick Liu:\nThank you.\n### Chief Justice Roberts:\nThank you. Justice Thomas?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 27,
+      "target_dialogue": "## Justice Alito\n### Justice Alito:\n? No? Justice Kagan? No?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 28,
+      "target_dialogue": "## Justice Kavanaugh",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 29,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Kavanaugh?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 30,
+      "target_dialogue": "## Justice Kavanaugh\n### Justice Kavanaugh:\nJust so I'm clear, we can say the Supremacy Clause is not a bar.\nI know you don't want us to reach that, but we can say that.\nWe can say the proviso does not apply beyond (h).\nAnd we can stop there and leave questions about how to apply the\ndiscretionary- function exception to the facts of this case for remand,\ncorrect?\n### Frederick Liu:\nThat's right.\nI would say that the courts below already did that analysis, and so a\n### Justice Kavanaugh:\nBut, if so, they can say that?\n### Frederick Liu:\nThey can say that again on remand.\n### Justice Kavanaugh:\nThank you.\n### Frederick Liu:\nThanks.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 31,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Barrett?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 32,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\n?\nCan I just -- before you leave the podium, can I just ask you about your\npoint that we should not reach the Supremacy Clause question? I guess I\nhave a concern about our jurisdiction in this particular set of -- this\nparticular situation because I'm looking at 28 U.S.C.\n1254, which outlines our certiorari jurisdiction.\nIt allows us to hear appeals from lower courts by writ of certiorari\ngranted upon the petition of any party.\nAnd the only question that we're looking at now that was put to us by\npetition is the Supremacy Clause question.\nThe government in this case asked us in the bio to add the third -- what\nwe now call the second question.\n### Frederick Liu:\nMm-hmm.\n### Justice Jackson:\nAnd so I guess I don't understand that -- you know, I appreciate that we\ncould also hear that question, but I'm a little worried about suggesting\nthat we can exercise jurisdiction to resolve a question that never\nappeared -- only a question that never appeared any --in any cert\npetition before us.\n### Frederick Liu:\nYeah, I --I don't think that's quite right.\nI --I understand the granting of the petition to be necessary for this\n### Justice Jackson:\nThen we can totally change it and add questions that don't exist?\n### Justice Jackson:\nThat weren't there?\n### Frederick Liu:\nI do think it's within this Court's discretion at that point to decide for\nto decide in reviewing the judgment below because that's ultimately\nwhat's -- what's being reviewed, is the judgment.\n### Justice Jackson:\nOkay.",
+      "justice_name": "Justice Jackson",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Jackson most likely ask next?",
+          "options": {
+            "A": "Are there limitations on the topics we can include in a petition?",
+            "B": "Can the Court change its jurisdiction based on new circumstances?",
+            "C": "Can we amend the questions before the arguments are presented?",
+            "D": "Then we can totally change it and add questions that don't exist?"
+          },
+          "answer": "D",
+          "target_justice": "Justice Jackson",
+          "debug_info": {
+            "correct_answer": "Then we can totally change it and add questions that don't exist?",
+            "fake_questions": [
+              "Can we amend the questions before the arguments are presented?",
+              "Are there limitations on the topics we can include in a petition?",
+              "Can the Court change its jurisdiction based on new circumstances?"
+            ],
+            "all_generated_alternatives": [
+              "Can we amend the questions before the arguments are presented?",
+              "What is the standard for including new legal issues in a case?",
+              "How do we determine if a question is relevant to the appeal?",
+              "Are there limitations on the topics we can include in a petition?",
+              "Could we request an extension to clarify our main arguments?",
+              "What precedents govern our authority to modify the cert petition?",
+              "When can new theories be introduced in a legal argument?",
+              "How do jurisdictional matters affect the types of questions posed?",
+              "What grounds support the addition of unrequested questions?",
+              "Can the Court change its jurisdiction based on new circumstances?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 6
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 33,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nMr. Mills.\n### Christopher E. Mills:\nMr. Chief Justice, and may it please the Court: The FTCA does not make\nthe United States liable for lawful acts of its agents.\nThat is true for three reasons.\nFirst, Section 2674 makes the government liable only to the same\nextent as a private person in like circumstances under state law, and a\nprivate person cannot face state liability that conflicts with federal law.\nSecond, Section 2674 reserves any other defenses, including those only\navailable to government agents.\nGovernment agents are not liable for acts within their federal duties.\nThird, a federal court in an FTCA case stands in state court shoes, which\nmeans it must consider applicable federal law.\nOtherwise, the United States would be liable where a private person and\na government agent would not, contradicting the statute.\nThus, the United States can have a Supremacy Clause defense in FTCA\ncases.\nI welcome the Court's questions.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 34,
+      "target_dialogue": "## Justice Thomas\n### Justice Thomas:\nThe -- I --I don't quite understand your argument.\nI think you suggest that you can raise sovereign immunity as a defense,\na private individual?\n### Christopher E. Mills:\nNo, Your Honor.\nMy -- my argument is that a private individual can raise the Supremacy\n### Justice Thomas:\nOkay.\n### Justice Thomas:\nOkay.\n### Christopher E. Mills:\nAnd -- and they have in this Court's case law.\nSo Hunter versus Wood involves the government -- the --this Court\ngiving a Supremacy Clause defense to a private railroad ticket agent who\nwas following federal law.\n### Justice Thomas:\nDo you think that a private individual can enforce federal law?\n### Christopher E. Mills:\nYes, Your Honor.\nSo I think Hunter is -- is a perfect example of that. There, the railroad\nagent was following a federal court order.\nHere, you have something similar with the agents following the\nwarrant. You also have that sort of flavor in other cases.\nFor example, when an airline denies boarding to someone who, under\nFAA regulations, doesn't show the proper ID, that's another example of\na federal law duty.\n### Justice Thomas:\nWhy do you think the Eleventh Circuit took this tack of sovereign\nimmunity?\n### Christopher E. Mills:\nSo I -- I --I don't dispute the -- the parties' contention that there\nand its interpretation of the intentional tort proviso. But, more\nimportantly, I think the Eleventh Circuit was right.\nI think their position follows from Section 2674.",
+      "justice_name": "Justice Thomas",
+      "total_justice_questions": 3,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Thomas most likely ask next?",
+          "options": {
+            "A": "Do you think that a private individual can enforce federal law?",
+            "B": "What role do private citizens play in law enforcement?",
+            "C": "Can a private party challenge a federal statute's validity?",
+            "D": "Can federal law preempt state law in this context?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Thomas",
+          "debug_info": {
+            "correct_answer": "Do you think that a private individual can enforce federal law?",
+            "fake_questions": [
+              "Can a private party challenge a federal statute's validity?",
+              "Can federal law preempt state law in this context?",
+              "What role do private citizens play in law enforcement?"
+            ],
+            "all_generated_alternatives": [
+              "Can a private party challenge a federal statute's validity?",
+              "How does sovereign immunity apply to private individuals?",
+              "What is the process for individuals to report federal violations?",
+              "Can federal law preempt state law in this context?",
+              "How do administrative agencies enforce federal regulations?",
+              "What role do private citizens play in law enforcement?",
+              "Can individuals file lawsuits against federal officials for misconduct?",
+              "How does federal jurisdiction relate to state court cases?",
+              "Is there a civil remedy for violations of federal law?",
+              "When can a person invoke the Supremacy Clause in court?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 7
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Thomas most likely ask next?",
+          "options": {
+            "A": "Why do you think the Eleventh Circuit took this tack of sovereign\nimmunity?",
+            "B": "What factors influenced the Eleventh Circuit's interpretation of the discretionary-function exception?",
+            "C": "What constitutional principles underlie the Eleventh Circuit's assessment of liability?",
+            "D": "What role does legislative intent play in the Eleventh Circuit's decision-making process?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Thomas",
+          "debug_info": {
+            "correct_answer": "Why do you think the Eleventh Circuit took this tack of sovereign\nimmunity?",
+            "fake_questions": [
+              "What factors influenced the Eleventh Circuit's interpretation of the discretionary-function exception?",
+              "What role does legislative intent play in the Eleventh Circuit's decision-making process?",
+              "What constitutional principles underlie the Eleventh Circuit's assessment of liability?"
+            ],
+            "all_generated_alternatives": [
+              "What factors influenced the Eleventh Circuit's interpretation of the discretionary-function exception?",
+              "How does the Eleventh Circuit's approach reflect general trends in sovereign immunity law?",
+              "What role does legislative intent play in the Eleventh Circuit's decision-making process?",
+              "Why might the Eleventh Circuit have limited its ruling to specific tort claims only?",
+              "What legal precedents support the Eleventh Circuit's stance on this issue?",
+              "How do procedural safeguards relate to the Eleventh Circuit's handling of immunity claims?",
+              "What implications does the Eleventh Circuit's decision have for future federal claims?",
+              "How would the court's rules influence previous interpretations of federal law in this jurisdiction?",
+              "What constitutional principles underlie the Eleventh Circuit's assessment of liability?",
+              "Have other circuits approached the issue of sovereign immunity similarly to the Eleventh Circuit?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 7
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 35,
+      "target_dialogue": "## Justice Kagan\n### Justice Kagan:\nBut I guess, Mr. Mills -- I --I mean, you're -- you're -- you're quite\nright, of course, that private parties can raise preemption arguments\nand that the United States could raise the same sort of preemption\narguments.\nBut I guess the question that I have is, how is that really relevant to this\ncase? Because that's not the nature of the immunity defense that the\nEleventh Circuit applied here. It wasn't a statutory preemption sort of\nargument.\nIt was a, you know, basic sovereign immunity kind of argument.\n### Christopher E. Mills:\nI --I disagree, Your Honor.\nI think it was a standard preemption analysis, just like this Court's\ndecision in Neagle.\nAnd so I think Neagle is -- is a prong of this Court's statutory\npreemption analysis that obviously comes up more rarely than the\ntypical preemption cases, but it involves the exact same conflict\nbetween federal law says you must do this and state law says you can't\ntake this action reasonably necessary to do that.\nSo I think that there --you do have the same implied conflict that you\nwould in other statutory preemption cases.\nAnd -- and I think the private person -- you know, the -- the key there\nis that it's in like circumstances.\nSo, you know, as an example, I would point the Court to 28 U.S.C. 530B,\nwhich says federal government attorneys are subject to state rules of\nprofessional conduct \"to the same extent as other attorneys in that\nstate.\" And the lower courts and the federal government have read that\nlanguage --look at their BIO in 1613-23 --to mean that a preemption\ndefense is available even though the federal statute references or\nincorporates the state rules.\nThe government says no attorney can be subject to a state rule that\nconflicts with federal law, and because government attorneys are -- are\nsubject to them only to the same extent, therefore, neither --neither\ncan the government attorneys.\nAnd that's the exact same point I'm making here.\nNo private person can face state liability that conflicts with and thus is\npreempted by federal law.\nAnd so, within the scope of 2674, neither can the United States.\nBut, even if you set -- set aside the private individual aspect, you still\nhave the -- the third paragraph in Section 2674, which -- which\nprovides any other defenses, including defenses available -- available\nto government agents.\nOn the Petitioners' theory, Neagle, in the famous case where he\nprotected Justice Field, escapes liability because he had a federal duty.\nMrs. Terry, the wife of the assailant, could turn around and sue the\nUnited States for damages, and the United States would be civilly liable\neven though Neagle was performing his federal duties.\nSame thing in this case.\nIf the agents had gone to the right house, under their theory, and state\ntort liability would have applied under whatever the state law happens\nto be, the United States would be civil -- civilly liable for money\ndamages for going to the right house.\nSo I think that that underscores that there has to be a Supremacy Clause\ndefense available when the federal agent was -- was acting within their\nfederal duties. And --and then the last -- last aspect I would point to is\nthis Court's decisions in Richards and Hess, where --where the Court\nsaid you have to consider applicable federal law.\nAgain, the Court said that's the only way to make sure that the statute\ndoesn't extend more liability to the United States than that faced by\nprivate individuals or --or the government agents.\nand --and that follows directly from this Court's decision in Neagle and\nthe rest of the Supremacy Clause defense cases we cite.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 36,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\nMr. Mills, to be clear, the Eleventh Circuit is the only circuit that has\nadopted this particular line of thinking with respect to these kinds of\ncases, is that right?\n### Christopher E. Mills:\nThat's right.\nNo other court has considered it one way or the other.\n### Justice Jackson:\nAnd how long? Do you know how long this has been the precedent in the\nEleventh Circuit, the application of the Supremacy Clause in this way?\n### Christopher E. Mills:\nSince 2009.\n### Justice Jackson:\nThank you.\n### Christopher E. Mills:\nAnd -- and in the -- in that 15 years, there have only been three cases\nbefore the Eleventh Circuit.\nThe Supremacy Clause defense more broadly, the Cobb article we cite in\nthe brief says that since 1787, there have only been 59 cases involving a\nSupremacy Clause defense.\nSo, contrary to the Petitioners' argument, this is not a defense that\nwould swamp the FTCA.\nIt simply means that when the federal agents are performing their\nfederal duties, the United States can't be liable in money damages.",
+      "justice_name": "Justice Jackson",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Jackson most likely ask next?",
+          "options": {
+            "A": "And how long? Do you know how long this has been the precedent in the\nEleventh Circuit, the application of the Supremacy Clause in this way?",
+            "B": "How does the Eleventh Circuit's application of the Supremacy Clause compare to other circuits regarding federal law?",
+            "C": "What federal standards govern how the Supremacy Clause is applied in cases involving state law?",
+            "D": "Can you explain the rationale behind the Eleventh Circuit's current stance on sovereign immunity in tort cases?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Jackson",
+          "debug_info": {
+            "correct_answer": "And how long? Do you know how long this has been the precedent in the\nEleventh Circuit, the application of the Supremacy Clause in this way?",
+            "fake_questions": [
+              "How does the Eleventh Circuit's application of the Supremacy Clause compare to other circuits regarding federal law?",
+              "Can you explain the rationale behind the Eleventh Circuit's current stance on sovereign immunity in tort cases?",
+              "What federal standards govern how the Supremacy Clause is applied in cases involving state law?"
+            ],
+            "all_generated_alternatives": [
+              "What is the historical significance of the Eleventh Circuit's interpretation of the Supremacy Clause in federal cases?",
+              "How does the Eleventh Circuit's application of the Supremacy Clause compare to other circuits regarding federal law?",
+              "What duration has the Eleventh Circuit recognized for application of constitutional defenses in tort claims?",
+              "Can you explain the rationale behind the Eleventh Circuit's current stance on sovereign immunity in tort cases?",
+              "What federal standards govern how the Supremacy Clause is applied in cases involving state law?",
+              "When did the Eleventh Circuit first adopt the discretionary-function exception in its case law?",
+              "What trends can be observed in the Eleventh Circuit's treatment of tort claims involving federal law?",
+              "In what ways has public policy influenced the Eleventh Circuit's decisions regarding federal immunity?",
+              "What are the core arguments against the Eleventh Circuit's interpretation of the Supremacy Clause?",
+              "How does the timing of this case impact the application of the Eleventh Circuit's doctrine on federal law?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 8
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 37,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nAnything further?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 38,
+      "target_dialogue": "## Justice Alito\n### Justice Alito:\n? Justice Sotomayor? Justice Barrett?\nThank you, counsel. Rebuttal?\n### Patrick M. Jaicomo:\nThank you, Your Honor. I'd like to respond to a few of the questions that\ncame up when my friend from the government was discussing things\nwith --with the Court.\nThe first thing I'd like to point out along the lines of what Justice\nSotomayor was asking is that the government's position in this case and\nthe Eleventh Circuit's decision below, their understanding of the\ndiscretionary-function exception would do two things.\nOne, it would eat up almost all of the entire FTCA, but, two, more\nimportantly, it would certainly eat up all the claims that the proviso was\nenacted to provide liability for.\nAnd, here, the language of the proviso itself is very direct.\nBut the Senate report backs that language up, and, there, the Senate\ntalked about the fact that what they were doing was removing a barrier\nto liability, not just a barrier so the rest of the FTCA could then still get in\nthe way, even though the officers had violated the proviso.\nAnd so to say that subsection (a) still applies to bar almost all of, unless\nyou take the government's qualified immunity application, the claims\nthat the proviso raises would mean that Congress has enacted a\ncompletely useless law in 1974.\nThat simply can't be the case.\nEven addressing it to the circumstances of Collinsville, as",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 39,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\nasked questions about, or this case, Gaubert doesn't apply.\nThe government gets around this by taking the position that the\nEleventh Circuit has taken, which is to say, unless there is something\ntelling you you can't do this, and the something either has to be a\nstatute or a clearly established law, you have discretion.\nThat's not what Gaubert says.\nThere's a whole step two to the analysis, which none of the courts in the\nEleventh Circuit or elsewhere that take a broader approach considered.\nOf course, there's discretion in the colloquial sense when police are\nraiding a house.\nBut that discretion is not legislative or administrative decision -making\ngrounded in social or economic policy.\nIt's the same discretion we see with driving a car or flying a plane or\nseizing horses in the Hadley case.\nAnd so it simply can't be the case that what Congress did when it\nenacted the proviso was to say: Even though the officers in this case had\na warrant commanding them to go to one address, there was discretion\nfor them to go to another.\nSo they should lose on step one.\nIf we get to step two, there's no question that there was no policy here.\nAs my friend said, the government's policy is to raid the right house.\nThey didn't do that.\nThe preparation is kind of immaterial to the ultimate result here.\nIf you really, really meant to drop the pizza off at the right address, it\ndoesn't matter, you still need to give a refund if you drop it off at the\nwrong address.\nEven then, if we look just to the concept of the conflict of the language,\nwe assume that there's a conflict, which, again, we do not think the\nCourt should do and the Court does not need to do.\nThe decision in Alaska is on point with this case.\nWe talk about colons and periods and indentations and --and the\npreamble.\nAll of that stuff was available in Alaska.\nThe government was on the wrong side of that case, and it made the\narguments we are now making, and those arguments prevailed.\nAnd, in fact, even the dissenting justices cited things that now support\nus here.\nUnlike in Alaska, where the proviso was limited to such claims, here, we\nhave an affirmative freestanding rule, as Justice Scalia requested.\nAnd unlike in Alaska, here, it doesn't --it doesn't matter that this was in\nthe middle of the -- the set of exceptions, because Alaska was the same\nway.\nThe Submerged Lands provision was (m), this other provision was (e).\nNone of that mattered.\nWhat's very clear here from the language Congress enacted and from\nthe fact that it took the time to add this amendment was that they\nwanted the claims if they satisfied the proviso to move forward.\nAnd it's crucial to keep in mind that if Petitioners win on this issue, they\ndon't win this case.\nWe're fighting to get a day in court where then we can duke it out over\nthe elements of torts and defenses in the Georgia -- under the Georgia\nelements standard.\nSo it's not as if this case being decided by this Court will even render the\ngovernment liable.\nWe still have more steps to take, but we want to be able to take those\nsteps.\nAnd through the law enforcement proviso, Congress --Congress said\nthat we should be able to take those steps.\nNow, on the question about the -- the second question presented in\njurisdiction, I can't say whether there's a jurisdictional problem, but\nwhat I can tell you is that when we wrote our QP and then saw the\ngovernment's suggested language for narrowing it, we understood that\nto mean our QP but narrowed.\nIf it was a completely separate issue that assumed the scope covered our\nconditional cross-petition. But we didn't, and we rightly understood\nthen that when this Court did that, it was narrowing our question to the\nspecifics that the government offered, as the government says at page\n22 of its BIO.\nThat narrowing still requires the Court to consider to some extent the\nscope of the discretionary-function exception, and if it doesn't, the\ngovernment's theory, which has prevailed across most of the circuits,\nthat anything that has any element of judgment or choice is good\nenough to get you into that exception means that the FTCA will become\nlargely a nullity.\nThis covers cases like the law enforcement proviso cases, but it also\ncovers the more run-of-the-mill cases like VA malpractice, where,\nobviously, a doctor has as much discretion to decide which artery to",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 40,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nThank you.\n### Patrick M. Jaicomo:\nThank you.\n\n### Chief Justice Roberts:\nMr. Mills, this Court appointed you to brief and argue this case as an\namicus curiae in support of the judgment below.\nYou have ably discharged that responsibility, for which we are grateful.\nThe case is submitted.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    }
+  ],
+  "answer_distribution": {
+    "counts": {
+      "A": 5,
+      "B": 3,
+      "C": 3,
+      "D": 6
+    },
+    "percentages": {
+      "A": 29.411764705882355,
+      "B": 17.647058823529413,
+      "C": 17.647058823529413,
+      "D": 35.294117647058826
+    },
+    "total_questions": 17
+  }
+}

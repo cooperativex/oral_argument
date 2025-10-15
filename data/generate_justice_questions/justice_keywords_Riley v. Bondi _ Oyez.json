@@ -1,0 +1,1251 @@
+{
+  "source_file": "Riley v. Bondi _ Oyez.md",
+  "background": "Chief Justice Roberts\n### Chief Justice Roberts:\nWe'll hear argument next in Case 23-1270, Riley versus Bondi.\nMr. Bradley.\n### Keith Bradley:\nMr. Chief Justice, and may it please the Court: A sensible scheme of\njudicial review would provide a right to review on a petition properly\nfiled, particularly on matters of life and death where errors left\nuncorrected are so contrary to the fundamental policies of the United\nStates.\nBut it also would not have the courts routinely intrude while the agency\nis still doing its work.\nWhen the agency is deliberating where a non-citizen can be sent in light\nof an objection duly raised in the ordinary processes, that work is\nongoing.\nAmicus's proposal would mean that a non-citizen like Petitioner is\nallowed to seek a Court's decision on withholding issues that the agency\nhas barely begun to assess.\nThe INA does not suggest that Congress intended that surprising result.\nInstead, the statute is consistent with common sense.\nRegarding jurisdiction, Santos-Zacaria already explained that Stone\nwas not a holding on that point.\nThe Court should adhere to what it said there.\nAnd, certainly, 1252(b)(1) does not rank as jurisdictional under the\nmodern rubric.\nI welcome the Court's questions.",
+  "conversations": [
+    {
+      "conversation_id": 1,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nDid Petitioner seek a review of the order -- removal order?\n### Keith Bradley:\nWe are seeking -- we are not seeking review of his removability.\nWe are seeking review of the CAT decision, Your Honor.\n### Justice Thomas:\nBut the -- the only jurisdiction we have is over the removal order.\n### Keith Bradley:\nI -- I think that's -- I -- I would -- I would question that premise, Your\nHonor.\n### Justice Thomas:\nOr a final order. Excuse me, a final order.\n### Keith Bradley:\nThe --the Court -- the statute allows the Court to conduct review\nwithin 30 days of a final order from removal, but it also clearly says the\nCourt has jurisdiction to review a CAT order as the Court explained in\nNasrallah already.\n### Justice Thomas:\nHave we ever said that you could do that independent of the final order?\n### Keith Bradley:\nI -- not independent in the sense -- and that is exactly the problem,\nYour Honor.\nI think that the sensible approach is to wait until the agency has\nconcluded all of its work, and then you have one petition that\nencompasses removability, the order of removal, and the CAT questions\nthat are at issue.\n### Justice Thomas:\nDoes the CAT question then convert the -- the final order into a broader\nfinal order by attaching itself to that?\n### Keith Bradley:\nI think what Nasrallah teaches us, like -- certainly, is that it does not\nconvert the -- a CAT order that says -- that -- that denies CAT relief is\nnot converting the final order into something else, except from the\ntiming of it and what gets decided is affecting the finality, because as we\nexplained in the brief, and I believe the government agrees, where you\ncan be sent is something that remains to be decided.\nThe -- the removal order under the government's regulations has to tell\nyou where you're going to be sent.\nYou have an opportunity to object right --right then.\nIf the process results in that being -- that -- that where not working,\nthen they are going to tell you where else.\nAnd then you might proceed into another.\nSo -- so it does not affect the removability.\n### Justice Thomas:\nSo do you have -- what's your best textual hook for that?\n### Keith Bradley:\nI'm sorry, for -- for which, hook for what?\n### Justice Thomas:\nFor your --for your argument that the CAT order has to be -- it can\nexpand the time limit of the final order.\n### Keith Bradley:\nSo it -- it turns on what \"final\" means, Your Honor.\nAnd the -- the statute, we submit, obviously it explains what makes\nsomething final in certain circumstances. And aside from that, it's a\nword that this Court has interpreted in many contexts to mean that the\nagency's decision-making is full and complete on all issues, that the\nagency has disassociated itself from the decision-making process.\nThat's the word \"final.\"",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Does the ____________ then convert the -- the final order into a broader\nfinal order by attaching itself to that?\"",
+          "options": {
+            "A": "CAT appeal",
+            "B": "CAT ruling",
+            "C": "CAT question",
+            "D": "CAT standard"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "CAT question",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 1,
+              "speaker": "Justice Thomas",
+              "original_statement": "Does the CAT question then convert the -- the final order into a broader\nfinal order by attaching itself to that?"
+            },
+            "explanation": "This phrase refers to the Convention Against Torture, which raises complex legal issues regarding the treatment of non-citizens and the standards for judicial review in asylum cases."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Does the CAT question then convert the -- the ____________ into a broader\nfinal order by attaching itself to that?\"",
+          "options": {
+            "A": "interim decision",
+            "B": "conclusive order",
+            "C": "preliminary ruling",
+            "D": "final order"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "final order",
+            "category": "legal_concept",
+            "difficulty": "medium",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 1,
+              "speaker": "Justice Thomas",
+              "original_statement": "Does the CAT question then convert the -- the final order into a broader\nfinal order by attaching itself to that?"
+            },
+            "explanation": "This term is crucial in understanding the implications of judicial decisions and the finality of agency actions in immigration law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Does the CAT question then convert the -- the final order into a broader\nfinal order by ________________________?\"",
+          "options": {
+            "A": "detaching itself from that",
+            "B": "attaching itself to this",
+            "C": "attaching itself to that",
+            "D": "connecting itself to those"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "attaching itself to that",
+            "category": "legal_concept",
+            "difficulty": "medium",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 1,
+              "speaker": "Justice Thomas",
+              "original_statement": "Does the CAT question then convert the -- the final order into a broader\nfinal order by attaching itself to that?"
+            },
+            "explanation": "This phrase prompts analysis of how legal arguments can evolve and expand based on additional claims or questions raised during judicial proceedings."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"For your --for your argument that __________________ has to be -- it can\nexpand the time limit of the final order.\"",
+          "options": {
+            "A": "the CAA order",
+            "B": "the CAT order",
+            "C": "the CAP order",
+            "D": "the CAT appeal"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "the CAT order",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 2,
+              "speaker": "Justice Thomas",
+              "original_statement": "For your --for your argument that the CAT order has to be -- it can\nexpand the time limit of the final order."
+            },
+            "explanation": "This phrase references the Convention Against Torture (CAT), which is crucial for understanding the legal standards regarding the treatment of non-citizens and the implications of such orders in judicial review."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"For your --for your argument that the CAT order has to be -- it can\n________________________ of the final order.\"",
+          "options": {
+            "A": "extend the filing period",
+            "B": "lengthen the response timeframe",
+            "C": "increase the review duration",
+            "D": "expand the time limit"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "expand the time limit",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 2,
+              "speaker": "Justice Thomas",
+              "original_statement": "For your --for your argument that the CAT order has to be -- it can\nexpand the time limit of the final order."
+            },
+            "explanation": "This phrase challenges students to consider the implications of judicial authority in extending statutory deadlines, which is a significant aspect of administrative law and judicial review."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"For your --for your argument that the CAT order has to be -- it can\nexpand the time limit of the ____________.\"",
+          "options": {
+            "A": "interim judgment",
+            "B": "provisional order",
+            "C": "final order",
+            "D": "preliminary ruling"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "final order",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 2,
+              "speaker": "Justice Thomas",
+              "original_statement": "For your --for your argument that the CAT order has to be -- it can\nexpand the time limit of the final order."
+            },
+            "explanation": "Understanding what constitutes a 'final order' is essential for grasping the procedural aspects of judicial review and the limits of appellate jurisdiction."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 2,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nSo one definition in the statute, at least the courts on amicus's side\nargued -- or concede that the one issue that defines finality is when the\nBoard concludes its work, correct?\n### Keith Bradley:\nWhen the Board concludes its work, that -- that -- that is correct.\n### Justice Sotomayor:\nOkay.\n### Keith Bradley:\nThat's right.\n### Keith Bradley:\nAbsolutely, correct.\n### Justice Sotomayor:\nBecause it will change -- the final order says you're --you are\nremovable, you're going to X country.\nAnd the CAT order will say no, make it Y country.\nSo there is an amendment.\n### Keith Bradley:\nThere -- there -- there is -- there is an amendment, that's right.\n### Justice Sotomayor:\nSo this is almost like a conviction and a sentence, meaning the\nconviction is final in a court -- in a district court, until you appeal it, and\nthe -- but you wait for the sentence for the appeal because you want the\ncourt to finish with everything at once.\n### Keith Bradley:\nI -- I think you have it exactly right, that --that analogy.\nAnd Nasrallah was familiar with that analogy, of course.\n### Justice Sotomayor:\nThat's the one it gave.\n### Justice Sotomayor:\nAll right.\nNow, Congress does use the word \"administrative\" in a different\nprovision, the detention provision.\n### Keith Bradley:\nCorrect.\n### Justice Sotomayor:\n1252.\nSo there they said when an order is administratively filed, meaning\nwhen the agency has finished on this particular question.\nBut it uses a different word, final order of removal, here.\nThat difference, how does it play into your argument?\n### Keith Bradley:\nThat difference, I think, is -- is good support for us in that\n\"administratively final,\" presumably the \"administratively\" means\nsomething.\nIt points us to that moment is a different moment from the moment\nwhen the -- when the order is final for purposes of judicial review.\nTherefore, we would expect -- not necessarily in every case -- but we\nwould expect that, conceptually, administratively different \"final\" is\ndifferent from \"final.\" And so that point, that Guzman Chavez pointed\nout, when detention can begin because one issue in the case has been\nresolved is different from the case point when everything is finished,\nwhen the agency has fully finished with its work.\nThat's final for judicial review.\n### Justice Sotomayor:\nThank you.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 4/10",
+      "complexity_score": 4
+    },
+    {
+      "conversation_id": 3,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJust on the 30-day deadline, do you understand our position to be that\nwe're never going to find jurisdictional bar again? (Laughter.)\n### Keith Bradley:\nCertainly not.\nI -- I think that the re are --there may well be one out there.\nI have not canvassed the U.S. Code. But the -- the Court has been -- has\ntime bar is jurisdictional. And there's nothing here --more here than\nthe others that have not been jurisdictional.\n### Chief Justice Roberts:\nWell, I mean, there is the fact that they applied equitable tolling in the\nprior --the -- the -- the Stone case and said equitable tolling was not\navailable, which sounds like something you would say if you're dealing\nwith a jurisdictional provision.\nIt referenced our limitations on certiorari and time to appeal, which\neverybody agrees are jurisdictional, I guess until the next case comes up,\nbut at least now everybody agrees that they're -- they're jurisdictional.\nI mean, is it really a magic words case, that the statute has to say \"and\nthis is jurisdictional\"?\n### Keith Bradley:\nIf I -- so I'm going to take that in two parts, if I could.\n### Chief Justice Roberts:\nYou can.\n### Keith Bradley:\nFirst thing is about whether this is a magic words case.\nI think if you look at everything in 1252 and the entire context, there are\nmany, many clues that this particular deadline is not jurisdictional.\nThey said jurisdiction when they meant it and they did not in (b)(1).\nIn addition, they removed particular wording that was in the pre-1996\nIRA that gave a specific point in time that is less clear under the\namendment, so there are -- there are these textual clues. But the\nsecond thing is to go back to your observations about Stone, whether\nthe equitable tolling could be available is in -- Stone's an excellent\nexample of something that mentioned that in passing and made no\ndifference to the case.\nNo one asked for equitable toll.\nWhat was asked for was a concept of non-finality that is just as available\nfor jurisdictional as for non-jurisdictional deadlines.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Just on the ____________, do you understand our position to be that\nwe're never going to find jurisdictional bar again? (Laughter.)\"",
+          "options": {
+            "A": "60-day timeline",
+            "B": "30-day deadline",
+            "C": "90-day limit",
+            "D": "15-day requirement"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "30-day deadline",
+            "category": "statute",
+            "difficulty": "medium",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 1,
+              "speaker": "Chief Justice Roberts",
+              "original_statement": "Just on the 30-day deadline, do you understand our position to be that\nwe're never going to find jurisdictional bar again? (Laughter.)"
+            },
+            "explanation": "This phrase refers to a specific statutory timeframe that may affect jurisdictional issues, testing the understanding of procedural requirements in legal contexts."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Just on the 30-day deadline, do you understand our position to be that\nwe're never going to find ____________ again? (Laughter.)\"",
+          "options": {
+            "A": "jurisdictional limit",
+            "B": "jurisdictional exception",
+            "C": "jurisdictional scope",
+            "D": "jurisdictional bar"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "jurisdictional bar",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 1,
+              "speaker": "Chief Justice Roberts",
+              "original_statement": "Just on the 30-day deadline, do you understand our position to be that\nwe're never going to find jurisdictional bar again? (Laughter.)"
+            },
+            "explanation": "This phrase challenges students to understand the implications of jurisdictional limitations and how they can affect a court's ability to hear a case."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Just on the 30-day deadline, do you understand our position to be that\nwe're ________________________ jurisdictional bar again? (Laughter.)\"",
+          "options": {
+            "A": "never going to find",
+            "B": "never going to retrieve",
+            "C": "never going to locate",
+            "D": "never going to discover"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "never going to find",
+            "category": "other",
+            "difficulty": "medium",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 1,
+              "speaker": "Chief Justice Roberts",
+              "original_statement": "Just on the 30-day deadline, do you understand our position to be that\nwe're never going to find jurisdictional bar again? (Laughter.)"
+            },
+            "explanation": "This phrase indicates a judicial inquiry into the permanence of a legal principle, prompting analysis of judicial reasoning regarding jurisdiction."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, I mean, there is the fact that they applied ____________ in the\nprior --the -- the -- the Stone case and said equitable tolling was not\navailable, which sounds like something you would say if you're dealing\nwith a jurisdictional provision.\nIt referenced our limitations on certiorari and time to appeal, which\neverybody agrees are jurisdictional, I guess until the next case comes up,\nbut at least now everybody agrees that they're -- they're jurisdictional.\nI mean, is it really a magic words case, that the statute has to say \"and\nthis is jurisdictional\"?\"",
+          "options": {
+            "A": "equitable relief",
+            "B": "equitable tolling",
+            "C": "equitable jurisdiction",
+            "D": "equitable estoppel"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "equitable tolling",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 2,
+              "speaker": "Chief Justice Roberts",
+              "original_statement": "Well, I mean, there is the fact that they applied equitable tolling in the\nprior --the -- the -- the Stone case and said equitable tolling was not\navailable, which sounds like something you would say if you're dealing\nwith a jurisdictional provision.\nIt referenced our limitations on certiorari and time to appeal, which\neverybody agrees are jurisdictional, I guess until the next case comes up,\nbut at least now everybody agrees that they're -- they're jurisdictional.\nI mean, is it really a magic words case, that the statute has to say \"and\nthis is jurisdictional\"?"
+            },
+            "explanation": "This phrase reveals important judicial reasoning regarding the application of equitable tolling in relation to jurisdictional provisions, highlighting the complexities of how courts interpret statutory language."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, I mean, there is the fact that they applied equitable tolling in the\nprior --the -- the -- the Stone case and said equitable tolling was not\navailable, which sounds like something you would say if you're dealing\nwith a ____________.\nIt referenced our limitations on certiorari and time to appeal, which\neverybody agrees are jurisdictional, I guess until the next case comes up,\nbut at least now everybody agrees that they're -- they're jurisdictional.\nI mean, is it really a magic words case, that the statute has to say \"and\nthis is jurisdictional\"?\"",
+          "options": {
+            "A": "jurisdiction clause",
+            "B": "jurisdictional requirement",
+            "C": "jurisdictional provision",
+            "D": "jurisdictional standard"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "jurisdictional provision",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 2,
+              "speaker": "Chief Justice Roberts",
+              "original_statement": "Well, I mean, there is the fact that they applied equitable tolling in the\nprior --the -- the -- the Stone case and said equitable tolling was not\navailable, which sounds like something you would say if you're dealing\nwith a jurisdictional provision.\nIt referenced our limitations on certiorari and time to appeal, which\neverybody agrees are jurisdictional, I guess until the next case comes up,\nbut at least now everybody agrees that they're -- they're jurisdictional.\nI mean, is it really a magic words case, that the statute has to say \"and\nthis is jurisdictional\"?"
+            },
+            "explanation": "This phrase indicates a critical distinction in legal reasoning about what constitutes jurisdiction, which is essential for understanding the limits of judicial authority."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, I mean, there is the fact that they applied equitable tolling in the\nprior --the -- the -- the Stone case and said equitable tolling was not\navailable, which sounds like something you would say if you're dealing\nwith a jurisdictional provision.\nIt referenced our __________________________________________, which\neverybody agrees are jurisdictional, I guess until the next case comes up,\nbut at least now everybody agrees that they're -- they're jurisdictional.\nI mean, is it really a magic words case, that the statute has to say \"and\nthis is jurisdictional\"?\"",
+          "options": {
+            "A": "limitations on certiorari and scope of review",
+            "B": "limitations on jurisdiction and time to respond",
+            "C": "limitations on certiorari and time to appeal",
+            "D": "limitations on appeals and finality of decisions"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "limitations on certiorari and time to appeal",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 7,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 2,
+              "speaker": "Chief Justice Roberts",
+              "original_statement": "Well, I mean, there is the fact that they applied equitable tolling in the\nprior --the -- the -- the Stone case and said equitable tolling was not\navailable, which sounds like something you would say if you're dealing\nwith a jurisdictional provision.\nIt referenced our limitations on certiorari and time to appeal, which\neverybody agrees are jurisdictional, I guess until the next case comes up,\nbut at least now everybody agrees that they're -- they're jurisdictional.\nI mean, is it really a magic words case, that the statute has to say \"and\nthis is jurisdictional\"?"
+            },
+            "explanation": "This phrase references specific procedural rules that are recognized as jurisdictional, illustrating the intersection of statutory interpretation and judicial review."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, I mean, there is the fact that they applied equitable tolling in the\nprior --the -- the -- the Stone case and said equitable tolling was not\navailable, which sounds like something you would say if you're dealing\nwith a jurisdictional provision.\nIt referenced our limitations on certiorari and time to appeal, which\neverybody agrees are jurisdictional, I guess until the next case comes up,\nbut at least now everybody agrees that they're -- they're jurisdictional.\nI mean, is it really a __________________, that the statute has to say \"and\nthis is jurisdictional\"?\"",
+          "options": {
+            "A": "magic phrase doctrine",
+            "B": "magic words case",
+            "C": "magic language standard",
+            "D": "magic terms ruling"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "magic words case",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 2,
+              "speaker": "Chief Justice Roberts",
+              "original_statement": "Well, I mean, there is the fact that they applied equitable tolling in the\nprior --the -- the -- the Stone case and said equitable tolling was not\navailable, which sounds like something you would say if you're dealing\nwith a jurisdictional provision.\nIt referenced our limitations on certiorari and time to appeal, which\neverybody agrees are jurisdictional, I guess until the next case comes up,\nbut at least now everybody agrees that they're -- they're jurisdictional.\nI mean, is it really a magic words case, that the statute has to say \"and\nthis is jurisdictional\"?"
+            },
+            "explanation": "This phrase challenges the notion of whether statutory language must explicitly state jurisdictional intent, prompting deeper inquiry into statutory construction and judicial interpretation."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 4,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nMandatory claim processing, which are non-jurisdictional, you can't\nequitably toll either, correct?\n### Keith Bradley:\nAlso true.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 5,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nCounsel, I -- I just want to explore whether there's any daylight\nbetween your --your position and the government's position here.\nAnd one area that I wondered about was whether you think the CAT\norder itself is a final order of removal.\nPages 47, 48 of your brief kind of venture into that territory; whereas\nthe government would say: No, the final order of removal is at 1228\nFARRA, but it doesn't become final until after the CAT resolution.\nSo which is it?\n### Keith Bradley:\nSo I would say that there is a millimeter of deadline that will not matter.\nSo let me explain that.\nWe agree that the FARRA is an order of removal.\nWe agree with the government that that order of removal became final\nupon the conclusion of all of the administrative proceedings, when\neverything related -- relating to it was.\nIt -- it seems to us also that the Board's order was also an order of\nremoval that was, of course, final at the same time but you don't need\n### Justice Gorsuch:\nThat worries me with Nasrallah a little bit, if we were to say the CAT\norder is a final order of removal.\nThat seems to me to run head long into Nasrallah, but the government's\ntheory doesn't.\n### Keith Bradley:\nThe government's theory does not, I agree with you.\nAnd we share that theory as well.\nWe think that the FARRA was an order of removal that became final\nupon the completion of the proceedings.\n### Justice Gorsuch:\nIs there any other daylight between you and the government in this\ncase?\n### Keith Bradley:\nI can't think of any. Oh, actually, sorry, one more, which is that also not\nreally before the Court, which is that we think that the 30-day deadline\nis not -- is -- we agree that it's non-jurisdictional.\nWe think it's not mandatory either, but that --no -- no one is asking\nthe Court to decide that particular question.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Counsel, I -- I just want to explore whether there's any daylight\nbetween your --your position and the government's position here.\nAnd one area that I wondered about was whether you think the CAT\norder itself is a ________________________.\nPages 47, 48 of your brief kind of venture into that territory; whereas\nthe government would say: No, the final order of removal is at 1228\nFARRA, but it doesn't become final until after the CAT resolution.\nSo which is it?\"",
+          "options": {
+            "A": "final order of removal",
+            "B": "preliminary order of removal",
+            "C": "interim decision on removal",
+            "D": "final judgment of deportation"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "final order of removal",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 5,
+              "statement_index": 1,
+              "speaker": "Justice Gorsuch",
+              "original_statement": "Counsel, I -- I just want to explore whether there's any daylight\nbetween your --your position and the government's position here.\nAnd one area that I wondered about was whether you think the CAT\norder itself is a final order of removal.\nPages 47, 48 of your brief kind of venture into that territory; whereas\nthe government would say: No, the final order of removal is at 1228\nFARRA, but it doesn't become final until after the CAT resolution.\nSo which is it?"
+            },
+            "explanation": "This phrase probes the distinction between different types of orders in immigration law, requiring an understanding of the implications of finality in judicial review."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Counsel, I -- I just want to ______________________________\nbetween your --your position and the government's position here.\nAnd one area that I wondered about was whether you think the CAT\norder itself is a final order of removal.\nPages 47, 48 of your brief kind of venture into that territory; whereas\nthe government would say: No, the final order of removal is at 1228\nFARRA, but it doesn't become final until after the CAT resolution.\nSo which is it?\"",
+          "options": {
+            "A": "explore whether there's any daylight",
+            "B": "explore whether there's any overlap",
+            "C": "explore whether there's any daylighting",
+            "D": "explore whether there's any twilight"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "explore whether there's any daylight",
+            "category": "judicial_test",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 5,
+              "statement_index": 1,
+              "speaker": "Justice Gorsuch",
+              "original_statement": "Counsel, I -- I just want to explore whether there's any daylight\nbetween your --your position and the government's position here.\nAnd one area that I wondered about was whether you think the CAT\norder itself is a final order of removal.\nPages 47, 48 of your brief kind of venture into that territory; whereas\nthe government would say: No, the final order of removal is at 1228\nFARRA, but it doesn't become final until after the CAT resolution.\nSo which is it?"
+            },
+            "explanation": "This phrase indicates the justice's inquiry into the nuances of legal arguments, testing the ability to discern subtle differences in legal positions."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"That worries me with Nasrallah a little bit, if we were to say the CAT\norder is a ________________________.\nThat seems to me to run head long into Nasrallah, but the government's\ntheory doesn't.\"",
+          "options": {
+            "A": "preliminary order of deportation",
+            "B": "final judgment of expulsion",
+            "C": "final decision on removal",
+            "D": "final order of removal"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "final order of removal",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 5,
+              "statement_index": 2,
+              "speaker": "Justice Gorsuch",
+              "original_statement": "That worries me with Nasrallah a little bit, if we were to say the CAT\norder is a final order of removal.\nThat seems to me to run head long into Nasrallah, but the government's\ntheory doesn't."
+            },
+            "explanation": "This phrase refers to a critical legal determination in immigration law, which affects the rights of non-citizens and the scope of judicial review."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"That worries me with Nasrallah a little bit, if we were to say the CAT\norder is a final order of removal.\nThat seems to me to ______________________________, but the government's\ntheory doesn't.\"",
+          "options": {
+            "A": "run headlong into Nasrallah's ruling",
+            "B": "run headlong into Nasrallah's decision",
+            "C": "run headlong into Nasrallah's precedent",
+            "D": "run head long into Nasrallah"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "run head long into Nasrallah",
+            "category": "case_law",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 5,
+              "statement_index": 2,
+              "speaker": "Justice Gorsuch",
+              "original_statement": "That worries me with Nasrallah a little bit, if we were to say the CAT\norder is a final order of removal.\nThat seems to me to run head long into Nasrallah, but the government's\ntheory doesn't."
+            },
+            "explanation": "This phrase references a specific case, indicating the importance of precedent in judicial reasoning and how it may conflict with current arguments."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"That ________________________ a little bit, if we were to say the CAT\norder is a final order of removal.\nThat seems to me to run head long into Nasrallah, but the government's\ntheory doesn't.\"",
+          "options": {
+            "A": "worries me with Nasrallah",
+            "B": "troubles me with Nasrallah",
+            "C": "bothers me with Nasrallah",
+            "D": "concerns me with Nasrallah"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "worries me with Nasrallah",
+            "category": "case_law",
+            "difficulty": "medium",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 5,
+              "statement_index": 2,
+              "speaker": "Justice Gorsuch",
+              "original_statement": "That worries me with Nasrallah a little bit, if we were to say the CAT\norder is a final order of removal.\nThat seems to me to run head long into Nasrallah, but the government's\ntheory doesn't."
+            },
+            "explanation": "This phrase indicates a concern regarding the application of a precedent, demonstrating the importance of judicial scrutiny in interpreting case law."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 6,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nGoing back to Justice Thomas's question about textual basis for your\nposition, are you relying at all on the zipper clause, 1252(b)(9)?\n### Keith Bradley:\nYes.\nWe --we certainly are because that is a sign that what we and the\ngovernment are -- are asking for is the sensible way to proceed.\nIt is very clear that Congress intends for there to be judicial review of\nCAT claims.\nAnd the zipper clause is telling you that everything should come up in\none petition.\nAnd how is that to be done? That is to be done by interpreting final to\nmean what -- when the agency is fully concluded with its process.\n### Justice Jackson:\nAnd you're getting your proposition that there is supposed to be judicial\nreview of CAT claims from 1252(a)(4)?\n### Keith Bradley:\nCorrect, which, of course, at least we read Nasrallah to have looked at\nthat provision and --and concluded that Congress did, indeed, intend\njudicial review of CAT claims.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Going back to Justice Thomas's question about textual basis for your\nposition, are you relying at all on the ____________, 1252(b)(9)?\"",
+          "options": {
+            "A": "zipper clause",
+            "B": "zoning clause",
+            "C": "zipper provision",
+            "D": "slipper clause"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "zipper clause",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 6,
+              "statement_index": 1,
+              "speaker": "Justice Jackson",
+              "original_statement": "Going back to Justice Thomas's question about textual basis for your\nposition, are you relying at all on the zipper clause, 1252(b)(9)?"
+            },
+            "explanation": "The term 'zipper clause' refers to a specific provision in immigration law, testing familiarity with statutory frameworks and their implications."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Going back to Justice Thomas's question about textual basis for your\nposition, are you relying at all on the zipper clause, ______?\"",
+          "options": {
+            "A": "1252(b)(8)",
+            "B": "1252(b)(7)",
+            "C": "1252(b)(9)",
+            "D": "1252(b)(6)"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "1252(b)(9)",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 1,
+            "context_info": {
+              "conversation_id": 6,
+              "statement_index": 1,
+              "speaker": "Justice Jackson",
+              "original_statement": "Going back to Justice Thomas's question about textual basis for your\nposition, are you relying at all on the zipper clause, 1252(b)(9)?"
+            },
+            "explanation": "This citation requires knowledge of the specific statutory provision and its relevance to jurisdictional issues in immigration cases."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"And you're getting your proposition that there is supposed to be judicial\nreview of CAT claims from ______?\"",
+          "options": {
+            "A": "1252(b)(4)",
+            "B": "1252(a)(3)",
+            "C": "1252(a)(4)",
+            "D": "1252(c)(4)"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "1252(a)(4)",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 1,
+            "context_info": {
+              "conversation_id": 6,
+              "statement_index": 2,
+              "speaker": "Justice Jackson",
+              "original_statement": "And you're getting your proposition that there is supposed to be judicial\nreview of CAT claims from 1252(a)(4)?"
+            },
+            "explanation": "This phrase references a specific provision of the Immigration and Nationality Act (INA), testing familiarity with statutory frameworks and their implications for judicial review."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 7,
+      "dialogue": "Justice Alito\n### Justice Alito:\nYou've referred to common sense and a sensible way way to proceed. Do\nyou think that's a characteristic that can be found in our recent related\nimmigration decisions?\n### Keith Bradley:\nI'd rather not comment on that, if I could avoid it. (Laughter.)\n### Justice Alito:\nWell, let me ask you\n### Keith Bradley:\nBut the red light is on. But common sense is always the goal, I think,\nYour Honor.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 8,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Thomas? Anything further?",
+      "questions": []
+    },
+    {
+      "conversation_id": 9,
+      "dialogue": "Justice Alito\n### Justice Alito:\n?\nI see the red light won't save you from this, my other question. Why\ndon't we just say it's a magic words test? You know, unless Congress\nsays it's jurisdictional, then it's not jurisdictional.\nThese cases are endlessly interesting and they fill up our docket, but I\ndon't know what --what statutory provision that doesn't have the\nmagic words will ever be held to be jurisdictional? Can you think of a\npossibility?\n### Keith Bradley:\nWell, we know three, of course, Your Honor ---\n### Justice Alito:\nThey have historical -- they have a historical pedigree.\n### Keith Bradley:\nExactly.\nI cannot speculate to how Congress might write a statute that would do\nthat, but I would --I would reiterate this particular one, given the\nstructure of the statute and the way the jurisdictional is used elsewhere\nin the statute, this deadline is -- is a straightforward one to conclude\nit's not jurisdictional.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"?\nI see the red light won't save you from this, my other question. Why\ndon't we just say it's a __________________? You know, unless Congress\nsays it's jurisdictional, then it's not jurisdictional.\nThese cases are endlessly interesting and they fill up our docket, but I\ndon't know what --what statutory provision that doesn't have the\nmagic words will ever be held to be jurisdictional? Can you think of a\npossibility?\"",
+          "options": {
+            "A": "magic words test",
+            "B": "magic phrase doctrine",
+            "C": "magic term analysis",
+            "D": "magic language standard"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "magic words test",
+            "category": "judicial_test",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 9,
+              "statement_index": 1,
+              "speaker": "Justice Alito",
+              "original_statement": "?\nI see the red light won't save you from this, my other question. Why\ndon't we just say it's a magic words test? You know, unless Congress\nsays it's jurisdictional, then it's not jurisdictional.\nThese cases are endlessly interesting and they fill up our docket, but I\ndon't know what --what statutory provision that doesn't have the\nmagic words will ever be held to be jurisdictional? Can you think of a\npossibility?"
+            },
+            "explanation": "This phrase refers to a judicial standard that requires explicit language from Congress to establish jurisdiction, challenging students to understand the implications of statutory interpretation."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"?\nI see the red light won't save you from this, my other question. Why\ndon't we just say it's a magic words test? You know, unless Congress\nsays it's jurisdictional, then it's not jurisdictional.\nThese cases are endlessly interesting and they fill up our docket, but I\ndon't know what --what statutory provision that doesn't have the\nmagic words will ever be ________________________? Can you think of a\npossibility?\"",
+          "options": {
+            "A": "considered to be non-jurisdictional",
+            "B": "found to be discretionary",
+            "C": "deemed to be procedural",
+            "D": "held to be jurisdictional"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "held to be jurisdictional",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 9,
+              "statement_index": 1,
+              "speaker": "Justice Alito",
+              "original_statement": "?\nI see the red light won't save you from this, my other question. Why\ndon't we just say it's a magic words test? You know, unless Congress\nsays it's jurisdictional, then it's not jurisdictional.\nThese cases are endlessly interesting and they fill up our docket, but I\ndon't know what --what statutory provision that doesn't have the\nmagic words will ever be held to be jurisdictional? Can you think of a\npossibility?"
+            },
+            "explanation": "This phrase requires an understanding of the distinction between jurisdictional and non-jurisdictional statutes, testing students' grasp of legal standards and their application in judicial reasoning."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 10,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nThis statute -- oh, I'm sorry.",
+      "questions": []
+    },
+    {
+      "conversation_id": 11,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nNo, you're up.",
+      "questions": []
+    },
+    {
+      "conversation_id": 12,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nThis statute is as clear as you can be.\n### Keith Bradley:\nYeah.\n### Justice Sotomayor:\nSome provisions say there's no jurisdiction.\n### Keith Bradley:\nExactly.\n### Justice Sotomayor:\nThis one doesn't.\n### Keith Bradley:\nCorrect, exactly.\n### Justice Sotomayor:\nAnd if Congress needed education, it certainly has enough opinions that\nsay: Just say it's jurisdictional, and tell us that no other further relief can\nbe given.\nCorrect?\n### Keith Bradley:\nAgreed.\n### Justice Sotomayor:\nAll right.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 13,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Kagan? Justice Gorsuch?",
+      "questions": []
+    },
+    {
+      "conversation_id": 14,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\n? Justice Barrett?\nJustice Jackson? Thank you, counsel. Mr. McDowell.\n### Ephraim McDowell:\nThank you Mr. Chief just and may it please the Court: On the first\nquestion presented, the 30-day filing deadline in Section 1252(b)(1) is\nnot jurisdictional.\nThat provision fails this Court's clear statement test, and Stone is not a\nbinding jurisdictional ruling.\nOn the second question, the petition here was timely because it was\nfiled within 30 days of the Board's CAT order.\nIn Section 1252(a)(4), Congress provided for judicial review of CAT\nclaims, and Nasrallah confirms that courts may review CAT orders\ntogether with removal orders.\nIt follows that a CAT order becomes final at the same time as a removal\norder so that challenges to both orders can be raised together in the\nsame petition for review.\nUnder amicus's position, many CAT claims would be unreviewable, but\nwhen Congress wanted to preclude judicial review in the INA, it did so\nexpressly.\nIt is unlikely that Congress would have precluded review of many claims\nindirectly by way of a generic 30 -day filing deadline.\nI welcome the Court's questions.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Justice Kavanaugh\n### Justice Kavanaugh:\n? Justice Barrett?\nJustice Jackson? Thank you, counsel. Mr. McDowell.\n### Ephraim McDowell:\nThank you Mr. Chief just and may it please the Court: On the first\nquestion presented, the ____________________________________ is\nnot jurisdictional.\nThat provision fails this Court's clear statement test, and Stone is not a\nbinding jurisdictional ruling.\nOn the second question, the petition here was timely because it was\nfiled within 30 days of the Board'\"",
+          "options": {
+            "A": "30-day filing deadline in Section 1252(b)(1)",
+            "B": "30-day response limit per Section 1252(c)",
+            "C": "60-day review period under Section 1252(b)",
+            "D": "30-day appeal deadline in Section 1252(a)"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "30-day filing deadline in Section 1252(b)(1)",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 14,
+              "statement_index": 1,
+              "speaker": "Unknown Justice",
+              "original_statement": "Justice Kavanaugh\n### Justice Kavanaugh:\n? Justice Barrett?\nJustice Jackson? Thank you, counsel. Mr. McDowell.\n### Ephraim McDowell:\nThank you Mr. Chief just and may it please the Court: On the first\nquestion presented, the 30-day filing deadline in Section 1252(b)(1) is\nnot jurisdictional.\nThat provision fails this Court's clear statement test, and Stone is not a\nbinding jurisdictional ruling.\nOn the second question, the petition here was timely because it was\nfiled within 30 days of the Board'"
+            },
+            "explanation": "This phrase references a specific statutory provision that is critical to understanding jurisdictional issues in immigration law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Justice Kavanaugh\n### Justice Kavanaugh:\n? Justice Barrett?\nJustice Jackson? Thank you, counsel. Mr. McDowell.\n### Ephraim McDowell:\nThank you Mr. Chief just and may it please the Court: On the first\nquestion presented, the 30-day filing deadline in Section 1252(b)(1) is\n____________.\nThat provision fails this Court's clear statement test, and Stone is not a\nbinding jurisdictional ruling.\nOn the second question, the petition here was timely because it was\nfiled within 30 days of the Board'\"",
+          "options": {
+            "A": "not statutory",
+            "B": "not jurisdictional",
+            "C": "not mandatory",
+            "D": "not procedural"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "not jurisdictional",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 14,
+              "statement_index": 1,
+              "speaker": "Unknown Justice",
+              "original_statement": "Justice Kavanaugh\n### Justice Kavanaugh:\n? Justice Barrett?\nJustice Jackson? Thank you, counsel. Mr. McDowell.\n### Ephraim McDowell:\nThank you Mr. Chief just and may it please the Court: On the first\nquestion presented, the 30-day filing deadline in Section 1252(b)(1) is\nnot jurisdictional.\nThat provision fails this Court's clear statement test, and Stone is not a\nbinding jurisdictional ruling.\nOn the second question, the petition here was timely because it was\nfiled within 30 days of the Board'"
+            },
+            "explanation": "This phrase challenges the understanding of what constitutes a jurisdictional requirement, which is essential for interpreting statutory provisions."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Justice Kavanaugh\n### Justice Kavanaugh:\n? Justice Barrett?\nJustice Jackson? Thank you, counsel. Mr. McDowell.\n### Ephraim McDowell:\nThank you Mr. Chief just and may it please the Court: On the first\nquestion presented, the 30-day filing deadline in Section 1252(b)(1) is\nnot jurisdictional.\nThat provision fails this Court's __________________, and Stone is not a\nbinding jurisdictional ruling.\nOn the second question, the petition here was timely because it was\nfiled within 30 days of the Board'\"",
+          "options": {
+            "A": "clear notice test",
+            "B": "clear statement test",
+            "C": "clear standard test",
+            "D": "clear requirement test"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "clear statement test",
+            "category": "judicial_test",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 14,
+              "statement_index": 1,
+              "speaker": "Unknown Justice",
+              "original_statement": "Justice Kavanaugh\n### Justice Kavanaugh:\n? Justice Barrett?\nJustice Jackson? Thank you, counsel. Mr. McDowell.\n### Ephraim McDowell:\nThank you Mr. Chief just and may it please the Court: On the first\nquestion presented, the 30-day filing deadline in Section 1252(b)(1) is\nnot jurisdictional.\nThat provision fails this Court's clear statement test, and Stone is not a\nbinding jurisdictional ruling.\nOn the second question, the petition here was timely because it was\nfiled within 30 days of the Board'"
+            },
+            "explanation": "This phrase refers to a judicial standard that determines whether a statute is jurisdictional, requiring deep knowledge of judicial reasoning."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 15,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nCan you give us an example of -- of a -- an instance in which a claim,\nclaim B can be considered with --or appeal B can be considered with\nappeal A, but appeal B actually expands the time limit for appeal A?\n### Ephraim McDowell:\nI think the best analogy is the one that",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 16,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\npointed to,\nwhich is that a conviction cannot be appealed until after the sentence,\neven though the sentence doesn't affect the validity of the conviction or\nmerge into the conviction.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 17,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nOkay.\nLet's try the civil context.\nCan you think of any other provision?\n### Ephraim McDowell:\nI suppose there the way it would work in a -- in a remedial scheme, a\nremedial decision as opposed to a liability decision, the -- the remedial\ndecision wouldn't affect the liability decision, but we would still under\nthe final judgment principle not allow an appeal of the liability ruling\nuntil after the remedial decision is done.\nAnd I think the same basic logic applies here, because as Nasrallah\npoints out, a CAT order does not affect the validity of a removal order,\nbut our position is that the removal order doesn't become final until the\nend of CAT proceedings because that's when the agency has finished its\nwork on the case and disassociated itself from the case, which is the\nbasic final judgment principle that always applies in judicial review in\nthe courts of appeals.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Justice Thomas\n### Justice Thomas:\nOkay.\nLet's try the civil context.\nCan you think of any other provision?\n### Ephraim McDowell:\nI suppose there the way it would work in a -- in a ____________, a\nremedial decision as opposed to a liability decision, the -- the remedial\ndecision wouldn't affect the liability decision, but we would still under\nthe final judgment principle not allow an appeal of the liability ruling\nuntil after the remedial decision is done.\nAnd I think the same basic logic app\"",
+          "options": {
+            "A": "remedial framework",
+            "B": "remedial scheme",
+            "C": "remedial structure",
+            "D": "remedial policy"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "remedial scheme",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 17,
+              "statement_index": 1,
+              "speaker": "Unknown Justice",
+              "original_statement": "Justice Thomas\n### Justice Thomas:\nOkay.\nLet's try the civil context.\nCan you think of any other provision?\n### Ephraim McDowell:\nI suppose there the way it would work in a -- in a remedial scheme, a\nremedial decision as opposed to a liability decision, the -- the remedial\ndecision wouldn't affect the liability decision, but we would still under\nthe final judgment principle not allow an appeal of the liability ruling\nuntil after the remedial decision is done.\nAnd I think the same basic logic app"
+            },
+            "explanation": "This phrase indicates a complex understanding of the distinction between different types of judicial decisions, particularly in the context of civil law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Justice Thomas\n### Justice Thomas:\nOkay.\nLet's try the civil context.\nCan you think of any other provision?\n### Ephraim McDowell:\nI suppose there the way it would work in a -- in a remedial scheme, a\nremedial decision as opposed to a liability decision, the -- the remedial\ndecision wouldn't affect the liability decision, but we would still under\nthe __________________ not allow an appeal of the liability ruling\nuntil after the remedial decision is done.\nAnd I think the same basic logic app\"",
+          "options": {
+            "A": "final order doctrine",
+            "B": "final judgment principle",
+            "C": "final adjudication standard",
+            "D": "final decision rule"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "final judgment principle",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 17,
+              "statement_index": 1,
+              "speaker": "Unknown Justice",
+              "original_statement": "Justice Thomas\n### Justice Thomas:\nOkay.\nLet's try the civil context.\nCan you think of any other provision?\n### Ephraim McDowell:\nI suppose there the way it would work in a -- in a remedial scheme, a\nremedial decision as opposed to a liability decision, the -- the remedial\ndecision wouldn't affect the liability decision, but we would still under\nthe final judgment principle not allow an appeal of the liability ruling\nuntil after the remedial decision is done.\nAnd I think the same basic logic app"
+            },
+            "explanation": "This phrase refers to a fundamental doctrine in civil procedure that affects the timing and ability to appeal, requiring a deep understanding of procedural law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Justice Thomas\n### Justice Thomas:\nOkay.\nLet's try the civil context.\nCan you think of any other provision?\n### Ephraim McDowell:\nI suppose there the way it would work in a -- in a remedial scheme, a\nremedial decision as opposed to a liability decision, the -- the remedial\ndecision wouldn't affect the liability decision, but we would still under\nthe final judgment principle not allow an ______________________________\nuntil after the remedial decision is done.\nAnd I think the same basic logic app\"",
+          "options": {
+            "A": "appeal of the verdict ruling",
+            "B": "appeal of the liability ruling",
+            "C": "appeal of the damages decision",
+            "D": "appeal of the judgment ruling"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "appeal of the liability ruling",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 17,
+              "statement_index": 1,
+              "speaker": "Unknown Justice",
+              "original_statement": "Justice Thomas\n### Justice Thomas:\nOkay.\nLet's try the civil context.\nCan you think of any other provision?\n### Ephraim McDowell:\nI suppose there the way it would work in a -- in a remedial scheme, a\nremedial decision as opposed to a liability decision, the -- the remedial\ndecision wouldn't affect the liability decision, but we would still under\nthe final judgment principle not allow an appeal of the liability ruling\nuntil after the remedial decision is done.\nAnd I think the same basic logic app"
+            },
+            "explanation": "This phrase highlights the procedural nuances involved in appealing decisions, particularly the relationship between liability and remedial decisions."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Justice Thomas\n### Justice Thomas:\nOkay.\nLet's try the civil context.\nCan you think of any other provision?\n### Ephraim McDowell:\nI suppose there the way it would work in a -- in a remedial scheme, a\n____________ as opposed to a liability decision, the -- the remedial\ndecision wouldn't affect the liability decision, but we would still under\nthe final judgment principle not allow an appeal of the liability ruling\nuntil after the remedial decision is done.\nAnd I think the same basic logic app\"",
+          "options": {
+            "A": "remedial ruling",
+            "B": "remedial decision",
+            "C": "remedial judgment",
+            "D": "remedial order"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "remedial decision",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 17,
+              "statement_index": 1,
+              "speaker": "Unknown Justice",
+              "original_statement": "Justice Thomas\n### Justice Thomas:\nOkay.\nLet's try the civil context.\nCan you think of any other provision?\n### Ephraim McDowell:\nI suppose there the way it would work in a -- in a remedial scheme, a\nremedial decision as opposed to a liability decision, the -- the remedial\ndecision wouldn't affect the liability decision, but we would still under\nthe final judgment principle not allow an appeal of the liability ruling\nuntil after the remedial decision is done.\nAnd I think the same basic logic app"
+            },
+            "explanation": "This term requires knowledge of the legal framework surrounding remedies and how they interact with liability determinations in civil cases."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 18,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nMr. McDowell, can you give us some examples of -- you say that\nadopting amicus's view would leave certain CAT orders unreviewable.\nCan you give us some examples?\n### Ephraim McDowell:\nSo I think under his position, I thin k the CAT order in this case would be\nunreviewable because Petitioner didn't file the petition for review\nwithin 30 days of the Section 1228 removal.\n### Justice Gorsuch:\nI think your friend, though, in this case would say, well, he could have\ndone.\n### Ephraim McDowell:\nSo our point is that if you're referring to the premature protective\npetition scheme idea, I think that that -- there are two potential legal\nproblems there.\nOne is the zipper clause, which contemplates a single petition for review\nat the end of the case; whereas the premature filing of a petition\nsupplemented by a later filing related to the CAT claim, I think, runs\ncounter to that idea. I also think that if the Court were to adopt amicus's\nreading of the statute, one potential upshot of that is that Congress\nintended to foreclose review of these claims. And if Congress wanted to\nforeclose review of these claims, we don't see how courts and litigants\ncould adopt a work-around scheme to get around that.\nBut obviously our front-line position is that Congress did want review of\nthese claims.\n### Justice Gorsuch:\nI think your friend on the other side would say: Well, they can file these\nprotective appeals and courts of appeals can hold onto them and -- and\nthen when the CAT order matures, you're good to go.\nWould courts of appeals have to keep those notices of appeal on their\ndocket? Could they --could they -- is there a risk they might dismiss\nthem? I'm just not sure -- I --I've not held a notice of appeal on my\ndocket as an appellate court judge on the Tenth Circuit for, what, a year,\ntwo years while the CAT order is ongoing.\n### Justice Gorsuch:\nI just don't know. I haven't encountered that.\n### Ephraim McDowell:\nI think this points up another problem with this idea, which is that I\ndon't actually think it's a particularly effective way of preserving\njudicial review because these procedures lie within the discretion of the\ncourts of appeals.\nAnd so some courts of appeals may deny a motion to hold a case in\nabeyance.\nSo I think we would end up with a patchwork system where some circuits\nare generally preserving review of these claims; others are not.\nAnd there might be even variation within circuits.\nWe also see some other practical problems with the system.\nOne is that it leads to a flood of meritless prophylactic petitions which\nreally aren't challenging the removal order itself.\nThey're just a placeholder for a later decision that may actually go in the\nalien's favor.\nThe second problem is that it creates a trap for the unwary because\nmany people in this system are unrepresented and won't know that\nthey have to file this sort of counterintuitive protective petition.\nAnd then, finally, it does create administrative burdens for the courts\nand for the government.\nAnd what we've seen in practice is that many of these protective\npetitions end up being abandoned at the end of the day because the\nperson gets withholding relief or because they just don't want to pursue\nthe petition.\nSo it really is just a waste of resources in many cases.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Mr. McDowell, can you give us some examples of -- you say that\n__________________ would leave certain CAT orders unreviewable.\nCan you give us some examples?\"",
+          "options": {
+            "A": "accepting petitioner's claim",
+            "B": "endorsing amicus's argument",
+            "C": "adopting amicus's view",
+            "D": "adopting agency's position"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "adopting amicus's view",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 18,
+              "statement_index": 1,
+              "speaker": "Justice Gorsuch",
+              "original_statement": "Mr. McDowell, can you give us some examples of -- you say that\nadopting amicus's view would leave certain CAT orders unreviewable.\nCan you give us some examples?"
+            },
+            "explanation": "This phrase challenges the understanding of the implications of adopting a third-party perspective in legal arguments, particularly regarding judicial review."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Mr. McDowell, can you give us some examples of -- you say that\nadopting amicus's view would leave ________________________.\nCan you give us some examples?\"",
+          "options": {
+            "A": "specific CAT petitions unreviewable",
+            "B": "certain asylum orders unreviewable",
+            "C": "certain removal orders unreviewable",
+            "D": "certain CAT orders unreviewable"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "certain CAT orders unreviewable",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 18,
+              "statement_index": 1,
+              "speaker": "Justice Gorsuch",
+              "original_statement": "Mr. McDowell, can you give us some examples of -- you say that\nadopting amicus's view would leave certain CAT orders unreviewable.\nCan you give us some examples?"
+            },
+            "explanation": "This phrase probes the concept of reviewability in administrative law, specifically relating to the Convention Against Torture (CAT) and its implications for judicial oversight."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Mr. McDowell, can you ________________________ of -- you say that\nadopting amicus's view would leave certain CAT orders unreviewable.\nCan you give us some examples?\"",
+          "options": {
+            "A": "give us some examples",
+            "B": "provide us some instances",
+            "C": "present us some scenarios",
+            "D": "offer us some illustrations"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "give us some examples",
+            "category": "other",
+            "difficulty": "medium",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 18,
+              "statement_index": 1,
+              "speaker": "Justice Gorsuch",
+              "original_statement": "Mr. McDowell, can you give us some examples of -- you say that\nadopting amicus's view would leave certain CAT orders unreviewable.\nCan you give us some examples?"
+            },
+            "explanation": "This phrase reflects the judicial inquiry into the practical application of legal theories, requiring the respondent to provide concrete instances that illustrate legal principles."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"I think your friend on the other side would say: Well, they can file these\n____________ and courts of appeals can hold onto them and -- and\nthen when the CAT order matures, you're good to go.\nWould courts of appeals have to keep those notices of appeal on their\ndocket? Could they --could they -- is there a risk they might dismiss\nthem? I'm just not sure -- I --I've not held a notice of appeal on my\ndocket as an appellate court judge on the Tenth Circuit for, what, a year,\ntwo years while the CAT order is ongoing.\"",
+          "options": {
+            "A": "provisional appeals",
+            "B": "preemptive appeals",
+            "C": "protective appeals",
+            "D": "preventive appeals"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "protective appeals",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 18,
+              "statement_index": 3,
+              "speaker": "Justice Gorsuch",
+              "original_statement": "I think your friend on the other side would say: Well, they can file these\nprotective appeals and courts of appeals can hold onto them and -- and\nthen when the CAT order matures, you're good to go.\nWould courts of appeals have to keep those notices of appeal on their\ndocket? Could they --could they -- is there a risk they might dismiss\nthem? I'm just not sure -- I --I've not held a notice of appeal on my\ndocket as an appellate court judge on the Tenth Circuit for, what, a year,\ntwo years while the CAT order is ongoing."
+            },
+            "explanation": "This phrase refers to a legal mechanism allowing parties to appeal while a decision is still pending, testing understanding of appellate procedures and the implications of such appeals."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 19,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nCould I speculate and say you're right, if we accept amicus's argument,\nbasically CAT orders won't be reviewable because -- in those places\nwhere the courts don't want to stay the appeal of a petition for removal.\nThat would happen for aggravated felons, and some people might say,\nwell, that's a good thing.\nCongress didn't want them to delay deportation any longer than\nnecessary.\nSo I could see some people saying. Don't worry about those guys.\nOkay? But doesn't the Board in a fairly significant number of regular\nasylum cases, regular petitions for removal where the person's not an\naggravated felon or someone else who's done something other than be\nhere illegally, doesn't the Board often split those decisions?\n### Ephraim McDowell:\nIt does, Justice Sotomayor.\n### Justice Sotomayor:\nSo it affirms the petition for removal.\n### Ephraim McDowell:\nYes.\n### Justice Sotomayor:\nBut it remands.\n### Ephraim McDowell:\nThat's correct.\n### Justice Sotomayor:\nFor the CAT claims.\nAnd under amici's position, those people who are not aggravated\nfelons, those people then are deprived totally of the zipper clause,\ncorrect?\n### Ephraim McDowell:\nThat's right.\nAnd if I could just make two points in response to this idea.\nThe first, as --as to your initial premise about aggravated felons, I do\nthink that if Congress wanted to preclude judicial review of claims, of\nCAT claims for aggravated felons, it would have said so expressly.\nThat's what it did in Section 1252(a)(2)(C) when it -- when it precluded\naggravated felons from raising factual challenges to removal orders.\nBut as to this mixed decision idea, which we raise on pages 38 to 39 of\nour opening brief, you have it exactly right.\nI think the upshot of amicus's reading of the statutory definition would\nbe that there would be no review of the agency's withholding decision\non remand.\nAnd, again, that would be in an ordinary removal case, outside of the\nexpedited removal context.\nJudge Murphy's concurrence in the Sixth Circuit decision that we cite\nflags this exact issue and says that this is a potential spillover\nconsequence of reading Nasrallah and the statutory definition quite\nbroadly, as amicus is doing here.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Could I speculate and say you're right, if we accept amicus's argument,\nbasically ______________________________ because -- in those places\nwhere the courts don't want to stay the appeal of a petition for removal.\nThat would happen for aggravated felons, and some people might say,\nwell, that's a good thing.\nCongress didn't want them to delay deportation any longer than\nnecessary.\nSo I could see some people saying. Don't worry about those guys.\nOkay? But doesn't the Board in a fairly significant number of regular\nasylum cases, regular petitions for removal where the person's not an\naggravated felon or someone else who's done something other than be\nhere illegally, doesn't the Board often split those decisions?\"",
+          "options": {
+            "A": "CAT orders won't be reviewable",
+            "B": "CAT findings aren't reviewable orders",
+            "C": "CAT decisions won't be reviewable",
+            "D": "CAT orders will be reviewable"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "CAT orders won't be reviewable",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 19,
+              "statement_index": 1,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "Could I speculate and say you're right, if we accept amicus's argument,\nbasically CAT orders won't be reviewable because -- in those places\nwhere the courts don't want to stay the appeal of a petition for removal.\nThat would happen for aggravated felons, and some people might say,\nwell, that's a good thing.\nCongress didn't want them to delay deportation any longer than\nnecessary.\nSo I could see some people saying. Don't worry about those guys.\nOkay? But doesn't the Board in a fairly significant number of regular\nasylum cases, regular petitions for removal where the person's not an\naggravated felon or someone else who's done something other than be\nhere illegally, doesn't the Board often split those decisions?"
+            },
+            "explanation": "This phrase challenges the understanding of the reviewability of Convention Against Torture (CAT) orders, requiring knowledge of judicial standards and the implications of non-reviewability in immigration law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"For the ____________.\nAnd under amici's position, those people who are not aggravated\nfelons, those people then are deprived totally of the zipper clause,\ncorrect?\"",
+          "options": {
+            "A": "CAT standards",
+            "B": "CAT claims",
+            "C": "CAT exceptions",
+            "D": "CAT defenses"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "CAT claims",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 19,
+              "statement_index": 2,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "For the CAT claims.\nAnd under amici's position, those people who are not aggravated\nfelons, those people then are deprived totally of the zipper clause,\ncorrect?"
+            },
+            "explanation": "This phrase refers to claims under the Convention Against Torture, which requires a nuanced understanding of international law and its application in domestic courts."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 20,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nOn the first point, you seem to be suggesting that there's some kind of\nclear statement rule before Congress would deprive judicial review of\nCAT claims.\nI'm just wondering about the origins of that or if that's what you're\nsaying.\n### Ephraim McDowell:\nI -- I didn't mean to be suggesting a -- a clear statement rule.\nIt's a structural point about the INA.\nIn the INA, throughout the statute, when Congress wanted to preclude\nreview of categories of claims, we see it over and over that it does so\nwith express language.\nAnd here amicus is not pointing to any express language precluding\nreview of CAT claims by aggravated felons.\nInstead, he's pointing to what is really just a generic 30-day filing\ndeadline as a way of arguing that Congress indirectly or implicitly\nprecluded judicial review of these claims.\nAnd I just think that, as a structural matter, that's hard to square with\nthe INA, its context and its structure.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"On the first point, you seem to be suggesting that there's some kind of\n__________________ before Congress would deprive judicial review of\nCAT claims.\nI'm just wondering about the origins of that or if that's what you're\nsaying.\"",
+          "options": {
+            "A": "clear notice standard",
+            "B": "clear intent doctrine",
+            "C": "clear authority principle",
+            "D": "clear statement rule"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "clear statement rule",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 20,
+              "statement_index": 1,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": "On the first point, you seem to be suggesting that there's some kind of\nclear statement rule before Congress would deprive judicial review of\nCAT claims.\nI'm just wondering about the origins of that or if that's what you're\nsaying."
+            },
+            "explanation": "This phrase refers to a legal principle requiring explicit language from Congress to limit judicial review, testing understanding of statutory interpretation."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 21,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nAnd haven't we also said in Guerrero -Lasprilla that there's a\npresumption of judicial review, that, you know, we not foreclose the\npossibility of judicial review over agency action unless there's clear and\nconvincing evidence that Congress intended that result?\n### Ephraim McDowell:\nThat's right, Justice Jackson.\nWe don't think you actually need to get to the presumption in this case\nbecause we think the statutory structure and the context are\nsufficiently clear to show that Congress wanted review of these claims,\nparticularly Section 1252(a)(4), which is what I referenced in my\nintroduction.\nBut we don't deny that if the statute were truly ambiguous, that the\npresumption would apply here.\nWe just don't think you need to get to that here.\nAnd just to get back to the Section 1252(a)(4) point,",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"And haven't we also said in Guerrero -Lasprilla that there's a\n________________________, that, you know, we not foreclose the\npossibility of judicial review over agency action unless there's clear and\nconvincing evidence that Congress intended that result?\"",
+          "options": {
+            "A": "presumption of judicial authority",
+            "B": "presumption of executive review",
+            "C": "presumption of judicial review",
+            "D": "presumption of agency discretion"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "presumption of judicial review",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 21,
+              "statement_index": 1,
+              "speaker": "Justice Jackson",
+              "original_statement": "And haven't we also said in Guerrero -Lasprilla that there's a\npresumption of judicial review, that, you know, we not foreclose the\npossibility of judicial review over agency action unless there's clear and\nconvincing evidence that Congress intended that result?"
+            },
+            "explanation": "This phrase highlights the principle that courts generally assume they have the authority to review agency actions unless explicitly stated otherwise by Congress, indicating a fundamental aspect of judicial oversight."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 22,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\n,\nthat is express textual evidence that Congress wanted there to be\njudicial review of CAT claims.\nAnd I think it stands to reason -- and then we also have Nasrallah, which\nsays that CAT orders are reviewable together with removal orders.\nAnd so I think it really does stand to reason that a CAT order must\nbecome final at the same time as a removal order so that a person can\nconsolidate challenges to both orders into the same petition for review,\nwhich is what the zipper clause contemplates.\nAnother way of seeing the same point is that it's unlikely that Congress\nwould have given express textual evidence that CAT claims are\nreviewable but at the same time written a deadline so short as to render\nmany of those claims unreviewable.\nNormally, Congress doesn't give with the one hand and then take with\nthe other in that sort of manner.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \",\nthat is __________________ that Congress wanted there to be\njudicial review of CAT claims.\nAnd I think it stands to reason -- and then we also have Nasrallah, which\nsays that CAT orders are reviewable together with removal orders.\nAnd so I think it really does stand to reason that a CAT order must\nbecome final at the same time as a removal order so that a person can\nconsolidate challenges to both orders into the same petition for review,\nwhich is what the zipper clause contemplates.\nAnother way of seeing the same point is that it's unlikely that Congress\nwould have given express textual evidence that CAT claims are\nreviewable but at the same time written a deadline so short as to render\nmany of those claims unreviewable.\nNormally, Congress doesn't give with the one hand and then take with\nthe other in that sort of manner.\"",
+          "options": {
+            "A": "explicit statutory interpretation",
+            "B": "implied legislative intent",
+            "C": "direct textual analysis",
+            "D": "express textual evidence"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "express textual evidence",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 22,
+              "statement_index": 1,
+              "speaker": "Justice Thomas",
+              "original_statement": ",\nthat is express textual evidence that Congress wanted there to be\njudicial review of CAT claims.\nAnd I think it stands to reason -- and then we also have Nasrallah, which\nsays that CAT orders are reviewable together with removal orders.\nAnd so I think it really does stand to reason that a CAT order must\nbecome final at the same time as a removal order so that a person can\nconsolidate challenges to both orders into the same petition for review,\nwhich is what the zipper clause contemplates.\nAnother way of seeing the same point is that it's unlikely that Congress\nwould have given express textual evidence that CAT claims are\nreviewable but at the same time written a deadline so short as to render\nmany of those claims unreviewable.\nNormally, Congress doesn't give with the one hand and then take with\nthe other in that sort of manner."
+            },
+            "explanation": "This phrase highlights the importance of statutory interpretation and the role of legislative intent in judicial review, requiring a deep understanding of how courts analyze legislative language."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 23,
+      "dialogue": "Justice Alito\n### Justice Alito:\nUnder your position, is it the case that an order that is final is rendered\nnon-final by the filing of the subsequent application?\n### Ephraim McDowell:\nNo, that's not our position.\nOur position is that when a person has a withholding-only claim, the\nSection 1228(b) removal order does not ever become final until the\nwithholding-only claim is resolved. It's not that it is final, then becomes\nnon-final.\nIt's that it never became final in the first instance until those\nproceedings are resolved.\n### Justice Alito:\nOkay.\nWhat is the time requirement for filing a withholding-only claim?\n### Ephraim McDowell:\nThe regulations contemplate that there -- that the claim is raised when\nwith the agency before the Section 1228(b) removal order is issued.\nAnd here it was --it was raised immediately after. So if there were a\nsituation where a person didn't raise it for 30 days after th e entry of the\nSection 1228(b) removal order, we would agree that at that point, the\norder would be final and the petition for review timeline would have run.\nBut here, and as -- as is usually the case under the regulations, these\nclaims are brought contemporaneously with the entry of the Section\n1228 removal order.\nThe problem is that the resolution of those claims takes much longer\nbecause these are often very fact -intensive claims, as opposed to a\nSection 1228(b) removal order, which has very little process because it's\nmeant to be expedited.\n### Justice Alito:\nAnd how long -- do you know, by any chance, how long on average it\ntakes to resolve CAT claims?\n### Ephraim McDowell:\nWe don't have exact numbers, but my sense is it usually takes several\nmonths if it's a real -- if it's a serious claim.\nIf it's a meritless claim, these can be resolved fairly quickly because the\nasylum officer will say that there's no negative -- or there's no\nreasonable fear.\nThen the immigration judge will sustain that.\nAnd both of those officers have to make those decisions within a 10-day\nspan.\nSo they can sometimes be resolved relatively quickly.\nBut here, when it's a serious claim, here the IJ actually found that he was\nentitled to CAT -- to CAT relief, and then that was reversed by the BIA.\nWhen it's a serious claim like that, it could sometimes take several\nmonths to even over a year.\nThe dissent in Guzman Chavez pointed to some instances where they\ntook multiple years, I believe.\n### Justice Alito:\nSo as between the two -- in light of that, as between these two options,\nwhich one is preferable and why? The first would be the requirement\nthat a prophylactic petition for review be filed, and the second would be\nyour position that there's no need to do anything until after the CAT\nclaim is resolved.\nDo you think that your -- that there's a risk that your position would\nlead to greater delay?\n### Ephraim McDowell:\nI don't think it would lead to greater delay because people are going to\nhave incentives to bring these withholding-only claims no matter what\nbecause they can always bring the claim before the agency, and the\nremoval order will be stayed pendency --pending the agency's\nresolution of the claim.\nSo these claims are going to be brought either way if there's a plausible\nreason to bring them.\nand I'm setting aside the protective scheme which I've already\ndiscussed -- but the delay here would be the time needed for the court\nof appeals to review the withholding -only determination. I also want to\njust point out, in terms -- in terms of the -- any public safety concerns\nabout giving this additional time or additional process to aggravated\nfelons, it's important to bear in mind that they can be detained\nthroughout the entirety of the agency proceedings, as well as\nsubsequent judicial review proceedings.\nAnd this Court affirmed that power in Guzman Chavez.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Under your position, is it the case that an order that is final is rendered\nnon-final by the filing of the ____________?\"",
+          "options": {
+            "A": "subsequent application",
+            "B": "preliminary petition",
+            "C": "immediate application",
+            "D": "initial request"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "subsequent application",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 23,
+              "statement_index": 1,
+              "speaker": "Justice Alito",
+              "original_statement": "Under your position, is it the case that an order that is final is rendered\nnon-final by the filing of the subsequent application?"
+            },
+            "explanation": "This term requires knowledge of procedural law regarding how subsequent filings can affect the status of prior judicial decisions."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 24,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nSo just as a matter of government practice, when you have the order of\nremoval but the CAT proceedings have not yet been concluded, what\ndoes the government feel itself free to do with the alien?\n### Ephraim McDowell:\nSo we -- the removal order would be stayed as to the designated\ncountry of removal.\nSo we would not be able to remove the person to that country.\nThere is this issue of third-country removal.\nAnd in that circumstance, I --I want to first point out that under Title 8,\nDHS does not pursue third -party -- third-country removal while the\nwithholding-only proceedings are ongoing.\n### Justice Kagan:\nSo let me --let me make sure I understand that.\n### Ephraim McDowell:\nThat's right.\n### Justice Kagan:\ndoesn't have a CAT --CAT claim, but, in fact, the U.S. government does\nnot exercise that right?\n### Ephraim McDowell:\nUnder Title 8 we --we do not do that as a matter of practice.\nWe do think we have the legal authority to do that, with the following\ncaveat: We would have to give the person notice of the third country and\ngive them the opportunity to raise a reasonable fear of torture or\npersecution in that third country.\nIf they raise that reasonable fear, the withholding-only proceedings\nwould simply continue.\nThey would just focus on the new country, rather than the original one.\n### Justice Kagan:\nBut you don't have the legal power to remove the person to the country\nfor which there is a pending CAT claim?\n### Ephraim McDowell:\nThat's exactly right. The regulate --the regulations prohibit that. And\nthat's another reason why we think that -- that confirms that the\nremoval order doesn't actually become final until the end of\nwithholding-only proceedings. The withholding-only proceedings\naffect the implementation of the removal order for that very reason.\nIf a person is granted CAT protection, that means that the person cannot\nbe removed to the designated country of removal.",
+      "questions": []
+    },
+    {
+      "conversation_id": 25,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nJustice Thomas, anything further?",
+      "questions": []
+    },
+    {
+      "conversation_id": 26,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nWould the party have to request consolidation with the removal order\nproceedings?\n### Justice Thomas:\nYeah.\n### Ephraim McDowell:\nnot become final until the end of the CAT proceedings.\nOnly after the CAT proceedings conclude would the person be able to file\nthe petition for review.\nIt would be exactly the way it works in -- in --in ordinary litigation,\nwhere the appeal is filed after the entirety of the district court\nproceedings have come to a conclusion.\nThat's what we're proposing here.\n### Justice Thomas:\nSo how would that work in -- in -- in -- in this case? You -- you have a\nremoval order that -- that's being appealed, right? A final order?\n### Ephraim McDowell:\nSo --so in this case, the Petitioner brought his petition for review after\nthe CAT order was issued.\n### Justice Thomas:\nYeah.\n### Ephraim McDowell:\nAnd we are saying that that was okay because the order of removal did\nnot become final until the end of the CAT proceedings.\nSo his petition here was timely because it was within 30 days of the CAT\norder. And the CAT order was what rendered the removal order final.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 27,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Alito, anything?",
+      "questions": []
+    },
+    {
+      "conversation_id": 28,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nIn this case, if we were to hold that the 3 0-day deadline is not\njurisdictional --not jurisdictionally waiveable, and if we disagree with\nyou and accept the amicus's second position that a final order of\nremoval is final when it's issued, regardless of the CAT, will the\ngovernment honor their commitment to waive the deadline for Mr.\n### Ephraim McDowell:\nYes, we would.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 29,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Kagan? Justice Gorsuch?",
+      "questions": []
+    },
+    {
+      "conversation_id": 30,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\n? Justice Jackson? Thank\nyou, counsel. Mr. Hammer.\n### Stephen J. Hammer:\nMr. Chief Justice and may it please the Court: Congress has barred courts\nfrom reviewing claims under the Convention Against Torture except on\na petition for review of a final order of removal.\nUnder Section 1252(b)(1) such a petition must be filed not later than 30\ndays after the date of the final order of removal.\nThe Fourth Circuit correctly held that Mr. Riley's failure to comply with\nthat deadline meant it was jurisdictionally barred from reviewing his\npetition.\nThe Fourth Circuit rightly recognized that the filing deadline is\njurisdictional.\nThis Court already held as much in Stone, which is a jurisdictional\nprecedent in both reasoning and result. And Santos-Zacaria, which was\nfocused on the INA's separate exhaustion provision, didn't disturb the\ndeadline's jurisdictional status.\nThe Fourth Circuit also correctly held that Mr. Riley's petition was\nuntimely.\nThe only order of removal in this case is the final administrative removal\norder.\nSection 1228(b), the INA's statutory definition of a final order of\nremoval, and Section 1231 all confirm that a final administrative\nremoval order is, as its name indicates, final when issued.\nAnd as this Court explained in Guzman Chavez, the finality of the order\nof removal does not depend in any way on the outcome of the\nwithholding-only proceedings.\nBecause Mr. Riley failed to file his petition for review within 30 days of\nhis final order of removal, the Fourth Circuit correctly dismissed it as\nuntimely.\nI welcome the Court's questions.",
+      "questions": []
+    },
+    {
+      "conversation_id": 31,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nHow do you respond to the arguments that have been made this\nmorning that the --that this expands the time for the removal order?\n### Stephen J. Hammer:\nI think that the statutory deadline requires filing the order -- filing the\npetition for review within 30 days of the final order of removal.\nAnd I think statutory text and context make clear that a final\nadministrative removal order is final when it is issued.\n### Justice Thomas:\nSo what do you make of the argument that --you know, I asked the\nother side whether or not -- what textual basis they had for this.\nAnd, of course, their --I don't think there's much, but would you\naddress that?\n### Stephen J. Hammer:\nYour Honor, the only textual basis that this Court has recognized for\njudicial review of a CAT claim comes from filing the petition for review of\na final order of removal, in compliance with the requirements of 1252.\nNasrallah explained that that allows the Court to review a CAT claim\nalongside a final order of removal.\nBut if an alien does not file a petition for review within 30 days of the\nfinal order of removal, the Court does not --is not able to review the CAT\nclaim.",
+      "questions": []
+    },
+    {
+      "conversation_id": 32,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nWell, you seem to be assuming that there is a final order of removal, but\nmaybe it's not final until the CAT claim has been resolved.\nIn other words, what this order of removal is saying -- it has, sort of, two\nparts: First, you're removable; and, second, we're going to remove you\nto country X.\nAnd that second part, which is within, you know, you're removable to\ncountry X, that's provisional.\nIt's -- it's only country X if you fail on your CAT claim.\nSo there's --there's sort of, like, nothing final about a significant aspect\nof this order.\n### Stephen J. Hammer:\nSo I disagree, Your Honor.\nNasralla h made clear that CAT relief doesn't affect the validity of the\norder of removal and does not disturb the final order of removal.\nAnd Guzman Chavez repeated all of that by making clear that\nwithholding-only does not affect the finality of an order of removal.\nAnd with respect to what the final order of removal here actually says, I\nwould direct the Court to page 8 of the Joint Appendix, which says that\nMr. Riley was ordered removed to Jamaica or any alternate country\nproscribed by Section 1231.\nSo there wasn't any need -- there wouldn't be any need for\namendment.\nThe alternate countries are already list -- already there, provided by the\nfinal administrative removal order, Your Honor.",
+      "questions": []
+    },
+    {
+      "conversation_id": 33,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nI don't understand your distinguishing Santos -Zacaria.\nIt seems to me that if Sto ne's jurisdictional language was binding in the\nway that you claim, that it would have governed the outcome in that\ncase as well. Because both of them are in the same provision related to\njudicial review.\nSo can you just help me to parse them in the way that you have done?\n### Stephen J. Hammer:\nYes, Your Honor.\nI think Stone is a jurisdictional holding as to the filing deadline that it\nactually considered.\nI take Santos-Zacaria -- Zacaria to be responding to the government's\nargument in that case that the entirety of the INA's judicial review\nprovision, everything in Section 1252, was jurisdictional.\nAnd Santos -Zacaria's comments were in reflection to that. But it was\nnot --I don't take any of the comments in Santos -Zacaria to be saying\nthat Stone was not jurisdictional in any respect, even with regard to the\nfiling deadline that it did consider.\nIf Santos-Zacaria had been saying that, it would not have needed to go\non with that paragraph to point out that Stone did not address the\nexhaustion provision that was at issue in Santos-Zacaria.\n### Justice Jackson:\nWell, true -- it's true that Santos -Zacaria came up in a particular\ncontext, but it was responding to the assertion that Stone established\nthe jurisdictional nature of this.\nAnd I thought Santos -Zacaria pointed out that Stone was a drive -by\njurisdictional holding, it was pre-Arbaugh, it really didn't do the -- the\nwork that was necessary to establish a binding holding related to the\njurisdictional provision.\n### Stephen J. Hammer:\nSo, Your Honor, I don't understand either of the comments in Santos -\nZacaria to be saying Stone was not jurisdictional with respect to the\nfiling deadline. You have the \"did not attend to\" comment in Santos-\nZacaria.\nI understand that t o be a --a reference to not applying Arbaugh's clear\nstatement rule.\nYou have the \"was not central\" comment, and I think that is a reflection\nof the government's argument in Santos -Zacaria about the entirety of\n### Justice Jackson:\nAll right.\nWell, play out the counterfactual.\nIf you're right that Santos-Zacaria was not talking about the\njurisdictional nature of the provision that Stone was looking at, where\ndoes that leave Santos -Zacaria?\n### Stephen J. Hammer:\nWell, Your Honor, I think it could be a reflection on the entirety of the\ngovernment's argument in that case that the entirety of the INA's\njudicial review provision far beyond the filing deadline was not\njurisdictional.\nBut even if I'm wrong about those comments and those comments were\nmeant to say that Stone was not jurisdictional in any respect, even with\nregard to the filing deadline that it did consider, I don't think that was a\nnecessary to the result in Santos -Zacaria. Santos-Zacaria was focused\nonly on the separate exhaustion provision that was not at issue in Stone.\nAnd I think I would take the lesson from this Court's decision in Thryv to\nbe that when the issue is what this Court held in a prior decision, this\nCourt should look to that prior decision and not a subsequent opinion\ninterpreting it.",
+      "questions": []
+    },
+    {
+      "conversation_id": 34,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nMr. Hammer, can you think of another situation in which judicial review\nis precluded just by virtue of the way the fast-track --or the two-track\nsystem works? In other words, we're not looking at a situation -- I\nmean, putting aside the zipper clause, but we're not looking at a\nsituation where Congress has said in -- expressly that in this situation\nwhere you have fast-track removal, judicial review is precluded.\nIt's simply by operation of the fact that the removal order is going to\nhave to be executed before the withholding claim gets all the way\nthrough.\nIs there another situation like that?\n### Stephen J. Hammer:\nSo two responses, Your Honor.\nFirst, I don't think judicial review of orders concluding withholding-only\nproceedings is precluded by the Fourth Circuit's reading. The parties\nhave identified various ways by which aliens could obtain review of\nthose orders.\n### Justice Barrett:\nSo let's -- if -- if those aren't, let's -- in this hypothetical, just assume\nthose are off the table.\n### Stephen J. Hammer:\nYes, Your Honor.\nIf those are off the table, if those are not valid, then I think this is a\nunique form of judicial review.\nI'm not aware of another one that is like this.\nIt allows CAT claims to be reviewed but only if you file a petition for\nreview of a final order of removal.\nSo I'm not aware of an -- an analogy to it, but I don't think it would be\nsurprising, if Congress meant to restrict judicial review, that it would do\nit for these particular classes of aliens, aliens who have been convicted\nof felon -- felonies and illegal reentrance.\nThat would not be a surprising class, given Congress's interest in\nexpediting the removal of those aliens.\n### Justice Barrett:\nIs that consistent with the presumption of judicial review?\n### Stephen J. Hammer:\nSo, again, front -line position is that I think there are means available to\nget judicial review.\nSetting that aside, I don't think the presumption -- I don't think the\nCourt needs to resort to the presumption, given the plain meaning of\nthe filing deadline.\n### Justice Barrett:\nWould you say, then, that your argument, maybe not hinges, but is\nhelped significantly by the available of these alternate routes?\n### Stephen J. Hammer:\nI think it is helped, but I don't -- I think it's helped, I don't think the\npresumption needs to be raised at all because I don't think the text is\nambiguous with respect to what the meaning of a final -- \"final order of\nremoval\" is, Your Honor.",
+      "questions": []
+    },
+    {
+      "conversation_id": 35,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nBut if your front -line position is that there is judicial review, even with\nrespect to these people who are in expedited proceedings, if that's your\nfront -line position, isn't it a quite odd way to write a statute to say, yes,\nyou get judicial review, but we're going to set up a 30 -day deadline\nwhich effectively precludes you from ever getting that judicial review?\n### Stephen J. Hammer:\nWell, I think it wouldn't preclude you from getting the judicial review if\nthese alternative means are available.\nIt would just require you to file the protective petition and hold it in\nabeyance, which the government represents has been done in the\nFourth Circuit since its decision.\nAnd I think this Court has been clear that administrative burden or\ncomplexity is not a reason to depart from the plain meaning of the\nstatute.\nBut I also think there was a good reason for Congress to do it this way.\nAnd I think this relates to the policy consequences of Mr. Riley's and the\ngovernment's position.\nSo Mr. Riley's and the government's position separates administrative\nfinality, on the one hand, from finality for purposes of judicial review, on\nthe other.\nAnd by doing so, they create a risk that aliens can be removed from the\ncountry to a third country during withholding-only proceedings\nwithout ever having the chance to go into court and get a stay.\nThat's a significant policy problem, and that's because, as everyone\nhere agrees, the final administrative removal order is administratively\nfinal as soon as it's issued.\nThat authorizes the government to remove the alien to a third country\nso long as the government provides notice of that and the alien doesn't\nhave a fear of persecution or torture in that country.\nBut as long as withholding-only proceedings are ongoing, according to\nMr. Riley and the government, there will not be a judicially final order,\nand so the alien won't be able to go into court and get a stay.\nThat's a particularly significant problem because there will be cases in\nwhich aliens both want to challenge the validity of their 1228(b) orders\nand seek withholding relief.\nAnd those aliens will be put to a difficult choice.\nThey will either need to forgo their withholding proceedings so that\nthey can immediately get judicial review and a stay of their 1228(b)\norders, or risk it, go into withholding proceedings knowing that there's\na chance they might be removed to a third country before ever having\nthe chance to go into court and get a stay.\nThat cannot happen on the Fourth Circuit's reading because the Fourth\nCircuit's reading marries administrative finality with finality for\npurposes of judicial review.",
+      "questions": []
+    },
+    {
+      "conversation_id": 36,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nI am sorry.\nI thought that there was a stay for the petition for removal when a CAT\n### Stephen J. Hammer:\nThere is not, Your Honor. And the government explained that, that the\ngovernment believes itself and does in fact have the authority to a\n### Justice Sotomayor:\nTo a third country\n### Stephen J. Hammer:\nExactly.\n### Justice Sotomayor:\nan opportunity to file an amended CAT claim on the new designation.\nSo it's not an open-ended thing. And you answered",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 37,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nby\nsaying it makes sense that aggravated felons and people who have come\nback illegally shouldn't have more -- have expanded appellate rights\nunder CAT.\nBut the government has conceded that people who haven't had either\nof those two situations, who have appealed to the Board and -- and are\nsubject to the zipper clause in terms of the 30-day period, the Board not\ninfrequently affirms the petition for removal and remands the petition\n### Stephen J. Hammer:\nYour Honor, I think that, generally in those cases, aliens would have the\nopportunity to do it, and that's because of the Board's particular\nremand policy.\nSo under a 1978 Board decision called Matter of Patel, when the Board\nremands a case, it's a general or plenary remand that allows",
+      "questions": []
+    },
+    {
+      "conversation_id": 38,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nBut not the petition for review if they've affirmed it.\n### Stephen J. Hammer:\nIt would allow for reconsideration of the removability decision by the IJ\nunless the Board expressly limits the remand to that withholding issue.\nSo to take your hypothetical, if the Board did expressly limit its remand\nto the withholding issue, then, yes, it's possible that scenario would\narise.\n### Justice Sotomayor:\nWell, that's how I saw it when I was on the circuit court, which is the\nboards would affirm the petition for review -- I'm sorry -- the final\norders of removal and remand just on the CAT claims.\nThey did it routinely.\n### Stephen J. Hammer:\nSo, yes, Your Honor, the Board has the option to expressly limit its\nremand to the withholding issue.\nI would just note that in these situations, aliens will also often be\nseeking asylum in addition to the withholding claim.\nAnd because asylum does go to the validity of the removal order, it\nwould forestall the finality of the removal order while the asylum claim\nwas being considered.",
+      "questions": []
+    },
+    {
+      "conversation_id": 39,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nCan I go back to",
+      "questions": []
+    },
+    {
+      "conversation_id": 40,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\n's question about the presumption? I\nguess I don't understand why the text of the statute is not ambiguous\nconcerning the meaning of \"final order\" in the expedited removal\ncontext.\nWhen you look at the definition, it -- both prongs of it are pegged to a\ndetermination by the Board of Immigration Appeals, which doesn't\nhappen in the expedited removal context. So why couldn't that be a\nbasis for determining that this was sufficiently ambiguous that the\npresumption kicks in?\n### Stephen J. Hammer:\nSo two points, Your Honor.\nFirst, we don't think the presumption comes up so long as these\nalternative means of getting judicial review are available, like the\nprotective petitions.",
+      "questions": []
+    },
+    {
+      "conversation_id": 41,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nBut it's -- I'm sorry.\nIs that -- I thought the standard was whether the statute was\nambiguous, not whether there's some other way we could figure this\nout.\n### Stephen J. Hammer:\nWell, judicial review would be available if those alternative means -- if\nyou can file a protective petition, then judicial review would be\navailable.\nSo the presumption wouldn't help resolve anything. You'd get it either",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 42,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nPresumption -- I think",
+      "questions": []
+    },
+    {
+      "conversation_id": 43,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\n's point is the presumption of\nreviewability helps us interpret statutes, and if the statute's\nambiguous, then it kicks in and it has nothing to do with facts on the\nground.\nAnd you -- you can achieve -- skin the cat some other way.\nDo you want to respond to that?\n### Stephen J. Hammer:\nYes, Your Honor.\nThis Court has said that when --and this is Thunder Basin footnote 8:\n\"Because court of appeals review is available, this case does not\nimplicate the strong presumption that Congress did not mean to",
+      "questions": []
+    },
+    {
+      "conversation_id": 44,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nYeah, but if the -- the statute -- what do you say, though -- I mean, it\nseems to me 1101(a)(47), when it defines final order really is pegged to\nthe -- the Board's decision one way or the other.\nAnd here we have none.\n### Stephen J. Hammer:\nSo Your Honor, I acknowledge that Congress could have spoken more\n### Justice Gorsuch:\nWell, it could have spoken to this situation at all, right?\n### Stephen J. Hammer:\nWell, I think it could have spoken more directly.\nI'll acknowledge that, Your Honor.\nBut I think it's clear in light of Section 1228(b), which does speak\ndirectly to this situation in two critical places.\nSo Section 1228(b)(4)(F) calls an order entered under this -- under that\nsubsection a final order of removal, using exactly the same language\nthat Section 1252 does itself.\nAnd that's only confirmed by Section 1228(b)(3), which imposes a stay\nor a bar on the removal of the alien for 14 days from the date of issuance\nof that order and ordered that the alien has the opportunity to apply for\njudicial review, confirming that that order is final when it is issued.\n### Justice Gorsuch:\nIf we didn't have Stone, just to shift gears a little bit, would you read\n1252(b)(1) as jurisdictional?\n### Stephen J. Hammer:\nYour Honor, I acknowledge that the filing deadline likely would not\nsatisfy the clear statement test apart from Stone.\n### Justice Gorsuch:\nOkay.\n### Stephen J. Hammer:\nJust to mention that -- the definition a little bit more, Your Honor, I\nthink the best way to understand this, that is a statute-wide definition.\nIt applies by its terms to the entirety of the INA.\nSo it covers Section 1228(b).\nAnd I think the best way to read it is to reconcile it with 1228(b),\nparticularly in light of the history of the two provisions.\nThe predecessor to Section 1228(b) that originally dispensed with the\nneed for a hearing before an immigration judge was adopted in 1994.\nDOJ adopted regulations implementing it in 1995. They did away with\nthe need for any Board review.\nSo by the time Congress came to AEDPA in 1996 to add this definition, it\nalready had this part of the statute.\nIt already knew this statute called this \"a final order of deportation,\"\nand yet it adopted this definition.\nI think the best way to read it together with that is to reconcile it, to say\nthat Board -- the period for Board review expires immediately when no\nBoard review is allowed.\nBut if you disagree with me on that, I think Section 1228(b) itself\nanswers this question, and it's strongly supported by Section 1231 and\nwhat this Court said about administrative finality in Guzman Chavez.\n### Justice Gorsuch:\nWhat do you say about the possibility that some courts of appeals won't\nallow these protective appeals to sit on their books for years on end?\n### Stephen J. Hammer:\nYour Honor, I think this Court could provide guidance about the\nsituations in which those motions for abeyance should be granted.\nThe Court has done something similar in the habeas context in -- in\nRhines versus Weber, where it authorized a stay in abeyance procedure\nfor district courts so that habeas petitioners could go into district courts\nand exhaust their -- go into state court to exhaust their claims before\ncoming back.\nThis Court could authorize something like that. I don't think that's\nnecessary here, Your Honor, because I think the meaning of the filing\ndeadline is plain.\nBut the Court could provide guidance in that way.",
+      "questions": []
+    },
+    {
+      "conversation_id": 45,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nCounsel, you say that Stone's rejection of tolling indicates that it's a\ntrue jurisdictional holding.\nBut tolling can be unavailable in equitable proceedings as well, can't it,\nor when the deadlines are -- are equitable?\n### Stephen J. Hammer:\nYes, Your Honor.\nIt is true that some claim processing rules also foreclose tolling, but they\ndon't do it in the way that Stone did.\nSo this Court in Irwin held that non-jurisdictional statutory deadlines\nare presumptively amenable to equitable tolling.\nWe see nothing like a rebuttal in Stone of that presumption of equitable\ntolling.\nInstead, we see the automatic and reflexive connection of the Court's\nholding that the deadline is jurisdictional to the consequence that it\ndoesn't allow for equitable tolling.\nThat's the exact opposite of what happened in Beggerly, the Court that\nthis -- the case that this Court analyzed in Wilkins and said didn't count\nas a definitive jurisdictional precedent.\nIt had an extensive analysis of equitable tolling.\nAnd the Court said if it was a true jurisdictional deadline, it wouldn't\nhave needed that extensive analysis.\nAnd that's exactly what we have in Stone; a direct and immediate\nconnection between the conclusion that the deadline is jurisdictional\nand the consequence that it doesn't allow for equitable tolling.\n### Chief Justice Roberts:\nWell, you also argue that the citation of the cert deadline and the appeal\ndeadline is very, very significant here, but those seem to be quite\ndifferent in the sense that you're dealing with the vertical deadlines of\nquite some significance.\nAnd I wonder whether that is a particularly compelling analogy.\n### Stephen J. Hammer:\nYour Honor, I think it was the analogy that the court found compelling in\nStone.\nIt was the analogy that supported the Court's ultimate conclusion that\nthe deadline was jurisdictional and engaged in this extensive analysis,\ncomparing the deadline to file a notice of appeal from a final order of\ndeportation to the time to notice an appeal from a district court\njudgment, which as you point out this Court has recognized as\njurisdictional, both before and after Arbaugh.\nThe Court also compared the effect of the motion for reconsideration to\nthe effect of a Rule 60(b) motion, which doesn't strip the court of\nappeals of jurisdiction.\nAnd I think that --the force of that analogy is that it shows the court\nunderstood the filing deadline as a window of time at which the court of\nappeals could assert jurisdiction, regardless o f any motion for\nreconsideration, and after which it would could not assert jurisdiction\njust like in the notice of appeal context.\nI think all of that analysis supported what happens on pages 405 of\nStone and shows that the Court truly meant what it said when it said\nthat the deadline was jurisdictional.",
+      "questions": []
+    },
+    {
+      "conversation_id": 46,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nBut just to underscore",
+      "questions": []
+    },
+    {
+      "conversation_id": 47,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\n's point, under our modern\nyou're relying on the Stone precedent as the reason why we should hold\nthat it's jurisdictional here?\n### Stephen J. Hammer:\nI am relying on the Stone precedent, Your Honor.\nAnd I think this is exactly the situation in which statutory stare decisis\nhas its effect.\nAs this Court recognized in John R. Sand & Gravel, abiding by the Court's\nstatutory decision serves important system -wide reliance interests,\npromotes the overall stability and predictability of the law, and it's\nimportant -- particularly important here because just a year after\nStone, Congress and IIRIRA further restricted the availability of judicial\nreview.",
+      "questions": []
+    },
+    {
+      "conversation_id": 48,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nAnd we can rely on Stone to reach the jurisdictional holding that you\nwould like us to reach, notwithstanding Santos -Zacaria's statement\nthat Stone -- in Stone, whether the provisions were jurisdictional were\nnot central to the case?\n### Stephen J. Hammer:\nYes, Your Honor.\nI don't understand that statement to be reflecting on Stone's analysis\nof the deadline.\nAnd to the extent I'm wrong about that, I don't think that was part of\nSantos-Zacharia's holding.\nI don't think it would bind this Court, just like in the Thryv case, Your\nHonor.",
+      "questions": []
+    },
+    {
+      "conversation_id": 49,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nMr. Hammer, when I asked you before why we should think of the order\nof removal as final, given that it's distinctly non -final, distinctly\nprovisional as to an important aspect, which is where you're going to\nremove the person to, you countered to me, Nasrallah.\nIs there anything else that you would say about that question or is this\nlike you think, look, that's what Nasrallah forces you to do is to think of\nthat order as final, even though it's not final, as to where the person can\nbe removed to? Is there anything else other than Nasrallah?\n### Stephen J. Hammer:\nYes, Your Honor.\nI think it's a strong point that this order allows the removal, even while\nwithholding-only proceedings are ongoing of the alien to a third\ncountry. The order does not have to be amended.\n### Justice Kagan:\nWell, it does -- so it has settled the question of whether you can remove\nthe alien to, you know, any other country, but it has not settled the\nquestion as to whether you can remove this person to Jamaica here.\nSo that continues to be an up-for-grabs question. And as I understand\nthe government's argument, it's like as long as that's an up-for-grabs\nquestion, the order is not final. Now, you come back and you say\nNasrallah.\nSo I take the point.\nWe have to now go read Nasrallah and see what it said and what it didn't\nsay, but I'm not hearing anything else from you.\n### Stephen J. Hammer:\nYour Honor, no.\nI think the statutory text itself, so we talked about 1228(b) and the clear\nindications that that order is final when issued.\n1231 also confirms\n### Justice Kagan:\nYeah.\nI'm sorry. What in that tells you it's final as issued?\n### Stephen J. Hammer:\nIt's called the final order of removal.\n### Justice Kagan:\nMy question is what is a final order of removal?\n### Stephen J. Hammer:\nSo Section 1228(b)(3) indicates that you can seek judicial review within\n14 days of the issuance of the order, which would not be possible if\nwithholding-only proceedings suspended the finality of that order.\nSo I think that's a strong indication that it's final, but I would also point\nto Section 1231 and what this Court said about administrative finality in\nGuzman Chavez, because many of these arguments were also raised in\nGuzman Chavez, that indeterminacy as to the \"where\" question\nsuspended the finality of the removal order.\nAnd the Court rejected that for purposes of administrative finality in\nGuzman Chavez.\nI think there's a strong presumption that also governs finality in Section\n1252.\nAnd we can see evidence of that in the statutory text in Section 1252(b)\n(8)(A), which cross-references Section 1231 and uses the words \"a final\norder of removal\" to indicate the beginning of the removal period under\nSection 1231.\nSo Congress is using these two terms interchangeably.\nAnd for the reasons we discussed, it makes sense for them to do them so\nbecause administrative finality is the point at which the alien is then put\nat risk of being removed to a third country.\nIt doesn't make sense to have judicial --finality for purposes of judicial\nreview be suspended for some period of time, while the alien is at risk of\nbeing removed to a third country.\n### Justice Kagan:\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 50,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Thomas? Justice Alito? Anything further,",
+      "questions": []
+    },
+    {
+      "conversation_id": 51,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\n?\nJustice Kavanaugh?",
+      "questions": []
+    },
+    {
+      "conversation_id": 52,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\n? Justice Jackson? Thank you,\ncounsel. Rebuttal Mr. Bradley, rebuttal?\n### Keith Bradley:\nThank you.\nA couple of observations, really three things I'd like to say.\nOne is on the question whether somebody can be removed to a third\ncountry, while the withholding proceedings are in process, I'd like to\npoint the Court to the regulation at our Appendix 29A in the petition\nthat says, \"such alien shall not be excluded, deported, or removed\nbefore a decision is rendered on his or her asylum application.\" And that\nterm is defined in the regulation to include the withholding claims. So it\nis, as the government and we have said, that while they have the\nstatutory authority to remove you to somewhere else, the actual\nadministrative process is that by their own regulations they cannot,\nunless they find another --they designate another country. This is\nactually 20A in the appendix, that they must designate the country of\nremoval and then give you another chance, if that's -- if it's a third\ncountry, you, like, might raise an objection as to that one.\nBy contrast, in the -- in the judicial process, of course, there is no\nautomatic stay. This was a change in IIRIRA.\nWe have a stay in this case, but that is within the discretion of the circuit\ncourts.\nI'd like to come back to 1228(b)(3). This is the provision that says that\nthere's a pause for 14 days.\nThat has a great deal of force in a case where there is no withholding\nclaim, but there's nothing about that provision that --that shows it was\nintended to ensure -- to cover every case.\nIt is a limited protection of limited benefit for certain circumstances.\nNot all of them.\nThird, I'd like to come back to this question of the protective petitions.\nIt is more than simply that the courts would have to hold them in\nabeyance.\nThe government is right about the volume, that you will have to petition\nin every case because you won't even know yet what the BIA's decision -\n- what the IJ's or BIA's decision will be and whether there will be\ngrounds to challenge it.\nIn addition, you will have to be filing a petition in response to which the\ngovernment is supposed to file the administrative record for a case that\nis still ongoing and you're still building the administrative record.\nSo the -- the headaches for doing this nationwide are contrary to any\nother judicial review scheme that I can think of.",
+      "questions": []
+    },
+    {
+      "conversation_id": 53,
+      "dialogue": "Chief Justice Roberts\n\n### Chief Justice Roberts:\nThank you, counsel.\nMr. Hammer, this Court appointed you to brief and argue this case as an\namicus curiae in support of the judgment below.\nYou have ably discharged that responsibility , for which we are grateful.\nThe case is submitted.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 1/10",
+      "complexity_score": 1
+    }
+  ],
+  "generation_stats": {
+    "total_conversations": 53,
+    "conversations_with_questions": 13,
+    "conversations_without_questions": 40,
+    "processed_conversations": 53,
+    "questions_generated": 40,
+    "skipped_for_low_complexity": 11,
+    "coverage_rate": "24.5%",
+    "methodology": "Extract key phrases from justice statements and create multiple choice questions with extremely deceptive distractors"
+  },
+  "answer_distribution": {
+    "counts": {
+      "A": 10,
+      "B": 11,
+      "C": 10,
+      "D": 9
+    },
+    "percentages": {
+      "A": 25.0,
+      "B": 27.500000000000004,
+      "C": 25.0,
+      "D": 22.5
+    },
+    "total_questions": 40
+  }
+}

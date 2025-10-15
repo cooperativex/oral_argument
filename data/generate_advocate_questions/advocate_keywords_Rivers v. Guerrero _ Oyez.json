@@ -1,0 +1,971 @@
+{
+  "source_file": "Rivers v. Guerrero _ Oyez.md",
+  "background": "In 2012, Danny Rivers was convicted in Texas state court of multiple charges related to sexual abuse of a child and possession of child pornography. He filed his first federal habeas petition in August 2017 challenging these convictions, which was denied by the district court in September 2018. While his appeal of that denial was pending, Rivers filed a second habeas petition in February 2021 raising new claims after obtaining his attorney-client file through a state bar grievance in October 2019. The district court deemed this second petition “successive” under the Antiterrorism and Effective Death Penalty Act of 1996 (“AEDPA”) and transferred it to the U.S. Court of Appeals for the Fifth Circuit for authorization, but Rivers failed to file the required motion for authorization. After the Fifth Circuit ultimately affirmed the denial of his first petition in May 2022, Rivers appealed the transfer order of his second petition, arguing that it should have been treated as a motion to amend his first petition rather than as a successive petition since his first petition was still pending when he filed the second one. The Fifth Circuit disagreed and affirmed the district court’s dismissal of Rivers’s second-in-time petition for lack of jurisdiction.",
+  "conversations": [
+    {
+      "conversation_id": 1,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nHow would you defined \"second and successive\"?\n### Peter A. Bruland:\nI would define it,\n### Justice Thomas:\n, based on the history, because Banister\nWell, you -- post-AEDPA, how would you define it?\n### Peter A. Bruland:\nPost-AEDPA, I would say the second or successive petition is something\nthat, in 1996, when Congress used that phrase, ordinary members of\nthe bar would have recognized as settled is second or successive. And\nAEDPA says we look at the purpose behind -- I'm sorry, Banister says we\nlook at the purposes behind the statute, judicial economy, piecemeal\nlitigation, hastening finality.\nAnd Banister tells us that that's how you look at it.\nAnd this case, I think, is easier than Banister or Gonzalez because the\nstatute itself answers that.\nHere we have Congress specifically considering how amendments\nshould work in habeas, and Congress says amendments in habeas work\njust like amendments in ordinary civil litigation.\nAnd Congress said that there's a small sliver of amendments that are\nsubject to the second or successive rules and only those.\n### Justice Thomas:\nAnd don't we normally --in the mine-run cases consider second -in-\ntime to be \"second and successive\"?\n### Peter A. Bruland:\nSo, Justice Thomas, if I were just looking at the phrase, I would say yes,\nthat's how I would look at \"second or successive.\" But this Court has\nsaid \"second or successive\" is a term of art.\nAnd so all I'm saying today is what this Court said in Banister, which is\nthat we look at the history and the purposes.\nAnd, again, I think this case is easier than Banister because we have a\nstatutory hook.\nAnd going to that statutory hook, 2242 gives us the general rule.\nAnd then 2266(b)(3)(B) gives us the only exception. Congress\nspecifically thought about which amendments should be subject to the\nrules governing second or successive petitions, and it said in 2266(b)(3)\n(B), it's only this tiny sliver, filed by prisoners on death row in opt-in\nstates after the state files its answer. And I think it would disregard\nCongress's drafting choices to apply the rules governing second or\nsuccessive petitions outside that tiny sliver.\nAnd I think my friend, Mr. Guarnieri is with me on that.\nPage 17 of their brief, they say 2266(b)(3)(B), that's the exception and\nthen other amendments follow the federal rules.\nAnd if there's any question about that, I would turn to history, as I said,\nJustice Thomas, and here you had the near-uniform practice leading up\nto AEDPA was that mid-appeal efforts to amend were not treated as\nsuccessive.\nAnd I think my favorite case on that is the Harisiades case because Texas\nneeds the Court to say that the district court and the court of appeals\nwith Learned Hand on the panel and all nine members of this Court plus,\nI guess, the Solicitor General and the line prosecutor, all saw the effort to\namend after the appeal was filed and didn't say a word about it, like, I\nguess forgot that it was second or successive.\nAnd this is not a case where that issue was just lurking in the record.\nIf you look at the prisoner's blue brief, he says on page 10 to 11 I filed my\nnotice of appeal, and then I moved to amend.\nAnd then he argues the core of the amendment issue in his merits brief.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Post-AEDPA, I would say the ________________________ is something\nthat, in 1996, when Congress used that phrase, ordinary members of\nthe bar would have recognized as settled is second or successive. And\nAEDPA says we look at the purpose behind -- I'm sorry, Banister says we\nlook at the purposes behind the statute, judicial economy, piecemeal\nlitigation, hastening finality.\nAnd Banister tells us that that's how you look at it.\nAnd this case, I think, is easier than Banister or Gonzalez because the\nstatute itself answers that.\nHere we have Congress specifically considering how amendments\nshould work in habeas, and Congress says amendments in habeas work\njust like amendments in ordinary civil litigation.\nAnd Congress said that there's a small sliver of amendments that are\nsubject to the second or successive rules and only those.\"",
+          "options": {
+            "A": "second and successive motion",
+            "B": "second or final petition",
+            "C": "successive or second appeal",
+            "D": "second or successive petition"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "second or successive petition",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 1,
+              "speaker": "Peter A. Bruland",
+              "original_statement": "Post-AEDPA, I would say the second or successive petition is something\nthat, in 1996, when Congress used that phrase, ordinary members of\nthe bar would have recognized as settled is second or successive. And\nAEDPA says we look at the purpose behind -- I'm sorry, Banister says we\nlook at the purposes behind the statute, judicial economy, piecemeal\nlitigation, hastening finality.\nAnd Banister tells us that that's how you look at it.\nAnd this case, I think, is easier than Banister or Gonzalez because the\nstatute itself answers that.\nHere we have Congress specifically considering how amendments\nshould work in habeas, and Congress says amendments in habeas work\njust like amendments in ordinary civil litigation.\nAnd Congress said that there's a small sliver of amendments that are\nsubject to the second or successive rules and only those."
+            },
+            "explanation": "This phrase refers to a specific legal concept under the Antiterrorism and Effective Death Penalty Act (AEDPA) that governs the conditions under which a prisoner may file a subsequent habeas corpus petition, requiring a nuanced understanding of statutory interpretation and procedural history."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"So, Justice Thomas, if I were just looking at the phrase, I would say yes,\nthat's how I would look at \"second or successive.\" But this Court has\nsaid \"second or successive\" is a term of art.\nAnd so all I'm saying today is what this Court said in Banister, which is\nthat we look at the history and the purposes.\nAnd, again, I think this case is easier than Banister because we have a\n____________.\nAnd going to that statutory hook, 2242 gives us the general rule.\nAnd then 2266(b)(3)(B) gives us the only exception. Congress\nspecifically thought about which amendments should be subject to the\nrules governing second or successive petitions, and it said in 2266(b)(3)\n(B), it's only this tiny sliver, filed by prisoners on death row in opt-in\nstates after the state files its answer. And I think it would disregard\nCongress's drafting choices to apply the rules governing second or\nsuccessive petitions outside that tiny sliver.\nAnd I think my friend, Mr. Guarnieri is with me on that.\nPage 17 of their brief, they say 2266(b)(3)(B), that's the exception and\nthen other amendments follow the federal rules.\nAnd if there's any question about that, I would turn to history, as I said,\nJustice Thomas, and here you had the near-uniform practice leading up\nto AEDPA was that mid-appeal efforts to amend were not treated as\nsuccessive.\nAnd I think my favorite case on that is the Harisiades case because Texas\nneeds the Court to say that the district court and the court of appeals\nwith Learned Hand on the panel and all nine members of this Court plus,\nI guess, the Solicitor General and the line prosecutor, all saw the effort to\namend after the appeal was filed and didn't say a word about it, like, I\nguess forgot that it was second or successive.\nAnd this is not a case where that issue was just lurking in the record.\nIf you look at the prisoner's blue brief, he says on page 10 to 11 I filed my\nnotice of appeal, and then I moved to amend.\nAnd then he argues the core of the amendment issue in his merits brief.\"",
+          "options": {
+            "A": "statutory clause",
+            "B": "statutory framework",
+            "C": "statutory provision",
+            "D": "statutory hook"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "statutory hook",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 2,
+              "speaker": "Peter A. Bruland",
+              "original_statement": "So, Justice Thomas, if I were just looking at the phrase, I would say yes,\nthat's how I would look at \"second or successive.\" But this Court has\nsaid \"second or successive\" is a term of art.\nAnd so all I'm saying today is what this Court said in Banister, which is\nthat we look at the history and the purposes.\nAnd, again, I think this case is easier than Banister because we have a\nstatutory hook.\nAnd going to that statutory hook, 2242 gives us the general rule.\nAnd then 2266(b)(3)(B) gives us the only exception. Congress\nspecifically thought about which amendments should be subject to the\nrules governing second or successive petitions, and it said in 2266(b)(3)\n(B), it's only this tiny sliver, filed by prisoners on death row in opt-in\nstates after the state files its answer. And I think it would disregard\nCongress's drafting choices to apply the rules governing second or\nsuccessive petitions outside that tiny sliver.\nAnd I think my friend, Mr. Guarnieri is with me on that.\nPage 17 of their brief, they say 2266(b)(3)(B), that's the exception and\nthen other amendments follow the federal rules.\nAnd if there's any question about that, I would turn to history, as I said,\nJustice Thomas, and here you had the near-uniform practice leading up\nto AEDPA was that mid-appeal efforts to amend were not treated as\nsuccessive.\nAnd I think my favorite case on that is the Harisiades case because Texas\nneeds the Court to say that the district court and the court of appeals\nwith Learned Hand on the panel and all nine members of this Court plus,\nI guess, the Solicitor General and the line prosecutor, all saw the effort to\namend after the appeal was filed and didn't say a word about it, like, I\nguess forgot that it was second or successive.\nAnd this is not a case where that issue was just lurking in the record.\nIf you look at the prisoner's blue brief, he says on page 10 to 11 I filed my\nnotice of appeal, and then I moved to amend.\nAnd then he argues the core of the amendment issue in his merits brief."
+            },
+            "explanation": "This term refers to the specific statutory provisions that provide the legal basis for a claim or argument, necessitating familiarity with statutory interpretation and application."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"So, Justice Thomas, if I were just looking at the phrase, I would say yes,\nthat's how I would look at \"second or successive.\" But this Court has\nsaid \"second or successive\" is a term of art.\nAnd so all I'm saying today is what this Court said in Banister, which is\nthat we look at the history and the purposes.\nAnd, again, I think this case is easier than Banister because we have a\nstatutory hook.\nAnd going to that statutory hook, 2242 gives us the general rule.\nAnd then 2266(b)(3)(B) gives us the only exception. Congress\nspecifically thought about which amendments should be subject to the\n____________________________________, and it said in 2266(b)(3)\n(B), it's only this tiny sliver, filed by prisoners on death row in opt-in\nstates after the state files its answer. And I think it would disregard\nCongress's drafting choices to apply the rules governing second or\nsuccessive petitions outside that tiny sliver.\nAnd I think my friend, Mr. Guarnieri is with me on that.\nPage 17 of their brief, they say 2266(b)(3)(B), that's the exception and\nthen other amendments follow the federal rules.\nAnd if there's any question about that, I would turn to history, as I said,\nJustice Thomas, and here you had the near-uniform practice leading up\nto AEDPA was that mid-appeal efforts to amend were not treated as\nsuccessive.\nAnd I think my favorite case on that is the Harisiades case because Texas\nneeds the Court to say that the district court and the court of appeals\nwith Learned Hand on the panel and all nine members of this Court plus,\nI guess, the Solicitor General and the line prosecutor, all saw the effort to\namend after the appeal was filed and didn't say a word about it, like, I\nguess forgot that it was second or successive.\nAnd this is not a case where that issue was just lurking in the record.\nIf you look at the prisoner's blue brief, he says on page 10 to 11 I filed my\nnotice of appeal, and then I moved to amend.\nAnd then he argues the core of the amendment issue in his merits brief.\"",
+          "options": {
+            "A": "rules governing second or successive petitions",
+            "B": "rules pertaining to second or new petitions",
+            "C": "rules governing initial or successive filings",
+            "D": "rules regarding first or subsequent motions"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "rules governing second or successive petitions",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 2,
+              "speaker": "Peter A. Bruland",
+              "original_statement": "So, Justice Thomas, if I were just looking at the phrase, I would say yes,\nthat's how I would look at \"second or successive.\" But this Court has\nsaid \"second or successive\" is a term of art.\nAnd so all I'm saying today is what this Court said in Banister, which is\nthat we look at the history and the purposes.\nAnd, again, I think this case is easier than Banister because we have a\nstatutory hook.\nAnd going to that statutory hook, 2242 gives us the general rule.\nAnd then 2266(b)(3)(B) gives us the only exception. Congress\nspecifically thought about which amendments should be subject to the\nrules governing second or successive petitions, and it said in 2266(b)(3)\n(B), it's only this tiny sliver, filed by prisoners on death row in opt-in\nstates after the state files its answer. And I think it would disregard\nCongress's drafting choices to apply the rules governing second or\nsuccessive petitions outside that tiny sliver.\nAnd I think my friend, Mr. Guarnieri is with me on that.\nPage 17 of their brief, they say 2266(b)(3)(B), that's the exception and\nthen other amendments follow the federal rules.\nAnd if there's any question about that, I would turn to history, as I said,\nJustice Thomas, and here you had the near-uniform practice leading up\nto AEDPA was that mid-appeal efforts to amend were not treated as\nsuccessive.\nAnd I think my favorite case on that is the Harisiades case because Texas\nneeds the Court to say that the district court and the court of appeals\nwith Learned Hand on the panel and all nine members of this Court plus,\nI guess, the Solicitor General and the line prosecutor, all saw the effort to\namend after the appeal was filed and didn't say a word about it, like, I\nguess forgot that it was second or successive.\nAnd this is not a case where that issue was just lurking in the record.\nIf you look at the prisoner's blue brief, he says on page 10 to 11 I filed my\nnotice of appeal, and then I moved to amend.\nAnd then he argues the core of the amendment issue in his merits brief."
+            },
+            "explanation": "This phrase refers to the specific procedural rules that apply to successive habeas corpus petitions, requiring an understanding of the procedural intricacies involved in federal habeas law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"So, Justice Thomas, if I were just looking at the phrase, I would say yes,\nthat's how I would look at \"second or successive.\" But this Court has\nsaid \"second or successive\" is a term of art.\nAnd so all I'm saying today is what this Court said in Banister, which is\nthat we look at the history and the purposes.\nAnd, again, I think this case is easier than Banister because we have a\nstatutory hook.\nAnd going to that statutory hook, 2242 gives us the general rule.\nAnd then 2266(b)(3)(B) gives us the only exception. Congress\nspecifically thought about which amendments should be subject to the\nrules governing second or successive petitions, and it said in 2266(b)(3)\n(B), it's only this tiny sliver, filed by prisoners on death row in opt-in\nstates after the state files its answer. And I think it would disregard\nCongress's drafting choices to apply the rules governing second or\nsuccessive petitions outside that tiny sliver.\nAnd I think my friend, Mr. Guarnieri is with me on that.\nPage 17 of their brief, they say 2266(b)(3)(B), that's the exception and\nthen other amendments follow the federal rules.\nAnd if there's any question about that, I would turn to history, as I said,\nJustice Thomas, and here you had the near-uniform practice leading up\nto AEDPA was that ________________________ were not treated as\nsuccessive.\nAnd I think my favorite case on that is the Harisiades case because Texas\nneeds the Court to say that the district court and the court of appeals\nwith Learned Hand on the panel and all nine members of this Court plus,\nI guess, the Solicitor General and the line prosecutor, all saw the effort to\namend after the appeal was filed and didn't say a word about it, like, I\nguess forgot that it was second or successive.\nAnd this is not a case where that issue was just lurking in the record.\nIf you look at the prisoner's blue brief, he says on page 10 to 11 I filed my\nnotice of appeal, and then I moved to amend.\nAnd then he argues the core of the amendment issue in his merits brief.\"",
+          "options": {
+            "A": "final-appeal efforts to modify",
+            "B": "post-judgment motions to amend",
+            "C": "mid-appeal efforts to amend",
+            "D": "pre-appeal requests for amendment"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "mid-appeal efforts to amend",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 2,
+              "speaker": "Peter A. Bruland",
+              "original_statement": "So, Justice Thomas, if I were just looking at the phrase, I would say yes,\nthat's how I would look at \"second or successive.\" But this Court has\nsaid \"second or successive\" is a term of art.\nAnd so all I'm saying today is what this Court said in Banister, which is\nthat we look at the history and the purposes.\nAnd, again, I think this case is easier than Banister because we have a\nstatutory hook.\nAnd going to that statutory hook, 2242 gives us the general rule.\nAnd then 2266(b)(3)(B) gives us the only exception. Congress\nspecifically thought about which amendments should be subject to the\nrules governing second or successive petitions, and it said in 2266(b)(3)\n(B), it's only this tiny sliver, filed by prisoners on death row in opt-in\nstates after the state files its answer. And I think it would disregard\nCongress's drafting choices to apply the rules governing second or\nsuccessive petitions outside that tiny sliver.\nAnd I think my friend, Mr. Guarnieri is with me on that.\nPage 17 of their brief, they say 2266(b)(3)(B), that's the exception and\nthen other amendments follow the federal rules.\nAnd if there's any question about that, I would turn to history, as I said,\nJustice Thomas, and here you had the near-uniform practice leading up\nto AEDPA was that mid-appeal efforts to amend were not treated as\nsuccessive.\nAnd I think my favorite case on that is the Harisiades case because Texas\nneeds the Court to say that the district court and the court of appeals\nwith Learned Hand on the panel and all nine members of this Court plus,\nI guess, the Solicitor General and the line prosecutor, all saw the effort to\namend after the appeal was filed and didn't say a word about it, like, I\nguess forgot that it was second or successive.\nAnd this is not a case where that issue was just lurking in the record.\nIf you look at the prisoner's blue brief, he says on page 10 to 11 I filed my\nnotice of appeal, and then I moved to amend.\nAnd then he argues the core of the amendment issue in his merits brief."
+            },
+            "explanation": "This phrase addresses the procedural complexities surrounding amendments to claims during the appeal process, requiring knowledge of both procedural rules and case law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"So, Justice Thomas, if I were just looking at the phrase, I would say yes,\nthat's how I would look at \"second or successive.\" But this Court has\nsaid \"second or successive\" is a term of art.\nAnd so all I'm saying today is what this Court said in Banister, which is\nthat we look at the history and the purposes.\nAnd, again, I think this case is easier than Banister because we have a\nstatutory hook.\nAnd going to that statutory hook, 2242 gives us the general rule.\nAnd then 2266(b)(3)(B) gives us the only exception. Congress\nspecifically thought about which amendments should be subject to the\nrules governing second or successive petitions, and it said in 2266(b)(3)\n(B), it's only this tiny sliver, filed by prisoners on death row in opt-in\nstates after the state files its answer. And I think it would disregard\nCongress's drafting choices to apply the rules governing second or\nsuccessive petitions outside that tiny sliver.\nAnd I think my friend, Mr. Guarnieri is with me on that.\nPage 17 of their brief, they say 2266(b)(3)(B), that's the exception and\nthen other amendments follow the federal rules.\nAnd if there's any question about that, I would turn to history, as I said,\nJustice Thomas, and here you had the near-uniform practice leading up\nto AEDPA was that mid-appeal efforts to amend were not treated as\nsuccessive.\nAnd I think my favorite case on that is the Harisiades case because Texas\nneeds the Court to say that the district court and the court of appeals\nwith Learned Hand on the panel and all nine members of this Court plus,\nI guess, the Solicitor General and the line prosecutor, all saw the effort to\namend after the appeal was filed and didn't say a word about it, like, I\nguess forgot that it was second or successive.\nAnd this is not a case where that issue was just lurking in the record.\nIf you look at the prisoner's blue brief, he says on page 10 to 11 I filed my\nnotice of appeal, and then I moved to amend.\nAnd then he argues the ______________________________ in his merits brief.\"",
+          "options": {
+            "A": "core of the amendment claim",
+            "B": "essence of the amendment matter",
+            "C": "core of the amendment issue",
+            "D": "heart of the amendment issue"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "core of the amendment issue",
+            "category": "case_law",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 2,
+              "speaker": "Peter A. Bruland",
+              "original_statement": "So, Justice Thomas, if I were just looking at the phrase, I would say yes,\nthat's how I would look at \"second or successive.\" But this Court has\nsaid \"second or successive\" is a term of art.\nAnd so all I'm saying today is what this Court said in Banister, which is\nthat we look at the history and the purposes.\nAnd, again, I think this case is easier than Banister because we have a\nstatutory hook.\nAnd going to that statutory hook, 2242 gives us the general rule.\nAnd then 2266(b)(3)(B) gives us the only exception. Congress\nspecifically thought about which amendments should be subject to the\nrules governing second or successive petitions, and it said in 2266(b)(3)\n(B), it's only this tiny sliver, filed by prisoners on death row in opt-in\nstates after the state files its answer. And I think it would disregard\nCongress's drafting choices to apply the rules governing second or\nsuccessive petitions outside that tiny sliver.\nAnd I think my friend, Mr. Guarnieri is with me on that.\nPage 17 of their brief, they say 2266(b)(3)(B), that's the exception and\nthen other amendments follow the federal rules.\nAnd if there's any question about that, I would turn to history, as I said,\nJustice Thomas, and here you had the near-uniform practice leading up\nto AEDPA was that mid-appeal efforts to amend were not treated as\nsuccessive.\nAnd I think my favorite case on that is the Harisiades case because Texas\nneeds the Court to say that the district court and the court of appeals\nwith Learned Hand on the panel and all nine members of this Court plus,\nI guess, the Solicitor General and the line prosecutor, all saw the effort to\namend after the appeal was filed and didn't say a word about it, like, I\nguess forgot that it was second or successive.\nAnd this is not a case where that issue was just lurking in the record.\nIf you look at the prisoner's blue brief, he says on page 10 to 11 I filed my\nnotice of appeal, and then I moved to amend.\nAnd then he argues the core of the amendment issue in his merits brief."
+            },
+            "explanation": "This phrase emphasizes the central legal question regarding amendments in the context of appeals, highlighting the need for a sophisticated understanding of legal arguments and their implications."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 2,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nAnd he had a judgment.\nI guess what I'm trying to understand -- so, first of all, is your primary\nargument that after judgment against him on the habeas claim that\nexisted, he appeals it, and during the pendency of an appeal, if he seeks\nto amend the existing habeas claim, you say what? Because the appeal is\nstill pending, he can do it?\n### Peter A. Bruland:\nNot necessarily,\n### Justice Jackson:\n.\nBecause the appeal is still pending, it's not second or successive.\nIt might be a bad amendment.\nIt might die for Rule 15 reasons.\nHow do you square that with Gonzalez and the idea that the judgment is\ndoing some work here?\n### Peter A. Bruland:\nSo, Justice Jackson, Gonzalez did not face the question presented here,\nbecause there was no pending appeal in Gonzalez.\nThe --really, Gonzalez comes in a year after abandoning his appeal,\nwhen all of us up here agree that a habeas claim in that posture would be\nsecond or successive. And so, in Gonzalez, anything that comes in would\nbe second or successive.\nAnd that's why the Court is saying, well, you can't come in and\ncircumvent the statute.\n### Justice Jackson:\nWell, why wouldn't you be circumventing the statute here by just, you\nknow, interpreting anything that comes in during an appeal as not\nbeing second or successive?\n### Justice Jackson:\nI mean, we have a statute in which Congress was very clear about\nlimiting the number of filings or at least applying pretty restrictive rules\nto the ability to file another application.\nAnd so I guess what I --it --it boils down to for me at least is trying to\nunderstand the work of the judgment in providing the dividing line as to\nwhether things filed after that -- assuming the judgment remains in\neffect, are -- are --why aren't they second or successive and wouldn't\nyou be undermining AEDPA to say otherwise?\n### Peter A. Bruland:\nSo two responses,\n### Justice Jackson:\n.\nFirst, if you assume that what Rivers filed was second or successive and\nwere just trying to circumvent the statute, then I lose.\nBut that's not how Banister looked at it.\nBanister said we have a statutory phrase, \"second or successive\" habeas\ncorpus application, that event meant something in 1996 when Congress\nenacted the statute.\nAnd the way we figure out what it meant is we look at pre-AEDPA\nhistory and practice and doctrine and AEDPA's purposes.\nSo going squarely to your question, my point is that, leading up to\nAEDPA, a filing that came in during the appeal might have lost on the\nmerits.\nBanister says, well, that doesn't count for the analysis.\nI understand.\nBut -- aren't you reading a lot into Banister? I mean, wasn't that in a\n59(e) scenario?\n### Justice Jackson:\nAnd didn't that have something to do with the analysis? I mean, the\npoint there was that the judgment was suspended, such that -- you\nknow, it's very -- a limited amount of time, and it wasn't really the\nappeal or lack of an appeal or whatnot that seemed to be doing the\nwork.\nIt was about the nature of the judgment under a 59(e) scenario.\n### Peter A. Bruland:\nSo, Justice Jackson, I agree that Banister was focused on that question,\nand Banister wasn't focused on the question before you today, the\nquestion of well, what do we do when new evidence arises on the\nappeal? My point is that Banister gives us the logic that we're supposed\nto use in analyzing, well, how do we treat a claim or a filing that's not a\n59(e).\nAnd what I would say is Banister says look to the history, look to the\npurposes. And here I think we have history in droves.\nWe give you the Harisiades case, the Strand case out of the Tenth Circuit,\nall of these other cases where prisoners leading up to AEDPA lob in",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"So, Justice Jackson, Gonzalez did not face the question presented here,\nbecause there was no pending appeal in Gonzalez.\nThe --really, Gonzalez comes in a year after abandoning his appeal,\nwhen all of us up here agree that a habeas claim in that posture would be\nsecond or successive. And so, in Gonzalez, anything that comes in would\nbe second or successive.\nAnd that's why the Court is saying, well, you can't come in and\n__________________.\"",
+          "options": {
+            "A": "interpret the statute",
+            "B": "circumvent the statute",
+            "C": "invoke the statute",
+            "D": "challenge the statute"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "circumvent the statute",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 1,
+              "speaker": "Peter A. Bruland",
+              "original_statement": "So, Justice Jackson, Gonzalez did not face the question presented here,\nbecause there was no pending appeal in Gonzalez.\nThe --really, Gonzalez comes in a year after abandoning his appeal,\nwhen all of us up here agree that a habeas claim in that posture would be\nsecond or successive. And so, in Gonzalez, anything that comes in would\nbe second or successive.\nAnd that's why the Court is saying, well, you can't come in and\ncircumvent the statute."
+            },
+            "explanation": "This phrase addresses the legal principle that parties cannot bypass statutory requirements, which is critical in the context of habeas corpus appeals."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 3,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nWell, the SG says that the considered trend in the years shortly before\nthe enactment of AEDPA in 1996 was to treat efforts to amend a habeas\napplication mid-appeal as second or successive applications. So they\nsay by the time we got to 1996, what you're talking about really wasn't\nthe case.\nDo you want to address that?\n### Peter A. Bruland:\nTwo points, Justice Kavanaugh.\nFirst, I disagree with them on the history.\nI don't think that was the considered trend.\nBut just to take a step back, you could say the same thing about\nBanister.\nIf you look at Banister, the opinion cites one case from 1965, one case\nfrom 1988, where 59(e) motions were not deemed successive.\nAnd then Texas comes in on the other side with a case from 1993.\nBut that didn't turn the tide in Banister because for purposes of the\nhistorical analysis, I think the best place to look is page 325 of the\nScalia-Garner treatise.\nAnd what they say is when you're trying to figure out what sort of\nhistory Congress would have picked up, you look at, well, would a\nmember of the bar view this as settled? And they say if it's just a couple\nof opinions going one way or the other way, well, that's not the kind of\nhistory that Congress would have picked up.\nAnd going back to Banister, I think the history here is even stronger, at\nleast as strong as it was in Banister.\nPetitioners there come in with cases out of five circuits where courts\ndidn't treat 59(e) motions as second or successive.\nWe give you cases out of six circuits.\nT hen on the other side of the ledger it's deja vu,\n### Justice Kavanaugh:\n.\nTexas and its amici come in in Banister.\nThey have one case out of the Eighth Circuit, where the court says,\n59(e), second or successive.\nAnd here they found one case out of the Eighth Circuit applying the very\nsame logic that this Court wrote off as a historical outlier in Banister. So I\nthink the history is at least as clear here as it was in Banister.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Two points, Justice Kavanaugh.\nFirst, I disagree with them on the history.\nI don't think that was the considered trend.\nBut just to take a step back, you could say the same thing about\nBanister.\nIf you look at Banister, the opinion cites one case from 1965, one case\nfrom 1988, where 59(e) motions were not deemed successive.\nAnd then Texas comes in on the other side with a case from 1993.\nBut that didn't turn the tide in Banister because for purposes of the\n____________, I think the best place to look is page 325 of the\nScalia-Garner treatise.\nAnd what they say is when you're trying to figure out what sort of\nhistory Congress would have picked up, you look at, well, would a\nmember of the bar view this as settled? And they say if it's just a couple\nof opinions going one way or the other way, well, that's not the kind of\nhistory that Congress would have picked up.\nAnd going back to Banister, I think the history here is even stronger, at\nleast as strong as it was in Banister.\nPetitioners there come in with cases out of five circuits where courts\ndidn't treat 59(e) motions as second or successive.\nWe give you cases out of six circuits.\nT hen on the other side of the ledger it's deja vu,\"",
+          "options": {
+            "A": "historical review",
+            "B": "historical context",
+            "C": "historical precedent",
+            "D": "historical analysis"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "historical analysis",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 1,
+              "speaker": "Peter A. Bruland",
+              "original_statement": "Two points, Justice Kavanaugh.\nFirst, I disagree with them on the history.\nI don't think that was the considered trend.\nBut just to take a step back, you could say the same thing about\nBanister.\nIf you look at Banister, the opinion cites one case from 1965, one case\nfrom 1988, where 59(e) motions were not deemed successive.\nAnd then Texas comes in on the other side with a case from 1993.\nBut that didn't turn the tide in Banister because for purposes of the\nhistorical analysis, I think the best place to look is page 325 of the\nScalia-Garner treatise.\nAnd what they say is when you're trying to figure out what sort of\nhistory Congress would have picked up, you look at, well, would a\nmember of the bar view this as settled? And they say if it's just a couple\nof opinions going one way or the other way, well, that's not the kind of\nhistory that Congress would have picked up.\nAnd going back to Banister, I think the history here is even stronger, at\nleast as strong as it was in Banister.\nPetitioners there come in with cases out of five circuits where courts\ndidn't treat 59(e) motions as second or successive.\nWe give you cases out of six circuits.\nT hen on the other side of the ledger it's deja vu,"
+            },
+            "explanation": "This term refers to the examination of past legal precedents and practices to interpret legislative intent, which is vital in statutory interpretation."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 4,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nIf we're going to look at history, and habeas being civil litigation, you\nknow, the default rule is that when the district court relieves itself of a\ncase, after 59, and it goes to the court of appeals, you don't just get to\nRule 15 file an amendment willy-nilly.\nThe case is in the court of appeals.\nI mean, that's -- you know, a baseline historical practice is --is --is\nrelevant.\nWhat about that? I mean, you're asking for us to treat habeas differently\nthan any other form of civil litigation.\n### Peter A. Bruland:\nSo I sure hope not,\n### Justice Gorsuch:\n.\nWell, explain to me why not.\nBecause I've never heard of being able to amend my complaint when\nI'm on appeal in -- in -- in a 12(b)(6) -- after a 12(b)(6) dismissal.\nBoy, I would have liked to have done that a couple of times.\n(Laughter.)\n### Peter A. Bruland:\nJustice Gorsuch, I think you're absolutely right.\nAnd I want to take a step back because I think it's important to be\nprecise about the doctrine.\nSo I'm not saying that you get to amend your 12(b)(6) complaint after -\n- while you're up on appeal.\nMy point is historically appellate courts were open to new evidence or\nnew claims that come in.\nI think the best case there is the Shotwell case.\nThat's a case where the Solicitor General comes into this Court at the\ncert stage.\nThey lost in the court of appeals. And the Solicitor General says, look,\nI've got two new affidavits that I think show that the respondent pulled\na past --pulled a fast one on the lower courts.\nSo please, Supreme Court, would you kick it back down? And the Court\nsays, look, we are a court of review, not first view, so we're not going to\ntake a crack at the merits, but they say two things.\nThey say, first, we believe the Solicitor General.\nThis is new.\n### Justice Gorsuch:\nYeah, I accept that we have that power, especially when this -- the\ngovernment is admitting an error, right, or -- or some other important\nnew considerations.\nBut as a general rule in civil practice, if I come in and say, boy, I got a\ngreat amendment and I'm in front of a panel of -- they roll their eyes\nand they say, nice, that's a nice thing you have there.\nYou probably should have done that earlier, friend, you know, go file a\n60(b).\nThat's what they say.\n### Peter A. Bruland:\nWell, Justice Gorsuch, I think you're right.\nIf you come in to the court of appeals or even the district court, you're\nprobably going to get laughed out of court most of the time but my\npoint is a different one.\nMy point is about the power that courts have.\nAnd what I would say is for a long time appellate courts have been open\nto claims and denied most of them, but been open to claims.\nAnd so I -- I hope I'm not asking for anything in habeas that we\nwouldn't have in ordinary civil litigation.\nMy point is when you file that in habeas, it's not second or successive.\nIt's probably dead for other reasons but it's not second or successive.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Justice Gorsuch, I think you're absolutely right.\nAnd I want to take a step back because I think it's important to be\nprecise about the doctrine.\nSo I'm not saying that you get to amend your ____________ after -\n- while you're up on appeal.\nMy point is historically appellate courts were open to new evidence or\nnew claims that come in.\nI think the best case there is the Shotwell case.\nThat's a case where the Solicitor General comes into this Court at the\ncert stage.\nThey lost in the court of appeals. And the Solicitor General says, look,\nI've got two new affidavits that I think show that the respondent pulled\na past --pulled a fast one on the lower courts.\nSo please, Supreme Court, would you kick it back down? And the Court\nsays, look, we are a court of review, not first view, so we're not going to\ntake a crack at the merits, but they say two things.\nThey say, first, we believe the Solicitor General.\nThis is new.\"",
+          "options": {
+            "A": "12(b)(5) motion",
+            "B": "12(b)(6) complaint",
+            "C": "12(b)(4) action",
+            "D": "12(b)(7) claim"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "12(b)(6) complaint",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 4,
+              "statement_index": 1,
+              "speaker": "Peter A. Bruland",
+              "original_statement": "Justice Gorsuch, I think you're absolutely right.\nAnd I want to take a step back because I think it's important to be\nprecise about the doctrine.\nSo I'm not saying that you get to amend your 12(b)(6) complaint after -\n- while you're up on appeal.\nMy point is historically appellate courts were open to new evidence or\nnew claims that come in.\nI think the best case there is the Shotwell case.\nThat's a case where the Solicitor General comes into this Court at the\ncert stage.\nThey lost in the court of appeals. And the Solicitor General says, look,\nI've got two new affidavits that I think show that the respondent pulled\na past --pulled a fast one on the lower courts.\nSo please, Supreme Court, would you kick it back down? And the Court\nsays, look, we are a court of review, not first view, so we're not going to\ntake a crack at the merits, but they say two things.\nThey say, first, we believe the Solicitor General.\nThis is new."
+            },
+            "explanation": "This phrase refers to a specific rule under the Federal Rules of Civil Procedure that allows a party to seek dismissal of a complaint for failure to state a claim upon which relief can be granted, requiring a nuanced understanding of pleading standards."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Justice Gorsuch, I think you're absolutely right.\nAnd I want to take a step back because I think it's important to be\nprecise about the doctrine.\nSo I'm not saying that you get to amend your 12(b)(6) complaint after -\n- while you're up on appeal.\nMy point is historically __________________________________________ or\nnew claims that come in.\nI think the best case there is the Shotwell case.\nThat's a case where the Solicitor General comes into this Court at the\ncert stage.\nThey lost in the court of appeals. And the Solicitor General says, look,\nI've got two new affidavits that I think show that the respondent pulled\na past --pulled a fast one on the lower courts.\nSo please, Supreme Court, would you kick it back down? And the Court\nsays, look, we are a court of review, not first view, so we're not going to\ntake a crack at the merits, but they say two things.\nThey say, first, we believe the Solicitor General.\nThis is new.\"",
+          "options": {
+            "A": "appellate courts were open to fresh evidence",
+            "B": "appellate courts were open to new evidence",
+            "C": "appellate courts were restricted from new evidence",
+            "D": "appellate courts were closed to new evidence"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "appellate courts were open to new evidence",
+            "category": "case_law",
+            "difficulty": "hard",
+            "word_count": 7,
+            "context_info": {
+              "conversation_id": 4,
+              "statement_index": 1,
+              "speaker": "Peter A. Bruland",
+              "original_statement": "Justice Gorsuch, I think you're absolutely right.\nAnd I want to take a step back because I think it's important to be\nprecise about the doctrine.\nSo I'm not saying that you get to amend your 12(b)(6) complaint after -\n- while you're up on appeal.\nMy point is historically appellate courts were open to new evidence or\nnew claims that come in.\nI think the best case there is the Shotwell case.\nThat's a case where the Solicitor General comes into this Court at the\ncert stage.\nThey lost in the court of appeals. And the Solicitor General says, look,\nI've got two new affidavits that I think show that the respondent pulled\na past --pulled a fast one on the lower courts.\nSo please, Supreme Court, would you kick it back down? And the Court\nsays, look, we are a court of review, not first view, so we're not going to\ntake a crack at the merits, but they say two things.\nThey say, first, we believe the Solicitor General.\nThis is new."
+            },
+            "explanation": "This phrase highlights the historical practice of appellate courts considering new evidence, which requires knowledge of the evolution of appellate review standards and procedural rules."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Justice Gorsuch, I think you're absolutely right.\nAnd I want to take a step back because I think it's important to be\nprecise about the doctrine.\nSo I'm not saying that you get to amend your 12(b)(6) complaint after -\n- while you're up on appeal.\nMy point is historically appellate courts were open to new evidence or\nnew claims that come in.\nI think the best case there is the Shotwell case.\nThat's a case where the Solicitor General comes into this Court at the\ncert stage.\nThey lost in the court of appeals. And the Solicitor General says, look,\nI've got two new affidavits that I think show that the respondent pulled\na past --pulled a fast one on the lower courts.\nSo please, Supreme Court, would you kick it back down? And the Court\nsays, look, we are a ____________________________________, so we're not going to\ntake a crack at the merits, but they say two things.\nThey say, first, we believe the Solicitor General.\nThis is new.\"",
+          "options": {
+            "A": "court of jurisdiction, not first view",
+            "B": "court of record, not first review",
+            "C": "court of review, not first view",
+            "D": "court of appeals, not first review"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "court of review, not first view",
+            "category": "constitutional",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 4,
+              "statement_index": 1,
+              "speaker": "Peter A. Bruland",
+              "original_statement": "Justice Gorsuch, I think you're absolutely right.\nAnd I want to take a step back because I think it's important to be\nprecise about the doctrine.\nSo I'm not saying that you get to amend your 12(b)(6) complaint after -\n- while you're up on appeal.\nMy point is historically appellate courts were open to new evidence or\nnew claims that come in.\nI think the best case there is the Shotwell case.\nThat's a case where the Solicitor General comes into this Court at the\ncert stage.\nThey lost in the court of appeals. And the Solicitor General says, look,\nI've got two new affidavits that I think show that the respondent pulled\na past --pulled a fast one on the lower courts.\nSo please, Supreme Court, would you kick it back down? And the Court\nsays, look, we are a court of review, not first view, so we're not going to\ntake a crack at the merits, but they say two things.\nThey say, first, we believe the Solicitor General.\nThis is new."
+            },
+            "explanation": "This phrase encapsulates the principle that appellate courts primarily review lower court decisions rather than making initial determinations, necessitating an understanding of the appellate process and its limitations."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, Justice Gorsuch, I think you're right.\nIf you come in to the court of appeals or even the district court, you're\nprobably going to get laughed out of court most of the time but my\npoint is a different one.\nMy point is about the power that courts have.\nAnd what I would say is for a long time appellate courts have been open\nto claims and denied most of them, but been open to claims.\nAnd so I -- I hope I'm not asking for anything in habeas that we\nwouldn't have in ordinary civil litigation.\nMy point is when you file that in habeas, it's not __________________.\nIt's probably dead for other reasons but it's not second or successive.\"",
+          "options": {
+            "A": "second or prior",
+            "B": "second or successive",
+            "C": "second and successive",
+            "D": "final or successive"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "second or successive",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 4,
+              "statement_index": 2,
+              "speaker": "Peter A. Bruland",
+              "original_statement": "Well, Justice Gorsuch, I think you're right.\nIf you come in to the court of appeals or even the district court, you're\nprobably going to get laughed out of court most of the time but my\npoint is a different one.\nMy point is about the power that courts have.\nAnd what I would say is for a long time appellate courts have been open\nto claims and denied most of them, but been open to claims.\nAnd so I -- I hope I'm not asking for anything in habeas that we\nwouldn't have in ordinary civil litigation.\nMy point is when you file that in habeas, it's not second or successive.\nIt's probably dead for other reasons but it's not second or successive."
+            },
+            "explanation": "This phrase pertains to the legal classification of habeas petitions under AEDPA, which has specific implications for the ability to file multiple petitions."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 5,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nSorry.\nI'm -- I'm not sure I follow your argument.\nIf it's normal civil litigation and not habeas, if you file a motion to\namend between a final judgment in the district court and an appeal, the\ndistrict court has no inherent power to open -- to grant that motion,\ncorrect?\n### Peter A. Bruland:\nCorrect.\n### Justice Sotomayor:\nAll it could do is a 62.1, make a suggestion to the court of appeals,\ncorrect?\n### Peter A. Bruland:\nYes.\n### Justice Sotomayor:\nHere you didn't ask them to make a suggestion.\nSo not having asked them to do it, why do you think the motion is still\nalive after the court of appeals affirmed the judgment below?\n### Peter A. Bruland:\nWell, two responses,\n### Justice Sotomayor:\n.\nHow could the court -- the district court reopen absent 60(b)? That's\nmy point.\nYou could reopen under -- you could reopen under 60(b) to consider\nyour motion, correct?\n### Peter A. Bruland:\nCorrect.\n### Justice Sotomayor:\nAll right.\nBut none of that happened.\nYou didn't ask them to indicate under 62.1 and the court of appeals\ndidn't vacate or remand the matter to the district court to make the\nmotion to amend still live, right?\n### Peter A. Bruland:\nSo I -- I agree with you on the second half,\n### Justice Sotomayor:\n.\nI disagree about what the record shows on the first half.\nIf you look at Joint Appendix 107, Rivers is asking, he says, look, please,\ndistrict court, would you consider an interlocutory review.\nHe can't do a -- that's the point.\nIt may have been a product of him being pro se.\nAnd if he had hired you then, you probably would have made a motion -\n### Peter A. Bruland:\nWell, my point is --is twofold.\nFirst, I think he did ask for an interlocutory review.\n### Justice Sotomayor:\nThere is no interlocutory relief, meaning you admitted that the district\ncourt does not have the power to adjudicate the motion to amend.\nThe most it could do is what 62.1 permits, which is an indication to the\ncourt of appeals.\n### Peter A. Bruland:\nYes.\n### Justice Sotomayor:\nAnd that's not an interlocutory appeal.\n### Peter A. Bruland:\nSo I take what he was asking for.\nThe only plausible way to construe what he was asking for is as an\nindicative ruling.\nNow, the district court took up his motion to amend and didn't reach\nthe merits.\nIt said: Look, I don't have the jurisdiction to open the front cover\nbecause this is a second or successive petition.\n### Justice Sotomayor:\nThat's correct.\n### Peter A. Bruland:\nSo we're asking you to hold that that was a mistake under AEDPA.\n### Justice Sotomayor:\nBut he -- he presented the same thing to the court of appeals, basically\nthe same motion, and the court of appeals did not grant a vacate and\nremand.\n### Justice Sotomayor:\nIt wasn't convinced by whatever he presented.\nIt may have made an error, but that wasn't appealed either.\n### Peter A. Bruland:\nSo, Justice Sotomayor, I don't think the court of appeals saying we're\nnot going to enlarge the record shows us what it would do in response to\n### Justice Sotomayor:\nIt could have done -- it could have done what we did in the case you cite.\n### Justice Sotomayor:\nIf there had been a confession of error or if it was convinced that\nsomething truly untoward had happened, it could have vacated and\nremanded.\n### Peter A. Bruland:\nWell, Justice Sotomayor, I think there's a meaningful difference\nbetween a prisoner mailing in some typewritten pages and one of the\n### Justice Sotomayor:\nIn civil litigation, absent a vacate and remand by the court of appeals,\nwould the motion have to be considered under 60(b)?\n### Peter A. Bruland:\nIf there's no indicative ruling and if there's no vacatur and remand, then\nthe only way to reopen the judgment would be 60(b), unless the court of\nappeals reverses or vacates otherwise.\n### Justice Sotomayor:\nCorrect.\nThank you.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"So I take what he was asking for.\nThe only plausible way to construe what he was asking for is as an\nindicative ruling.\nNow, the district court took up his motion to amend and didn't reach\nthe merits.\nIt said: Look, I don't have the jurisdiction to open the front cover\nbecause this is a ________________________.\"",
+          "options": {
+            "A": "second or successive petition",
+            "B": "second and successive petition",
+            "C": "second or subsequent petition",
+            "D": "second or renewed petition"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "second or successive petition",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 5,
+              "statement_index": 2,
+              "speaker": "Peter A. Bruland",
+              "original_statement": "So I take what he was asking for.\nThe only plausible way to construe what he was asking for is as an\nindicative ruling.\nNow, the district court took up his motion to amend and didn't reach\nthe merits.\nIt said: Look, I don't have the jurisdiction to open the front cover\nbecause this is a second or successive petition."
+            },
+            "explanation": "This term denotes a legal procedural barrier under AEDPA that restricts the filing of multiple habeas petitions, requiring nuanced understanding of habeas corpus law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"So I take what he was asking for.\nThe only plausible way to construe what he was asking for is as an\nindicative ruling.\nNow, the district court took up his motion to amend and didn't reach\nthe merits.\nIt said: Look, I don't have the ____________________________________\nbecause this is a second or successive petition.\"",
+          "options": {
+            "A": "jurisdiction to open the front cover",
+            "B": "authority to open the front cover",
+            "C": "jurisdiction to open the back cover",
+            "D": "jurisdiction to close the back cover"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "jurisdiction to open the front cover",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 5,
+              "statement_index": 2,
+              "speaker": "Peter A. Bruland",
+              "original_statement": "So I take what he was asking for.\nThe only plausible way to construe what he was asking for is as an\nindicative ruling.\nNow, the district court took up his motion to amend and didn't reach\nthe merits.\nIt said: Look, I don't have the jurisdiction to open the front cover\nbecause this is a second or successive petition."
+            },
+            "explanation": "This metaphorical phrase illustrates the limitations on a court's ability to reconsider previously adjudicated matters, emphasizing the procedural complexities in habeas petitions."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"If there's no indicative ruling and if there's no vacatur and remand, then\nthe only way to reopen the judgment would be ______, unless the court of\nappeals reverses or vacates otherwise.\"",
+          "options": {
+            "A": "60(d)",
+            "B": "60(c)",
+            "C": "60(b)",
+            "D": "60(a)"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "60(b)",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 1,
+            "context_info": {
+              "conversation_id": 5,
+              "statement_index": 5,
+              "speaker": "Peter A. Bruland",
+              "original_statement": "If there's no indicative ruling and if there's no vacatur and remand, then\nthe only way to reopen the judgment would be 60(b), unless the court of\nappeals reverses or vacates otherwise."
+            },
+            "explanation": "This refers to Rule 60(b) of the Federal Rules of Civil Procedure, which allows a party to seek relief from a final judgment under specific circumstances, indicating complex procedural intricacies."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"If there's __________________ and if there's no vacatur and remand, then\nthe only way to reopen the judgment would be 60(b), unless the court of\nappeals reverses or vacates otherwise.\"",
+          "options": {
+            "A": "no definitive ruling",
+            "B": "no indicative ruling",
+            "C": "no conclusive ruling",
+            "D": "no preliminary ruling"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "no indicative ruling",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 5,
+              "statement_index": 5,
+              "speaker": "Peter A. Bruland",
+              "original_statement": "If there's no indicative ruling and if there's no vacatur and remand, then\nthe only way to reopen the judgment would be 60(b), unless the court of\nappeals reverses or vacates otherwise."
+            },
+            "explanation": "This phrase addresses the absence of a clear decision or guidance from the court, which can affect the ability to appeal or seek further legal remedies."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"If there's no indicative ruling and if there's no __________________, then\nthe only way to reopen the judgment would be 60(b), unless the court of\nappeals reverses or vacates otherwise.\"",
+          "options": {
+            "A": "vacatur and remand",
+            "B": "remand for clarification",
+            "C": "vacate and reverse",
+            "D": "remand and vacate"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "vacatur and remand",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 5,
+              "statement_index": 5,
+              "speaker": "Peter A. Bruland",
+              "original_statement": "If there's no indicative ruling and if there's no vacatur and remand, then\nthe only way to reopen the judgment would be 60(b), unless the court of\nappeals reverses or vacates otherwise."
+            },
+            "explanation": "This phrase refers to the court's action of nullifying a lower court's decision and sending the case back for further proceedings, a critical aspect of appellate review."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 6,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nCounsel, can I have you address the threshold arguments that are being\nmade about standing and the relief?\n### Peter A. Bruland:\nYes.\nSo, first, as to standing, this Court has --or, I'm sorry, as to standing, we\nhave appellate standing because an order from this Court reversing the\nFifth Circuit would lead to the potential for redress.\nAnd what we would say there is we would go back to the district court\nand we would file a 60(b)(6) motion to bring back the order -- I'm sorry\nAnd for purposes of standing and mootness, the probability of success is\npower.\nAnd there the argument would be -- it's an integrity-based argument\nunder footnote 4 of Gonzalez.\nWe would be saying in this position, the Supreme Court has just decided\nthat we were right about the AEDPA question. So, district court,\nrespectfully, would you please reopen the judgment denying the initial\nappeal -- or initial petition.\n### Justice Jackson:\nYou're saying we don't have to care about whether or not that is going\nto be successful?\n### Peter A. Bruland:\nYes, that's right.\n### Justice Jackson:\nJust have the opportunity to do it?\n### Peter A. Bruland:\nThat's right.\nIt's a question about the district court's power. Texas is coming in and\nsaying, well, look, there's nothing that you could on remand.\nAnd we've identified a procedure that would let the district court grant\nRivers redress.\n### Justice Jackson:\nWhat about the habeas jurisdiction and the fact that he's in custody on\none charge versus the other?\n### Peter A. Bruland:\nYes.\nWe're challenging the convictions for which he's still in custody. I don't\ntake the other side to be arguing that the new exculpatory evidence\ndoesn't undermine those convictions.\nThey certainly didn't argue that in the brief in opposition or below.\nI take them to be challenging us on the merits, but I don't take them to\nthe evidence wouldn't go as a jurisdictional matter.\n### Justice Jackson:\nThank you.\n### Peter A. Bruland:\nNow, my --my friends on the other side, I think, are going to stand up\nand say a word about the floodgates.\nAnd so I do want to address that.\nAnd the reason that our approach doesn't open the floodgates is that it\ncomes with a structural barrier and an absolute jurisdictional backstop.\nAnd that's borne out by what we've seen in the Second Circuit over the\nlast two decades.\nSo I'll start with the structural piece.\nFor any of this to get off the ground, the habeas petitioner has to go to\nthe district court, convince the district court to issue an inter- -- an\nindicative ruling on a habeas petition that it's just denied.\nAnd then the absolute jurisdictional backstop is the court of appeals has\nto agree to remand the case for further proceedings.\nAnd at both steps of those analysis, the prisoner has the burden of\nshowing that amendment here would not be futile, that it's timely.\nThat kicks out a lot of cases because AEDPA has a one-year statute of\nlimitations. The prisoner is also going to have to show that it's not going\nto be a dead case on the merits.\nThen you go up to the court of appeals.\nAnd we've --we've cited cases.\nThe Louisiana against Becerra case, where the Western District of\nLouisiana sent up a flare to the Fifth Circuit, and the Fifth Circuit said,\nno, we -- we don't think this amendment should go forward.\nIt's not timely.\nYou should have brought it earlier.\nSo the court of appeals is doing another review.\nAnd all of this is borne out by what we've seen in the Second Circuit over\nthe last 20 years because the Second Circuit has read AEDPA our way.\nThey've said 2244 doesn't kick in until the end of the appeal.\nAnd I will tell you I've read more of these cases than I care to remember.\nThere's about one or two per year over the last 20 years.\nAnd what you see, time and time again, is prisoners come in and they\nsay, look, I just got some new evidence, or something changed and I\nwant to fight it out.\nAnd in one-or two-or three-page opinions, a magistrate judge or the\ndistrict court judge has no trouble addressing those claims.\nAnd just to take a step back, at bottom, I think this case is really a venue\ncase, like the EPA cases you had last week because, these claims are\ncoming in one way or the other.\nThe question is just who's the frontline decisionmaker going to be.\nI can tell you when a prisoner gets new evidence or thinks the prisoner\nhas a new claim while the appeal is pending, he's going to send\nsomething in to some court.\nAnd then some decisionmaker is going to have to decide, well, what do I",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Yes.\nSo, first, as to standing, this Court has --or, I'm sorry, as to standing, we\nhave ____________ because an order from this Court reversing the\nFifth Circuit would lead to the potential for redress.\nAnd what we would say there is we would go back to the district court\nand we would file a 60(b)(6) motion to bring back the order -- I'm sorry\nAnd for purposes of standing and mootness, the probability of success is\npower.\nAnd there the argument would be -- it's an integrity-based argument\nunder footnote 4 of Gonzalez.\nWe would be saying in this position, the Supreme Court has just decided\nthat we were right about the AEDPA question. So, district court,\nrespectfully, would you please reopen the judgment denying the initial\nappeal -- or initial petition.\"",
+          "options": {
+            "A": "appellate jurisdiction",
+            "B": "appellate review",
+            "C": "appellate standing",
+            "D": "appellate authority"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "appellate standing",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 6,
+              "statement_index": 1,
+              "speaker": "Peter A. Bruland",
+              "original_statement": "Yes.\nSo, first, as to standing, this Court has --or, I'm sorry, as to standing, we\nhave appellate standing because an order from this Court reversing the\nFifth Circuit would lead to the potential for redress.\nAnd what we would say there is we would go back to the district court\nand we would file a 60(b)(6) motion to bring back the order -- I'm sorry\nAnd for purposes of standing and mootness, the probability of success is\npower.\nAnd there the argument would be -- it's an integrity-based argument\nunder footnote 4 of Gonzalez.\nWe would be saying in this position, the Supreme Court has just decided\nthat we were right about the AEDPA question. So, district court,\nrespectfully, would you please reopen the judgment denying the initial\nappeal -- or initial petition."
+            },
+            "explanation": "This phrase refers to the legal ability of a party to appeal a decision, which requires a sufficient stake in the outcome of the case."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Yes.\nSo, first, as to standing, this Court has --or, I'm sorry, as to standing, we\nhave appellate standing because an order from this Court reversing the\nFifth Circuit would lead to the potential for redress.\nAnd what we would say there is we would go back to the district court\nand we would file a ____________ to bring back the order -- I'm sorry\nAnd for purposes of standing and mootness, the probability of success is\npower.\nAnd there the argument would be -- it's an integrity-based argument\nunder footnote 4 of Gonzalez.\nWe would be saying in this position, the Supreme Court has just decided\nthat we were right about the AEDPA question. So, district court,\nrespectfully, would you please reopen the judgment denying the initial\nappeal -- or initial petition.\"",
+          "options": {
+            "A": "60(b)(6) motion",
+            "B": "60(b)(3) motion",
+            "C": "60(b)(4) motion",
+            "D": "60(b)(5) motion"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "60(b)(6) motion",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 6,
+              "statement_index": 1,
+              "speaker": "Peter A. Bruland",
+              "original_statement": "Yes.\nSo, first, as to standing, this Court has --or, I'm sorry, as to standing, we\nhave appellate standing because an order from this Court reversing the\nFifth Circuit would lead to the potential for redress.\nAnd what we would say there is we would go back to the district court\nand we would file a 60(b)(6) motion to bring back the order -- I'm sorry\nAnd for purposes of standing and mootness, the probability of success is\npower.\nAnd there the argument would be -- it's an integrity-based argument\nunder footnote 4 of Gonzalez.\nWe would be saying in this position, the Supreme Court has just decided\nthat we were right about the AEDPA question. So, district court,\nrespectfully, would you please reopen the judgment denying the initial\nappeal -- or initial petition."
+            },
+            "explanation": "This refers to a motion under Rule 60(b)(6) of the Federal Rules of Civil Procedure, allowing a party to seek relief from a final judgment for reasons not covered by the other clauses of Rule 60(b)."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Yes.\nSo, first, as to standing, this Court has --or, I'm sorry, as to standing, we\nhave appellate standing because an order from this Court reversing the\nFifth Circuit would lead to the potential for redress.\nAnd what we would say there is we would go back to the district court\nand we would file a 60(b)(6) motion to bring back the order -- I'm sorry\nAnd for purposes of standing and mootness, the probability of success is\npower.\nAnd there the argument would be -- it's an ____________\nunder footnote 4 of Gonzalez.\nWe would be saying in this position, the Supreme Court has just decided\nthat we were right about the AEDPA question. So, district court,\nrespectfully, would you please reopen the judgment denying the initial\nappeal -- or initial petition.\"",
+          "options": {
+            "A": "integrity-focused claim",
+            "B": "integrity-based argument",
+            "C": "integrity-driven assertion",
+            "D": "integrity-centered position"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "integrity-based argument",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 6,
+              "statement_index": 1,
+              "speaker": "Peter A. Bruland",
+              "original_statement": "Yes.\nSo, first, as to standing, this Court has --or, I'm sorry, as to standing, we\nhave appellate standing because an order from this Court reversing the\nFifth Circuit would lead to the potential for redress.\nAnd what we would say there is we would go back to the district court\nand we would file a 60(b)(6) motion to bring back the order -- I'm sorry\nAnd for purposes of standing and mootness, the probability of success is\npower.\nAnd there the argument would be -- it's an integrity-based argument\nunder footnote 4 of Gonzalez.\nWe would be saying in this position, the Supreme Court has just decided\nthat we were right about the AEDPA question. So, district court,\nrespectfully, would you please reopen the judgment denying the initial\nappeal -- or initial petition."
+            },
+            "explanation": "This phrase suggests a legal argument that is grounded in the integrity of the judicial process, particularly in the context of ensuring fair treatment under the law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Yes.\nSo, first, as to standing, this Court has --or, I'm sorry, as to standing, we\nhave appellate standing because an order from this Court reversing the\nFifth Circuit would lead to the potential for redress.\nAnd what we would say there is we would go back to the district court\nand we would file a 60(b)(6) motion to bring back the order -- I'm sorry\nAnd for purposes of standing and mootness, the probability of success is\npower.\nAnd there the argument would be -- it's an integrity-based argument\nunder ________________________.\nWe would be saying in this position, the Supreme Court has just decided\nthat we were right about the AEDPA question. So, district court,\nrespectfully, would you please reopen the judgment denying the initial\nappeal -- or initial petition.\"",
+          "options": {
+            "A": "footnote 5 of Gonzalez",
+            "B": "footnote 3 in Gonzalez",
+            "C": "footnote 4 of Gonzalez",
+            "D": "footnote 4 of Johnson"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "footnote 4 of Gonzalez",
+            "category": "case_law",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 6,
+              "statement_index": 1,
+              "speaker": "Peter A. Bruland",
+              "original_statement": "Yes.\nSo, first, as to standing, this Court has --or, I'm sorry, as to standing, we\nhave appellate standing because an order from this Court reversing the\nFifth Circuit would lead to the potential for redress.\nAnd what we would say there is we would go back to the district court\nand we would file a 60(b)(6) motion to bring back the order -- I'm sorry\nAnd for purposes of standing and mootness, the probability of success is\npower.\nAnd there the argument would be -- it's an integrity-based argument\nunder footnote 4 of Gonzalez.\nWe would be saying in this position, the Supreme Court has just decided\nthat we were right about the AEDPA question. So, district court,\nrespectfully, would you please reopen the judgment denying the initial\nappeal -- or initial petition."
+            },
+            "explanation": "This phrase references a specific footnote in a Supreme Court decision that may contain critical legal reasoning or precedent relevant to the case at hand."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"That's right.\nIt's a question about the __________________. Texas is coming in and\nsaying, well, look, there's nothing that you could on remand.\nAnd we've identified a procedure that would let the district court grant\nRivers redress.\"",
+          "options": {
+            "A": "district court jurisdiction",
+            "B": "district court's power",
+            "C": "district court authority",
+            "D": "district court discretion"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "district court's power",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 6,
+              "statement_index": 2,
+              "speaker": "Peter A. Bruland",
+              "original_statement": "That's right.\nIt's a question about the district court's power. Texas is coming in and\nsaying, well, look, there's nothing that you could on remand.\nAnd we've identified a procedure that would let the district court grant\nRivers redress."
+            },
+            "explanation": "This phrase pertains to the authority of district courts in the context of habeas corpus, which is vital for understanding the limits and scope of judicial power."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Yes.\nWe're challenging the convictions for which he's still in custody. I don't\ntake the other side to be arguing that the new exculpatory evidence\ndoesn't undermine those convictions.\nThey certainly didn't argue that in the brief in opposition or below.\nI take them to be challenging us on the merits, but I don't take them to\nthe evidence wouldn't go as a ____________.\"",
+          "options": {
+            "A": "jurisdictional issue",
+            "B": "jurisdictional matter",
+            "C": "jurisdictional question",
+            "D": "procedural matter"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "jurisdictional matter",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 6,
+              "statement_index": 3,
+              "speaker": "Peter A. Bruland",
+              "original_statement": "Yes.\nWe're challenging the convictions for which he's still in custody. I don't\ntake the other side to be arguing that the new exculpatory evidence\ndoesn't undermine those convictions.\nThey certainly didn't argue that in the brief in opposition or below.\nI take them to be challenging us on the merits, but I don't take them to\nthe evidence wouldn't go as a jurisdictional matter."
+            },
+            "explanation": "This term pertains to the authority of a court to hear a case, which is a fundamental aspect of procedural law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Now, my --my friends on the other side, I think, are going to stand up\nand say a word about the floodgates.\nAnd so I do want to address that.\nAnd the reason that our approach doesn't open the floodgates is that it\ncomes with a __________________________________________.\nAnd that's borne out by what we've seen in the Second Circuit over the\nlast two decades.\nSo I'll start with the structural piece.\nFor any of this to get off the ground, the habeas petitioner has to go to\nthe district court, convince the district court to issue an inter- -- an\nindicative ruling on a habeas petition that it's just denied.\nAnd then the absolute jurisdictional backstop is the court of appeals has\nto agree to remand the case for further proceedings.\nAnd at both steps of those analysis, the prisoner has the burden of\nshowing that amendment here would not be futile, that it's timely.\nThat kicks out a lot of cases because AEDPA has a one-year statute of\nlimitations. The prisoner is also going to have to show that it's not going\nto be a dead case on the merits.\nThen you go up to the court of appeals.\nAnd we've --we've cited cases.\nThe Louisiana against Becerra case, where the Western District of\nLouisiana sent up a flare to the Fifth Circuit, and the Fifth Circuit said,\nno, we -- we don't think this amendment should go forward.\nIt's not timely.\nYou should have brought it earlier.\nSo the court of appeals is doing another review.\nAnd all of this is borne out by what we've seen in the Second Circuit over\nthe last 20 years because the Second Circuit has read AEDPA our way.\nThey've said 2244 doesn't kick in until the end of the appeal.\nAnd I will tell you I've read more of these cases than I care to remember.\nThere's about one or two per year over the last 20 years.\nAnd what you see, time and time again, is prisoners come in and they\nsay, look, I just got some new evidence, or something changed and I\nwant to fight it out.\nAnd in one-or two-or three-page opinions, a magistrate judge or the\ndistrict court judge has no trouble addressing those claims.\nAnd just to take a step back, at bottom, I think this case is really a venue\ncase, like the EPA cases you had last week because, these claims are\ncoming in one way or the other.\nThe question is just who's the frontline decisionmaker going to be.\nI can tell you when a prisoner gets new evidence or thinks the prisoner\nhas a new claim while the appeal is pending, he's going to send\nsomething in to some court.\nAnd then some decisionmaker is going to have to decide, well, what do I\"",
+          "options": {
+            "A": "legal obstacle and a definitive jurisdictional barrier",
+            "B": "substantive restriction and an essential jurisdictional safeguard",
+            "C": "procedural hurdle and a clear jurisdictional limit",
+            "D": "structural barrier and an absolute jurisdictional backstop"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "structural barrier and an absolute jurisdictional backstop",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 7,
+            "context_info": {
+              "conversation_id": 6,
+              "statement_index": 4,
+              "speaker": "Peter A. Bruland",
+              "original_statement": "Now, my --my friends on the other side, I think, are going to stand up\nand say a word about the floodgates.\nAnd so I do want to address that.\nAnd the reason that our approach doesn't open the floodgates is that it\ncomes with a structural barrier and an absolute jurisdictional backstop.\nAnd that's borne out by what we've seen in the Second Circuit over the\nlast two decades.\nSo I'll start with the structural piece.\nFor any of this to get off the ground, the habeas petitioner has to go to\nthe district court, convince the district court to issue an inter- -- an\nindicative ruling on a habeas petition that it's just denied.\nAnd then the absolute jurisdictional backstop is the court of appeals has\nto agree to remand the case for further proceedings.\nAnd at both steps of those analysis, the prisoner has the burden of\nshowing that amendment here would not be futile, that it's timely.\nThat kicks out a lot of cases because AEDPA has a one-year statute of\nlimitations. The prisoner is also going to have to show that it's not going\nto be a dead case on the merits.\nThen you go up to the court of appeals.\nAnd we've --we've cited cases.\nThe Louisiana against Becerra case, where the Western District of\nLouisiana sent up a flare to the Fifth Circuit, and the Fifth Circuit said,\nno, we -- we don't think this amendment should go forward.\nIt's not timely.\nYou should have brought it earlier.\nSo the court of appeals is doing another review.\nAnd all of this is borne out by what we've seen in the Second Circuit over\nthe last 20 years because the Second Circuit has read AEDPA our way.\nThey've said 2244 doesn't kick in until the end of the appeal.\nAnd I will tell you I've read more of these cases than I care to remember.\nThere's about one or two per year over the last 20 years.\nAnd what you see, time and time again, is prisoners come in and they\nsay, look, I just got some new evidence, or something changed and I\nwant to fight it out.\nAnd in one-or two-or three-page opinions, a magistrate judge or the\ndistrict court judge has no trouble addressing those claims.\nAnd just to take a step back, at bottom, I think this case is really a venue\ncase, like the EPA cases you had last week because, these claims are\ncoming in one way or the other.\nThe question is just who's the frontline decisionmaker going to be.\nI can tell you when a prisoner gets new evidence or thinks the prisoner\nhas a new claim while the appeal is pending, he's going to send\nsomething in to some court.\nAnd then some decisionmaker is going to have to decide, well, what do I"
+            },
+            "explanation": "This phrase highlights the complex interplay between structural legal requirements and jurisdictional limitations in habeas corpus proceedings, requiring an understanding of both procedural law and constitutional principles."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Now, my --my friends on the other side, I think, are going to stand up\nand say a word about the floodgates.\nAnd so I do want to address that.\nAnd the reason that our approach doesn't open the floodgates is that it\ncomes with a structural barrier and an absolute jurisdictional backstop.\nAnd that's borne out by what we've seen in the Second Circuit over the\nlast two decades.\nSo I'll start with the structural piece.\nFor any of this to get off the ground, the habeas petitioner has to go to\nthe district court, convince the district court to issue an inter- -- an\nindicative ruling on a habeas petition that it's just denied.\nAnd then the absolute jurisdictional backstop is the court of appeals has\nto agree to remand the case for further proceedings.\nAnd at both steps of those analysis, the prisoner has the burden of\nshowing that amendment here would not be futile, that it's timely.\nThat kicks out a lot of cases because AEDPA has a one-year statute of\nlimitations. The prisoner is also going to have to show that it's not going\nto be a dead case on the merits.\nThen you go up to the court of appeals.\nAnd we've --we've cited cases.\nThe Louisiana against Becerra case, where the Western District of\nLouisiana sent up a flare to the Fifth Circuit, and the Fifth Circuit said,\nno, we -- we don't think this amendment should go forward.\nIt's not timely.\nYou should have brought it earlier.\nSo the court of appeals is doing another review.\nAnd all of this is borne out by what we've seen in the Second Circuit over\nthe last 20 years because the Second Circuit has read AEDPA our way.\nThey've said ____________________________________________________________.\nAnd I will tell you I've read more of these cases than I care to remember.\nThere's about one or two per year over the last 20 years.\nAnd what you see, time and time again, is prisoners come in and they\nsay, look, I just got some new evidence, or something changed and I\nwant to fight it out.\nAnd in one-or two-or three-page opinions, a magistrate judge or the\ndistrict court judge has no trouble addressing those claims.\nAnd just to take a step back, at bottom, I think this case is really a venue\ncase, like the EPA cases you had last week because, these claims are\ncoming in one way or the other.\nThe question is just who's the frontline decisionmaker going to be.\nI can tell you when a prisoner gets new evidence or thinks the prisoner\nhas a new claim while the appeal is pending, he's going to send\nsomething in to some court.\nAnd then some decisionmaker is going to have to decide, well, what do I\"",
+          "options": {
+            "A": "2244 doesn't kick in until the end of the appeal",
+            "B": "2244 applies immediately upon the initiation of the appeal",
+            "C": "2244 is triggered once the appeal process has concluded",
+            "D": "2244 becomes effective after the conclusion of the appeal"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "2244 doesn't kick in until the end of the appeal",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 10,
+            "context_info": {
+              "conversation_id": 6,
+              "statement_index": 4,
+              "speaker": "Peter A. Bruland",
+              "original_statement": "Now, my --my friends on the other side, I think, are going to stand up\nand say a word about the floodgates.\nAnd so I do want to address that.\nAnd the reason that our approach doesn't open the floodgates is that it\ncomes with a structural barrier and an absolute jurisdictional backstop.\nAnd that's borne out by what we've seen in the Second Circuit over the\nlast two decades.\nSo I'll start with the structural piece.\nFor any of this to get off the ground, the habeas petitioner has to go to\nthe district court, convince the district court to issue an inter- -- an\nindicative ruling on a habeas petition that it's just denied.\nAnd then the absolute jurisdictional backstop is the court of appeals has\nto agree to remand the case for further proceedings.\nAnd at both steps of those analysis, the prisoner has the burden of\nshowing that amendment here would not be futile, that it's timely.\nThat kicks out a lot of cases because AEDPA has a one-year statute of\nlimitations. The prisoner is also going to have to show that it's not going\nto be a dead case on the merits.\nThen you go up to the court of appeals.\nAnd we've --we've cited cases.\nThe Louisiana against Becerra case, where the Western District of\nLouisiana sent up a flare to the Fifth Circuit, and the Fifth Circuit said,\nno, we -- we don't think this amendment should go forward.\nIt's not timely.\nYou should have brought it earlier.\nSo the court of appeals is doing another review.\nAnd all of this is borne out by what we've seen in the Second Circuit over\nthe last 20 years because the Second Circuit has read AEDPA our way.\nThey've said 2244 doesn't kick in until the end of the appeal.\nAnd I will tell you I've read more of these cases than I care to remember.\nThere's about one or two per year over the last 20 years.\nAnd what you see, time and time again, is prisoners come in and they\nsay, look, I just got some new evidence, or something changed and I\nwant to fight it out.\nAnd in one-or two-or three-page opinions, a magistrate judge or the\ndistrict court judge has no trouble addressing those claims.\nAnd just to take a step back, at bottom, I think this case is really a venue\ncase, like the EPA cases you had last week because, these claims are\ncoming in one way or the other.\nThe question is just who's the frontline decisionmaker going to be.\nI can tell you when a prisoner gets new evidence or thinks the prisoner\nhas a new claim while the appeal is pending, he's going to send\nsomething in to some court.\nAnd then some decisionmaker is going to have to decide, well, what do I"
+            },
+            "explanation": "This phrase pertains to the interpretation of 28 U.S.C. § 2244, which involves complex statutory interpretation regarding the timing of claims in the context of ongoing appeals."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 7,
+      "dialogue": "Justice Alito\n### Justice Alito:\nMr. Bruland, is the argument that you're making today and the primary\nargument that you make in your brief the same argument that you\nmade in your petition?\n### Peter A. Bruland:\nJustice Alito, it's the same claim.\n### Justice Alito:\nIs it the same argument?\n### Peter A. Bruland:\nThe 2242 argument is new at the merits stage, yes.\nAnd this Court has been very clear that I can come in and make\narguments at the merits stage in support of the same claim raised in a\npetition.\n### Justice Alito:\nIs there a conflict in the circuits in this new argument that you're\nmaking today?\n### Peter A. Bruland:\nWell, there's a conflict in the circuits because a bunch of circuits reject\nthe idea that an amendment is not a second or successive petition.\nThat's what the Fifth Circuit said below.\nRivers said all along I filed an amendment.\nThat means it's okay under Rule 15 and, therefore, it's not second or\nsuccessive.\nThe Fifth Circuit said not so fast. We think 2244 applies right after final\njudgment.\nThey didn't cite Banister.\nAnd so that is the same argument that Rivers has been making.\nAnd the Fifth Circuit rejected the argument that it's an amendment;\ntherefore, it should be okay.\nNow, I do want to go to the point that\n### Justice Alito:\nWell, we've had a mini-epidemic of cert petitions that have convinced\nus to take a case because there's supposedly a conflict on a certain issue,\nand then once cert is granted, the argument that is advanced by the\npetitioners, quite a bit different from what we were sold at the petition\nstage.\nIs this another outbreak of the same disease?\n### Peter A. Bruland:\nI don't think so,\n### Justice Alito:\n, and I think the best evidence there is the\nUnited States is never shy about pointing out when a petitioner strays\nfrom the QP or the petition.\nAnd I don't hear my friends from the United States to be making that\nargument. But even if you're worried about the amendment theory, I\nwould say the timing argument, even Texas agrees, that that is squarely\nwithin the question presented.\nAnd that is an issue over which the lower courts have certainly\ndisagreed.\nThank you.\n### Peter A. Bruland:\nAnd what I would say there on the timing question, we also have context\nand history on our side there.\nAnd, again, to go back to your question,",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Well, there's a conflict in the circuits because a bunch of circuits reject\nthe idea that an amendment is not a ________________________.\nThat's what the Fifth Circuit said below.\nRivers said all along I filed an amendment.\nThat means it's okay under Rule 15 and, therefore, it's not second or\nsuccessive.\nThe Fifth Circuit said not so fast. We think 2244 applies right after final\njudgment.\nThey didn't cite Banister.\nAnd so that is the same argument that Rivers has been making.\nAnd the Fifth Circuit rejected the argument that it's an amendment;\ntherefore, it should be okay.\nNow, I do want to go to the point that\"",
+          "options": {
+            "A": "second and successive claim",
+            "B": "second or successive motion",
+            "C": "second or successive petition",
+            "D": "second or subsequent petition"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "second or successive petition",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 7,
+              "statement_index": 2,
+              "speaker": "Peter A. Bruland",
+              "original_statement": "Well, there's a conflict in the circuits because a bunch of circuits reject\nthe idea that an amendment is not a second or successive petition.\nThat's what the Fifth Circuit said below.\nRivers said all along I filed an amendment.\nThat means it's okay under Rule 15 and, therefore, it's not second or\nsuccessive.\nThe Fifth Circuit said not so fast. We think 2244 applies right after final\njudgment.\nThey didn't cite Banister.\nAnd so that is the same argument that Rivers has been making.\nAnd the Fifth Circuit rejected the argument that it's an amendment;\ntherefore, it should be okay.\nNow, I do want to go to the point that"
+            },
+            "explanation": "This phrase refers to a critical distinction in habeas corpus law, particularly under the Antiterrorism and Effective Death Penalty Act (AEDPA), which limits the ability of prisoners to file multiple habeas petitions."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, there's a conflict in the circuits because a bunch of circuits reject\nthe idea that an amendment is not a second or successive petition.\nThat's what the Fifth Circuit said below.\nRivers said all along I filed an amendment.\nThat means it's okay under ____________ and, therefore, it's not second or\nsuccessive.\nThe Fifth Circuit said not so fast. We think 2244 applies right after final\njudgment.\nThey didn't cite Banister.\nAnd so that is the same argument that Rivers has been making.\nAnd the Fifth Circuit rejected the argument that it's an amendment;\ntherefore, it should be okay.\nNow, I do want to go to the point that\"",
+          "options": {
+            "A": "Rule 14",
+            "B": "Rule 13",
+            "C": "Rule 15",
+            "D": "Rule 16"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "Rule 15",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 7,
+              "statement_index": 2,
+              "speaker": "Peter A. Bruland",
+              "original_statement": "Well, there's a conflict in the circuits because a bunch of circuits reject\nthe idea that an amendment is not a second or successive petition.\nThat's what the Fifth Circuit said below.\nRivers said all along I filed an amendment.\nThat means it's okay under Rule 15 and, therefore, it's not second or\nsuccessive.\nThe Fifth Circuit said not so fast. We think 2244 applies right after final\njudgment.\nThey didn't cite Banister.\nAnd so that is the same argument that Rivers has been making.\nAnd the Fifth Circuit rejected the argument that it's an amendment;\ntherefore, it should be okay.\nNow, I do want to go to the point that"
+            },
+            "explanation": "Rule 15 of the Federal Rules of Civil Procedure governs amendments to pleadings, and understanding its application in the context of habeas petitions is essential for navigating procedural complexities."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 8,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\n, this is not a\ncase where I'm coming in and asking for special favors for habeas\npetitioners.\nAll I'm saying is it might be a bad amendment.\nThe lower courts might take five minutes to take a look at it and say this\nis going nowhere.\nAll I'm asking you to say is whatever it is, it's not second or successive.\nAnd one reason to think that it's not second or successive is, as your\nopinion, your separate opinion, in Edwards against Vannoy pointed out,\nwe have this long -standing principle in habeas that finality means this\ncourt says go away or affirms on the merits or the opportunity to seek\ncert runs out.\nSo, again, I'm not saying let's create a special loophole or porthole or\nanything for habeas prisoners to come in.\nAll I'm saying is, whatever the words \"second or successive\" habeas\napplication meant in 1996, they don't refer to this sort of filing because,\nhistorically, those kinds of filings were not deemed abuses of the writ.\nAnd so if you agree with us on the AEDPA question, I will grant Texas will\nhave a lot of civil procedure arguments below.\nI'm sure they'll have a lot of merits arguments below.\nAll we're asking to you decide is this narrow question of -- may I finish,\nMr. Chief?",
+      "questions": []
+    },
+    {
+      "conversation_id": 9,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nSure.\n### Peter A. Bruland:\nAll I'm asking you to decide is this narrow question of what counted as a\nsecond or successive habeas corpus application in 1996, and it wasn't\nthis.\n### Chief Justice Roberts:\nThank you counsel.\nJustice Thomas? Justice Alito?",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"All I'm asking you to decide is this narrow question of what counted as a\n____________________________________ in 1996, and it wasn't\nthis.\"",
+          "options": {
+            "A": "second or successive habeas corpus application",
+            "B": "second or successive habeas corpus petition",
+            "C": "second or successive federal habeas petition",
+            "D": "second or successive state habeas application"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "second or successive habeas corpus application",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 9,
+              "statement_index": 1,
+              "speaker": "Peter A. Bruland",
+              "original_statement": "All I'm asking you to decide is this narrow question of what counted as a\nsecond or successive habeas corpus application in 1996, and it wasn't\nthis."
+            },
+            "explanation": "This phrase is critical for understanding the legal framework established by AEDPA regarding the filing of multiple habeas petitions."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 10,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\n?\nYou did point out to us in the --your cert petition a circuit split.\nI'm not sure the Third Circuit rule is consistent with what you claim it is.\nIt's more consistent with what we were speaking about earlier.\nThe Third Circuit rule says, when a district court gets a motion to amend,\nit should exercise its discretion to hold the appeal pending the court of\nappeals' decision.\nAnd it can only consider it or grant it if the court of appeals vacates and\nremand.\nSo that's always the case, correct?\n### Peter A. Bruland:\nThat's right, Justice Sotomayor.\n### Justice Sotomayor:\nSo the Third Circuit, I don't think, is inconsistent with anything.\nThe Second Circuit does have some very charitably loose language that -\n- that a motion to amend is never second or successive.\nBut I, like you, had my law clerk look at what the Second Circuit was\ndoing, and I got a bunch of cases where the district court didn't wait for\nthe court of appeals to rule but instead said it was an abuse of -- that\nthe motion to amend was an abuse of the writ.\nSo I don't know -- and they dismissed and the circuit didn't do\nanything.\nSo I'm not sure the rule is as absolute as you say.\nThey're basically following and saying hold it until the circuit acts.\nAnd if we vacate and remand, then you can consider it.\n### Peter A. Bruland:\nI think that's right,\n### Justice Sotomayor:\n.\nHere's how I understand it. Under Federal Rule of Civil Procedure 62.1, it\nsays the district court can always consider something that comes in.\nAnd the district court has three options.\nIt can deny it outright.\nI think that's most of the cases that you and I were discussing.\nIt can also defer ruling.\nI think that's one of the things that the Third Circuit was focused on.\nI think your opinion in the Ching case has the footnote that says the\nsame thing.\nOr -- and this is the -- the other alternative we were talking about -- it\ncan send up a flare to the court of appeals and say this raises a\nsubstantial issue.\nSo you're suggesting sort of a, what should I call it, procedural thing?\nDon't call it second or successive and refer to the court of appeals, but\ninstead deny it now?\n### Peter A. Bruland:\nJustice Sotomayor, I want to be very clear about the doctrine because\nthere are two separate questions.\nThere's the question of is it second or successive as Congress used that\nphrase in 1996? And then there is an analytically distinct question of\nwhat should you do with it procedurally.\nMy -- the only question I'm asking you to answer is what is the meaning\nof \"second or successive\" habeas corpus application in 1996? And then\nwe've also tried to give you some comfort about the procedural\npathway.\nAnd so, yes, that is one of the things that a district court can do.\nAnd, in fact, that's what most of the courts in the Second Circuit that\nwe've seen have done, is just take one look, deny them outright.\nAnd the last thing I would add is the other side comes in and says: Well,\nhow does that square with your efficiency argument, if the prisoner can\njust file something in the middle of the appeal and then file a second or\nsuccessive petition? I didn't find a single case in the Second Circuit\nwhere that happened.\nPrisoners are taking no for an answer.\nAnd if they didn't, boy, if I were a court of appeals judge, I would be glad\nto have a short opinion explaining why this amendment goes nowhere.\n### Justice Sotomayor:\nThank you.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Justice Sotomayor, I want to be very clear about the doctrine because\nthere are two separate questions.\nThere's the question of is it second or successive as Congress used that\nphrase in 1996? And then there is an __________________ of\nwhat should you do with it procedurally.\nMy -- the only question I'm asking you to answer is what is the meaning\nof \"second or successive\" habeas corpus application in 1996? And then\nwe've also tried to give you some comfort about the procedural\npathway.\nAnd so, yes, that is one of the things that a district court can do.\nAnd, in fact, that's what most of the courts in the Second Circuit that\nwe've seen have done, is just take one look, deny them outright.\nAnd the last thing I would add is the other side comes in and says: Well,\nhow does that square with your efficiency argument, if the prisoner can\njust file something in the middle of the appeal and then file a second or\nsuccessive petition? I didn't find a single case in the Second Circuit\nwhere that happened.\nPrisoners are taking no for an answer.\nAnd if they didn't, boy, if I were a court of appeals judge, I would be glad\nto have a short opinion explaining why this amendment goes nowhere.\"",
+          "options": {
+            "A": "analytically divergent claim",
+            "B": "analytically similar issue",
+            "C": "analytically relevant question",
+            "D": "analytically distinct question"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "analytically distinct question",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 10,
+              "statement_index": 1,
+              "speaker": "Peter A. Bruland",
+              "original_statement": "Justice Sotomayor, I want to be very clear about the doctrine because\nthere are two separate questions.\nThere's the question of is it second or successive as Congress used that\nphrase in 1996? And then there is an analytically distinct question of\nwhat should you do with it procedurally.\nMy -- the only question I'm asking you to answer is what is the meaning\nof \"second or successive\" habeas corpus application in 1996? And then\nwe've also tried to give you some comfort about the procedural\npathway.\nAnd so, yes, that is one of the things that a district court can do.\nAnd, in fact, that's what most of the courts in the Second Circuit that\nwe've seen have done, is just take one look, deny them outright.\nAnd the last thing I would add is the other side comes in and says: Well,\nhow does that square with your efficiency argument, if the prisoner can\njust file something in the middle of the appeal and then file a second or\nsuccessive petition? I didn't find a single case in the Second Circuit\nwhere that happened.\nPrisoners are taking no for an answer.\nAnd if they didn't, boy, if I were a court of appeals judge, I would be glad\nto have a short opinion explaining why this amendment goes nowhere."
+            },
+            "explanation": "This phrase highlights the importance of distinguishing between different legal inquiries, particularly in the context of procedural versus substantive issues in habeas corpus applications."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 11,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Kagan? Justice Gorsuch?",
+      "questions": []
+    },
+    {
+      "conversation_id": 12,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\n? Justice Jackson?\nThank you, counsel. Mr. Nielson.\n### Aaron L. Nielson:\nMr. Chief Justice and may it please the Court: Rivers' new petition filed\nyears after an appeal of the final judgment is second or successive under\nAEDPA for multiple reasons. I'm going to start with precedent.\nUnder Gonzalez and Banister, Rule 59(e) motions aren't successive,\nwhile Rule 60(b) motions generally are, because, quoting from Banister,\na Rule 59(e) motion is a one -time effort to bring alleged errors in a just\nissue decision to a habeas court's attention before taking a single\nappeal.\nRivers' theory, however, would allow him to repeatedly allege new\nclaims having nothing to do with the final judgment issued years ago,\nafter he appealed.\nI think Banister's logic is all but dispositive here.\nI would also like to respond to some of the things I heard from my friend\nduring his argument.\nHe says that the time before AEDPA in 1996 there were six circuits on his\nside.\nI don't agree with that at all.\nI urge the Court to look at the brief from Arkansas.\nArkansas goes through the cases right before AEDPA's enactment.\nI would also urge the Court to look at page 16 and 17 of the reply brief.\nI think that's where he's getting that.\nYou will notice he cites cases on his side, Fourth, Fifth, and Eighth, and\nthen he says Fourth, Fifth, and Eighth agree with us.\nThe cases that agree with us were later in time.\nThey were closer to 1996.\nHe also says -- you know, we talked about this was a pro se, which I\nunderstand and I am sympathetic to, but Sidley was brought in not, you\nknow, just for the cert stage.\nThey filed the motion to stay the Fifth Circuit's judgment pending\ncertiorari.\nNone of their new argument is in that either.\nThis isn't an example of a pro se person not knowing what to do.\nThis was Sidley Austin not raising the argument.\nAs to standing, the Court has jurisdiction to address the split that it\nthought it was hearing.\nThat is a question about res judicata from the first judgment, does it bar\nthe second case.\nWhat the Court doesn't have jurisdiction to do is to open a case that is\nnot in front of it.\nThat case was closed.\nThe first petition was dismissed in a final judgment in 2018.\nThe Fifth Circuit affirmed in 2022. This Court denied cert in 2023.\nThat case is done.\nI don't know how the Court could reopen that case.\nAs the habeas jurisdiction, again, he's not in custody for what he's\ntalking about. I don't know how he can have -- how this Court can have\nhabeas jurisdiction there.\nAs to the Second Circuit rule, look, you definitely have the opportunity\nto have multiple appeals under that rule.\nBecause you could have the first one, and then you amend, and you get\nanother final judgment, and you have a second one.\nThis Court said in Banister you can't do that.\nAnd as to the new argument, there is no split,",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Mr. Chief Justice and may it please the Court: Rivers' new petition filed\nyears after an appeal of the final judgment is second or successive under\nAEDPA for multiple reasons. I'm going to start with precedent.\nUnder Gonzalez and Banister, ______________________________,\nwhile Rule 60(b) motions generally are, because, quoting from Banister,\na Rule 59(e) motion is a one -time effort to bring alleged errors in a just\nissue decision to a habeas court's attention before taking a single\nappeal.\nRivers' theory, however, would allow him to repeatedly allege new\nclaims having nothing to do with the final judgment issued years ago,\nafter he appealed.\nI think Banister's logic is all but dispositive here.\nI would also like to respond to some of the things I heard from my friend\nduring his argument.\nHe says that the time before AEDPA in 1996 there were six circuits on his\nside.\nI don't agree with that at all.\nI urge the Court to look at the brief from Arkansas.\nArkansas goes through the cases right before AEDPA's enactment.\nI would also urge the Court to look at page 16 and 17 of the reply brief.\nI think that's where he's getting that.\nYou will notice he cites cases on his side, Fourth, Fifth, and Eighth, and\nthen he says Fourth, Fifth, and Eighth agree with us.\nThe cases that agree with us were later in time.\nThey were closer to 1996.\nHe also says -- you know, we talked about this was a pro se, which I\nunderstand and I am sympathetic to, but Sidley was brought in not, you\nknow, just for the cert stage.\nThey filed the motion to stay the Fifth Circuit's judgment pending\ncertiorari.\nNone of their new argument is in that either.\nThis isn't an example of a pro se person not knowing what to do.\nThis was Sidley Austin not raising the argument.\nAs to standing, the Court has jurisdiction to address the split that it\nthought it was hearing.\nThat is a question about res judicata from the first judgment, does it bar\nthe second case.\nWhat the Court doesn't have jurisdiction to do is to open a case that is\nnot in front of it.\nThat case was closed.\nThe first petition was dismissed in a final judgment in 2018.\nThe Fifth Circuit affirmed in 2022. This Court denied cert in 2023.\nThat case is done.\nI don't know how the Court could reopen that case.\nAs the habeas jurisdiction, again, he's not in custody for what he's\ntalking about. I don't know how he can have -- how this Court can have\nhabeas jurisdiction there.\nAs to the Second Circuit rule, look, you definitely have the opportunity\nto have multiple appeals under that rule.\nBecause you could have the first one, and then you amend, and you get\nanother final judgment, and you have a second one.\nThis Court said in Banister you can't do that.\nAnd as to the new argument, there is no split,\"",
+          "options": {
+            "A": "Rule 59(a) motions aren't successive",
+            "B": "Rule 59(e) motions aren't successive",
+            "C": "Rule 59(e) claims aren't successive",
+            "D": "Rule 60(b) motions aren't successive"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "Rule 59(e) motions aren't successive",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 12,
+              "statement_index": 1,
+              "speaker": "Aaron L. Nielson",
+              "original_statement": "Mr. Chief Justice and may it please the Court: Rivers' new petition filed\nyears after an appeal of the final judgment is second or successive under\nAEDPA for multiple reasons. I'm going to start with precedent.\nUnder Gonzalez and Banister, Rule 59(e) motions aren't successive,\nwhile Rule 60(b) motions generally are, because, quoting from Banister,\na Rule 59(e) motion is a one -time effort to bring alleged errors in a just\nissue decision to a habeas court's attention before taking a single\nappeal.\nRivers' theory, however, would allow him to repeatedly allege new\nclaims having nothing to do with the final judgment issued years ago,\nafter he appealed.\nI think Banister's logic is all but dispositive here.\nI would also like to respond to some of the things I heard from my friend\nduring his argument.\nHe says that the time before AEDPA in 1996 there were six circuits on his\nside.\nI don't agree with that at all.\nI urge the Court to look at the brief from Arkansas.\nArkansas goes through the cases right before AEDPA's enactment.\nI would also urge the Court to look at page 16 and 17 of the reply brief.\nI think that's where he's getting that.\nYou will notice he cites cases on his side, Fourth, Fifth, and Eighth, and\nthen he says Fourth, Fifth, and Eighth agree with us.\nThe cases that agree with us were later in time.\nThey were closer to 1996.\nHe also says -- you know, we talked about this was a pro se, which I\nunderstand and I am sympathetic to, but Sidley was brought in not, you\nknow, just for the cert stage.\nThey filed the motion to stay the Fifth Circuit's judgment pending\ncertiorari.\nNone of their new argument is in that either.\nThis isn't an example of a pro se person not knowing what to do.\nThis was Sidley Austin not raising the argument.\nAs to standing, the Court has jurisdiction to address the split that it\nthought it was hearing.\nThat is a question about res judicata from the first judgment, does it bar\nthe second case.\nWhat the Court doesn't have jurisdiction to do is to open a case that is\nnot in front of it.\nThat case was closed.\nThe first petition was dismissed in a final judgment in 2018.\nThe Fifth Circuit affirmed in 2022. This Court denied cert in 2023.\nThat case is done.\nI don't know how the Court could reopen that case.\nAs the habeas jurisdiction, again, he's not in custody for what he's\ntalking about. I don't know how he can have -- how this Court can have\nhabeas jurisdiction there.\nAs to the Second Circuit rule, look, you definitely have the opportunity\nto have multiple appeals under that rule.\nBecause you could have the first one, and then you amend, and you get\nanother final judgment, and you have a second one.\nThis Court said in Banister you can't do that.\nAnd as to the new argument, there is no split,"
+            },
+            "explanation": "This phrase highlights a critical distinction in federal procedural law regarding the treatment of motions for reconsideration, necessitating familiarity with the Federal Rules of Civil Procedure and their application in habeas cases."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 13,
+      "dialogue": "Justice Alito\n### Justice Alito:\n.\nIn fact, on our side United States v.\nArrington, 2014, from the D.C. Circuit, Judge Srinivasan, joined by\nJudges Garland and Millett, said you can't use 2106 to get around AEDPA\nin that way.\nI welcome the Court's questions.",
+      "questions": []
+    },
+    {
+      "conversation_id": 14,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nHow would you define \"second or successive\"? I think they're -- some\nthink that it -- the appeal has to be final. And I think most would just\nsimply say the judgment of the district court.\nWhat --what's your view?\n### Aaron L. Nielson:\nI think the Court answered it in Banister.\nI think if you have the first application, and then you have another\napplication after the final judgment, sometimes suspended by Rule\n59(e), if you're doing it again the second time, that is second and\nsuccessive.\nI think that's how we take the Court's decision in Banister.\nI think that answers the question, respectfully, Your Honor.",
+      "questions": []
+    },
+    {
+      "conversation_id": 15,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nWhat if the judgment is vacated? I'm trying to understand the scenario.\nEven if we agree with you that, you know, the judgment is the line and\nthe person appeals, goes up to the Fifth Circuit or whatever circuit, and\nthey agree and vacate the judgment and send it back.\nAny filings that had been submitted by the prisoner in that interim,\ncould they be considered by the district court on remand?\n### Aaron L. Nielson:\nNo, we don't think so, Your Honor, but I want to make sure that we\nunderstand.\nIf that is this Court's rule, Texas still prevails because there wasn't a\n### Justice Jackson:\nNo, I understand.\n### Aaron L. Nielson:\nOkay.\n### Justice Jackson:\nThat's not this case.\nBut I -- I guess I'm a little worried about a world in which if we are\npegging this to the judgment, the judgment is subsequently vacated\nand there's new evidence now in the record and the district court is\nbeing called upon by the vacatur and the remand to review it, I don't\nunderstand why -- totally not this case\n### Aaron L. Nielson:\nYeah.\n### Justice Jackson:\ndoesn't get considered as an amendment of the initial habeas filing.\n### Aaron L. Nielson:\nSo -- so the way this works in ordinary civil litigation --and then I will\ndo an AEDPA gloss on it.\n### Justice Jackson:\nAccompanying a vacatur of the judgment.\n### Aaron L. Nielson:\nWith a vacatur of the judgment, you still are going to be limited by the\nscope of the remand.\nIt's not like if there's a remand, now everything is up for grabs.\nIt's still you're limited -- and, again, if the Court needs to look at cases\non this, Wright and Miller Section 1488, I think it's footnote 811 is the\none that discusses this line of cases, the --the scope of the mandate\nrule.\n### Justice Jackson:\nSo could the court of appeals indicate, having, you know, been alerted to\nthe fact that there's this new evidence out there -- I mean, I guess I -- I\ndon't understand a world in which new evidence surfaces that everyone\nagrees could not have been found before, and here it is, and it's relevant\nto the issue of habeas.\nI appreciate your argument that after we have a judgment, you -- you\nknow, as long as the judgment stands, consideration of that would be a\nsecond or successive kind of scenario under AEDPA.\nBut if there is no judgment, because it goes up to the court of appeals\nand the judgment is vacated, it's unclear to me why the new evidence\nthat is relevant to the initial habeas petition couldn't be looked at by a\ndistrict court reviewing that habeas petition.\nIf -- if the court of appeals says you can, then you can?\n### Aaron L. Nielson:\nAgain, it would be -- as long as it is within the scope of the mandate.\n### Justice Jackson:\nOf -- of the mandate.\nYeah.\n### Aaron L. Nielson:\nWhich often would be -- again, it would depend on the facts of the case.\nBut the AEDPA gloss on all of this is under AEDPA, you have the COA\nrequirement.\n### Justice Jackson:\nYes.\n### Aaron L. Nielson:\nSo the scope of the appeals are inherently going to be limited.\nSo the scope of the mandate is going to be narrower than in an ordinary\ncase.\nSo imagine you have a case where somebody says: I have a Brady claim\nand a Strickland claim.\nAnd the district court says: You lose on both.\nThe Fifth -- the court of appeals --I said the Fifth Circuit.\nThe court of appeals grants a COA as to the Brady issue and then\nreverses.\nBack in front of the district court, you can't say, well, I'm going to bring a\ndifferent Strickland claim and an AEDPA claim. Because that's not\n### Justice Jackson:\nI see.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"With a vacatur of the judgment, you still are going to be limited by the\n________________________.\nIt's not like if there's a remand, now everything is up for grabs.\nIt's still you're limited -- and, again, if the Court needs to look at cases\non this, Wright and Miller Section 1488, I think it's footnote 811 is the\none that discusses this line of cases, the --the scope of the mandate\nrule.\"",
+          "options": {
+            "A": "scope of the review",
+            "B": "scope of the ruling",
+            "C": "scope of the appeal",
+            "D": "scope of the remand"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "scope of the remand",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 15,
+              "statement_index": 3,
+              "speaker": "Aaron L. Nielson",
+              "original_statement": "With a vacatur of the judgment, you still are going to be limited by the\nscope of the remand.\nIt's not like if there's a remand, now everything is up for grabs.\nIt's still you're limited -- and, again, if the Court needs to look at cases\non this, Wright and Miller Section 1488, I think it's footnote 811 is the\none that discusses this line of cases, the --the scope of the mandate\nrule."
+            },
+            "explanation": "This phrase refers to the limitations placed on a lower court's authority to act following a remand from a higher court, which is crucial for understanding appellate procedures and the implications of judicial decisions."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"So the ________________________ are inherently going to be limited.\nSo the scope of the mandate is going to be narrower than in an ordinary\ncase.\nSo imagine you have a case where somebody says: I have a Brady claim\nand a Strickland claim.\nAnd the district court says: You lose on both.\nThe Fifth -- the court of appeals --I said the Fifth Circuit.\nThe court of appeals grants a COA as to the Brady issue and then\nreverses.\nBack in front of the district court, you can't say, well, I'm going to bring a\ndifferent Strickland claim and an AEDPA claim. Because that's not\"",
+          "options": {
+            "A": "scope of the motions",
+            "B": "scope of the hearings",
+            "C": "scope of the appeals",
+            "D": "scope of the claims"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "scope of the appeals",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 15,
+              "statement_index": 6,
+              "speaker": "Aaron L. Nielson",
+              "original_statement": "So the scope of the appeals are inherently going to be limited.\nSo the scope of the mandate is going to be narrower than in an ordinary\ncase.\nSo imagine you have a case where somebody says: I have a Brady claim\nand a Strickland claim.\nAnd the district court says: You lose on both.\nThe Fifth -- the court of appeals --I said the Fifth Circuit.\nThe court of appeals grants a COA as to the Brady issue and then\nreverses.\nBack in front of the district court, you can't say, well, I'm going to bring a\ndifferent Strickland claim and an AEDPA claim. Because that's not"
+            },
+            "explanation": "This phrase refers to the limitations placed on the issues that can be raised during an appeal, which is crucial for understanding appellate jurisdiction and the implications of procedural rules."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 16,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nOn the Second Circuit experience, I think your initial response is\nprecedent in text, but taken on its own, it's workability.\nDo you have a concern about how workable it's been in the Second\nCircuit? It seems like it's worked fine.\n### Aaron L. Nielson:\nWell, I --we --we don't think it's worked fine.\nThe case that we cite was the Anderson case out of Connecticut, where,\nyou know, it seemed like a pretty straightforward issue.\nThe poor judge has to go through three separate lines of analysis to try\nto figure out what to do with this thing.\nAnd that's, I think, a pretty straightforward case. But I would also, you\nknow, recognize that, by definition, you're going to have multiple\nappeals possible out of -- out of a single case.\nSo you have the very first one that is up on appeal.\nWhile that's happening, all the way up to this Court, up in certiorari\npetition, they file a second one.\nThey ca n keep litigating that.\nWell, that means you're going to get two appeals out of a single -- what\nthey claim is a single application.\nThat doesn't make any sense.\nAnd I think it's important to recognize that 2244(b) doesn't mean you\nlose. 2244(b) means you have to go to the court of appeals.\nAnd we're talking about mid-appeal cases.\nSo that means, you know, unless it's, like, day 29, so we're not just past\nRule 59(e) -- 59(b) --59(e), rather, we're talking about a case where\nyou already have a court of appeals panel who is already looking at this\nthing.\nIt seems to me a lot more efficient for that panel to be able to have the\nopportunity to look at the new material, rather than sending it back to a\ndistrict court or a magistrate judge three years ago, you know, 1500\ncases later.\nThey're not going to possibly remember what that case was about,\nwhereas you have a panel looking at it right now.\n### Justice Kavanaugh:\nIf we -- if we conclude the pre -'96 case law is just a mixed bag, doesn't\n### Aaron L. Nielson:\nWell, I mean, I would urge --I think the Court already answered the\nhistory, in both Gonzalez and Bannister.\n### Justice Kavanaugh:\nOn -- on -- on this issue.\n### Aaron L. Nielson:\nSure.\n### Justice Kavanaugh:\nOkay.\n### Aaron L. Nielson:\nI think the Court has already answered the history in Gonzalez and\nBanister.\nBecause in every Circuit Court, if you file a motion to amend a case that\nhas been closed for years, it's either one of two things: It's either a\nnullity, does not exist, or it will be construed as a Rule 60(b) motion.\nThat is the rule in Moore's Federal Practice. We can cite other cases as\nwell, we have a whole string cite of these cases.\nWhat we know from Gonzalez and Banister, that if it's a Rule 60(b), well,\nthen it's already second --second and successive. So I don't think the\nhistory works for them.\nThey do have a couple of cases where they say, well, that looks like\namendment, but they didn't grant relief in any of those cases. We're\nreading a lot into silence, especially because we have cases like Judge\nArnold's decision from the Eighth Circuit.\nYou know, he knows a little thing about civil procedure, and he says no,\nyou can't -- you can't do this.\nI think that would be the relevant history.\nSo you have all the cases that say 60(b) mid-appeal, that counts as\nsecond or successive, and you have someone who tries to get around\nthat with Rule 15, and they say, well, that's second and successive too.\nThat's the history in 19 -- leading up right to 1996. If there are no\nfurther questions.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Well, I --we --we don't think it's worked fine.\nThe case that we cite was the Anderson case out of Connecticut, where,\nyou know, it seemed like a pretty straightforward issue.\nThe poor judge has to go through three separate lines of analysis to try\nto figure out what to do with this thing.\nAnd that's, I think, a pretty straightforward case. But I would also, you\nknow, recognize that, by definition, you're going to have multiple\nappeals possible out of -- out of a single case.\nSo you have the very first one that is up on appeal.\nWhile that's happening, all the way up to this Court, up in certiorari\npetition, they file a second one.\nThey ca n keep litigating that.\nWell, that means you're going to get two appeals out of a single -- what\nthey claim is a single application.\nThat doesn't make any sense.\nAnd I think it's important to recognize that 2244(b) doesn't mean you\nlose. __________________________________________________________________.\nAnd we're talking about mid-appeal cases.\nSo that means, you know, unless it's, like, day 29, so we're not just past\nRule 59(e) -- 59(b) --59(e), rather, we're talking about a case where\nyou already have a court of appeals panel who is already looking at this\nthing.\nIt seems to me a lot more efficient for that panel to be able to have the\nopportunity to look at the new material, rather than sending it back to a\ndistrict court or a magistrate judge three years ago, you know, 1500\ncases later.\nThey're not going to possibly remember what that case was about,\nwhereas you have a panel looking at it right now.\"",
+          "options": {
+            "A": "2244(b) means you have to go to the court of appeals",
+            "B": "2244(b) stipulates you must appeal to the state courts first",
+            "C": "2244(b) requires that you proceed to the trial court first",
+            "D": "2244(b) mandates that you must return to the district court"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "2244(b) means you have to go to the court of appeals",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 11,
+            "context_info": {
+              "conversation_id": 16,
+              "statement_index": 1,
+              "speaker": "Aaron L. Nielson",
+              "original_statement": "Well, I --we --we don't think it's worked fine.\nThe case that we cite was the Anderson case out of Connecticut, where,\nyou know, it seemed like a pretty straightforward issue.\nThe poor judge has to go through three separate lines of analysis to try\nto figure out what to do with this thing.\nAnd that's, I think, a pretty straightforward case. But I would also, you\nknow, recognize that, by definition, you're going to have multiple\nappeals possible out of -- out of a single case.\nSo you have the very first one that is up on appeal.\nWhile that's happening, all the way up to this Court, up in certiorari\npetition, they file a second one.\nThey ca n keep litigating that.\nWell, that means you're going to get two appeals out of a single -- what\nthey claim is a single application.\nThat doesn't make any sense.\nAnd I think it's important to recognize that 2244(b) doesn't mean you\nlose. 2244(b) means you have to go to the court of appeals.\nAnd we're talking about mid-appeal cases.\nSo that means, you know, unless it's, like, day 29, so we're not just past\nRule 59(e) -- 59(b) --59(e), rather, we're talking about a case where\nyou already have a court of appeals panel who is already looking at this\nthing.\nIt seems to me a lot more efficient for that panel to be able to have the\nopportunity to look at the new material, rather than sending it back to a\ndistrict court or a magistrate judge three years ago, you know, 1500\ncases later.\nThey're not going to possibly remember what that case was about,\nwhereas you have a panel looking at it right now."
+            },
+            "explanation": "This phrase references a specific statutory provision under the Antiterrorism and Effective Death Penalty Act (AEDPA), which governs the procedural requirements for federal habeas corpus petitions, necessitating familiarity with statutory interpretation."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 17,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nJust one on habeas jurisdiction.\nWhy don't --why --why don't we have it? I understand he may have\ncompleted one -- one sentence, but he's serving concurrent sentences\nfor other things.\nHe claims his amendment will help him with those.\n### Aaron L. Nielson:\nYeah.\nA couple of answers.\n### Justice Gorsuch:\nOne will do.\n### Aaron L. Nielson:\nOkay.\n### Justice Gorsuch:\nThe better answer hopefully.\n(Laughter.)\n### Aaron L. Nielson:\nWell, then -- all -- all right.\n### Justice Gorsuch:\nJust answer it.\n### Aaron L. Nielson:\nI will give you -- the easier answer to write an opinion is that was the\nsubject of the first habeas proceeding.\nThe state post -conviction court said there's three lawyers that said you\ndid this.\nYou say they -- you didn't -- you didn't say that; they did. That's a\nfinding of fact.\nThen he goes to the federal post-conviction court about that, and that's\nabout the sexual abuse charges.\nAnd he has to show that that is wrong.\nAnd he has no evidence.\nAnd the district court says no habeas, the Fifth Circuit affirms, and this\nCourt denies certiorari.\nThat issue is closed.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"I will give you -- the easier answer to write an opinion is that was the\nsubject of the first habeas proceeding.\nThe state post -conviction court said there's three lawyers that said you\ndid this.\nYou say they -- you didn't -- you didn't say that; they did. That's a\n__________________.\nThen he goes to the federal post-conviction court about that, and that's\nabout the sexual abuse charges.\nAnd he has to show that that is wrong.\nAnd he has no evidence.\nAnd the district court says no habeas, the Fifth Circuit affirms, and this\nCourt denies certiorari.\nThat issue is closed.\"",
+          "options": {
+            "A": "finding of error",
+            "B": "finding of law",
+            "C": "finding of fact",
+            "D": "finding of truth"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "finding of fact",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 17,
+              "statement_index": 1,
+              "speaker": "Aaron L. Nielson",
+              "original_statement": "I will give you -- the easier answer to write an opinion is that was the\nsubject of the first habeas proceeding.\nThe state post -conviction court said there's three lawyers that said you\ndid this.\nYou say they -- you didn't -- you didn't say that; they did. That's a\nfinding of fact.\nThen he goes to the federal post-conviction court about that, and that's\nabout the sexual abuse charges.\nAnd he has to show that that is wrong.\nAnd he has no evidence.\nAnd the district court says no habeas, the Fifth Circuit affirms, and this\nCourt denies certiorari.\nThat issue is closed."
+            },
+            "explanation": "This phrase refers to a determination made by a judge or jury regarding the truth of a factual issue, which is critical in distinguishing between factual and legal issues in appellate review."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 18,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nAnything further? No? Thank you, counsel.\nMr. Guarnieri.\n### Matthew Guarnieri:\nMr. Chief Justice, and may it please the Court: Petitioner litigated his\nfirst Section 2254 application to a final judgment and was granted a\ncertificate of appealability.\nTwo and a half years later, while his appeal was still pending, he went\nback to the district court and filed what he came to characterize as a\nmotion to amend his first application.\nNeither the Rules of Civil Procedure nor the statutes applicable to\nhabeas proceedings grant -- permit granting such a post-judgment\nrequest to amend.\nAs a matter of black-letter civil procedure law, a party may not amend\nits pleadings after the entry of judgment without first obtaining relief\nfrom the judgment.\nAnd in habeas proceedings, when a prisoner requests relief from the\njudgment mid-appeal to add new claims or to replead old claims on the\nbasis of allegedly new evidence, Section 2244(b) applies.\nPetitioner's request to inject new claims or new evidence into these\nproceedings cannot go forward unless he can satisfy AEDPA's stringent\ngatekeeping requirements.\nI welcome the Court's questions.\n### Chief Justice Roberts:\nIs there any way in which your argument for the United States differs\nfrom that of Respondent?\n### Matthew Guarnieri:\nI --I don't think so, Mr. Chief Justice.\nTexas has taken a position on a number of subsidiary issues with respect\nto the operation of Federal Rule of Civil Procedure 62.1.\nThe United States has not taken a position on those issues.\nBut with respect to the main points at issue in this case, I think the\nUnited States and Texas are fully aligned.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Mr. Chief Justice, and may it please the Court: Petitioner litigated his\nfirst Section 2254 application to a final judgment and was granted a\n__________________.\nTwo and a half years later, while his appeal was still pending, he went\nback to the district court and filed what he came to characterize as a\nmotion to amend his first application.\nNeither the Rules of Civil Procedure nor the statutes applicable to\nhabeas proceedings grant -- permit granting such a post-judgment\nrequest to amend.\nAs a matter of black-letter civil procedure law, a party may not amend\nits pleadings after the entry of judgment without first obtaining relief\nfrom the judgment.\nAnd in habeas proceedings, when a prisoner requests relief from the\njudgment mid-appeal to add new claims or to replead old claims on the\nbasis of allegedly new evidence, Section 2244(b) applies.\nPetitioner's request to inject new claims or new evidence into these\nproceedings cannot go forward unless he can satisfy AEDPA's stringent\ngatekeeping requirements.\nI welcome the Court's questions.\"",
+          "options": {
+            "A": "certificate of appealability",
+            "B": "certificate of jurisdiction",
+            "C": "certificate of review",
+            "D": "certificate of dismissal"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "certificate of appealability",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 18,
+              "statement_index": 1,
+              "speaker": "Matthew Guarnieri",
+              "original_statement": "Mr. Chief Justice, and may it please the Court: Petitioner litigated his\nfirst Section 2254 application to a final judgment and was granted a\ncertificate of appealability.\nTwo and a half years later, while his appeal was still pending, he went\nback to the district court and filed what he came to characterize as a\nmotion to amend his first application.\nNeither the Rules of Civil Procedure nor the statutes applicable to\nhabeas proceedings grant -- permit granting such a post-judgment\nrequest to amend.\nAs a matter of black-letter civil procedure law, a party may not amend\nits pleadings after the entry of judgment without first obtaining relief\nfrom the judgment.\nAnd in habeas proceedings, when a prisoner requests relief from the\njudgment mid-appeal to add new claims or to replead old claims on the\nbasis of allegedly new evidence, Section 2244(b) applies.\nPetitioner's request to inject new claims or new evidence into these\nproceedings cannot go forward unless he can satisfy AEDPA's stringent\ngatekeeping requirements.\nI welcome the Court's questions."
+            },
+            "explanation": "A certificate of appealability is a legal prerequisite for a petitioner to appeal a denial of a habeas corpus application, requiring a showing of substantial constitutional questions."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 19,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nCounsel, I was just going to say Petitioner points out that the\ngovernment doesn't complain about the new argument injected in the\nbrief.\nAnd you didn't say anything in your brief.\nDo you want to say anything now?\n### Matthew Guarnieri:\nI --I -- I could share the Court's frustration.\nI don't -- I don't want to presuppose how the Court has reacted to the\nmerits arguments in this case, but if there is a sense of frustration that\nPetitioner 's arguments have evolved substantially from the certiorari\nstage to the merits stage, I -- I could entirely understand that\nfrustration.\nWe have not urged the Court to dispose of the case on those grounds,\nprincipally because the United States does not have any particular\nfederal interest in whether Petitioner preserved specific arguments in\nthis case.\nWe are participating here so that the Court -- because -- we think it's\nimportant to get the underlying legal rules correct, and on those points,\nagain, I think we are in lockstep agreement with Texas on all the points\nthat matter.\n### Justice Barrett:\nWell, speaking of those rules, do you want to articulate exactly what rule\nstatement you would be looking for and how you think it might affect\n2255?\n### Matthew Guarnieri:\nSure.\nI think the key -- and this is --comes directly from the opinion of the\nFifth Circuit in this case.\nThe key point is that the limitations in Section 2244(b) on the filing of\nsecond or successive applications come into play when a district court\nhas entered a judgment on a first application on the merits.\nIt is the entry of judgment that marks the terminal point in the\nproceedings after which the gatekeeping procedures in AEDPA apply.\nAnd it doesn't --I think, if you agree with us on that, then it doesn't\nreally matter whether the Petitioner comes into court and characterizes\nthe relief that he is requesting as a form of post-judgment amendment\nor as a motion for relief from the judgment under 60(b) or perhaps as a\nrequest to the court of appeals itself to vacate and remand under 28\nU.S.C.\n2106 for the purpose of granting an amendment. All of those things,\nthose are just the procedural vehicles for requesting relief from the\njudgment in order to add new claims or to replead old claims with new\nevidence.\nThose are two of the things that this Court identified in Gonzalez as the\nkinds of arguments made after judgment that are properly treated as\nsecond or successive applications under Section 2244(b).",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"I --I -- I could share the Court's frustration.\nI don't -- I don't want to presuppose how the Court has reacted to the\n____________ in this case, but if there is a sense of frustration that\nPetitioner 's arguments have evolved substantially from the certiorari\nstage to the merits stage, I -- I could entirely understand that\nfrustration.\nWe have not urged the Court to dispose of the case on those grounds,\nprincipally because the United States does not have any particular\nfederal interest in whether Petitioner preserved specific arguments in\nthis case.\nWe are participating here so that the Court -- because -- we think it's\nimportant to get the underlying legal rules correct, and on those points,\nagain, I think we are in lockstep agreement with Texas on all the points\nthat matter.\"",
+          "options": {
+            "A": "merits arguments",
+            "B": "substantive claims",
+            "C": "final arguments",
+            "D": "merit appeals"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "merits arguments",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 19,
+              "statement_index": 1,
+              "speaker": "Matthew Guarnieri",
+              "original_statement": "I --I -- I could share the Court's frustration.\nI don't -- I don't want to presuppose how the Court has reacted to the\nmerits arguments in this case, but if there is a sense of frustration that\nPetitioner 's arguments have evolved substantially from the certiorari\nstage to the merits stage, I -- I could entirely understand that\nfrustration.\nWe have not urged the Court to dispose of the case on those grounds,\nprincipally because the United States does not have any particular\nfederal interest in whether Petitioner preserved specific arguments in\nthis case.\nWe are participating here so that the Court -- because -- we think it's\nimportant to get the underlying legal rules correct, and on those points,\nagain, I think we are in lockstep agreement with Texas on all the points\nthat matter."
+            },
+            "explanation": "This term refers to the substantive issues in a case that determine the outcome, as opposed to procedural or technical arguments."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 20,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nSo where -- are -- you're not disagreeing with your colleague that -- or\nare you -- that if the court of appeals vacates and remands and vacates\nthe judgment, is it then second and successive?\n### Matthew Guarnieri:\nNo, I think --I think the point that my colleague was making was that\nthe constraint there is going to be the scope of the remand from the\ncourt of appeals.\nBut if you set that constraint aside, if the court of appeals has vacated\nthe judgment on a first application for some reason other than just\nclearing the way for amendment and the case goes back to the district\ncourt, then we do think that in that case the state prisoner is in the same\nposture as pre-judgment before the case went up on appeal, and they\ncan seek to amend as permitted under Rule 15.\nNow, that's not this case.\nThe Fifth Circuit properly affirmed in the Petitioner's initial appeal, and\nin the second appeal, I think, the Fifth Circuit correctly recognized that\nSection 2244(b) requires treating the -- the filing that Petitioner made\nin this case as an application to file a second or successive application\nand was properly transferred to the Fifth Circuit for AEDPA gatekeeping.",
+      "questions": []
+    },
+    {
+      "conversation_id": 21,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nGiven that this is not this case, do you think we need to ask -- or answer\nJustice Sotomayor's question in the opinion about the vacate and\nremand scenario?\n### Matthew Guarnieri:\nNo, there's --there was no occasion to do that here, but I do think that\nthat is how, in general, the -- the situation would properly be governed\non the -- on a remand.\nNow, again, I want to emphasize that that presupposes that the court of\nappeals is remanding for some reason other than just to clear the way\nfor amendment.\nI mean, that is the kind of vacatur that my friend is requesting here. On\nhis view of how this works, if you discover --claim to discover some new\nevidence in the course of your appeal from a final judgment on your first\napplication, the -- the state prisoner could go to the court of appeals\nand request a vacatur and remand for no purpose other than avoiding\nthe limitations that would otherwise apply to a Rule 60(b) motion filed\nin the district court itself, which, again, under Gonzalez, would have to\nbe treated as a second or successive application.\nWe don't think that kind of remand is -- is permissible as a matter both\nunder the authority vested in the courts of appeals under Section 2106\nand just under AEDPA gatekeeping.\nBut if you were in a situation in which the court of appeals vacates and\nremands for some other reason, the district court made a mistake in its\nentry of the first judgment and the case goes back down, then, yes, I do\nthink there could be an opportunity for amendment in those\ncircumstances.",
+      "questions": []
+    },
+    {
+      "conversation_id": 22,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nAnything further? No? Thank you, counsel.\n### Matthew Guarnieri:\nThank you, Mr. Chief Justice.\n### Chief Justice Roberts:\nMr. Bruland, rebuttal?\n### Peter A. Bruland:\nThank you.\nJustice Sotomayor,",
+      "questions": []
+    },
+    {
+      "conversation_id": 23,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\n, I want to resist the idea that that's\nnot this case.\nOur whole point, the only question we're asking you to decide is, did the\ndistrict court make a threshold jurisdictional error about the meaning of\nAEDPA? I think it did for the textual reasons, the historical reasons, the\npurposive reasons.\nAnd if that's right, then I think the correct remedy would be to reverse\nand to send it back down.\nAnd what we would say then is we could have the debate about, well,\nmaybe they would say harmless error because they don't like the\nprocedures or they have merits arguments, but we would be asking you\nto correct the threshold jurisdictional error that they made about the\nmeaning of 2244(b).\nThat was what cut everything off. Now, I don't think there's any\ndaylight between what I'm asking you to do and what the Third Circuit\nand even the Second Circuit have said.\nIt all goes to what Mr. Guarnieri just said about, well, for some other\nreason.\nAnd I don't understand where that's coming from, because 2106\ndoesn't say \"for some other reason.\" And I don't see there being any\nsort of penumbral emanations from Rule 60(b) that curtail the\nappellate court's power to vacate.\nSo then the question becomes, well, where are we getting this you can't\nask the district court to send up a flare so that the court of appeals can\nvacate just because you want to amend.\nIt seems like what they're asking to you do is put an atextual gloss on\n2106 such that if you're asking for a certain form of relief, then that\ndoesn't fly.\nI'm not sure where that comes from, but it certainly doesn't come from\nAEDPA.\nAnd this Court could reverse just saying the meaning of 2244(b) is not\nwhat the lower court said. And you could save all of this stuff about the\nprocedures and 2106 for another day. We're just asking you to reverse\non the threshold AEDPA ground, which is analytically distinct from the\nprocedural pathway.\nJustice Alito, I want to take just one more crack at addressing your\nconcerns about the QP.\nWhat I would say is the amendment argument is a narrower ground that\nanswers directly the QP.\nWe framed it broadly.\nWe said does 2244 apply to all, some, or no mid-appeal habeas filings?\nThe amendment argument says, well, it sure doesn't apply to all\nbecause textually, historically, and looking at AEDPA's purposes, an\namendment is not a second or successive petition.\nI could understand the other side's argument, if I were coming up here\nasking you to accept something broader, but usually as an advocate, it's\na good thing to be standing up here offering a narrow ground for relief\nwith a statutory hook.\nJustice Kavanaugh, I want to say a few words to you about workability\nbecause I think that is the key or a key point in this case.\nIt really does come down to what is the proper venue because a prisoner\nwho gets new evidence is going to race to court no matter what decision\nthis Court reaches today.\nAnd then some district court or some court of appeals is going to have to\ndecide what to do.\nBut please don't take my word for it. Don't take General Nielson's word\nfor it.\nI urge to you look at the judge's amicus brief, because you have 17 of\nyour former Article III colleagues with nearly 300 years -- or 300 years\nof experience collectively as appellate judges and district court judges\nand magistrate judges and what they're in here telling you is the other\nside's rule is burdensome for the judicial system as a whole.\nThat's because the court of appeals is going to happen -- have to open a\nbrand new original proceeding every time one of these claims comes\nthrough the door.\nAnd, remember, these claims are coming whatever this Court says.\nSo I think it's a whole lot more efficient looking at AEDPA's purposes to\nchannel these things through the district court, the single\ndecisionmaker most familiar with the case, which as Banister said and\nMagwood said, the district court can take a five-minute glance at this\nand say, no, it loses on the merits, so no need to bother the court of\nappeals.\nThese claims are coming.\nAnd the most workable solution is to say they get channeled through\nthe district court while the appeal is pending.\nI will be the first to grant Congress inverted the normal presumption\nthat appellate courts are courts of review, not first view, once the first\ncase is over.\nBut while the first case is still pending, 2244 does not apply.\nAnd it does not flip that presumption.\nAnd I think the judges well explain why there's no evidence that's what\nCongress intended.\nAgain, the last thing I'll say and then I'll sit down early, we are just\nasking you to reverse the lower court's threshold error about the\nmeaning of 2244, and then we can fight out whether Danny Rivers has\nmerits issues or procedural issues.\nBottom line, Danny Rivers might have 99 problems; it's just 2244 isn't\none of them. We would ask you to reverse.\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 24,
+      "dialogue": "Chief Justice Roberts\n\n### Chief Justice Roberts:\nThank you, counsel.\nThe case is submitted.",
+      "questions": []
+    }
+  ],
+  "generation_stats": {
+    "total_conversations": 24,
+    "conversations_with_questions": 15,
+    "conversations_without_questions": 9,
+    "processed_conversations": 24,
+    "questions_generated": 40,
+    "skipped_for_low_complexity": 0,
+    "coverage_rate": "62.5%",
+    "methodology": "Extract key phrases from advocate statements and create multiple choice questions with extremely deceptive distractors"
+  },
+  "answer_distribution": {
+    "counts": {
+      "A": 11,
+      "B": 11,
+      "C": 11,
+      "D": 7
+    },
+    "percentages": {
+      "A": 27.500000000000004,
+      "B": 27.500000000000004,
+      "C": 27.500000000000004,
+      "D": 17.5
+    },
+    "total_questions": 40
+  }
+}

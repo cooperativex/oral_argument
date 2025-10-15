@@ -1,0 +1,1459 @@
+{
+  "source_file": "Cunningham v. Cornell University _ Oyez.md",
+  "background": "Chief Justice Roberts\n### Chief Justice Roberts:\nWe'll hear argument next in Case 23-1007, Cunningham versus Cornell\nUniversity.\nMr. Wang.\n### Xiao Wang:\nMr. Chief Justice, and may it please the Court: When Congress enacted\nERISA, it identified a number of prohibited transactions and codified\nthat understanding in 29 U.S.C. Section 1106.\nIn Congress's view, these transactions posed a special risk of being\npotentially harmful to the plan, generally because they involved a party\nin interest, which includes a fiduciary's relative or an officer or an owner\nof the plan or a person providing services to the plan.\nPetitioners here have identified a transaction that falls within the text\nof Section 1106, and the Second Circuit's decision to dismiss that claim\nprior to discovery was incorrect for three reasons. First, text and\nstructure.\nCongress frequently writes laws where it puts liability in one part of the\nstatute and exceptions to liability in another, and when it does so, this\nCourt has time and again held that plaintiffs plead and prove liability\nand defendants plead and prove exceptions to liability.\nSecond, precedent.\nIn Keystone Consolidated and Harris Trust, this Court made clear that\nthe prohibited transaction provisions provide for categorical rules.\nBut what the Second Circuit's approach does is it conver ts those\ncategorical rules into qualified ones.\nAnd that brings me to the final reason for reversal, which is that they're\nnot just qualified prohibitions, but they're qualified based on\nexemptions that involve information that plaintiffs cannot know and do\nnot know prior to discovery, information like who the counterparties are\nin a cross-trade or how large a block trade is or what asset classes are in\na block trade, which is exactly why, when Congress wrote these\nprovisions, it intended for petitioners to plead and prove under Section\n1106 and for defendants to plead and prove under Section 1108.\nFor these reasons, Your Honor, we ask this Court to reverse the\njudgment of the Second Circuit.\nI welcome the Court's questions.",
+  "conversations": [
+    {
+      "conversation_id": 1,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nWhat exact --if you were --if we were to read your complaint as it is,\nwhat exactly is the injury?\n### Xiao Wang:\nThe injury is that the -- with regard to the prohibited transaction\nprovisions, Your Honor, the injury is that the plans here engaged Fidelity\nand TIAA, who are parties in interest, and that violates Section 1106(a)\n(1)(C).\n### Justice Thomas:\nSo how did that harm the plan?\n### Xiao Wang:\nIt harmed the plan because Fidelity and TIAA didn't simply just provide\nrecordkeeping services to the plan.\nThey bundled them with investment products, and those investment\nproducts, in turn, had operating expenses, and those operating\nexpenses were then shared via revenue sharing to the plan to pay for\nrecordkeeping.\nNow that bundling resulted in Fidelity and TIAA pushing -- this is on\npage 22 of the Joint Appendix -- pushing its own products, its own\nactively managed products, leading to higher expense ratios and,\ntherefore, greater recordkeeping fees in the -- in the result.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"What exact --if you were --if we were to read your complaint as it is,\n______________________________?\"",
+          "options": {
+            "A": "what specifically is the damage",
+            "B": "what fundamentally is the loss",
+            "C": "what exactly is the injury",
+            "D": "what precisely is the harm"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "what exactly is the injury",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 1,
+              "speaker": "Justice Thomas",
+              "original_statement": "What exact --if you were --if we were to read your complaint as it is,\nwhat exactly is the injury?"
+            },
+            "explanation": "This phrase probes the fundamental legal concept of injury in tort law, requiring an understanding of standing and the necessity for plaintiffs to demonstrate a concrete injury to pursue a claim."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"What exact --if you were --if we were to ____________________________________,\nwhat exactly is the injury?\"",
+          "options": {
+            "A": "read your complaint as it stands",
+            "B": "read your complaint as it is",
+            "C": "read your brief as it is",
+            "D": "read your motion as it is"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "read your complaint as it is",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 1,
+              "speaker": "Justice Thomas",
+              "original_statement": "What exact --if you were --if we were to read your complaint as it is,\nwhat exactly is the injury?"
+            },
+            "explanation": "This phrase emphasizes the importance of the pleadings in a case, highlighting the procedural requirement for courts to assess claims based on the specific allegations made in the complaint."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"What exact --if you were --______________________________ your complaint as it is,\nwhat exactly is the injury?\"",
+          "options": {
+            "A": "if we were to interpret",
+            "B": "if we were to analyze",
+            "C": "if we were to read",
+            "D": "if we were to conclude"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "if we were to read",
+            "category": "judicial_test",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 1,
+              "speaker": "Justice Thomas",
+              "original_statement": "What exact --if you were --if we were to read your complaint as it is,\nwhat exactly is the injury?"
+            },
+            "explanation": "This phrase suggests a hypothetical judicial inquiry into the interpretation of legal documents, testing the understanding of how courts analyze and interpret pleadings."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"What exact --if you were --if we were to read ____________ as it is,\nwhat exactly is the injury?\"",
+          "options": {
+            "A": "your petition",
+            "B": "your complaint",
+            "C": "your claim",
+            "D": "your assertion"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "your complaint",
+            "category": "case_law",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 1,
+              "speaker": "Justice Thomas",
+              "original_statement": "What exact --if you were --if we were to read your complaint as it is,\nwhat exactly is the injury?"
+            },
+            "explanation": "This phrase refers to the specific legal document that initiates a lawsuit, requiring knowledge of the significance of complaints in establishing the basis for legal claims."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 2,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nYour theory means, I think, or at least the other side says that it's a\nprohibited transaction just to have recordkeeping services.\n### Justice Kavanaugh:\nAnd that seems nuts, right? That's what they say.\nAnd it does to me seem nuts too.\nSo what do we do with that?\n### Xiao Wang:\nWell, Justice Kavanaugh, let me try to unpack that.\nI think the starting point would be to look at the text of the statute in\nthis, and I think, for outside service providers, that would fall under\n1106(a)(1)(C), something that the fiduciary shall not do.\nNow that doesn't sort of provide a per se bar, and we don't think it\nprovides a per se bar.\nInstead, it says, look, that gives plaintiffs an opening to open the door to\nplead a claim.\nThat doesn't mean that they'll succeed on liability.\n1108, that's the purpose of 1108.\n### Justice Kavanaugh:\nOf course, but just to state what's obvious from the amicus briefs and\nwe've heard before in other contexts, they're worried about the expense\nof litigating this past the motion to dismiss.\nSo it's not enough, they say, at the motion to dismiss to say you're not\nalleging --to Justice Thomas's question, you're not alleging excessive\nor unreasonable amounts paid for these recordkeeping services; you're\njust alleging that we had them.\nWell, of course, we have them, right? Everyone has them.\nYou have to have them.\nSo it's --it's an automatic ticket, pass go, go immediately to discovery,\nsummary judgment, huge expense.\nThese universities, other defendants are saying that's just completely\nabsurd and ridiculous, which is -- you know, the starting point of Judge\nLivingston's analysis was -- was looking at trying to make sense of all\nthis in context, I think. Now maybe there's a good answer to that, but is\nit kind of an automatic ticket when you assert that a plan has\nrecordkeeping services to get past the motion to dismiss?\n### Xiao Wang:\nWell, Your Honor, maybe I can back up on that,\n### Justice Kavanaugh:\n, and\nsort of answer it in two ways.\nThe first way is to say that I think, as we recognize on page 19 of the Joint\nAppendix, recordkeeping is a necessary service. And there may be\ncertain moments where you want to outsource that to an outside\nservice provider.\nYou don't have to, but you might want to.\nBut, if you do that, if the fiduciary does that, then the fiduciary -- then\nit's not a blank check.\nWh at 1106 and 1108 say is it's not a blank check.\nAnd if that -- and if that transaction is subject to challenge, then 1108\nprovides the necessary exemption for you to marshal.\nBut you can't -- you can't just say -- sorry to interrupt and I want you to\nyou're not alleging that the fees were excessive at this point on this\nclaim?\n### Justice Kavanaugh:\nThat's not going to be enough for you to get it dismissed, correct?\n### Justice Kavanaugh:\nAnd -- and you've really suffered no harm, to",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Your theory means, I think, or at least the other side says that it's a\n____________ just to have recordkeeping services.\"",
+          "options": {
+            "A": "prohibited exchange",
+            "B": "prohibited transaction",
+            "C": "qualified transaction",
+            "D": "permitted transaction"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "prohibited transaction",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 1,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": "Your theory means, I think, or at least the other side says that it's a\nprohibited transaction just to have recordkeeping services."
+            },
+            "explanation": "This phrase highlights a key legal concept under ERISA, which is central to understanding the implications of certain transactions in relation to fiduciary duties."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Your theory means, I think, or at least the other side says that it's a\nprohibited transaction just to have ____________.\"",
+          "options": {
+            "A": "recordkeeping services",
+            "B": "record management",
+            "C": "record retention",
+            "D": "record oversight"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "recordkeeping services",
+            "category": "legal_concept",
+            "difficulty": "medium",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 1,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": "Your theory means, I think, or at least the other side says that it's a\nprohibited transaction just to have recordkeeping services."
+            },
+            "explanation": "This phrase raises questions about the nature of services provided in relation to fiduciary responsibilities and the classification of transactions under ERISA."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Your theory means, I think, or at least ________________________ that it's a\nprohibited transaction just to have recordkeeping services.\"",
+          "options": {
+            "A": "the opposing party argues",
+            "B": "the other side says",
+            "C": "the plaintiff's counsel asserts",
+            "D": "the defense team claims"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "the other side says",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 1,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": "Your theory means, I think, or at least the other side says that it's a\nprohibited transaction just to have recordkeeping services."
+            },
+            "explanation": "This phrase indicates the adversarial nature of legal arguments and the importance of understanding opposing theories in judicial reasoning."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"And that seems nuts, right? That's what they say.\nAnd it does to me seem nuts too.\nSo ____________________________________\"",
+          "options": {
+            "A": "what do we do with that?",
+            "B": "how do we deal with that?",
+            "C": "what should we do about that?",
+            "D": "how do we proceed with that?"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "what do we do with that?",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 2,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": "And that seems nuts, right? That's what they say.\nAnd it does to me seem nuts too.\nSo what do we do with that?"
+            },
+            "explanation": "This phrase challenges the respondent to consider the implications of judicial reasoning and the appropriate legal response to perceived absurdities in legal arguments."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Of course, but just to state what's obvious from the amicus briefs and\nwe've heard before in other contexts, they're worried about the expense\nof litigating this past the motion to dismiss.\nSo it's not enough, they say, at the motion to dismiss to say you're not\nalleging --to Justice Thomas's question, you're not alleging excessive\nor unreasonable amounts paid for these recordkeeping services; you're\njust alleging that we had them.\nWell, of course, we have them, right? Everyone has them.\nYou have to have them.\nSo it's --it's an ________________________________________________,\nsummary judgment, huge expense.\nThese universities, other defendants are saying that's just completely\nabsurd and ridiculous, which is -- you know, the starting point of Judge\nLivingston's analysis was -- was looking at trying to make sense of all\nthis in context, I think. Now maybe there's a good answer to that, but is\nit kind of an automatic ticket when you assert that a plan has\nrecordkeeping services to get past the motion to dismiss?\"",
+          "options": {
+            "A": "automatic release, pass go, proceed to mediation",
+            "B": "automatic ticket, pass go, go immediately to discovery",
+            "C": "automatic waiver, pass go, go directly to trial",
+            "D": "automatic judgment, pass go, go immediately to arbitration"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "automatic ticket, pass go, go immediately to discovery",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 8,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 3,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": "Of course, but just to state what's obvious from the amicus briefs and\nwe've heard before in other contexts, they're worried about the expense\nof litigating this past the motion to dismiss.\nSo it's not enough, they say, at the motion to dismiss to say you're not\nalleging --to Justice Thomas's question, you're not alleging excessive\nor unreasonable amounts paid for these recordkeeping services; you're\njust alleging that we had them.\nWell, of course, we have them, right? Everyone has them.\nYou have to have them.\nSo it's --it's an automatic ticket, pass go, go immediately to discovery,\nsummary judgment, huge expense.\nThese universities, other defendants are saying that's just completely\nabsurd and ridiculous, which is -- you know, the starting point of Judge\nLivingston's analysis was -- was looking at trying to make sense of all\nthis in context, I think. Now maybe there's a good answer to that, but is\nit kind of an automatic ticket when you assert that a plan has\nrecordkeeping services to get past the motion to dismiss?"
+            },
+            "explanation": "This phrase illustrates the judicial inquiry into whether certain claims inherently warrant advancing to discovery, reflecting on procedural standards in litigation."
+          }
+        },
+        {
+          "question": "Fill in the blank: \", and\nsort of answer it in two ways.\nThe first way is to say that I think, as we recognize on page 19 of the Joint\nAppendix, ______________________________. And there may be\ncertain moments where you want to outsource that to an outside\nservice provider.\nYou don't have to, but you might want to.\nBut, if you do that, if the fiduciary does that, then the fiduciary -- then\nit's not a blank check.\nWh at 1106 and 1108 say is it's not a blank check.\nAnd if that -- and if that transaction is subject to challenge, then 1108\nprovides the necessary exemption for you to marshal.\nBut you can't -- you can't just say -- sorry to interrupt and I want you to\nyou're not alleging that the fees were excessive at this point on this\nclaim?\"",
+          "options": {
+            "A": "recordkeeping is a sufficient service",
+            "B": "recordkeeping is a necessary service",
+            "C": "recordkeeping is an optional service",
+            "D": "recordkeeping is a discretionary service"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "recordkeeping is a necessary service",
+            "category": "legal_concept",
+            "difficulty": "medium",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 4,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": ", and\nsort of answer it in two ways.\nThe first way is to say that I think, as we recognize on page 19 of the Joint\nAppendix, recordkeeping is a necessary service. And there may be\ncertain moments where you want to outsource that to an outside\nservice provider.\nYou don't have to, but you might want to.\nBut, if you do that, if the fiduciary does that, then the fiduciary -- then\nit's not a blank check.\nWh at 1106 and 1108 say is it's not a blank check.\nAnd if that -- and if that transaction is subject to challenge, then 1108\nprovides the necessary exemption for you to marshal.\nBut you can't -- you can't just say -- sorry to interrupt and I want you to\nyou're not alleging that the fees were excessive at this point on this\nclaim?"
+            },
+            "explanation": "This phrase highlights the judicial recognition of the essential nature of recordkeeping within fiduciary duties, indicating a nuanced understanding of service provision in ERISA contexts."
+          }
+        },
+        {
+          "question": "Fill in the blank: \", and\nsort of answer it in two ways.\nThe first way is to say that I think, as we recognize on page 19 of the Joint\nAppendix, recordkeeping is a necessary service. And there may be\ncertain moments where you want to outsource that to an outside\nservice provider.\nYou don't have to, but you might want to.\nBut, if you do that, if the fiduciary does that, then the fiduciary -- then\n______________________________.\nWh at 1106 and 1108 say is it's not a blank check.\nAnd if that -- and if that transaction is subject to challenge, then 1108\nprovides the necessary exemption for you to marshal.\nBut you can't -- you can't just say -- sorry to interrupt and I want you to\nyou're not alleging that the fees were excessive at this point on this\nclaim?\"",
+          "options": {
+            "A": "it is not a guarantee",
+            "B": "it's not an open invitation",
+            "C": "it is not a free pass",
+            "D": "it's not a blank check"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "it's not a blank check",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 4,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": ", and\nsort of answer it in two ways.\nThe first way is to say that I think, as we recognize on page 19 of the Joint\nAppendix, recordkeeping is a necessary service. And there may be\ncertain moments where you want to outsource that to an outside\nservice provider.\nYou don't have to, but you might want to.\nBut, if you do that, if the fiduciary does that, then the fiduciary -- then\nit's not a blank check.\nWh at 1106 and 1108 say is it's not a blank check.\nAnd if that -- and if that transaction is subject to challenge, then 1108\nprovides the necessary exemption for you to marshal.\nBut you can't -- you can't just say -- sorry to interrupt and I want you to\nyou're not alleging that the fees were excessive at this point on this\nclaim?"
+            },
+            "explanation": "This phrase underscores the judicial principle that fiduciaries cannot act without limits, emphasizing the need for accountability in fiduciary transactions under ERISA."
+          }
+        },
+        {
+          "question": "Fill in the blank: \", and\nsort of answer it in two ways.\nThe first way is to say that I think, as we recognize on page 19 of the Joint\nAppendix, recordkeeping is a necessary service. And there may be\ncertain moments where you want to outsource that to an outside\nservice provider.\nYou don't have to, but you might want to.\nBut, if you do that, if the fiduciary does that, then the fiduciary -- then\nit's not a blank check.\nWh at 1106 and 1108 say is it's not a blank check.\nAnd if that -- and if that transaction is __________________, then 1108\nprovides the necessary exemption for you to marshal.\nBut you can't -- you can't just say -- sorry to interrupt and I want you to\nyou're not alleging that the fees were excessive at this point on this\nclaim?\"",
+          "options": {
+            "A": "subject to appeal",
+            "B": "subject to challenge",
+            "C": "subject to review",
+            "D": "subject to scrutiny"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "subject to challenge",
+            "category": "legal_concept",
+            "difficulty": "medium",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 4,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": ", and\nsort of answer it in two ways.\nThe first way is to say that I think, as we recognize on page 19 of the Joint\nAppendix, recordkeeping is a necessary service. And there may be\ncertain moments where you want to outsource that to an outside\nservice provider.\nYou don't have to, but you might want to.\nBut, if you do that, if the fiduciary does that, then the fiduciary -- then\nit's not a blank check.\nWh at 1106 and 1108 say is it's not a blank check.\nAnd if that -- and if that transaction is subject to challenge, then 1108\nprovides the necessary exemption for you to marshal.\nBut you can't -- you can't just say -- sorry to interrupt and I want you to\nyou're not alleging that the fees were excessive at this point on this\nclaim?"
+            },
+            "explanation": "This phrase indicates the legal standard that certain fiduciary actions can be contested, reflecting the judicial scrutiny applied to fiduciary decisions."
+          }
+        },
+        {
+          "question": "Fill in the blank: \", and\nsort of answer it in two ways.\nThe first way is to say that I think, as we recognize on page 19 of the Joint\nAppendix, recordkeeping is a necessary service. And there may be\ncertain moments where you want to outsource that to an outside\nservice provider.\nYou don't have to, but you might want to.\nBut, if you do that, if the fiduciary does that, then the fiduciary -- then\nit's not a blank check.\nWh at 1106 and 1108 say is it's not a blank check.\nAnd if that -- and if that transaction is subject to challenge, then 1108\nprovides the ____________________________________.\nBut you can't -- you can't just say -- sorry to interrupt and I want you to\nyou're not alleging that the fees were excessive at this point on this\nclaim?\"",
+          "options": {
+            "A": "unnecessary exception for you to navigate",
+            "B": "critical exclusion for you to present",
+            "C": "essential exemption for you to manage",
+            "D": "necessary exemption for you to marshal"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "necessary exemption for you to marshal",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 4,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": ", and\nsort of answer it in two ways.\nThe first way is to say that I think, as we recognize on page 19 of the Joint\nAppendix, recordkeeping is a necessary service. And there may be\ncertain moments where you want to outsource that to an outside\nservice provider.\nYou don't have to, but you might want to.\nBut, if you do that, if the fiduciary does that, then the fiduciary -- then\nit's not a blank check.\nWh at 1106 and 1108 say is it's not a blank check.\nAnd if that -- and if that transaction is subject to challenge, then 1108\nprovides the necessary exemption for you to marshal.\nBut you can't -- you can't just say -- sorry to interrupt and I want you to\nyou're not alleging that the fees were excessive at this point on this\nclaim?"
+            },
+            "explanation": "This phrase refers to the legal requirement for fiduciaries to demonstrate compliance with exemptions under ERISA, illustrating the burden of proof in fiduciary transactions."
+          }
+        },
+        {
+          "question": "Fill in the blank: \", and\nsort of answer it in two ways.\nThe first way is to say that I think, as we recognize on page 19 of the Joint\nAppendix, recordkeeping is a necessary service. And there may be\ncertain moments where you want to outsource that to an outside\nservice provider.\nYou don't have to, but you might want to.\nBut, if you do that, if the fiduciary does that, then the fiduciary -- then\nit's not a blank check.\nWh at 1106 and 1108 say is it's not a blank check.\nAnd if that -- and if that transaction is subject to challenge, then 1108\nprovides the necessary exemption for you to marshal.\nBut you can't -- you can't just say -- sorry to interrupt and I want you to\nyou're not ____________________________________ at this point on this\nclaim?\"",
+          "options": {
+            "A": "claiming that the costs were inflated",
+            "B": "alleging that the fees were excessive",
+            "C": "contending that the expenses were unjustified",
+            "D": "asserting that the charges were unreasonable"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "alleging that the fees were excessive",
+            "category": "legal_concept",
+            "difficulty": "medium",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 4,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": ", and\nsort of answer it in two ways.\nThe first way is to say that I think, as we recognize on page 19 of the Joint\nAppendix, recordkeeping is a necessary service. And there may be\ncertain moments where you want to outsource that to an outside\nservice provider.\nYou don't have to, but you might want to.\nBut, if you do that, if the fiduciary does that, then the fiduciary -- then\nit's not a blank check.\nWh at 1106 and 1108 say is it's not a blank check.\nAnd if that -- and if that transaction is subject to challenge, then 1108\nprovides the necessary exemption for you to marshal.\nBut you can't -- you can't just say -- sorry to interrupt and I want you to\nyou're not alleging that the fees were excessive at this point on this\nclaim?"
+            },
+            "explanation": "This phrase pertains to the legal standard for evaluating fiduciary fees, indicating the importance of proving excessive fees in claims under ERISA."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 3,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\n's point,\neither.\n### Xiao Wang:\nWell, Justice Kavanaugh, and I think this is consistent with Justice\nThomas's point as well, that there are other guardrails that we point to,\nthings like fee shifting and standing and the enormous expense of even\nbringing a case that would deter this.\nAnd I think the best practical proof of this is that the Eighth Circuit has\nembraced this rule for 15 years.\nAnd we don't see any evidence of it -- of it happening.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 4,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nBut, in the amicus briefs, maybe -- you know, amicus briefs might\nengage in puffery, understandably.\nI mean, I understand that.\nI'm not saying understandably.\n(Laughter.)\nBut they're painting a pretty bleak picture, the American Benefits\nCouncil, the universities who are saying this is a huge problem for the\nuniversities.\nThis expanded litigation threat would be near limitless because every\ncollege and university relies on third -party service providers.\nAnd because the contract's mere existence, mere existence, would be\nenough to force these defendants to proceed through expensive\ndiscovery, it risks opening the floodgates to burdensome --right? And\nthen they say, rightly, the burden of these suits takes away money from\nsomewhere.\nSo that's just in one context.\nIt's other contexts according to the benefits council.\n### Justice Kavanaugh:\nAnd maybe they're all wrong, but, you know, I take it seriously. I listened\nto what they say and want to at least get your response.\n### Xiao Wang:\nCertainly, Justice Kavanaugh, and two responses to that.\nThe first is I think the Court has, in fact, dealt with a similar issue in\nHarris Trust.\nIn Harris Trust, that was a case about whether, for a prohibited\ntransaction claim, one could hold not simply just the fiduciary liable but\nalso the party in interest.\nAnd many amicus briefs were filed in that case, and the respondents\nthemselves made the point that, look, if you can hold us liable, hold\nparties in interest liable, then that's going to create these devastating\npolicy consequences.\nAnd the Court rejected that.\nThe Court said on page 254 that Salomon, the defendant, submits that\nthe policy consequences could be devastating.\nFaced with the prospect of liability for dealing with the plan, parties in\ninterest could refuse altogether to transact with plans.\nBut we know that that hasn't happened. Since 2000, when Harris Trust\nwas decided, we've seen Respondents themselves agree on this point,\nthat there are, in fact, more ERISA plans being offered, there are more -\n- Your Honor?",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"But, in the amicus briefs, maybe -- you know, amicus briefs might\nengage in puffery, understandably.\nI mean, I understand that.\nI'm not saying understandably.\n(Laughter.)\nBut they're painting a pretty bleak picture, the American Benefits\nCouncil, the universities who are saying this is a huge problem for the\nuniversities.\nThis __________________ would be near limitless because every\ncollege and university relies on third -party service providers.\nAnd because the contract's mere existence, mere existence, would be\nenough to force these defendants to proceed through expensive\ndiscovery, it risks opening the floodgates to burdensome --right? And\nthen they say, rightly, the burden of these suits takes away money from\nsomewhere.\nSo that's just in one context.\nIt's other contexts according to the benefits council.\"",
+          "options": {
+            "A": "enhanced litigation risk",
+            "B": "extended liability threat",
+            "C": "expanded legal exposure",
+            "D": "expanded litigation threat"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "expanded litigation threat",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 4,
+              "statement_index": 1,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": "But, in the amicus briefs, maybe -- you know, amicus briefs might\nengage in puffery, understandably.\nI mean, I understand that.\nI'm not saying understandably.\n(Laughter.)\nBut they're painting a pretty bleak picture, the American Benefits\nCouncil, the universities who are saying this is a huge problem for the\nuniversities.\nThis expanded litigation threat would be near limitless because every\ncollege and university relies on third -party service providers.\nAnd because the contract's mere existence, mere existence, would be\nenough to force these defendants to proceed through expensive\ndiscovery, it risks opening the floodgates to burdensome --right? And\nthen they say, rightly, the burden of these suits takes away money from\nsomewhere.\nSo that's just in one context.\nIt's other contexts according to the benefits council."
+            },
+            "explanation": "This phrase highlights the judicial concern regarding the implications of litigation on institutions, requiring an understanding of the broader legal and economic impacts of judicial decisions."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"But, in the amicus briefs, maybe -- you know, amicus briefs might\nengage in puffery, understandably.\nI mean, I understand that.\nI'm not saying understandably.\n(Laughter.)\nBut they're painting a pretty bleak picture, the American Benefits\nCouncil, the universities who are saying this is a huge problem for the\nuniversities.\nThis expanded litigation threat would be near limitless because every\ncollege and university relies on third -party service providers.\nAnd because the __________________, mere existence, would be\nenough to force these defendants to proceed through expensive\ndiscovery, it risks opening the floodgates to burdensome --right? And\nthen they say, rightly, the burden of these suits takes away money from\nsomewhere.\nSo that's just in one context.\nIt's other contexts according to the benefits council.\"",
+          "options": {
+            "A": "contract's essential validity",
+            "B": "contract's implied terms",
+            "C": "contract's final execution",
+            "D": "contract's mere existence"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "contract's mere existence",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 4,
+              "statement_index": 1,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": "But, in the amicus briefs, maybe -- you know, amicus briefs might\nengage in puffery, understandably.\nI mean, I understand that.\nI'm not saying understandably.\n(Laughter.)\nBut they're painting a pretty bleak picture, the American Benefits\nCouncil, the universities who are saying this is a huge problem for the\nuniversities.\nThis expanded litigation threat would be near limitless because every\ncollege and university relies on third -party service providers.\nAnd because the contract's mere existence, mere existence, would be\nenough to force these defendants to proceed through expensive\ndiscovery, it risks opening the floodgates to burdensome --right? And\nthen they say, rightly, the burden of these suits takes away money from\nsomewhere.\nSo that's just in one context.\nIt's other contexts according to the benefits council."
+            },
+            "explanation": "This phrase raises questions about the legal implications of contracts in litigation, specifically how the existence of a contract can trigger legal obligations and liabilities."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"But, in the amicus briefs, maybe -- you know, amicus briefs might\nengage in puffery, understandably.\nI mean, I understand that.\nI'm not saying understandably.\n(Laughter.)\nBut they're painting a pretty bleak picture, the American Benefits\nCouncil, the universities who are saying this is a huge problem for the\nuniversities.\nThis expanded litigation threat would be near limitless because every\ncollege and university relies on third -party service providers.\nAnd because the contract's mere existence, mere existence, would be\nenough to force these defendants to proceed through expensive\ndiscovery, it risks opening the __________________ --right? And\nthen they say, rightly, the burden of these suits takes away money from\nsomewhere.\nSo that's just in one context.\nIt's other contexts according to the benefits council.\"",
+          "options": {
+            "A": "floodgates to liability",
+            "B": "floodgates to exceptions",
+            "C": "floodgates to burdensome",
+            "D": "floodgates to negligence"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "floodgates to burdensome",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 4,
+              "statement_index": 1,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": "But, in the amicus briefs, maybe -- you know, amicus briefs might\nengage in puffery, understandably.\nI mean, I understand that.\nI'm not saying understandably.\n(Laughter.)\nBut they're painting a pretty bleak picture, the American Benefits\nCouncil, the universities who are saying this is a huge problem for the\nuniversities.\nThis expanded litigation threat would be near limitless because every\ncollege and university relies on third -party service providers.\nAnd because the contract's mere existence, mere existence, would be\nenough to force these defendants to proceed through expensive\ndiscovery, it risks opening the floodgates to burdensome --right? And\nthen they say, rightly, the burden of these suits takes away money from\nsomewhere.\nSo that's just in one context.\nIt's other contexts according to the benefits council."
+            },
+            "explanation": "This phrase reflects a judicial concern about the potential for overwhelming litigation as a result of a ruling, which requires an understanding of the 'floodgate' principle in legal contexts."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"And maybe they're all wrong, but, you know, ________________________. I listened\nto what they say and want to at least get your response.\"",
+          "options": {
+            "A": "I make it serious",
+            "B": "I take it lightly",
+            "C": "I treat it seriously",
+            "D": "I take it seriously"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "I take it seriously",
+            "category": "other",
+            "difficulty": "medium",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 4,
+              "statement_index": 2,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": "And maybe they're all wrong, but, you know, I take it seriously. I listened\nto what they say and want to at least get your response."
+            },
+            "explanation": "This phrase reflects the justice's commitment to considering the arguments presented, indicating the importance of judicial attentiveness in legal reasoning."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"And maybe they're all wrong, but, you know, I take it seriously. I listened\nto what they say and __________________________________________.\"",
+          "options": {
+            "A": "want to at least get your response",
+            "B": "want to know if you agree fully",
+            "C": "want to ensure we receive your feedback",
+            "D": "want to finally hear your full response"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "want to at least get your response",
+            "category": "other",
+            "difficulty": "medium",
+            "word_count": 7,
+            "context_info": {
+              "conversation_id": 4,
+              "statement_index": 2,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": "And maybe they're all wrong, but, you know, I take it seriously. I listened\nto what they say and want to at least get your response."
+            },
+            "explanation": "This phrase illustrates the justice's intent to elicit further clarification or rebuttal from counsel, emphasizing the interactive nature of judicial inquiry."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 5,
+      "dialogue": "Justice Alito",
+      "questions": []
+    },
+    {
+      "conversation_id": 6,
+      "dialogue": "Justice Jackson",
+      "questions": []
+    },
+    {
+      "conversation_id": 7,
+      "dialogue": "Justice Alito\n### Justice Alito:\nyou're going to win on your formal argument. These are exceptions, and\nexceptions are usually affirmative defenses.\nAnd, you know, we could write an opinion that says that, end of case. It\ncould be a nice, short opinion.\nBut it really does seem to close its eyes to the reality of what's going on,\nand that's what I'd really like you to address.\nEvery -- every --I don't know why this would be confined to\nuniversities, but all sorts of employee -- employers with defined\ncontribution plans offer the employees a menu of funds in which they\ncan invest.\nAnd so every -- every employer who does -- and -- and there's -- there\nare always going to be recordkeeping expenses relating to these funds.\nAnd I don't know whether it would be possible, realistic, reasonable for\nCornell or any other employer to do the recordkeeping for --for Fidelity\nand for TIAA.\nThey have -- these are their funds. They're going to do the\nrecordkeeping for it.\nSo all you need to do in your submission is plead something that is\nperfectly innocuous in and of itself.\nNow maybe the fees are too high.\nMaybe they're not.\nThat's a different question.\nBut all you need to do is plead something that seems to be on the\nsurface completely innocuous.\nThat's enough to get you beyond the motion to dismiss.\nAnd then, you know, how many -- how many lawsuits just like this one\ndid the Schlichter Bogard law firm in St. Louis file against universities?\n### Xiao Wang:\nWell -- well, Justice Alito, let me try to unpack that.\n### Justice Alito:\nWell, answer the second question first.\n### Xiao Wang:\nAs to how many lawsuits were filed?\n### Justice Alito:\nYeah.\nHow many lawsuits just like this did that law firm file against different\nuniversities?\n### Xiao Wang:\nI -- I think it's filed a significant number.\nI don't have the specific number off the top of my head, but I would say\nthat --12, excuse me, and -- but I -- I would say, in the complaint itself\n### Justice Alito:\nI --I thought it was 20, but it doesn't matter.\nSo, you know, you file all these lawsuits, and maybe the universities are\ngoing to say: Look, it's going to cost us a lot of money to go through the\ndiscovery, we're just going to settle.\nAnd so there's a payday for the law firm.\n### Xiao Wang:\nCert -- cert -- certainly,\n### Justice Alito:\n.\nWell, I -- I think, first of all, in the amended complaint, we point out that\nnot every university is subject to suit.\nThere are examples, such as Loyola Marymount, California Insti tute of\nTechnology, Purdue, that have, in fact, I think, consolidated to a single\nrecordkeeper of -- had the recordkeeping fees below or at the industry\nbenchmark.\nThat's not the case here.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"you're going to win on your formal argument. These are exceptions, and\n______________________________.\nAnd, you know, we could write an opinion that says that, end of case. It\ncould be a nice, short opinion.\nBut it really does seem to close its eyes to the reality of what's going on,\nand that's what I'd really like you to address.\nEvery -- every --I don't know why this would be confined to\nuniversities, but all sorts of employee -- employers with defined\ncontribution plans offer the employees a menu of funds in which they\ncan invest.\nAnd so every -- every employer who does -- and -- and there's -- there\nare always going to be recordkeeping expenses relating to these funds.\nAnd I don't know whether it would be possible, realistic, reasonable for\nCornell or any other employer to do the recordkeeping for --for Fidelity\nand for TIAA.\nThey have -- these are their funds. They're going to do the\nrecordkeeping for it.\nSo all you need to do in your submission is plead something that is\nperfectly innocuous in and of itself.\nNow maybe the fees are too high.\nMaybe they're not.\nThat's a different question.\nBut all you need to do is plead something that seems to be on the\nsurface completely innocuous.\nThat's enough to get you beyond the motion to dismiss.\nAnd then, you know, how many -- how many lawsuits just like this one\ndid the Schlichter Bogard law firm in St. Louis file against universities?\"",
+          "options": {
+            "A": "exceptions are often affirmative standards",
+            "B": "exceptions are usually affirmative defenses",
+            "C": "exceptions are generally affirmative liabilities",
+            "D": "exceptions are typically affirmative claims"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "exceptions are usually affirmative defenses",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 7,
+              "statement_index": 1,
+              "speaker": "Justice Alito",
+              "original_statement": "you're going to win on your formal argument. These are exceptions, and\nexceptions are usually affirmative defenses.\nAnd, you know, we could write an opinion that says that, end of case. It\ncould be a nice, short opinion.\nBut it really does seem to close its eyes to the reality of what's going on,\nand that's what I'd really like you to address.\nEvery -- every --I don't know why this would be confined to\nuniversities, but all sorts of employee -- employers with defined\ncontribution plans offer the employees a menu of funds in which they\ncan invest.\nAnd so every -- every employer who does -- and -- and there's -- there\nare always going to be recordkeeping expenses relating to these funds.\nAnd I don't know whether it would be possible, realistic, reasonable for\nCornell or any other employer to do the recordkeeping for --for Fidelity\nand for TIAA.\nThey have -- these are their funds. They're going to do the\nrecordkeeping for it.\nSo all you need to do in your submission is plead something that is\nperfectly innocuous in and of itself.\nNow maybe the fees are too high.\nMaybe they're not.\nThat's a different question.\nBut all you need to do is plead something that seems to be on the\nsurface completely innocuous.\nThat's enough to get you beyond the motion to dismiss.\nAnd then, you know, how many -- how many lawsuits just like this one\ndid the Schlichter Bogard law firm in St. Louis file against universities?"
+            },
+            "explanation": "This phrase highlights the judicial understanding of the role of exceptions in legal arguments, particularly how they function as affirmative defenses, which is crucial for analyzing liability in statutory contexts."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"you're going to win on your formal argument. These are exceptions, and\nexceptions are usually affirmative defenses.\nAnd, you know, we could write an opinion that says that, end of case. It\ncould be a nice, short opinion.\nBut it really does seem to ____________________________________________________________,\nand that's what I'd really like you to address.\nEvery -- every --I don't know why this would be confined to\nuniversities, but all sorts of employee -- employers with defined\ncontribution plans offer the employees a menu of funds in which they\ncan invest.\nAnd so every -- every employer who does -- and -- and there's -- there\nare always going to be recordkeeping expenses relating to these funds.\nAnd I don't know whether it would be possible, realistic, reasonable for\nCornell or any other employer to do the recordkeeping for --for Fidelity\nand for TIAA.\nThey have -- these are their funds. They're going to do the\nrecordkeeping for it.\nSo all you need to do in your submission is plead something that is\nperfectly innocuous in and of itself.\nNow maybe the fees are too high.\nMaybe they're not.\nThat's a different question.\nBut all you need to do is plead something that seems to be on the\nsurface completely innocuous.\nThat's enough to get you beyond the motion to dismiss.\nAnd then, you know, how many -- how many lawsuits just like this one\ndid the Schlichter Bogard law firm in St. Louis file against universities?\"",
+          "options": {
+            "A": "close its ears to the truth of what is happening",
+            "B": "close its eyes to the reality of what's going on",
+            "C": "shut its eyes to the facts of what is occurring",
+            "D": "ignore its vision of the evidence in this case"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "close its eyes to the reality of what's going on",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 10,
+            "context_info": {
+              "conversation_id": 7,
+              "statement_index": 1,
+              "speaker": "Justice Alito",
+              "original_statement": "you're going to win on your formal argument. These are exceptions, and\nexceptions are usually affirmative defenses.\nAnd, you know, we could write an opinion that says that, end of case. It\ncould be a nice, short opinion.\nBut it really does seem to close its eyes to the reality of what's going on,\nand that's what I'd really like you to address.\nEvery -- every --I don't know why this would be confined to\nuniversities, but all sorts of employee -- employers with defined\ncontribution plans offer the employees a menu of funds in which they\ncan invest.\nAnd so every -- every employer who does -- and -- and there's -- there\nare always going to be recordkeeping expenses relating to these funds.\nAnd I don't know whether it would be possible, realistic, reasonable for\nCornell or any other employer to do the recordkeeping for --for Fidelity\nand for TIAA.\nThey have -- these are their funds. They're going to do the\nrecordkeeping for it.\nSo all you need to do in your submission is plead something that is\nperfectly innocuous in and of itself.\nNow maybe the fees are too high.\nMaybe they're not.\nThat's a different question.\nBut all you need to do is plead something that seems to be on the\nsurface completely innocuous.\nThat's enough to get you beyond the motion to dismiss.\nAnd then, you know, how many -- how many lawsuits just like this one\ndid the Schlichter Bogard law firm in St. Louis file against universities?"
+            },
+            "explanation": "This phrase reflects a judicial critique of a legal argument that may overlook practical implications, emphasizing the importance of considering the factual context in legal reasoning."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"you're going to win on your formal argument. These are exceptions, and\nexceptions are usually affirmative defenses.\nAnd, you know, we could write an opinion that says that, end of case. It\ncould be a nice, short opinion.\nBut it really does seem to close its eyes to the reality of what's going on,\nand that's what I'd really like you to address.\nEvery -- every --I don't know why this would be confined to\nuniversities, but all sorts of employee -- employers with defined\ncontribution plans offer the employees a menu of funds in which they\ncan invest.\nAnd so every -- every employer who does -- and -- and there's -- there\nare always going to be recordkeeping expenses relating to these funds.\nAnd I don't know whether it would be possible, realistic, reasonable for\nCornell or any other employer to do the recordkeeping for --for Fidelity\nand for TIAA.\nThey have -- these are their funds. They're going to do the\nrecordkeeping for it.\nSo all you need to do in your submission is plead something that is\nperfectly innocuous in and of itself.\nNow maybe the fees are too high.\nMaybe they're not.\nThat's a different question.\nBut all you need to do is plead something that seems to be on the\nsurface completely innocuous.\nThat's enough to get you ______________________________.\nAnd then, you know, how many -- how many lawsuits just like this one\ndid the Schlichter Bogard law firm in St. Louis file against universities?\"",
+          "options": {
+            "A": "prior to the motion dismiss",
+            "B": "before the motion to dismiss",
+            "C": "beyond the motion to dismiss",
+            "D": "after the motion to dismiss"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "beyond the motion to dismiss",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 7,
+              "statement_index": 1,
+              "speaker": "Justice Alito",
+              "original_statement": "you're going to win on your formal argument. These are exceptions, and\nexceptions are usually affirmative defenses.\nAnd, you know, we could write an opinion that says that, end of case. It\ncould be a nice, short opinion.\nBut it really does seem to close its eyes to the reality of what's going on,\nand that's what I'd really like you to address.\nEvery -- every --I don't know why this would be confined to\nuniversities, but all sorts of employee -- employers with defined\ncontribution plans offer the employees a menu of funds in which they\ncan invest.\nAnd so every -- every employer who does -- and -- and there's -- there\nare always going to be recordkeeping expenses relating to these funds.\nAnd I don't know whether it would be possible, realistic, reasonable for\nCornell or any other employer to do the recordkeeping for --for Fidelity\nand for TIAA.\nThey have -- these are their funds. They're going to do the\nrecordkeeping for it.\nSo all you need to do in your submission is plead something that is\nperfectly innocuous in and of itself.\nNow maybe the fees are too high.\nMaybe they're not.\nThat's a different question.\nBut all you need to do is plead something that seems to be on the\nsurface completely innocuous.\nThat's enough to get you beyond the motion to dismiss.\nAnd then, you know, how many -- how many lawsuits just like this one\ndid the Schlichter Bogard law firm in St. Louis file against universities?"
+            },
+            "explanation": "This phrase pertains to the procedural stage in litigation where a plaintiff must survive a motion to dismiss, which is critical for understanding the thresholds for legal claims."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"you're going to win on your formal argument. These are exceptions, and\nexceptions are usually affirmative defenses.\nAnd, you know, we could write an opinion that says that, end of case. It\ncould be a nice, short opinion.\nBut it really does seem to close its eyes to the reality of what's going on,\nand that's what I'd really like you to address.\nEvery -- every --I don't know why this would be confined to\nuniversities, but all sorts of employee -- employers with defined\ncontribution plans offer the employees a menu of funds in which they\ncan invest.\nAnd so every -- every employer who does -- and -- and there's -- there\nare always going to be ____________________________________.\nAnd I don't know whether it would be possible, realistic, reasonable for\nCornell or any other employer to do the recordkeeping for --for Fidelity\nand for TIAA.\nThey have -- these are their funds. They're going to do the\nrecordkeeping for it.\nSo all you need to do in your submission is plead something that is\nperfectly innocuous in and of itself.\nNow maybe the fees are too high.\nMaybe they're not.\nThat's a different question.\nBut all you need to do is plead something that seems to be on the\nsurface completely innocuous.\nThat's enough to get you beyond the motion to dismiss.\nAnd then, you know, how many -- how many lawsuits just like this one\ndid the Schlichter Bogard law firm in St. Louis file against universities?\"",
+          "options": {
+            "A": "recordkeeping expenses relating to these funds",
+            "B": "recordkeeping fees pertaining to those accounts",
+            "C": "recordkeeping expenditures regarding these investments",
+            "D": "recordkeeping costs associated with these funds"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "recordkeeping expenses relating to these funds",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 7,
+              "statement_index": 1,
+              "speaker": "Justice Alito",
+              "original_statement": "you're going to win on your formal argument. These are exceptions, and\nexceptions are usually affirmative defenses.\nAnd, you know, we could write an opinion that says that, end of case. It\ncould be a nice, short opinion.\nBut it really does seem to close its eyes to the reality of what's going on,\nand that's what I'd really like you to address.\nEvery -- every --I don't know why this would be confined to\nuniversities, but all sorts of employee -- employers with defined\ncontribution plans offer the employees a menu of funds in which they\ncan invest.\nAnd so every -- every employer who does -- and -- and there's -- there\nare always going to be recordkeeping expenses relating to these funds.\nAnd I don't know whether it would be possible, realistic, reasonable for\nCornell or any other employer to do the recordkeeping for --for Fidelity\nand for TIAA.\nThey have -- these are their funds. They're going to do the\nrecordkeeping for it.\nSo all you need to do in your submission is plead something that is\nperfectly innocuous in and of itself.\nNow maybe the fees are too high.\nMaybe they're not.\nThat's a different question.\nBut all you need to do is plead something that seems to be on the\nsurface completely innocuous.\nThat's enough to get you beyond the motion to dismiss.\nAnd then, you know, how many -- how many lawsuits just like this one\ndid the Schlichter Bogard law firm in St. Louis file against universities?"
+            },
+            "explanation": "This phrase points to the financial implications of fiduciary duties under ERISA, which is essential for understanding the statutory obligations of employers in managing employee benefit plans."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Yeah.\nHow many ________________________ did that law firm file against different\nuniversities?\"",
+          "options": {
+            "A": "lawsuits just like this",
+            "B": "lawsuits not like this",
+            "C": "lawsuits unlike this one",
+            "D": "lawsuits similar to these"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "lawsuits just like this",
+            "category": "other",
+            "difficulty": "medium",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 7,
+              "statement_index": 2,
+              "speaker": "Justice Alito",
+              "original_statement": "Yeah.\nHow many lawsuits just like this did that law firm file against different\nuniversities?"
+            },
+            "explanation": "This phrase prompts an inquiry into the prevalence and pattern of litigation related to the case at hand, testing the understanding of legal trends and the implications of similar cases."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"I --I thought it was 20, but it doesn't matter.\nSo, you know, you file all these lawsuits, and maybe the universities are\ngoing to say: Look, it's going to ____________________________________ to go through the\ndiscovery, we're just going to settle.\nAnd so there's a payday for the law firm.\"",
+          "options": {
+            "A": "cost us a considerable amount of",
+            "B": "cost us a lot of money",
+            "C": "cost us a significant amount of",
+            "D": "cost us a large sum of"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "cost us a lot of money",
+            "category": "other",
+            "difficulty": "medium",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 7,
+              "statement_index": 3,
+              "speaker": "Justice Alito",
+              "original_statement": "I --I thought it was 20, but it doesn't matter.\nSo, you know, you file all these lawsuits, and maybe the universities are\ngoing to say: Look, it's going to cost us a lot of money to go through the\ndiscovery, we're just going to settle.\nAnd so there's a payday for the law firm."
+            },
+            "explanation": "This phrase highlights the financial implications of litigation, which can influence judicial reasoning regarding settlement versus proceeding to discovery."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"I --I thought it was 20, but it doesn't matter.\nSo, you know, you file all these lawsuits, and maybe the universities are\ngoing to say: Look, it's going to cost us a lot of money to go through the\ndiscovery, we're just going to settle.\nAnd so there's a ______________________________.\"",
+          "options": {
+            "A": "payment for the law firm",
+            "B": "payday for the law firm",
+            "C": "settlement for the law firm",
+            "D": "compensation for the law firm"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "payday for the law firm",
+            "category": "other",
+            "difficulty": "medium",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 7,
+              "statement_index": 3,
+              "speaker": "Justice Alito",
+              "original_statement": "I --I thought it was 20, but it doesn't matter.\nSo, you know, you file all these lawsuits, and maybe the universities are\ngoing to say: Look, it's going to cost us a lot of money to go through the\ndiscovery, we're just going to settle.\nAnd so there's a payday for the law firm."
+            },
+            "explanation": "This phrase underscores the economic motivations behind legal actions, prompting consideration of the ethical implications of litigation strategies."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"I --I thought it was 20, but it doesn't matter.\nSo, you know, you ________________________, and maybe the universities are\ngoing to say: Look, it's going to cost us a lot of money to go through the\ndiscovery, we're just going to settle.\nAnd so there's a payday for the law firm.\"",
+          "options": {
+            "A": "dismiss all these lawsuits",
+            "B": "settle all these claims",
+            "C": "file none of these",
+            "D": "file all these lawsuits"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "file all these lawsuits",
+            "category": "other",
+            "difficulty": "medium",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 7,
+              "statement_index": 3,
+              "speaker": "Justice Alito",
+              "original_statement": "I --I thought it was 20, but it doesn't matter.\nSo, you know, you file all these lawsuits, and maybe the universities are\ngoing to say: Look, it's going to cost us a lot of money to go through the\ndiscovery, we're just going to settle.\nAnd so there's a payday for the law firm."
+            },
+            "explanation": "This phrase reflects the broader context of litigation strategy and the potential for abuse of the legal system through excessive filings."
+          }
+        },
+        {
+          "question": "Fill in the blank: \".\nWell, I -- I think, first of all, in the amended complaint, we point out that\n__________________________________________.\nThere are examples, such as Loyola Marymount, California Insti tute of\nTechnology, Purdue, that have, in fact, I think, consolidated to a single\nrecordkeeper of -- had the recordkeeping fees below or at the industry\nbenchmark.\nThat's not the case here.\"",
+          "options": {
+            "A": "not every college is liable for claims",
+            "B": "not every university is subject to suit",
+            "C": "not every institution is exempt from litigation",
+            "D": "not all universities are immune from suit"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "not every university is subject to suit",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 7,
+            "context_info": {
+              "conversation_id": 7,
+              "statement_index": 4,
+              "speaker": "Justice Alito",
+              "original_statement": ".\nWell, I -- I think, first of all, in the amended complaint, we point out that\nnot every university is subject to suit.\nThere are examples, such as Loyola Marymount, California Insti tute of\nTechnology, Purdue, that have, in fact, I think, consolidated to a single\nrecordkeeper of -- had the recordkeeping fees below or at the industry\nbenchmark.\nThat's not the case here."
+            },
+            "explanation": "This phrase highlights the legal principle of sovereign immunity and the specific circumstances under which certain institutions may be exempt from litigation."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 8,
+      "dialogue": "Justice Jackson",
+      "questions": []
+    },
+    {
+      "conversation_id": 9,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nLet me ask you this, counsel.\nSo you have a complaint.\nYou've got to file it.\nAnd my colleagues make a very good point about how it can be easy to\novercome a motion to dismiss.\nBut, if you're --if you're referencing a contract in a complaint, there's a\nlot of case law out there that allows district courts to review the\ncontract, and perhaps, with the full contract before it, it could as a\nmatter of law find that the affirmative defenses apply.\nWould you agree with that?\n### Justice Gorsuch:\nOkay.\nAnd then there's also a lot of case law that says that a -- a district court\ncan convert a 12(b)(6) into a summary judgment when defendants\nrequest it at the outset of a case in appropriate circumstances.\nWould you agree that that would be appropriate in some cases too?\n### Xiao Wang:\nI think that would be appropriate.\nThat's within a district court's discretion.\n### Justice Gorsuch:\nThank you.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 10,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nI --I just wanted to ask you: So, you know, obviously, there's some\nconcern about why on earth Congress would have structured it that way.\nDo you want to address that?\n### Xiao Wang:\nYes, certainly, Justice Barrett.\nI think it was because pre-ERISA --as Keystone Consolidated points\nout, pre-ERISA, the standard was the arm's -length standard of\nconduct.\nBut that proved difficult to police. It led to a rife of abuses.\nAbuses were pervasive.\nAnd so I think Congress wanted to prescribe these simple and\ncategorical and straightforward rules and prohibitions that provide\nplaintiffs a cause of action and recognize the information asymmetry\nbetween the fiduciary and their beneficiary.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"I --I just wanted to ask you: So, you know, obviously, there's some\nconcern about ____________________________________________________________.\nDo you want to address that?\"",
+          "options": {
+            "A": "why on earth Congress would have interpreted it that way",
+            "B": "why on earth Congress would have structured it that way",
+            "C": "why on earth Congress would have enforced it that way",
+            "D": "why on earth Congress would have enacted it that way"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "why on earth Congress would have structured it that way",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 10,
+            "context_info": {
+              "conversation_id": 10,
+              "statement_index": 1,
+              "speaker": "Justice Barrett",
+              "original_statement": "I --I just wanted to ask you: So, you know, obviously, there's some\nconcern about why on earth Congress would have structured it that way.\nDo you want to address that?"
+            },
+            "explanation": "This phrase challenges the understanding of legislative intent and the implications of statutory structure, requiring a deep analysis of how Congress formulates laws and the rationale behind specific provisions."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"I --I just wanted to ask you: So, you know, obviously, there's some\n____________________________________________________________ that way.\nDo you want to address that?\"",
+          "options": {
+            "A": "doubt about how Congress could have structured this legislation properly",
+            "B": "question about why on earth Congress would structure these rules",
+            "C": "concern about why on earth Congress would have structured it",
+            "D": "concern regarding how Congress might have structured these provisions"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "concern about why on earth Congress would have structured it",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 10,
+            "context_info": {
+              "conversation_id": 10,
+              "statement_index": 1,
+              "speaker": "Justice Barrett",
+              "original_statement": "I --I just wanted to ask you: So, you know, obviously, there's some\nconcern about why on earth Congress would have structured it that way.\nDo you want to address that?"
+            },
+            "explanation": "This phrase probes the judicial inquiry into the legislative process and the potential implications of statutory design, necessitating an understanding of how courts interpret legislative frameworks."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 11,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nSorry.\nKeep going.\n### Xiao Wang:\nSorry.\nI think this is just one example of that. As we point out, even with\nrespect to the specific exemption at issue here, 1108(b)(2), (b)(2)\nincludes another provision, (b)(2)(B), which specifically says and\ncontemplates that information regarding compensation regarding a\nnecessary arrangement goes from the party in interest to the fiduciary.\nIt never goes to the beneficiary.\n### Justice Jackson:\nMr. Wang, following up on",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 12,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\n's points, is there anything in\nthis statute or in the rules that would prevent a defendant in one of\nthese cases from seeking an expedited summary judgment ruling from\nthe court?\n### Xiao Wang:\nNo, there would -- there -- there would not be,",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 13,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\n.\nSo the --so the university or whoever could simply respond: No, we\nreally do have reasonable fees, attach some documents, and that could\nbe the end of the case.\nWe're not necessarily talking about the kind of case that would go on\nand on and be a big expense like that.\n### Xiao Wang:\nCertainly, certainly, that's -- that's correct,\n### Justice Jackson:\n.\nI think district courts have the discretion to have limited discovery, to\norder an expedited motion for summary judgment.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 14,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nCan they do that with no discovery?\n### Justice Kavanaugh:\nCan they do that with no discovery?\n### Xiao Wang:\nI think that would be a harder call,",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 15,
+      "dialogue": "Justice Jackson\n### Xiao Wang:\nCorrect.\n### Justice Jackson:\nrolling by moving for summary judgment to include documents that\nwould prove that it's reasonable and necessary, correct ?\n### Xiao Wang:\nEntirely correct. And,",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 16,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\n, if I can just respond to your\nquestion about why doing it with no discovery may not be appropriate in\nthis particular case.\nBecause, in this particular case, what the Second Circuit faulted\nPetitioners for being unable to do was to show how services rendered\ncorresponded with fees and how -- how you could benchmark one with\nthe other.\nAnd I think that it's reasonable to say: Well, if you're going to ask that\nquestion, at least give us the contract.\nGive us the contract so we can understand what -- what fees and what\nservices were available.\nAnd that's not turned over prior to discovery.\nThat's something the defendants routinely do not turn over.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \", if I can just respond to your\nquestion about why doing it with no discovery may not be appropriate in\nthis particular case.\nBecause, in this particular case, what the Second Circuit faulted\nPetitioners for being unable to do was to show how services rendered\ncorresponded with fees and how -- how you could benchmark one with\nthe other.\nAnd I think that it's reasonable to say: Well, if you're going to ask that\nquestion, at least ________________________.\nGive us the contract so we can understand what -- what fees and what\nservices were available.\nAnd that's not turned over prior to discovery.\nThat's something the defendants routinely do not turn over.\"",
+          "options": {
+            "A": "supply us the document",
+            "B": "provide us the agreement",
+            "C": "give us the contract",
+            "D": "deliver us the contract"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "give us the contract",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 16,
+              "statement_index": 1,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": ", if I can just respond to your\nquestion about why doing it with no discovery may not be appropriate in\nthis particular case.\nBecause, in this particular case, what the Second Circuit faulted\nPetitioners for being unable to do was to show how services rendered\ncorresponded with fees and how -- how you could benchmark one with\nthe other.\nAnd I think that it's reasonable to say: Well, if you're going to ask that\nquestion, at least give us the contract.\nGive us the contract so we can understand what -- what fees and what\nservices were available.\nAnd that's not turned over prior to discovery.\nThat's something the defendants routinely do not turn over."
+            },
+            "explanation": "This phrase underscores the importance of contractual evidence in legal proceedings, reflecting the judicial expectation for transparency and the provision of relevant documents prior to discovery."
+          }
+        },
+        {
+          "question": "Fill in the blank: \", if I can just respond to your\nquestion about why doing it with no discovery may not be appropriate in\nthis particular case.\nBecause, in this particular case, what the Second Circuit faulted\nPetitioners for being unable to do was to show how services rendered\ncorresponded with fees and how -- how you could benchmark one with\nthe other.\nAnd I think that it's reasonable to say: Well, if you're going to ask that\nquestion, at least give us the contract.\nGive us the contract so we can understand what -- what fees and what\nservices were available.\nAnd that's ____________________________________.\nThat's something the defendants routinely do not turn over.\"",
+          "options": {
+            "A": "not disclosed until after the trial",
+            "B": "not revealed during the discovery phase",
+            "C": "not provided before the final judgment",
+            "D": "not turned over prior to discovery"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "not turned over prior to discovery",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 16,
+              "statement_index": 1,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": ", if I can just respond to your\nquestion about why doing it with no discovery may not be appropriate in\nthis particular case.\nBecause, in this particular case, what the Second Circuit faulted\nPetitioners for being unable to do was to show how services rendered\ncorresponded with fees and how -- how you could benchmark one with\nthe other.\nAnd I think that it's reasonable to say: Well, if you're going to ask that\nquestion, at least give us the contract.\nGive us the contract so we can understand what -- what fees and what\nservices were available.\nAnd that's not turned over prior to discovery.\nThat's something the defendants routinely do not turn over."
+            },
+            "explanation": "This phrase addresses procedural concerns regarding the timing of evidence disclosure, which is critical in understanding the discovery process and the obligations of parties in litigation."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 17,
+      "dialogue": "Justice Jackson",
+      "questions": []
+    },
+    {
+      "conversation_id": 18,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nOh, go ahead.",
+      "questions": []
+    },
+    {
+      "conversation_id": 19,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nSorry.",
+      "questions": []
+    },
+    {
+      "conversation_id": 20,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nKeep going.",
+      "questions": []
+    },
+    {
+      "conversation_id": 21,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nNo, I was just going to ask about the information asymmetry and those\nconcerns and also the sort of bigger structural concern.\nWe're focusing here on one type of transaction and one exemption, but,\nas I look at this statute, there are 21 separate exemptions in 1108(b).\nAnd I guess I'm trying to figure out if there's any principled basis for\nsaying the burdens are different here in this kind of service-provider\ncontract, but they would be -- than they would be in -- with respect to\nother exemptions.\nDo you understand what I'm saying?\n### Xiao Wang:\nYes, yes, Justice.\n### Justice Jackson:\nWouldn't we have to -- wouldn't we have to have a consistent rule\nabout whether the plaintiffs bear the burden or the defendants bear the\nburden of provi ng exemptions?\n### Xiao Wang:\nEntirely so, Justice Jackson.\nI --I entirely agree.\nAnd I think that this statute provides the reason why, which is to say:\nLook, there is information asymmetry.\nThe information asymmetry might be lessened as to some exemptions,\nmaybe (b)(2), maybe (b)(1), but there -- it --it does exist. And given the\n### Justice Jackson:\nAnd some of the exemptions, I mean, it would be really, really hard for us\nto determine that the plaintiff has to plead them because they don't\nhave the information, correct?\n### Xiao Wang:\nCorrect.\nExactly so. Correct.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"No, I was just going to ask about the ____________ and those\nconcerns and also the sort of bigger structural concern.\nWe're focusing here on one type of transaction and one exemption, but,\nas I look at this statute, there are 21 separate exemptions in 1108(b).\nAnd I guess I'm trying to figure out if there's any principled basis for\nsaying the burdens are different here in this kind of service-provider\ncontract, but they would be -- than they would be in -- with respect to\nother exemptions.\nDo you understand what I'm saying?\"",
+          "options": {
+            "A": "data asymmetry",
+            "B": "knowledge imbalance",
+            "C": "information asymmetry",
+            "D": "information disparity"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "information asymmetry",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 21,
+              "statement_index": 1,
+              "speaker": "Justice Jackson",
+              "original_statement": "No, I was just going to ask about the information asymmetry and those\nconcerns and also the sort of bigger structural concern.\nWe're focusing here on one type of transaction and one exemption, but,\nas I look at this statute, there are 21 separate exemptions in 1108(b).\nAnd I guess I'm trying to figure out if there's any principled basis for\nsaying the burdens are different here in this kind of service-provider\ncontract, but they would be -- than they would be in -- with respect to\nother exemptions.\nDo you understand what I'm saying?"
+            },
+            "explanation": "This phrase highlights the judicial concern regarding the imbalance of information between parties, which is crucial in evaluating the fairness and legality of transactions under ERISA."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Wouldn't we have to -- wouldn't we have to have a ____________\nabout whether the plaintiffs bear the burden or the defendants bear the\nburden of provi ng exemptions?\"",
+          "options": {
+            "A": "constant principle",
+            "B": "concurrent rule",
+            "C": "consistent standard",
+            "D": "consistent rule"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "consistent rule",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 21,
+              "statement_index": 2,
+              "speaker": "Justice Jackson",
+              "original_statement": "Wouldn't we have to -- wouldn't we have to have a consistent rule\nabout whether the plaintiffs bear the burden or the defendants bear the\nburden of provi ng exemptions?"
+            },
+            "explanation": "This phrase highlights the necessity for uniformity in legal standards, which is crucial for judicial reasoning and the application of law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"And some of the exemptions, I mean, it would be really, really hard for us\nto determine that ____________________________________ because they don't\nhave the information, correct?\"",
+          "options": {
+            "A": "the plaintiff has to plead them",
+            "B": "the plaintiff must prove those exceptions",
+            "C": "the defendant must plead their exceptions",
+            "D": "the defendant has to plead them"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "the plaintiff has to plead them",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 21,
+              "statement_index": 3,
+              "speaker": "Justice Jackson",
+              "original_statement": "And some of the exemptions, I mean, it would be really, really hard for us\nto determine that the plaintiff has to plead them because they don't\nhave the information, correct?"
+            },
+            "explanation": "This phrase highlights the judicial inquiry into the burden of pleading, which is critical in understanding the procedural requirements for plaintiffs in civil litigation."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 22,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nWhat do you think of the government's point about --and this is\nfollowing up on Justice Gorsuch's suggestions -- the government's\npoint about Rule 7(a)(7) and that use? The Chamber's amicus brief says\neven the most ardent scholar of civil -- civil procedure has likely never\nheard of that, but it is cited in the government's brief as -- as a tool to\nmitigate the problems that have been identified.\nWhat do you think?\n### Xiao Wang:\nCertainly, Justice Kavanaugh.\nI think this goes to",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"What do you think of the government's point about --and this is\nfollowing up on Justice Gorsuch's suggestions -- the government's\npoint about ____________ and that use? The Chamber's amicus brief says\neven the most ardent scholar of civil -- civil procedure has likely never\nheard of that, but it is cited in the government's brief as -- as a tool to\nmitigate the problems that have been identified.\nWhat do you think?\"",
+          "options": {
+            "A": "Rule 7(a)(7)",
+            "B": "Rule 7(b)(6)",
+            "C": "Rule 8(a)(7)",
+            "D": "Rule 6(a)(8)"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "Rule 7(a)(7)",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 22,
+              "statement_index": 1,
+              "speaker": "Justice Kavanaugh",
+              "original_statement": "What do you think of the government's point about --and this is\nfollowing up on Justice Gorsuch's suggestions -- the government's\npoint about Rule 7(a)(7) and that use? The Chamber's amicus brief says\neven the most ardent scholar of civil -- civil procedure has likely never\nheard of that, but it is cited in the government's brief as -- as a tool to\nmitigate the problems that have been identified.\nWhat do you think?"
+            },
+            "explanation": "This phrase references a specific procedural rule that is crucial for understanding the context of the judicial inquiry regarding civil procedure."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 23,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\n's understanding that the district\ncourts can do a wide -- can have a wide variety of tools at their disposal.\nAnd I think Justice Jackson as well said perhaps it's limited discovery,\nperhaps it's an expedited motion for summary judgment, perhaps it is\nthis, according to the Chamber, arcane rule of civil procedure, or perhaps\nit is additional -- an additional sort of pleading.\nBut I think that these are all sorts of tools that are within a district cou\nrt's discretion given the complaint and the specific pleadings at issue\nand the circumstances between the parties.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 24,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nJustice Thomas?",
+      "questions": []
+    },
+    {
+      "conversation_id": 25,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nBefore Varity, were there any suits like this?\n### Xiao Wang:\nI am not aware of that -- of any suits like this.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 26,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nHow do the factors the Court emphasized in cases like Twombly and\nIqbal come into play here? We seem -- we were interested and did\nseriously tighten up the pleading standards there, and I wonder if that's\nsomething we should take into account in deciding how to allocate the -\n-the burden going forward here.\n### Xiao Wang:\nCertainly, Justice -- Chief\n### Chief Justice Roberts:\n.\nI think that the way that we would see it, if you will, is to imagine if you\nhave sort of three boxes of types of complaints.\nBox 1 is the bare-bones complaint that says: I'm going to sue you\nbecause you did recordkeeping. And Box 2 is, I think, something more\nlike what we see here, is to say: Look, I'm going to bring a suit because I\nsee that recordkeeping is tied to revenue sharing, and revenue sharing is\nitself tied to the investment management products that you offer, and\nyou happen to offer products that -- that promote your own services.\nThat -- that's Box 2. And then Box 3 is everything in Box 2, plus give us\nallegations as to the services and the fees and benchmarks then based\non information you don't know.\nI think what we would say --and I think this is -- this comes through in\nthe government's brief -- is that we would say that we don't see any in\nBox 1.\nWe don't see any cases in the Eighth and Ninth Circuit, and that is\nbecause of the guardrails that we talk about. But, if we were to start\nseeing them, I think, within the many tools in a district court's\ndiscretion, whether it's limited discovery, Iqbal and Twombly, Rule 7,\nthere's a number of ways to manage that litigation to make sure that\nBox 1 does not get out of hand.\nAnd if I could --I could briefly sort of respond to -- to one point that you\nmade in your --in your question,",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"How do the factors the Court emphasized in cases like Twombly and\nIqbal come into play here? We seem -- we were interested and did\nseriously tighten up the ____________ there, and I wonder if that's\nsomething we should take into account in deciding how to allocate the -\n-the burden going forward here.\"",
+          "options": {
+            "A": "pleading guidelines",
+            "B": "pleading thresholds",
+            "C": "pleading requirements",
+            "D": "pleading standards"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "pleading standards",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 26,
+              "statement_index": 1,
+              "speaker": "Chief Justice Roberts",
+              "original_statement": "How do the factors the Court emphasized in cases like Twombly and\nIqbal come into play here? We seem -- we were interested and did\nseriously tighten up the pleading standards there, and I wonder if that's\nsomething we should take into account in deciding how to allocate the -\n-the burden going forward here."
+            },
+            "explanation": "This phrase pertains to the legal requirements for how claims must be presented in court, which is crucial for understanding the procedural aspects of litigation."
+          }
+        },
+        {
+          "question": "Fill in the blank: \".\nI think that the way that we would see it, if you will, is to imagine if you\nhave sort of three boxes of types of complaints.\nBox 1 is the ____________ that says: I'm going to sue you\nbecause you did recordkeeping. And Box 2 is, I think, something more\nlike what we see here, is to say: Look, I'm going to bring a suit because I\nsee that recordkeeping is tied to revenue sharing, and revenue sharing is\nitself tied to the investment management products that you offer, and\nyou happen to offer products that -- that promote your own services.\nThat -- that's Box 2. And then Box 3 is everything in Box 2, plus give us\nallegations as to the services and the fees and benchmarks then based\non information you don't know.\nI think what we would say --and I think this is -- this comes through in\nthe government's brief -- is that we would say that we don't see any in\nBox 1.\nWe don't see any cases in the Eighth and Ninth Circuit, and that is\nbecause of the guardrails that we talk about. But, if we were to start\nseeing them, I think, within the many tools in a district court's\ndiscretion, whether it's limited discovery, Iqbal and Twombly, Rule 7,\nthere's a number of ways to manage that litigation to make sure that\nBox 1 does not get out of hand.\nAnd if I could --I could briefly sort of respond to -- to one point that you\nmade in your --in your question,\"",
+          "options": {
+            "A": "bare-minimum claim",
+            "B": "bare-bones motion",
+            "C": "bare-bones assertion",
+            "D": "bare-bones complaint"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "bare-bones complaint",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 26,
+              "statement_index": 2,
+              "speaker": "Chief Justice Roberts",
+              "original_statement": ".\nI think that the way that we would see it, if you will, is to imagine if you\nhave sort of three boxes of types of complaints.\nBox 1 is the bare-bones complaint that says: I'm going to sue you\nbecause you did recordkeeping. And Box 2 is, I think, something more\nlike what we see here, is to say: Look, I'm going to bring a suit because I\nsee that recordkeeping is tied to revenue sharing, and revenue sharing is\nitself tied to the investment management products that you offer, and\nyou happen to offer products that -- that promote your own services.\nThat -- that's Box 2. And then Box 3 is everything in Box 2, plus give us\nallegations as to the services and the fees and benchmarks then based\non information you don't know.\nI think what we would say --and I think this is -- this comes through in\nthe government's brief -- is that we would say that we don't see any in\nBox 1.\nWe don't see any cases in the Eighth and Ninth Circuit, and that is\nbecause of the guardrails that we talk about. But, if we were to start\nseeing them, I think, within the many tools in a district court's\ndiscretion, whether it's limited discovery, Iqbal and Twombly, Rule 7,\nthere's a number of ways to manage that litigation to make sure that\nBox 1 does not get out of hand.\nAnd if I could --I could briefly sort of respond to -- to one point that you\nmade in your --in your question,"
+            },
+            "explanation": "This phrase highlights a fundamental type of legal pleading that lacks sufficient detail, testing the student's understanding of the requirements for a valid complaint."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 27,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\n.\nI would say that before Varity, I think Congress was nonetheless\nnecessarily just a service provider transaction but I think more broadly\nas regarding the parties in interest, which is a fiduciary's relative, a\nofficer, an owner, and it combined this corpus and said, look, these are\nprohibited.\nAnd I think those types of lawsuits -- I don't have a specific number off\nmy top of my head --but could have happened pre-and post-Varity.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 28,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Alito, anything further?",
+      "questions": []
+    },
+    {
+      "conversation_id": 29,
+      "dialogue": "Justice Alito\n### Justice Alito:\nYeah.\nWhat are the guardrails that you think are in play here?\n### Xiao Wang:\nCertainly.\nAs we point out, I think there are a few.\nOne --one is simply the expense of litigating one of these and bringing\none of these cases.\nSome more formal guardrails include fee shifting, standing, sanctions.\nSo -- so those that w e outline in our -- in our briefing all provide, I\nbelieve, a -- various deterrent mechanisms to the bare-bones\nallegation that -- that I think the Court has expressed some concerns\nabout.\n### Justice Alito:\nSo Rule 11 is one. Standing is another one.\nWhat do you think you have to plead to establish standing? Do you have\nto plead anything more than that I am -- I am being charged for\nrecordkeeping services? Do you think you have to prove that the charge\nis excessive or do you -- in order to have standing at the pleading stage?\n### Xiao Wang:\nWell, Justice Alito, I think that that's a little bit of an open question after\nthis Court's decision in Thole. Certainly, I think, with Thole, perhaps one\ntake-away is that, yes, you would have to show, because simply\nshowing record -- simply alleging recordkeeping would be pleading an\ninjury at law and rather than injury at fact.\n### Justice Alito:\nSo all you have to plead -- you have to plead I was charged too much,\nand that's -- that's enough to establish standing?\n### Xiao Wang:\nI think, in the appropriate case, yes.\nHowever, I think that, again, this goes back to --to -- to the other\nguardrails that might be there, which are fee shifting and -- and -- and\nquestions about the -- the -- sort of the expense of even bringing one\nof these cases.\nSo -- so I think these all work together to explain why, in the Eighth\nCircuit and the Ninth Circuit, we don't see cases that have these sort of\nbare-bones threshold complaints.\n### Justice Alito:\nAnd what do you think about the procedure that the Solicitor General\nrecommended involving Civil --Rule of Civil Procedure 7?\n### Justice Alito:\nIs that -- do you think that's a possible -- that that is something we\nshould say is a --is a good practice?\n### Xiao Wang:\nI think that that is one of several options that would be available to a\ndistrict court to address perhaps these concerns over a bare-bones\ncomplaint.\n### Justice Alito:\nA district court could do that? A district court could say, after the answer\nis filed, I want a reply, and then rule on whether it can be determined\nbased on the pleadings if the defendant is entitled to judgment on the\npleadings?\n### Xiao Wang:\nCertainly, Your Honor.\nI think that's how we would see it.\nOf course, a district court could have other options available to it, such\nas limited discovery or an expedited summary judgment motion, as\nwell.\n### Justice Alito:\nDo you think that that's -- that should be mandatory for the district\ncourt to go through that -- well, I'll ask the Solicitor General that.\nI have no more questions.\nThank you.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"So Rule 11 is one. Standing is another one.\nWhat do you think you have to plead to ____________? Do you have\nto plead anything more than that I am -- I am being charged for\nrecordkeeping services? Do you think you have to prove that the charge\nis excessive or do you -- in order to have standing at the pleading stage?\"",
+          "options": {
+            "A": "assert standing",
+            "B": "demonstrate standing",
+            "C": "confirm standing",
+            "D": "establish standing"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "establish standing",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 29,
+              "statement_index": 1,
+              "speaker": "Justice Alito",
+              "original_statement": "So Rule 11 is one. Standing is another one.\nWhat do you think you have to plead to establish standing? Do you have\nto plead anything more than that I am -- I am being charged for\nrecordkeeping services? Do you think you have to prove that the charge\nis excessive or do you -- in order to have standing at the pleading stage?"
+            },
+            "explanation": "This phrase requires a deep understanding of the legal requirements for standing, which is a fundamental concept in constitutional law that determines whether a party has the right to bring a lawsuit."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"So all you have to plead -- you have to plead I was charged too much,\nand that's -- that's enough to ____________?\"",
+          "options": {
+            "A": "assert standing",
+            "B": "confirm standing",
+            "C": "demonstrate standing",
+            "D": "establish standing"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "establish standing",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 29,
+              "statement_index": 2,
+              "speaker": "Justice Alito",
+              "original_statement": "So all you have to plead -- you have to plead I was charged too much,\nand that's -- that's enough to establish standing?"
+            },
+            "explanation": "This phrase reveals important judicial reasoning regarding the requirements for a party to demonstrate standing in a legal case, which is a fundamental concept in constitutional law."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 30,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Sotomayor?",
+      "questions": []
+    },
+    {
+      "conversation_id": 31,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nI do.\nThis isn't that easy a case in my mind.\nYou're right about the general rules we've set, but this statute is slightly\ndifferent because many of the cases that we've seen before, the\nprohibitions were on one page and the exemptions were in a different\nsection, but the prohibition didn't reference the exceptions the way this\nstatute does.\nIt says, except for the exemptions in 1108, you can't do the following.\nOn the other hand, there's 21 exemptions within 1108, but I also\nunderstand there's dozens, if not a hundred more, that have been\npassed by the Department of Labor.\nAnd if we accept the other side's position that you have to prove the\ncase and say there's no exemption, I don't know how you'd know that.\nYou're right, how will you know which exemptions are pertinent or not,\ncorrect?\n### Xiao Wang:\nCorrect.\nCorrect.\n### Justice Sotomayor:\nAnd so that's really the problem in this case, which is either -- whatever\nwe decide, someone's going to be potentially unfairly treated because\nyou have --no plaintiff has a way of knowing what all the exemptions\nare and what potential exemptions the other side could pick.\n### Xiao Wang:\nCertainly, Justice Sotomayor.\n### Xiao Wang:\nSorry.\n### Xiao Wang:\nApologies.\n### Justice Sotomayor:\nOkay.\nThat's a given.\nBut, here, it's pretty clear that you alleged and you thought you had\nsome sort of burden because I read your very extensive complaint, and\n### Xiao Wang:\nCorrect.\n### Justice Sotomayor:\nYou allege it's unreasonable.\nYou show a lot of other fees. I'm not quite sure still, and I will ask the\ngovernment this, under normal pleading standards, I would have\nthought this was enough.\nI think that the Second Circuit was thinking that it has to be pled with\nTwombly and Iqbal as a fraud and that you needed more particularized\ninformation relating to the nature of the services in total, some\ninformation that you say you couldn't have known.\n### Xiao Wang:\nYes.\n### Justice Sotomayor:\nYou just knew how much was being paid and you compared it to what\nother people were paying.\n### Xiao Wang:\nComparable plans, yes.\n### Justice Sotomayor:\nExactly.\nSo, if I have a problem with that part of it, that the Second Circuit may\nhave asked for more than you needed to plead, what do I do?\n### Justice Sotomayor:\nEven if I accepted their proposition that you need to allege for whatever\nreason a pleading standard, injury standard, that you have to allege\nsomething more than that they have a transaction, do I get to address\nthat or I don't, or what am I doing here?\n### Xiao Wang:\nCertainly, Justice Sotomayor.\nI think that what you're doing here is -- is, first, I think you would\nreverse. We -- we would ask this Court to reverse the judgment of the\nSecond Circuit.\nAnd it would reverse by saying, look, you --if these are enough under\nIqbal and Twombly and it involves unreasonableness, then whatever\nrule you apply, we would still say that there was a legal error here. But, if\nI can get back to what I think may be the first part of your question,\nwhich is perhaps the relative weakness of our --of our decision about\nthe \"except as otherwise provided\" language at the top, well, first, I\nthink that precedent answers this point, and precedent answers this\npoint in a couple different ways.\nOne is Respondents have provided no cases where that actually changes\nthe calculus. It turns except -- the words \"except as otherwise\nprovided\" magically turns the word -- the exempt -- exemptions into\nelements.\nThere's no case on that point.\nIn fact, the cases like Atlantic Richfield and Schlemmer make fairly clear\nthat all that's doing is saying w hat happens when things clash.\nIt doesn't expand or contract the liability provisions at all.\nAnd I think, sort of maybe as a concluding point on this point, that is\nreinforced by the structure and the complexity and the nuance that's\nprovided in 1108 that involves an information asymmetry that -- that,\nagain, cannot be addressed prior to discovery.\n### Justice Sotomayor:\nI'm going to ask the other two about the Second Circuit factual ruling,\nwhich was that with respect to this provision, you have the burden of\nshowing unreasonableness, but it reserved consideration of whether\nthere were other exemptions that you didn't bear the burden about\nproving.\nI don't know how it got there at all.\n### Xiao Wang:\nRight.\n### Justice Sotomayor:\nAnd I'll ask the government and your adversary how we do that. But\nCook did say that -- established a narrow ruling for criminal pleadings.\nI don't think there's any case that ever has applied it to civil\nexemptions, correct?\n### Xiao Wang:\nCorrect.\n### Justice Sotomayor:\nSo it's hard to rely on Cook, but the essence of its thinking was, if a\nprohibition looks like -- if a prohibition looks like it's -- you can't really\ntell it's illegal or not because the exemption here says you can have\nthese relationships, you can just have them with reasonable fees, then\nyou need for the -- for the government -- for the government to prove\nthey were unreasonable.\n### Justice Sotomayor:\nWhy wouldn't that apply here, that concept?\n### Xiao Wang:\nWhy wouldn't Cook's apply here?\n### Justice Sotomayor:\nObservation.\n### Xiao Wang:\nYeah.\nI -- I --I think it wouldn't apply not simply just because of the\ncriminal/civil distinction that we talked a bout but also for the\ninformation asymmetries that you mention.\nAnd it doesn't sort of -- really, I think the Respondents are asking this\nCourt to sort of carve out the statute in a few different ways, to --to try\nto gerrymander it by saying: Look, we'll put the (b)(2) exemption, we'll\ntreat that as an element and we'll try to carve out service providers, and\nthen we'll stitch together 1106 and 1108.\nBut that's not how the statute is written.\nAnd, certainly, that might lead to some results.\nWe don't see that happening in the Eighth or Ninth Circuits, but, if it\ndoes, I think that's in Congress's province to address.\n### Justice Sotomayor:\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 32,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Kagan? Justice Gorsuch, anything?",
+      "questions": []
+    },
+    {
+      "conversation_id": 33,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nJust in terms of the litigation in the Second Circuit and the district court,\nthere were other counts, right, so the complaint -- and correct me if I'm\nwrong, I might be mistaken on this -- there are other counts about\nunreasonable or excessive fees, but this count, Count IV, was just\nprohibited transactions, and that's the only issue we are addressing\nhere, correct?\n### Xiao Wang:\nCorrect, Justice Kavanaugh.\n### Justice Kavanaugh:\nOkay.\nThanks.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 34,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Barrett?",
+      "questions": []
+    },
+    {
+      "conversation_id": 35,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\n?\nYou've been asked a few questions that indicate concerns about the\nexpanded litigation threat in this circumstance, and I guess I'm\nwondering whether those concerns are really consistent with what\nCongress itself was thinking in the context of this ERISA statute.\nYou know, Congress set up fiduciary duties.\nIt created a series of remedies for plan participants to enforce those\nobligations. And at the beginning of the statute, it says that it was\n\"providing for appropriate remedies, sanctions, and ready access to the\nfederal courts.\" So it appears that Congress did not really share the\nconcern about the litigation in this area that the amici in this case have\nraised.\n### Xiao Wang:\nThat's right, Justice Jackson.\nI think that with respect to Congress and this Court's understanding of\nCongress's intent in ERISA, it's to provide a broadly protective and\nremedial statute and provide an avenue for plaintiffs to --to enforce\nERISA's terms and conditions.\nAnd I think it's telling that simply that Respondents and their amici,\nespecially their amici, have, in fact, advocated for changes to 1106\nseveral times in the halls of Congress.\nCongress has declined to do that. It's kept the scheme as it is.\nAnd I think applying the text as written is appropriate in this instance.\n### Justice Jackson:\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 36,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel. Ms. Dubin.\n### Yaira Dubin:\nMr. Chief Justice, and may it please the Court: The text and structure of\nthis statute demonstrate that the 21 exemptions in 1108(b) are the\nfiduciary's responsibility to plead and prove, but, as already discussed\nthis morning, that straightforward reading raises a practical concern for\nthe subset of claims that are at issue here, that plaintiffs could obtain\ndiscovery simply by alleging a routine service provider transaction.\nImportantly, that theoretical concern has not materialized in the real\nworld, likely because courts have the necessary tools to weed out and\ndeter bare-bones complaints.\nAnd in all events, we don't think that concern justifies adopting\nRespondents' strange reading.\nCritically, service providers are just one of the nine categories of parties\nin interest.\nThe rest are plan insiders with whom transactions carry obvious risks of\nfavoritism and abuse.\nAll the usual interpretive rules indicate that Congress intended the\nfiduciary to justify such transactions.\nRespondents' elements-based approach would thus undermine the\nprohibited transaction provisions as a whole based on pragmatic\nconcerns about one sliver of party-in-interest transactions.\nThat approach is fundamentally unsound.\nI welcome the Court's questions.",
+      "questions": []
+    },
+    {
+      "conversation_id": 37,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nWhy would Congress find --say it's unlawful for existing service\nproviders to be employed in this way?\n### Yaira Dubin:\nSure.\nI don't think Congress was saying it's unlawful for service providers to\nbe employed in this way.\nWhat Congress set up is a scheme, and this Court has recognized that\nseveral times, including in your decision in Harris Trust, that these types\nof transactions have a potential of injuring the plan.\nIt's very easy to see that with respect to insiders, as I just mentioned,\nbut it's also true with respect to service providers.\nYou can pay service providers excessive fees with people's retirements\nmoney.\nSo the scheme Congress set up set out specific transactions that are\nprohibited and then exemptions from those transactions that you can\nshow that a particular transaction was reasonable and necessary.\nAnd, in that context, it makes perfect sense to put the burden on the\nfiduciary to show that the transaction was justified and reasonable.\nThe fiduciary is the one who enters into the transaction.\nThe fiduciary is the one who has the information about the transaction.\nAnd the fiduciary is the one who's charged under trust law with\nensuring that these transactions are an appropriate use of people's\nretirement money.",
+      "questions": []
+    },
+    {
+      "conversation_id": 38,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nSo do you think this is just a mistake on Congress's part? In other words,\nyou're saying this scheme makes perfect sense with respect to insiders.\nBut, when you apply it with respect to these third-party providers,\nservice providers, you know, all of a sudden you're potentially making\nlibel a -- a really big category of innocuous conduct.\nIs this something Congress just didn't understand it was doing, or, you\nknow, do you have a theory for why Congress wanted to go that far?\n### Yaira Dubin:\nWe don't think it was a mistake.\nWe think it was entirely deliberate.\nAnd that's because, at trust law, the fiduciary had the burden to justify\ndelegations to a third party.\nThe fiduciary was hired for his skill and for his ability to manage\nresources appropriately.\nHe is allowed to delegate.\nThat's consistent with the Restatement (Second) of Trusts.\nBut, when he does so, he's the one who has the burden to justify it.\nAnd that's all 1106 and 1108 do, which is you can engage in this\ntransaction, but it's the fiduciary who carries the burden to justify it.\nSo I don't think it's a mistake at all that these service providers were\nincluded among the other parties in interest, who are all obvious\ninsiders to the plan.",
+      "questions": []
+    },
+    {
+      "conversation_id": 39,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nYour broader argument or the sort of remarks that you made initially\nseemed to suggest or assume that there has to be consistency in the\nrules about burdens across the different kinds of parties in interest and\nacross the different exemptions.\nCan you say more about why you think that's the case?\n### Yaira Dubin:\nAbsolutely.\nI don't see any textual basis here to slice and dice the way the Second\nCircuit suggested where it just focused on this one particular sliver of\ntransactions.\nThe textual hook that they're using, except as provided in 1108, equally\napplies to all the exemptions, so I don't see how you would single out\none exemption.\nThat said, we are very concerned with the effect on the other types of\nparties in interest.\nAnd we do think that's a useful tool for interpreting all of the\nexemptions as a whole.\nSo the bottom line on that is I don't see a basis for why the Second\nCircuit did what it did, but it is really important that if the Court is\ninclined to do something more similar to the Second Circuit, even\nthough I can't see exactly a doctrinal basis, it wouldn't let that expand\nto other parties in interest.",
+      "questions": []
+    },
+    {
+      "conversation_id": 40,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nSo how -- how do we write this opinion? Let's assume we start with, as\nyou want us to, it is the fiduciary's responsibility to -- to prove the\nreasonableness of their fee.\nThat --that's their burden, okay? But what do we say about the\nplaintiffs' pleading, and -- and how do we say it? Meaning, is it enough\njust to say it violated 1106? You seem to suggest not.\nAnd then how do I explain why not?\n### Yaira Dubin:\nSure.\nAbsolutely.\n### Justice Sotomayor:\nAnd then my last question, and you heard it before, was this pleading\nenough?\n### Yaira Dubin:\nSure.\nAbsolutely.\nif I don't get to the second piece, just let me know.\nWe think that this is a straightforward opinion to write, along the lines\nJustice Alito was suggesting.\nThis is a straightforward prohibition and exemption structure, and\nthese are affirmative defenses.\nWe think that district courts already have the tools to deal with bare-\nbones allegations in Category 1 that we were talking before that just\nsuggest a routine service provider transaction.\nThey already have the tools.\nAnd if the Court wanted, it could just leave them to continue doing and\napplying the plausibility framework that they're already applying.\n### Justice Sotomayor:\nI will say the following.\nThey may get it.\nBut I also know plaintiffs' counsel often will come in with the minimum,\nand if the minimum is just these -- they have this prohibition, how do\nwe avoid that?\n### Yaira Dubin:\nSure.\n### Justice Sotomayor:\nWhat do we have to say to avoid that?\n### Yaira Dubin:\nYeah.\nIf the Court were to say something about it to address the \"that's nuts\"\nexample from Justice Kavanaugh, I think the way to -- to address it\nwould be to explain that the plausibility framework precludes such\ncomplaints, and I think that's because that complaint on its face\nobviously implicates an affirmative defense.\nAnd the plaintiffs haven't said anything to suggest why the underlying\nconduct will ultimately be found unlawful.\nThis isn't treading or breaking new ground.\nThis is already done in various cases and various statutory schemes\ninvolving affirmative defense where a petitioner or a plaintiff fails to\ngive any --any explanation of what's going on.\n### Justice Sotomayor:\nGive me --give -- give me some examples.\n### Yaira Dubin:\nSure.\nSo I think Nayab versus Capital One, which I'll give you the cite, is 942\nF.3d 480, is a great example.\nIt's dealing with an analogous structure in the Fair Credit Reporting Act\nwhere the exemptions are affirmative defenses, but a plaintiff still has\nthe burden to say something about their theory of why it doesn't apply.\nI think another helpful context is that in the sanctions context, courts\nalready, many, many circuits look to whether a plaintiff failed to\ninvestigate an obvious alternative explanation, including an affirmative\ndefense.",
+      "questions": []
+    },
+    {
+      "conversation_id": 41,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nWell, to the extent that you're saying that the plaintiff is going to need\nto present an alternate -- an affirmative defense and say something\nabout why it doesn't apply, it seems to me that you're three-quarters of\nthe way to Ms. Saharsky's position.\nSo I -- I guess I don't see that as a typical Iqbal maneuver.\n### Yaira Dubin:\nSo this is absolutely critical.\nOur position is not three-quarters of the way to my friend on the other\nside's position, and there are two big reasons why.\nThe first big reason is that my friend's position makes these exemptions\ninto elements.\nThat turns them into the plaintiff's burden to plead and prove all the\nway through, and they forthrightly admit that.\nThat would be a sea change in the way that these provisions are applied.\nNo court of appeals, including the Second Circuit below, has adopted\nthat approach, and we think it would strongly undermine these\nprovisions.\nBut, even as to the pleading standard even as to these service provider\ntransactions, our approaches are meaningfully different.\nAnd I think, here, it's very helpful to think about the complaint at issue\nin this case, which, as we were talking about earlier, does allege\nexcessive fees that were far above the industry benchmark and gives\nreasons to think that those fees were excessive, inclu ding that the\nplaintiff -- that the defendants used multiple service providers when\nthey could have used one.\nWe think that's sufficient to say that this explanation is not obvious.\nHowever, what Respondents think and what the Second Circuit held\nbelow is that this complaint failed because they didn't go on to explain\nwhy that excessive fees charge weren't justified by the quality of the\nservices provided.\nAnd the theory is something like, if the recordkeeper is providing the\nCadillac of services, maybe these excessive fees are justified.\nWe don't think that plaintiffs carry that burden.\nWe don't think they carry the burden to negate the exemption in that\nfulsome way.",
+      "questions": []
+    },
+    {
+      "conversation_id": 42,
+      "dialogue": "Justice Alito",
+      "questions": []
+    },
+    {
+      "conversation_id": 43,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nI -- please go ahead.",
+      "questions": []
+    },
+    {
+      "conversation_id": 44,
+      "dialogue": "Justice Alito\n### Justice Alito:\nI'm a little puzzled by what I've understood you to say, but maybe I\ndon't understand it.\nWhy should the plaintiff have to do anything more than plead the\nelements of 1106? So, in a case like this, the plaintiff simply has to plead\ncause the plan to engage in a transaction if the fiduciary knows or\nshould know that such transaction constitutes a direct or indirect\nfurnishing of goods, services, or facilities between the plan and the\nparty in interest.\nSo all they have to plead is that -- that the fiduciary here caused the\nplan to engage in the furnacing -- the furnishing of goods, services, or\nfacilities by TIAA and Fidelity, end -- end of the elements.\nThat's all you have to plead.\nWhy would anything more be required?\n### Yaira Dubin:\nSure.\nIt's because I don't think that complaint plausibly alleges entitlement\nto relief.\nI think the problem with that complaint is that you're alleging a routine\ntransaction with a service provider for services that they provide on the\nmarket.",
+      "questions": []
+    },
+    {
+      "conversation_id": 45,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nSee, that's the problem I have too, which is, in Twiqbal, there was an\nobvious explanation that would negate the existence of a cause of\naction with -- forget about affirmative defenses.\nYou didn't even get out of the gate.\nYou know, was there a contract combination conspiracy under the\nSherman Act or was it unilateral action in parallel? Okay.\nThat's one thing.\nHere, you're asking for somebody to plead essentially away an\naffirmative -- what you're calling an affirmative defense, not its\nelements.\nAnd I think that's what",
+      "questions": []
+    },
+    {
+      "conversation_id": 46,
+      "dialogue": "Justice Alito\n### Justice Alito:\nand Justice Kagan are getting at.\nAnd I'm unaware of this Court having endorsed that move before, and it\nseems to me doing so would have ripple effects we cannot presently\nanticipate across -- trans-substantively across the law with respect to\naffirmative defenses.\nThoughts?\n### Yaira Dubin:\nSure.\nI appreciate the Court's concerns, and, of course, we're cautious about\nspillover consequences in other areas. Again, I think this is already what\ndistrict courts are doing on the ground when they encounter a\ncomplaint that is just bare bones.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 47,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nThat's one thing. Leaving it alone is one thing.\nSaying something about it is another.\n### Yaira Dubin:\nI completely agree it's different when things are happening sub rosa\nrather than announced by this Court.\n### Justice Gorsuch:\nNot sub rosa, no. In the normal course, lower courts developing the law,\nand when splits arise or a occasion arises, we address it.\nBut we don't first view, review.\nCome on, right?\n### Yaira Dubin:\nLet me just try to situate this entire line of questioning within our case,\nwhich is we are not urging the Court to say anything about this.\nWe don't think the Court needs to.\nWe think the statutory answer is clear.\nAnd for the reasons Petitioners' already given, these are affirmative\ndefenses, these exemptions.\nWe heard four justices who are concerned with this and do think it's\nappropriate to say something.\nWe do think this is the right answer that's happening on the ground, but\nI absolutely appreciate the concerns you're articulating.\n### Justice Gorsuch:\nThank you.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 48,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nWell, which is it? I mean, earlier you said that it has to -- you have to say\nenough to make it plausible.\nAnd that suggests to me that that's a judicial requirement -- that the\ncourt has to -- if that -- if we say that's the standard, the court has to\nlook at it and determine whether it's plausible.\nI mean, is that --is that your answer, or is it we don't have to say\nanything?\n### Yaira Dubin:\nI was differentiating between what this Court says in an opinion\nresolving this case and what district courts do on the ground.\nI agree as to the first response that I gave, which is that district courts on\nthe ground should be evaluating plausibility. And I do think, if you failed\nat all to respond to an obvious explanation for the conduct that would\nrender it unlawful, that is a problem for a plaintiff.\nAnd I think that's perfectly within the judicial role to recognize that.\nAnd I think district courts and lower courts on the ground are doing this\nalready.\nAs to what this Court says in an opinion, I think it depends on how the\nCourt is weighing the various spillover consequences at issue here.\nBut this is all after you've gotten to the point, I think, where you've\nalready rejected Respondents' approach, which I think simply doesn't\nwork as a matter of the statutory scheme and has its own pragmatic\nconsequences. This is simply whether you want to address the \"this\nwould produce nuts results\" for these bare-bones complaints, and I\nthink this is the right answer.\n### Chief Justice Roberts:\nThank you. Justice Thomas?",
+      "questions": []
+    },
+    {
+      "conversation_id": 49,
+      "dialogue": "Justice Alito\n### Justice Alito:\nWell, I'm still puzzled by your -- by your argument because a lot of your\nanswer is, well, the district -- look at what the district courts are doing\non the ground.\nBut is what the district courts are doing on the ground correct? That's\nwhat I'm interested in.\nAnd I understand the argument that all that's necessary to be pled are\nth e elements of the -- the -- the -- the provision that creates liability.\nAnd those are the ones that I set out.\nAnd they --they say nothing about the reasonableness of the fees.\nI don't know how the reasonableness of the fees gets into the pleading\nrequirement if that's the way we go about it.\n### Yaira Dubin:\nSure.\nSo I think looking at this Court's decision in Iqbal, the language used\nthere was a claim has facial plausibility when the plaintiff pleads factual\ncontent that allows a court to draw the reasonable inference that the\ndefendant is liable for the misconduct alleged.\n### Justice Alito:\nIt's reasonable liability as to the elements, not reasonable liability as to\naffirmative de fenses that may or may not exist and may or may not be\nasserted. Anyway, I'll --I'll leave that there. There's been talk about the\nfact that there are ways -- I mean, maybe those who have concerns\nabout the practical implications of deciding the case -- of reversing the\nLet's -- maybe they are.\nOkay.\nLet's assume that there -- they are, there's some basis to it.\nAnd what you propose with Rule 7 does suggest that the government\nthinks there's a basis to it.\nSo, if all you have to do is plead what I've just outlined, what are the\nthings that district courts can permissibly do that would alleviate these\nconcerns?\n### Yaira Dubin:\nSo, in addition to applying what we think is the rule of Iqbal and\nTwombly in this context, I would say that they could also, obviously,\nengage in fee shifting; they can sanction attorneys who bring meritless\nlawsuits.\nI think both of those are ve ry much deterrents to these types of bare -\nbones suits being brought on the ground.\n### Justice Alito:\nDo you think Rule -- do you think Rule 11 sanctions are really -- that's\ngoing to do the job here?\n### Yaira Dubin:\nI do if plaintiffs are bringing --begin to bring bare-bones complaints.\nI'll --I'll point you to the Tenth Circuit, which said, you know, part of a\nreasonable attorney's pre-filing investigation must include\ndetermining whether any obvious affirmative defense bars the case.\nThe Seventh Circuit, the Fifth Circuit, and the Sixth Circuit have all said\nthe same.\nI do think a failure to investigate an obvious affirmative defense is a\nproblem for a plaintiff's case.\nAnd I think, you know, going back to what you were asking me, I do think\nit's relevant that -- that -- sorry, that Twombly and Iqbal were about\nthe elements, that was what was going on in those cases, but the thing\nthat was motivating the Court, the thing the Court was concerned\nabout, was that you're coming into a complaint without a plausible case\nagainst someone, that you have no theory of wrongfulness.\nAnd I think these bare-bones complaints share the same problem.",
+      "questions": []
+    },
+    {
+      "conversation_id": 50,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Sotomayor?",
+      "questions": []
+    },
+    {
+      "conversation_id": 51,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nEarlier, Petitioners' counsel said that that maybe the unreasonableness\nof the fee has to be pled because you have to plead an injury-in-fact. Do\nyou accept that?\n### Yaira Dubin:\nI think there's a fairly -- this goes also to",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 52,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\n's question\nearlier.\nI think theres a pretty obvious injury -in -fact from claims like this,\nwhich is, if you're charging excessive recordkeeping, that's coming from\nthe plan assets.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 53,
+      "dialogue": "Justice Sotomayor\n### Yaira Dubin:\nIt's coming from retirement funds.\n### Justice Sotomayor:\nNo, no, no.\nYou misunderstand.\nYou say to us that the only pleading standard is the 1106 violation.\nThe 1106 violation does not talk about the reasonableness or\nexcessiveness of the fees.\nSo the elements will not address that. So, if that's all you plead, that's a\nbare-bone complaint which I think meets the Eighth Circuit standard,\ncorrect?\n### Yaira Dubin:\nYes.\n### Justice Sotomayor:\nAll right.\nIf we are concerned about the consequences of that, that we're going to\nhave an explosion of bare-bone complaints, do we say something like\nwhat your colleague is saying, that that's not enough because you also\nhave to plead injury-in- fact, and that obviously will take you to the\nunreasonableness or excessiveness of the fees?\n### Yaira Dubin:\nI think that is one option available to the Court here.\n### Justice Sotomayor:\nAnd what would be the collateral consequences of that option?\n### Yaira Dubin:\nSo I think some of these claims -- like, these claims are about excessive\nfees coming from the plan, and I think, you know, that obviously applies\nin this sort of defined contribution plan.\nYou look at a defined benefit plan, like what was going on in Thole, you\ncould still have someone engaging in excessive recordkeeping fees and\nthe fiduciary is not being careful with plan assets.\nAnd that might mean the fiduciary is the wrong person to be in charge of\nthis plan, that they're not being careful with plan assets.\nAnd one of the equitable remedies is replacing the fiduciary.\nI think that's a harder case for how you think about the injury -in-fact\nconstruct playing out there.",
+      "questions": []
+    },
+    {
+      "conversation_id": 54,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Kagan?",
+      "questions": []
+    },
+    {
+      "conversation_id": 55,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nAnd when you say \"these bare-bones complaints,\" are you talking\nabout the same complaints that Mr. Wang said was in Box 1? And what\nare those complaints exactly, and what takes you out of that category?\n### Yaira Dubin:\nSure.\nAnd let me be very clear about this.\nI think Box 1 is a complaint that just allege s a service provider\ntransaction for routine services.\nThat's Box 1.\nBox 2 is a complaint that includes allegations like the ones we see here:\nthat the fees are excessi ve, four to five times the industry benchmark,\nthat there's a reason to think the plan is paying excessive fees, that\nthey're using multiple recordkeepers when they could have used one,\nthat he didn't engage in a competitive process for these recordkeeping\nservices.\n### Justice Kagan:\nTo me, that doesn't sound like a bare-bones complaint.\nAre you suggesting otherwise?\n### Yaira Dubin:\nThat's exactly our position here, which is that Box 2 is where the\ncomplaint should be.\nAnd, in fact, that is where the complaints that we're seeing on the\nground are, that suits being brought under this allege that there are\nexcessive fees and that there are reasons to think the fees are excessive.\nThat's actually what the practice is playing out on the ground, and I\nthink the practice is playing out on the ground that way because of the\nconstraints we've been talking about today.\n### Justice Kagan:\nSo those are not ones that in any circumstance would raise the necessity\nof talking about affirmative defenses?\n### Yaira Dubin:\nThat is our view. Obviously, the Second Circuit disagreed with us. That\nwas exactly the complaint they had.\n### Justice Kagan:\nYes, yes, yes, but -- right.\n### Yaira Dubin:\nYes.\nThat's exactly our view.\n### Justice Kagan:\nOkay.\nYou were going to go on and tell me about Box 3? Maybe not.\n### Yaira Dubin:\nI --I'm happy to. Box 3 relates to the quality of the services.\nThat's what the Second Circuit held. The Second Circuit held that it\ndoesn't matter all this information that you've included about how\nexcessive these fees are.\nThis might be the Cadillac of recordkeeping plans.\nAnd if it's the Cadillac of recordkeeping plans, then those fees were\njustified.\nAnd the problem is that Petitioners have no way of knowing if it's the\nCadillac of recordkeeping plans.\n### Justice Kagan:\nBut I take it that as you survey the litigation here, you're -- you're\nsaying that most of these complaints or all of these complaints are Box 2\ncomplaints, not the kind of bare-bones complaints that would suggest\nsome special need to do Iqbal maneuvers?\n### Yaira Dubin:\nThat's right.\nThose are the ones we're seeing.\nAnd we haven't seen Respondents identify any bare-bones complaints,\nincluding in the Eighth Circuit, which has been applying this rule that\nPetitioners are advocating for for 15 years, and we think that's because\nof the constraints that are already operating.\n### Justice Kagan:\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 56,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Gorsuch?",
+      "questions": []
+    },
+    {
+      "conversation_id": 57,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nMs. Dubin, very briefly.\nWe got cut off because of the red light, but I --I didn't -- I didn't want to\nrain on your Iqbal parade too much.\nIt -- it -- it does seem to me the 7(a) argument's not completely out of\nleft field here.\nThey're generally disfavored, as I remember from practice, but the\nexception -- one of the exceptions is, when you're -- when you have an\naffirmative defense that's pled in the answer, sometimes the -- the\ndistrict judge will say: I want to -- I want to see the reply.\nAnd it happens a lot in qualified immunity, I believe, in particular.\nAnd then, once you have a pled -- pled affirmative defense, a particular\none, not just a laundry list, as",
+      "questions": []
+    },
+    {
+      "conversation_id": 58,
+      "dialogue": "Justice Alito\n### Justice Alito:\nsaid, then you might be able\nto Twiqbal it, it seems to me.\nWhat do you think of that?\n### Yaira Dubin:\nI agree with you.\nAnd I think you're --you're right to recognize that this is not some\narcane rule of procedure.\nIt does come up.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 59,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nIt's pretty arcane, but it's -- it's -- it's --it's not wholly unknown in\ncivil practice when there's an affirmative defense.\nI had --I had to do it. I remember it.\nAnd you've got to plead facts.\nAnd then you have something to assess, a -- a --a real Twiqbal question\nto answer, I think.\n### Yaira Dubin:\nYes, absolutely.\nI don't want to rain on the parade we're having here, but I will say that\nthe -- the one thing I want --I do want to make clear is, at that point,\nyou still don't have the burden to do what the Second Circuit held the\nplaintiffs to here, which is to -- because they treated the defense as an\nelement of the plaintiffs' case.\n### Justice Gorsuch:\nSure.\nSure.\nBut you could say, as a matter of law, based on the facts pled, no\nreasonable juror could doubt that this affirmative offense --affirmative\ndefense applied?\n### Yaira Dubin:\nThat's right.\n### Justice Gorsuch:\nOkay.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 60,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nA couple questions. On a bare-bones complaint, Category 1, the pure\nprohibited transaction, I think you don't have standing.\n### Yaira Dubin:\nI think that's a problem with that complaint, as we've been talking\nabout, as I was just talking about with",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 61,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\n.\nBut I think, before getting to sort of the standing concerns and how it\nwould play out in various contexts, I really just think the most obvious\nanswer is plausibility.\nBut yes.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 62,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nOkay.\nAnd then I think most of the cases in response to your discussion with\nJustice Kagan are going to involve the claim like that, which is Count IV\nhere, and other claims that are excessive fees claims, different counts,\nright? But we still have to analyze the other counts may not go forward,\nthe prohibited transaction count.\nIn other words, I don't know that it's enough to take care of the\nprohibited transaction count that the -- that you're alleging excessive\nfees in the other counts.\nOr is it enough?\n### Justice Kavanaugh:\nDo you understand the question?\n### Yaira Dubin:\nLet me try.\n### Justice Kavanaugh:\nYeah.\n### Yaira Dubin:\nIf you're asking if the complaint here was done entirely properly, I don't\nthink it was.\nThe allegations I'm talking about really weren't in the right place in my\nview.\n### Justice Kavanaugh:\nThey weren't related to Count IV, correct?\n### Yaira Dubin:\nTo the prohibited transactions claims.\n### Justice Kavanaugh:\nYeah.\n### Yaira Dubin:\nHowever, the Second Circuit did consider them in its analysis because it\ndidn't apply that sort of level of formalism and still found that they were\nnot enough.\nAnd I think that's a critical piece where we diverge from the Second\nCircuit.\nWe absolutely do think it was enough here.\n### Justice Kavanaugh:\nThe -- let me make sure I have that.\nThat sounded important. You think what was enough?\n### Yaira Dubin:\nThe Second Circuit said: Even if you consider all the allegations in the\n### Justice Kavanaugh:\nYes.\nAt the end of the analysis of Count IV, it had a little tack-on, right?\n### Yaira Dubin:\nYes. Even if you consider all of the allegations plaintiffs made here about\nthe fees being far above the benchmark, about the fact that the plan\ndidn't engage in a competitive bid process, and about the fact that they\nused two recordkeepers when they could have used more, that would\nnot be enough because the Petitioners haven't shown that those\nexcessive fees weren't justified by the quality of the services provided.\nAnd that part of the analysis, we strongly disagree.\n### Justice Kavanaugh:\nTo get past a motion to dismiss?\n### Yaira Dubin:\nExactly.\n### Justice Kavanaugh:\nRight.\nSo the -- the point -- and this is where -- to",
+      "questions": []
+    },
+    {
+      "conversation_id": 63,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\n's point\nearlier about three -quarters of the way, at least on the pleadings\nstandard, I think you're 99 percent of the way, but Respondent will\nobviously address that, which is you have to allege something\nsuggesting unreasonableness of the fees, somehow get that in, at least\nif, as Justice Gorsuch says, it's been put into play at the motion -- at the\npleading stage, correct?\n### Yaira Dubin:\nAnother way of looking at this is sort of, on the face of the complaint,\nhave you pled yourself out of court? That's another way of thinking\nabout it.\nAnd I think, if you just aren't doing anything to show that these fees are\nnot obviously reasonable, you may be in that category of claims.",
+      "questions": []
+    },
+    {
+      "conversation_id": 64,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nGood.\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 65,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Barrett?",
+      "questions": []
+    },
+    {
+      "conversation_id": 66,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\n?\nI guess I'm wondering, is this case really about what needs to be pled,\nand do we need to say that? I thought the government's basic position\nor at least Petitioners' was that the problem with the Second Circuit's\nview was that it didn't recognize that the exemptions are, in fact,\naffirmative defenses and, instead, treated them as elements and that it\nwould be enough -- and maybe I'm wrong about this now given all the\nconversation that we had -- we've had, but that it would be enough for\nthe court to say: These are affirmative defenses, they are not elements;\ntherefore, the burden is, you know, on the defendant to establish them.\nI didn't know that this was an Iqbal/Twombly case, where the Court was\nbeing called upon to determine what the plaintiff -- the plaintiff had to\ndo, as opposed to determining that defendant bore the burden of\nestablishing these exemptions.\n### Yaira Dubin:\nI entirely understand where you're coming from.\nI think, to resolve the elements question, all you would need to hold is\nthat these exemptions are, in fact, affirmative defenses and not\nelements of the prohibitions for all the reason you heard already this\nmorning.\nHowever, I do think a real practical concern has been raised by the\nbench.\nIt hasn't materialized yet.\nWe haven't seen it in the Eighth Circuit.\nAnd I think that the government has offered an option for thinking\nabout how district courts will be dealing with complaints that raise\nthose concerns if they were to materialize in the future.\nWhether the Court decides to write that in an opinion and offer that\nguidance to the lower courts obviously I leave to the Court, but it is an\noption available to ensure against this concern that Respondents have\nraised.\nBut, even if you disagree with the government on that, even if you don't\nthink that that's an appropriate use of Iqbal and Twombly, it still\nwouldn't counsel in favor of adopting Respondents' approach, which is\na misreading of the statutory text.\nIt doesn't a ccount for the other party-in-interest transactions, it\ndoesn't account for the other exemptions, and it raises its own\npragmatic concerns.\n### Justice Jackson:\nAnd --and we wouldn't have to say those other things to resolve the\nexemptions question that was presented in this case?\n### Yaira Dubin:\nYes.\nThe other things that you referred to are really only in response to\nRespondents' pragmatic concerns.\nRespondents are saying: Don't do what you just said.\nDon't resolve the case along the, you know, straightforward Meacham,\nADA, Corning Glass, don't resolve this case along those lines because of\nthese pragmatic concerns.\nAnd to the extent the Court shares those concerns, we have offered that\nframework as a helpful tool.\n### Justice Jackson:\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 67,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nMs. Saharsky.\n### Nicole A. Saharsky:\nMr. Chief Justice, and may it please the Court: Petitioners' view is that\npleading the mere fact of a service provider transaction defeats a\nmotion to dismiss and a case could go forward.\nThat can't possibly be right.\nIf we look at this statute, it is unique, Section 1106(a), because it co vers\nan incredibly broad array of innocent beneficial conduct.\nIn fact, ERISA separately requires and encourages hiring service protect\nSection 1106(a) thus has to be read together with Section 1108 to limit\nthis cause of action to culpable conduct.\nAnd we know that in part because Section 1106(a) has this cross-\nreference to Section 1106 -- 1108, which says \"except as provided in\nSection 1108.\" You know, tellingly, there are two different parts of 1106\nhere.\nThere's (a), which includes all of this innocent conduct, and (b), which\nincludes only self-dealing conduct, and that cross -reference isn't in\nSection 1106(b).\nIt has to be doing some work textually, and it doesn't under Petitioners'\nprovision.\nIf you look at all of this together, it shows that Congress's intent was to\ndefine the cause of action as not just a service provider transaction but\none where there's some wrongful conduct, wher e the services are\nunnecessary or the fees are unreasonable.\nAnd under Petitioners' view, all a plaintiff has to do is plead the mere\nfact of a transaction, no allegation of wrongful conduct.\nIt automatically opens the door to expansive discovery.\nThe cost is disproportionately borne by defendants.\nIt would force settlements of meritless litigation.\nIt has in some of these university cases.\nThe ultimate result would be to hurt plan participants and beneficiaries.\nThe government recognizes that that is an intolerable result, and I'm\nhappy to discuss why its proposed solutions don't make sense.\nBut the bottom line is the Second Circuit got it right, and this Court\nshould affirm.\nI welcome the Court's questions.",
+      "questions": []
+    },
+    {
+      "conversation_id": 68,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nWhat should be pled?\n### Nicole A. Saharsky:\nSo, here, it's the -- that the fiduciary caused the plan to enter into a\ntransaction with a party in interest, which a service provider is, and\neither that the services were unnecessary or that the fees are\nunreasonable.\nI mean, there was never any question in this case about what exemption\nmight apply, this idea that Petitioners say, oh, we don't know what\nexemption might apply.\nI think everyone thought that was obvious, and the government seems\nto agree because they say that they have to plead unreasonable fees too.\nSo, you know, it's just a question of can they just come to court and say\nservice provider transaction with nothing wrong with it, as opposed to\nservice provider transaction with some kind of wrongdoing that's in\nSection 1108. And we think, you know, this Court's -- this Court's\ndecisions in Iqbal and Twombly, you know, make clear, if you come to\ncourt, you've got to have done some investigation and have done some\nAnd it just doesn't make any sense to read this statute as allowing a\ncause of action to go forward with no allegation of wrongdoing.",
+      "questions": []
+    },
+    {
+      "conversation_id": 69,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nWhat -- what is your --what --what is your position on who bears the\nburden of proving the unnecessary and unreasonable fees?\n### Nicole A. Saharsky:\nThe plaintiffs because it's an element, and so they would bear the\n### Justice Jackson:\nSo you don't -- you disagree that it's an affirmative defense, that the\nexemptions in 1108 are affirmative defenses?\n### Nicole A. Saharsky:\nFor Section 1106 claims, they are elements of the claim.\nThey are not affirmative defenses.\nThe burden is on the plaintiff to plead them.\n### Justice Jackson:\nthe other side explains that this is a pretty common way in which\nstatutes are set up, that you have prohibitions and then you have\nexemptions and that we ordinarily say the burdens apply in the way that\nthey are articulating.\nAnd you don't normally see elements in this way.\n### Nicole A. Saharsky:\nYeah.\n### Justice Jackson:\nWhat -- what's your response to that?\n### Nicole A. Saharsky:\nThat's right, but this Court has many cases where it said that there are\nexceptions that are elements, and it -- the question it asks is: Do you\nneed the e xception to define the wrongful conduct? And Cook was a\n### Justice Jackson:\nAre all 21 exemptions elements in your view? And then what do we do\nabout the information asymmetry, the fact that plaintiff could not\npossibly know many of them?\n### Nicole A. Saharsky:\nWell, the plaintiff only has to plead the one that's relevant on the facts\nof the case.\nAnd I think it helps to think that, you know, a case comes to a court to\nchallenge -- a plaintiff is challenging a particular transaction.\nEither it's a service provider contract or it's a certain type of buying of\nemployer stock or something else.\nAnd the different exemptions apply to different factual circumstances.\n### Justice Jackson:\nBut are --but do they have to be consistent with respect to the burden\nthat you say falls on the plaintiff? Are they all elements, all 21\nexceptions?\n### Nicole A. Saharsky:\nWith respect to 1106(a) claims, which include the exemption and\notherwise would be only innocuous conduct, then, yes, the relevant\nexception in Section 1108 would be an affirmative defense, but not all of\nthem would be relevant in every case on the facts.\nAnd I think you can think about this in terms of what a plaintiff has to\nplead to go forward with a complaint.\n### Justice Jackson:\nI'm sorry.\n### Nicole A. Saharsky:\nI said that you would -- that a plaintiff would have to plead facts\nregarding the one that was -- regarding the transaction, the type of\ntransaction, that's applicable in their case.\nSo, for example, there are some that involve block trades or cross-\ntrades or buying employer stock.\nAnd no one was doing any of those things here, so there's no\nrequirement to plead those kind of facts.\nThe plaintiff's burden is not to plead legal conclusions but to plead facts\nthat show an entitlement to relief.\n### Justice Jackson:\nNo, I understand the plaintiff's burden generally.\n### Nicole A. Saharsky:\nYes.\n### Justice Jackson:\nelements in the 1106 context.\n### Justice Jackson:\nYeah.\n### Nicole A. Saharsky:\nincludes every kind of transaction you could imagine with a plan, the\nonly thing that the Petitioners say is exempted is the thing that this\nCourt exempted in the Lockheed versus Spink decision, which is paying\nbenefits to a beneficiary, but it covers pretty much everything else in the\nworld.\nThe definition of \"party in interest\" is literally an \"everyone and their\nmother\" provision.\nAnd so these -- this broad range of transactions has to be understood\nwith respect to the exemptions in Section 1108.\nAnd, yes, they would be elements as applied based on the facts of the\ncase.\nBut you just plead the facts that are relevant to the transaction at issue.\nAnd so, for this transaction, there was never any question that what was\nat issue was a service provider transaction.\nThe exception that was relevant was the one for -- for reasonable fees,\nnecessary fees, et cetera.\nAnd if, for some reason, there was a case in which a plaintiff pleaded and\n### Justice Jackson:\nCan I just -- can I -- can I ask you about potential problems for other\nstatutes that are created in this same way? I mean, do we have to worry\nthat if we're suddenly saying that the exemptions in this structure are\nelements that we're going to implicate things like the Federal\nArbitration Act, which has a similar dynamic?\n### Nicole A. Saharsky:\nI don't think it's a problem because this Court considers each case and\neach statute as it comes.\nThat's what it has been doing since the decision in Cook, where it said,\nlook, if we look at something and it's called an exemption and it's in a\nseparate provision, we probably would think it's an affirmative defense,\nbut there are some circumstances in which we don't, say, if there's a\ncross-reference to the provision or it's direct -- there's some other way\nthat it's directly incorporated or, for example, if the conduct that is in\nthe initial prohibition covers so much beneficial innocuous conduct that\nyou think we can't define the wrongful thing that Congress was trying\nto get at without -- without using the exemption.\nAnd that's the inquiry that this Court has done, and that's the inquiry I",
+      "questions": []
+    },
+    {
+      "conversation_id": 70,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nDo you think this is a class of one, you know, that this is the only statute\nwe're going to find where it's going to satisfy your requirements? As I\nunderstood it, you said you need the cross-reference and you need the\nfact -- and it's a fair point that this statute -- that, the 1106, covers a\nvast amount of -- of conduct and a significant amount of beneficial\nconduct.\nIs this a -- a --a category of one are you basically saying that w e should\ncreate?\n### Nicole A. Saharsky:\nWell, I think the Court has already found categories or found\ncircumstances like this, not a lot, not a lot, but, in th e history of the\nCourt's opinion, there have been other times the Court has found\nexemptions to be elements.\nThe Vuitch case, Behrman, Ruan, Ledbetter, Britton, a number of cases.\nThe Second Circuit also relied on a Fair Debt Collections Practices Act\n### Justice Kagan:\nSee, I think I might be -- I might find it sort of a happier rule if you had\njust said it's a category of one.\n(Laughter.)\n### Justice Kagan:\nBecause what you're saying is -- I mean, the cross -reference, yeah,\nthere are cross-references like this all the time which you wouldn't\nthink preclude the typical rule affirmative defense structure.\n### Nicole A. Saharsky:\nMm-hmm.\nMm-hmm.\n### Justice Kagan:\nAnd then you're saying, well, we should consider how much legitimate\nconduct a particular provision incorporates.\nThat seems like a very loosey -goosey inquiry to me.\nYou know, how much do you need? At what point do you get over the\nline? It seems as though you're asking us to distinguish among statutes\nin -- in -- in ways we shouldn't be doing.\n### Nicole A. Saharsky:\nWell, what I was suggesting and hoping to give you comfort, Justice\nKagan, was that this Court has already -- already has this method of\nstatutory interpretation where it looks at these factors and comes to the\nright answer, and there have not been, you know, a lot of cases where\nthe -- there are exemptions that have been found to -- to be elements.\nAnd so I -- I thought that it might give the Court comfort to know that\nthis is something that the Court has been doing for decades and decades\nand centuries and it hasn't been a problem.\nIt's just, in this particular context, the statute really can't be understood\nwithout reference to the exemptions.",
+      "questions": []
+    },
+    {
+      "conversation_id": 71,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nGood --good word, \"context.\" So you're saying a statute like this,\nstructured like this, can sometimes be read to mean elements,\nsometimes be read, more often be read, to be affirmative defenses.\nAnd how do we tell?\n### Nicole A. Saharsky:\nRight.\n### Justice Kavanaugh:\nAnd -- and the context would seem to be key on that.\nAnd some of the concerns that we've been discussing or I've been\nraising and the amicus briefs raise, others have raised, would suggest\nthat this -- the context here suggests it doesn't make much sense to\nread this 1106(a) that way.\n### Nicole A. Saharsky:\nRight.\nSo I'd point the Court to four factors.\nOne, the incredible breadth of Section 1106(a), which reaches so much\ninnocent conduct, nothing wrongful, not limited to wrongful conduct by\nitself.\nThen you have the cross -reference, which says: Okay, we don't have to\nread it by itself.\nWe're being told that we should read it with Section 1108, which is what\nlimits it to the wrongful conduct.\nAnd then you don't see that cross -reference in Section 1106(b), which is\nthe one that defines only wrongful conduct, only transactions that\ninvolve self-interest in conduct.\nSo you think I've got to give some meaning to that language that's in\n1106(a), the cross-reference, but not in 1106(b). Petitioners' view does\nnot give any meaning to that language.\nIt is superfluous.\nAnd then the fourth thing I think about is that there are other parts of\nERISA where Congress either encouraged or expressly required the use\nof service providers.\nAnd I think to myself: Well, Congress said that plans have to do this and\nevery plan does it, so it would make no sense at all to say that Congress\njust defined the cause of action as using a service provider.\n### Nicole A. Saharsky:\nIf I put that all together, I'd have to come out that this would be part of\n### Justice Kavanaugh:\nSo, on the context, you're pulling in the other statutory provisions too.\nI think that fourth point's pretty important.\nAnd then another point, I just want to be crystal -clear on this because\nthe other side says: Well, what about the insider transactions? And\nthose are 1106(b), correct?\n### Nicole A. Saharsky:\nSo 1106(b) are when the fiduciary -- the fiduciary has conflicts of\ninterest, self -dealing.\nThose are all on their face bad transactions.\nI understand the argument that the other side of the government is to\nbe making is: Well, maybe 1106(a) is also like that because parties in\ninterest include insiders.\nBut they include a lot of people who aren't -- aren't involved in\nconflicted transactions.\nThey include service providers.\nI mean, it is an -- the immense breadth of the party-in-interest\ndefinition is -- is hard to describe.\nBut I think the point of that is is that you need a way to limit the 1106(a)\nprovision, and the cross-reference tells you to do it using the\nexemptions.",
+      "questions": []
+    },
+    {
+      "conversation_id": 72,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nI'm sorry.\n### Nicole A. Saharsky:\nSure.\n### Justice Sotomayor:\nservices from an insider.\nIt -- it -- that's only prohibited by (a).\n### Nicole A. Saharsky:\nCorrect.\n### Justice Sotomayor:\nI thought that's what",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 1/10",
+      "complexity_score": 1
+    },
+    {
+      "conversation_id": 73,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nwas asking.\nYeah.\n### Nicole A. Saharsky:\nAnd outsiders.\n### Justice Kavanaugh:\nAnd 1106(b) covers -- can you repeat that?\n### Nicole A. Saharsky:\nSure.\n### Justice Kavanaugh:\nI'm sorry to interrupt.\n### Justice Kavanaugh:\nYeah.\nYou're clarifying it.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 1/10",
+      "complexity_score": 1
+    },
+    {
+      "conversation_id": 74,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nI --I -- I think 1106(a) does --11 -- let's do it in the negative.\n1106(b) does not include an insider doing services at a reasonable price?\n### Nicole A. Saharsky:\n1106(b) does not directly address service provider transactions. And so,\n### Justice Sotomayor:\nSo -- so it doesn't include -- you only cover an insider service provider\nby 1106(a).\n### Nicole A. Saharsky:\nWell, it could.\nIt's just that (b) is written in broader terms.\nSo, if the (b) -- just if I could back up, (a) involves a transaction between\nthe fiduciary or the plan and a party in interest; (b) involves the fiduciary\nhimself or herself doing something with respect to a plan.\nAnd so (b) is focused on the fiduciary's conduct, and it could involve\ndealing with the assets of a plan for his own benefit in his own account,\nit could be being on both sides of a transaction or on the side of a\ntransaction that's opposite to the plan, or it could involve receiving a\nkickback.\nSo those things could happen in the context of a service provider\ntransaction.\nIt's just that service provider transactions aren't directly addressed,\naren't specifically addressed in Section (b).\nThey are addressed in Section (a), but they're not just service provider\ntransactions with insiders.\nThey're transactions with any -- any service provider. It's, you know,",
+      "questions": []
+    },
+    {
+      "conversation_id": 75,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nconclusion that the cross-reference in (a) is just saying that the\nexemptions can apply in this world of service providers, and it can't\nwhen a fiduciary is dealing, self -dealing, this is like a more significant\nthing, and we're not going to allow it?\n### Nicole A. Saharsky:\nBecause Section 1108 already says that it exempts -- its exemptions\napply to all of 1106.\nIt says that in four, five, or six different places that are cited in the brief.\nSo 1108 by itself says that its exemptions apply to all of 1106.\n### Justice Jackson:\nYeah.\nBut we don't know which language is extra, right? We don't know\nwhether it was just sort of a drafting mistake on Congress's part with\nrespect to 1108 to say that all of it applies when they really were not\napplying it to (b), 1106(b).\nI mean, I just don't know that we can draw the conclusion that the cross\nconclusion that you want us to draw.\n### Nicole A. Saharsky:\nWell, it's not just the cross-reference.\nIt's the structure of the statute and the rest of ERISA and the other\nfactors that I was discussing with",
+      "questions": []
+    },
+    {
+      "conversation_id": 76,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\n, but I do think that\nit's telling that the cross-reference is in 1106(a).\nIt is not in 1106(b). The Court, of course, looks at the text very carefully\nand tries to give meaning to the text.\nAnd the only -- the only party here that's giving meaning to that text in\n1106(a) is us.\nIf you want to disregard that text, you know, we wouldn't advise that,\nparticularly because there are other parts of ERISA like the parts that",
+      "questions": []
+    },
+    {
+      "conversation_id": 77,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nWhat do you say about the principle that the Solicitor General put\nforward that the fiduciary generally carries the burden to plead and\nprove the reasonableness of their actions and that that's really what is\nunderlying the structure of this?\n### Nicole A. Saharsky:\nI don't think that that's true.\nI don't think that the law of trusts said that.\nAnd I don't think that that's -- that's something that ERISA says,\nparticularly in the context of service provider transactions.\nNow this case is not about the burden of proof.\nThis complaint got dismissed at the pleading stage.\nSo the question the -- the Second Circuit had to decide was, you know,\nwho has the burden and -- and -- and what is it at the pleading stage,\nwhat does a plaintiff have to plead to go forward past a motion to\ndismiss and into discovery to allow a case to go forward.",
+      "questions": []
+    },
+    {
+      "conversation_id": 78,
+      "dialogue": "Justice Alito\n### Justice Alito:\nIt's been suggested that the concerns that seem to have animated the\nSecond Circuit were unfounded or at least overblown for, I count, six\nreasons.\nAnd it would be helpful if you could explain why you think they are\ninsufficient.\nSo one is Rule 7 of the Rules of Civil Procedure.\nThe other, which I really don't exactly understand, is the idea that Box B\ncomplaints are required but would be sufficient. Another one is\nstanding, expedited discovery, coupled with a motion for summary\njudgment, fee shifting, sanctions.\nWhy are -- are they not sufficient?\n### Nicole A. Saharsky:\nRight.\nBecause the rule is that a plaintiff has to come to court and plead the\nelements and doesn't have to plead affirmative defenses.\nNow, if the Court -- and that's -- that's how Iqbal and Twombly are\nunderstood. That's what it means to bring a claim to court and plead\nfacts to show an entitlement to relief.\nIt's entitlement to relief on -- on the elements.\n### Justice Alito:\nOkay.\nWhat about the Rule 7 workround?\n### Nicole A. Saharsky:\nSo we think that that is kind of convoluted and discretionary and that's\nthe problem with it . First of all, there would not be an opportunity to\nRule 11 -- Rule 7 just applies to an answer.\nSo the Court has discretion about whether the Court can -- whether it\ncan -- it asks for a reply brief or not.\nSo I guess what the government is thinking is the plaintiff pleads the\nmere fact of a service provider transaction.\nThe defendant says no, this --it is a --for reasonable fees and necessary\nservices.\nAnd then, at that point, the court should exercise its discretion to\nrequire the plaintiff to plead additional facts to show that the fees are\nunreasonable or the service is unnecessary.\nThe problem with that is that it's discretionary.\nA plaintiff could go to a district court that's favorable, not -- the district\ncourt would say: I don't want to do that.\nAnd then it's off to discovery and off to summary judgment.\n### Justice Alito:\nWell, could we say that in the --in the particular circumstances here, it\nwould be an abuse of discretion for the district court not to follow that\nprocedure?\n### Nicole A. Saharsky:\nThe Court absolutely could say that.\nI guess my suggestion would be is that the Court should be very clear if\nthat's what the Court wants, because that's not the way that things\nhappen now with respect to Rule 7. And so the Court would -- would\nhopefully say that in those circumstances, in --in the case of a service\nprovider transaction, that if the defendant alleges that the fees were\nreasonable, the services were necessary, something in Section 1108,\nthat then the district court absolutely should require the plaintiff to\nrespond and plead facts to show, plausibly show, that the fees were\nunreaso nable. I mean, our bottom line, which I understand to be the\nsame as the government's bottom line, although I'm not entirely sure,\nis that the plaintiff should not be able to just come to court and say\nthere was a service provider transaction, that's bad, we're off to the\nraces with a lawsuit.\n### Justice Alito:\nOkay.\n### Justice Alito:\nsummary judgment motion?\n### Nicole A. Saharsky:\nSo I will address each of those, but let me just say none of these\nsupposed solutions or guardrails are working now in the district courts,\nand that would be before the Court announced a rule that you could\nperhaps just go in with a service provi der transaction.\nAnd just one point on that.\nYou know, there have been two dozens lawsuits that have been filed\nagainst university plans.\nIn none of them has a court found that the plaintiff succeeded on the\nmerits.\nThis has been, like, millions of dollars that these universities have spent\non discovery and individuals who have been named personally and had\nto live under a clued for years and years.\nSo this idea that there are these great guardrails that are going to solve\nthat problem, that's not happening now, and that's before Petitioners'\nposition gets accepted.\nBut, to -- to specifically answer your question, I don't know that\nstanding is a solution because standing, establishing an -- an -- an\ninjury for standing is different from establishing an entitlement to relief\nunder a cause of action.\nI don't know what injury a plaintiff might claim.\nI mean, I think Petitioners' theory is that the mere fact of paying money\nto a service provider is an injury because Congress decided that that was\nbad or at least presumptively bad.\nSo now there's been a suggestion that the injury would be unreasonable\nfees, but I -- that --that, to me, gets us back to, well, aren't the\nunreasonable fees part of the elements, so the cause of action.\nSo I -- there's also the possibility of jurisdictional discovery and\nstanding, which, you know, makes it seem to me like not a very great\nsolution.\nAnd I guess the last thing I would say on that is, you know, if -- if -- if\nthere is a standing problem or a -- some other constitutional problem\nwith the statutory interpretation the Petitioners are suggesting, that\nwould be a good reason not to do that thing and to take the other\nreading of the statute, which is much more reasonable.\nI mean, nearly every court that's looked at this and, you know,\napparently, the Solicitor General say Petitioners' position just can't be\nright, that just cannot be right.\nAnd there has to be a way to make sure that the plaintiffs have some\nburden to plead something more.\nAnd there's a really obvious way to do that, which is to say, well, in this\ncircumstance, we understand that Section 1108 helps to define the\ncause of action, to say that this is actually something that the plaintiffs\nhave to plead.\nAnd I -- just to get back to a -- a point",
+      "questions": []
+    },
+    {
+      "conversation_id": 79,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nmade, I --I don't\nthink it would be a big deal or weird to do that because, you know, this\nCourt takes each case as it comes to it.\nIt's not like it has had a lot of interpretive questions about Section\n1106(a), but the last time it did, in Lockheed versus Spink, there was\nanother plaintiff that came in and was suggesting a reading of Section\n1106(a) that seemed kind of facially just crazy, you can't do this, you\ncan't say 1106(a) prohibits a plan from paying benefits to beneficiaries.\nBut the language of Section 1106(a) was so broad that it seemed like it\ncould cover it.\nAnd the Court said: We're not going t o do that.\nWe're going to read the particular provision at issue in 1106(a) to not\nallow that result.\nAnd that's --that's exactly what we're asking here.\nAnd just in terms of the experience in terms of the lower courts, these\nprohibited transaction cases do not come up very often now. There's\nmaybe a handful of factual circumstances where -- that have been\nlitigated in the courts of appeals that involve fees for services,\nparticipant loans, some cases with buying employer stock or property,\nlike employee stock ownership cases, things like that.\nThere's kind of a handful of these.\nI don't think any of them have led to circuit splits.\nI don't think that there's --there should be much concern about the\nCourt, you know, adopting a rule that's going to have spillover effects\nfor any of those.\nAnd so I guess, you know, what we would say is that the Court should\ndecide this case just as it decides, you know, all of the cases that come to\nit, which is on the language of this particular provision.\nAnd we appreciate that the government is, you know, trying to help find\nthese solutions to the problems with Petitioners' position, but I think,\nat the end of the day, they're not happening.\nThey're not working now. I think they're discretionary.\nI -- I -- I -- the suggestion about, like, well, maybe there could be\nexpedited discovery or not much discovery because you could just look\nat the face of the service provider -- the contract and see if it's good or\nnot good, well, that hasn't been happening in these cases.\nI mean, the -- the --there have been experts on both sides to discuss\nwhether the fees are reasonable or not.\nYou know, discovery has gone on for years and years.\nThese university cases started in 2016, and they're still going on now.\nSo I just would caution the Court before thinking that any of those\nsuggested solutions would be real solutions.\nCould you just go back to the suggested solution of the government? I\nthink you said to",
+      "questions": []
+    },
+    {
+      "conversation_id": 80,
+      "dialogue": "Justice Alito\n### Justice Alito:\nit just doesn't make any sense, but I\nwasn't quite sure I understood why you thought that.\n### Nicole A. Saharsky:\nSure.\nSo, if the solution is that a plaintiff has to plead unreasonable fees or\nunnecessary services, then that is a great result, but we just want that to\nbe clear, that that is the obligation that the district courts would\nenforce.\nSo there are two ways that the government suggests getting there, and\nthey both seem kind of convoluted to us and also have this discretionary\naspect that we're concerned about.\nThe first way that the government suggests is on motion to dismiss.\nThe idea would be that in response to a motion to dismiss, that a\nplaintiff would have to plead additional facts to show that the fees were\nunreasonable or the service is unnecessary. But, like, why would the\nplaintiff have to plead that, because it's not an element? The\ngovernment says it's an obvious alternative explanation.\nWell, we think that that misunderstands, for the reasons Justice\nGorsuch gave, what the obvious alterna tive explanation doctrine is.\nIt's like a reason that the element isn't met.\nLike, in an antitrust complaint, the allegation could be, well, a whole\nbunch of companies did the same thing. But an obvious alternative\nexplanation is, well, they --they all did the same thing because of\nmarket forces.\nSo it wasn't that they did, you know, the bad thing, which was a\nconspiracy.\nHere, what Petitioners define as, you know, the bad thing is jus t the\nservice provider transaction.\nAnd the fees being reasonable isn't an alternative explanation for\nwhether there was a service provider transaction or not. It's like an extra\nfact. Now, if the Court wanted to revisit Iqbal and Twombly and say that\nit also imposes a burden on plaintiffs to negate affirmative defenses,\nthat would be terrific.\n(Laughter.)\nBut it would be, I think, a --a sea change in the law that would have\neffects well -- well past this case. So that's their Option 1.\nAnd then I think we've discussed a little bit more their Option 2, which\nwas Rule 7.\nSo Option 1 was for the motion -to-dismiss stage.",
+      "questions": []
+    },
+    {
+      "conversation_id": 81,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nRight.\n### Nicole A. Saharsky:\nRight.\n### Justice Kagan:\nIf you feel like you have more to say on Rule 7, go ahead, but -- but that\nwas what I wanted to know about.\n### Nicole A. Saharsky:\nI -- I just think, if the --if the Court wanted to pursue a Rule 7 solution,\nit should, please, make clear that that is something that district courts\nhave to do because it is discretionary and there's not judicial review of it,\nand these cases could go on and on and on.\nI would like to say one other thing, though, about Rule 7 and --and this\nparticular case, which is, so assuming that the plaintiffs do have some\nburden to plead unreasonable fees, we think the Second Circuit correctly\nfound that they didn't plead it here and that this Court, you know,\nordinarily doesn't review that kind of holding, like the application of a\nlegal principle to particular facts, but, if it did, you know, it would be\nclear here that there's, like, no reason for a remand.\nSo just to --just to explain what the Second Circuit did, you know,\npleading that fees are unreasonable, of course, is just a legal conclusion,\nso you need some plausible facts to show why they're unreasonable.\nHere, you know, there was an allegation that the fees were too high, but\nthere wasn't any allegation of what the services were for or that there\nwere other university plans that had comparable services that had much\nlower fees.\nAnd that's all the Second Circuit was saying.\nIt didn't say anything about Cadillac plans.\nIt just said, like, we don't know if something is too high unless we know\nwhat it's for.\nWe don't know -- we need to know, you know, what services it's for.\nIs it more services? Is it fewer services? Is it better services? And that's\nnot a weird rule in the Second Circuit.\nThat's actually the same thing that, like, the Sixth, Seventh, Eighth,\nTenth Circuits have said in these unreasonable fee cases, which is you\ncan't just plead, like, high fees in the abstract and say they're too high.\nYou have to give us some plausible facts as to why they're too high,\nwhich are, you know, compare them to something else that's like your\nplan where they didn't pay those kinds of fees. And so, you know, we\nthink the Second Circuit was exactly right to say that.\nThe only other thing I'll say just because the government put this in\nissue is that, you know, there's no point in a remand in this case because\nthe plaintiffs actually had the opportunity to try to adduce, you know,\nevidence through years and years of discovery to try to show that the\nfees were unreasonable.\nThat was, I think, as",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 4/10",
+      "complexity_score": 4
+    },
+    {
+      "conversation_id": 82,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nwas suggesting, not on their\nprohibited transaction claim but on their -- their claim for breach of the\nduty of prudence. And so they went through all this discovery and they\nwere supposed to put forward their best evidence of the fees being\nunreasonable, and they couldn't do it.\nThey had two experts, but they didn't -- those experts didn't actually\ncompare the fees to --to the services or to any other plans.\nAnd so the district court and then the Second Circuit said, well, like,\nyou've got -- you've got no evidence of this.\nSo, I mean, it's not only that they -- we don't think that they properly\npleaded it; it's that, like, they've already lost on the merits.\nAnd so, even if the Court decides to do something different from the\nSecond Circuit, you know, we think the rule should be that they have to\nplead the unreasonable fees.\nAnd, here, you know, they just didn't.\nThe Second Circuit found they didn't.\nAnd it's just not going to matter at the end of the day.\nSo, you know, the bottom line is Petitioners' position is intolerable.\nNearly everyone recognizes that.\nThe Second Circuit gave you a sensible solution that's very careful\nreading of the statutory text and doesn't create superfluous language,\naccounts for all the other provisions of ERISA.\nAnd, you know, we think that you should adopt that approach and we\nthink you should affirm.",
+      "questions": []
+    },
+    {
+      "conversation_id": 83,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nJustice Thomas? Justice Alito?",
+      "questions": []
+    },
+    {
+      "conversation_id": 84,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\n?\nOn that last point you raised previously, the trial, did you have experts\nwho said why your fees were reasonable?\n### Nicole A. Saharsky:\nYes.\nSo it was summary judgment.\nWe had an expert; they had two experts.\nBoth of their experts were found to be unreliable under Daubert.\nAnd then we also had our own expert that explained that Cornell's fees\nwere entirely in line with the other fees charged by other universities.\n### Justice Sotomayor:\nSo you may be right on that bottom line, so even if we vacated and\nremanded and -- and encouraged a -- a Rule 7 or whatever, you would\nstill win downst airs?\n### Nicole A. Saharsky:\nCorrect, but we're suggesting that you shouldn't vacate and remand.\n### Justice Sotomayor:\nI know what you want.\nI'm just saying -- (Laughter.)\n### Justice Sotomayor:\nThank you, counsel.\n### Nicole A. Saharsky:\nYes.\nAs a practical matter, this case has been going on since 2016, just like\nthese other university cases, and it's time for it to end.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 85,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Kagan? Justice Gorsuch?",
+      "questions": []
+    },
+    {
+      "conversation_id": 86,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\n? Justice Jackson? Thank\nyou, counsel.\n### Nicole A. Saharsky:\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 87,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nRebuttal, Mr. Wang?\n### Xiao Wang:\nI just have two brief points.\nThe first point was in response to some questions to my friend on the\nabout 1106(a) and 1106(b).\nWhy does it have one and --and -- and not the other? And I think this\nCourt's opinion in Barton versus Barr is quite instructive on that. It says\nat page 239 redundancies are common in statutory drafting, sometimes\nin a congressional effort to be doubly sure.\nAnd why would Congress want to be doubly sure here? Because, in fact,\nRespondents' brief concedes this point. On 2 --on page 27 of their brief,\nthey say: As a practical matter, Section 1108's exemptions may apply\nless often to Section 1106(b) than to Section 1106(a).\nAnd I think, in response to,",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 88,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\n, some of your questions about\nis this a class of one or -- or -- or not, I think it's pretty clear it's not a\nclass of one, and maybe one analogy can -- can help crystallize this\npoint.\nImagine you're going to the airport and you see a sign that says: Except\nas otherwise provided, no liquids, gels, or aerosols.\nThen you see another sign that says: No firearms on the plane.\nAnd then the third sign says: Here are the exceptions.\nI think the \"except as otherwise provided\" is just telling the common\ntraveler, well, certainly, you know, we don't want most liquids, gels, or\naerosols in, but, if you have a medical reason, a dietary reason to bring\nthem in, go ahead.\nMake sure you take a look at those exceptions.\nBut there are far fewer exceptions for firearms, and if they do exist, take\na look at that, but it's -- we --we don't want to direct you to that list of\nexemptions. And I think that's just one common instance of the fact\nthat it's not a class of one.\nI think this leads me to the second and sort of final point I'd like to\nmake, which is, you know,",
+      "questions": []
+    },
+    {
+      "conversation_id": 89,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nasked quite a bit about ripple\neffects and --and what -- what are the ripple effects of ruling in our\nfavor versus ruling in Respondents' favor.\nAnd I think that crystallizes the daylight between our positions.\nOur position is to ask this Court to read the statutory text as written and\nto apply the text as written using common tools that it sees in terms of\nthe structure of the text, the information and symmetries, common law\ntrust rules.\nRespondents' position is not simply to sidestep the text but to contort it\nand to distort it in two different ways.\nThe first is to sort of try to stitch together 1106 and 1108.\nSome of 1108's exceptions actually become elements and then you have\nto plead and prove beyond that.\nAnd the second way, second more important way, I think -- or second\nand equally important way that Respondents ask you to distort the text\nis to say: Look, we know Congress defined parties in interest.\nIt has all of these categories.\nAnd we want a little bit of a special carveout for outside service\nproviders, persons providing services to the plan.\nBut the text doesn't countenance that. And, as a practical matter, the\nEighth Circuit, the Ninth Circuit, these other courts that have adopted\nthe standard that we advocate, we don't see cases on the ground that\nsuggest that any such solution is needed.\nSo, for those reasons, Your Honor, we ask this Court to apply the text as\nwritten and to reverse the judgment of the Second Circuit.",
+      "questions": []
+    },
+    {
+      "conversation_id": 90,
+      "dialogue": "Chief Justice Roberts\n\n### Chief Justice Roberts:\nThank you, counsel.\nThe case is submitted.",
+      "questions": []
+    }
+  ],
+  "generation_stats": {
+    "total_conversations": 90,
+    "conversations_with_questions": 10,
+    "conversations_without_questions": 80,
+    "processed_conversations": 90,
+    "questions_generated": 40,
+    "skipped_for_low_complexity": 24,
+    "coverage_rate": "11.1%",
+    "methodology": "Extract key phrases from justice statements and create multiple choice questions with extremely deceptive distractors"
+  },
+  "answer_distribution": {
+    "counts": {
+      "A": 7,
+      "B": 14,
+      "C": 7,
+      "D": 12
+    },
+    "percentages": {
+      "A": 17.5,
+      "B": 35.0,
+      "C": 17.5,
+      "D": 30.0
+    },
+    "total_questions": 40
+  }
+}

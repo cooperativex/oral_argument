@@ -1,0 +1,1789 @@
+{
+  "source_file": "Monsalvo Velazquez v. Garland _ Oyez.md",
+  "description": "MODERATELY CHALLENGING predict-next Justice question generation with balanced legal distractors",
+  "methodology": "Two-step process: (1) Generate 10 related legal alternatives, (2) Select 3 balanced distractors for 70-80% target accuracy",
+  "difficulty_level": "MODERATE - Targets law students and legal professionals (70-80% accuracy)",
+  "distractor_approach": "Balanced mix: related but different, clearly different, and obviously wrong alternatives",
+  "context_mode": "with_previous_contexts",
+  "use_previous_contexts": true,
+  "background": "Mr. Velázquez, a Mexican citizen, entered the U.S. without authorization in 2005. In 2011, the Department of Homeland Security sought to remove him and served a deficient Notice to Appear that lacked time and place details. In 2013, Velázquez admitted to unlawful entry and sought withholding of removal and protection under the Convention Against Torture. In March 2019, an Immigration Judge denied these requests but granted voluntary departure within 60 days. Velázquez appealed to the Board of Immigration Appeals (BIA), which dismissed his appeal in October 2021 and reinstated the 60-day voluntary departure period. On December 13, 2021, Velázquez filed a motion to reopen his case to apply for cancellation of removal, arguing he had accrued 10 years of continuous presence due to his deficient Notice to Appear. The BIA denied this motion, finding Velázquez had not asserted “new facts” and that the motion was untimely, filed after the 60-day voluntary departure period. Velázquez then filed a motion to reconsider, challenging only the timeliness determination, which the BIA also denied. Velázquez filed a petition for review in federal court, but the U.S. Court of Appeals for the Tenth Circuit denied review, concluding that Mr. Velázquez failed to voluntarily depart or file an administrative motion within 60 calendar days, the maximum period provided by statute. 8 U.S.C. § 1229c(b)(2).",
+  "conversations": [
+    {
+      "conversation_id": 1,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nWe'll hear argument first this morning in Case 23-929, Velazquez\nversus Garland.\nMr. Cedrone.\n### Gerard J. Cedrone:\nThank you, Mr. Chief Justice, and may it please the Court: The 60-day\ntime period in the voluntary departure statute works like any routine\nlegal time period.\nWhen the last day falls on a weekend or holiday, the period continues to\nrun until the next business day.\nCongress would have expected people to read the statute this way.\nIn 1996, common law principles, case law, established rules and\nregulations, and years of consistent practice all pointed to that\ninterpretation.\nIf Congress had meant to deviate from that traditional understanding, it\nwould have said so.\nEven the government now acknowledges that other deadlines in the\nsame section of IIRIRA follow the traditional rule in light of a long-\nstanding immigration regulation defining the word \"day.\" So the only\nway to adopt the government's interpretation is to believe that\nCongress used two different meani ngs of the word \"day\" in the same\nsection of the same statute.\nThere's simply no indication that Congress took that kind of split\napproach.\nThe government's interpretation would also spell chaos for regulatory\ndefinitions and deadlines.\nIn the government's view, even though Section 1001.1(h) provides a\nsingle definition for the word \"day,\" that -- the immigration\nregulations actually use that term to mean different things throughout.\nAnd so the only way to tell which deadline follows which time\ncalculation rule is to trace each deadline's history back through earlier\nand earlier versions of the code and Code of Federal Regulations.\nAnswering a question as simple as does my deadline fall on Saturday or\nMonday shouldn't depend on this kind of complex historical\ninvestigation, especially when deportation's on the line.\nThe default rule for weekends and holidays exists precisely to avoid this\nkind of case-by-case guesswork. The government identifies no reason\nand certainly no reason grounded in the text of the statute to depart\nfrom that traditional rule.\nThe Court should read Section 1229c like any other statute and follow\nthe usual rule for weekends and holidays.\nI welcome the Court's questions.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 2,
+      "target_dialogue": "## Justice Thomas\n### Justice Thomas:\n1252(a) speaks in terms of a removal --final removal order.\nIs there one involved in this case?\n### Gerard J. Cedrone:\nThere is, Your Honor. And I would make two points.\nFirst, as you point out, subsection (a)(1) speaks in terms of judicial\nreview of a final order of removal.\nThat's exactly what we're seeking.\nIf we win in this case, the final order of removal that binds our client will\nsay one thing.\nIf we lose, it will say another.\nAnd the second point is this Court has long recognized that BIA\ndecisions on reopening and reconsideration are separate final orders\nthat require a separate petition and are separately reviewable in the\ncourts of appeals.\n### Justice Thomas:\nIt seems that you're saying that a collateral consequence to a ruling on\nthis is a part of the final or der.\nHow is that?\n### Justice Thomas:\nThe order itself is not here, right?\n### Gerard J. Cedrone:\nI disagree, Your Honor, in two respects.\nSo, one, as I just pointed out, the Court has consistently explained that a\n### Justice Thomas:\nI thought we were talking about the 60 --whether there are 60 days or\n62 days to leave for --voluntarily.\n### Gerard J. Cedrone:\nThat's right, Your Honor.\nAnd the voluntary departure order at pages 42a and 43a of the Petition\nAppendix spell out the consequences if, on the one hand, our client files\na timely motion to reopen or, on the other hand, if our client fails to\ndepart the country or files an untimely motion.\nThere are two alternate orders of removal waiting in the wings, one with\nharsh penalties, one without, and this timeliness determination directly\naffects which of those alternate orders of removal will take effect.",
+      "justice_name": "Justice Thomas",
+      "total_justice_questions": 4,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Thomas most likely ask next?",
+          "options": {
+            "A": "Could you clarify if collateral consequences affect the finality of the order in any constitutional context?",
+            "B": "What are the key differences between a removal order and other administrative decisions in immigration law?",
+            "C": "What is the importance of establishing burden of proof in this removal outcome for your client?",
+            "D": "It seems that you're saying that a collateral consequence to a ruling on\nthis is a part of the final or der.\nHow is that?"
+          },
+          "answer": "D",
+          "target_justice": "Justice Thomas",
+          "debug_info": {
+            "correct_answer": "It seems that you're saying that a collateral consequence to a ruling on\nthis is a part of the final or der.\nHow is that?",
+            "fake_questions": [
+              "Could you clarify if collateral consequences affect the finality of the order in any constitutional context?",
+              "What are the key differences between a removal order and other administrative decisions in immigration law?",
+              "What is the importance of establishing burden of proof in this removal outcome for your client?"
+            ],
+            "all_generated_alternatives": [
+              "Could you clarify if collateral consequences affect the finality of the order in any constitutional context?",
+              "What impact do BIA decisions on reopening have on the eligibility for judicial review of a removal order?",
+              "How do procedural rights during the removal process play into the question of final orders?",
+              "What is the importance of establishing burden of proof in this removal outcome for your client?",
+              "How does the doctrine of res judicata influence the finality of administrative decisions related to removals?",
+              "What specific legal standards govern judicial review of a removal action, beyond just the final order aspect?",
+              "How does statutory interpretation of removal orders differ from the constitutional implications in this case?",
+              "Could you explain the role of jurisdiction in petitioning against decisions made in immigration proceedings?",
+              "What are the key differences between a removal order and other administrative decisions in immigration law?",
+              "What consequences do you fear if the court denies the request for judicial review in this matter?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 4
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 0
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Thomas most likely ask next?",
+          "options": {
+            "A": "What evidence supports the petitioner's position here?",
+            "B": "The order itself is not here, right?",
+            "C": "Is there an existing appeal pending regarding this case?",
+            "D": "What implications arise from the final order's absence?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Thomas",
+          "debug_info": {
+            "correct_answer": "The order itself is not here, right?",
+            "fake_questions": [
+              "What implications arise from the final order's absence?",
+              "Is there an existing appeal pending regarding this case?",
+              "What evidence supports the petitioner's position here?"
+            ],
+            "all_generated_alternatives": [
+              "What specific issues does the order address?",
+              "Is there an existing appeal pending regarding this case?",
+              "What evidence supports the petitioner's position here?",
+              "Does the court have jurisdiction over this case?",
+              "What implications arise from the final order's absence?",
+              "Has a decision been made on this removal order?",
+              "What grounds exist for challenging the current order?",
+              "Are there any procedural requirements for the hearing?",
+              "What arguments support a remand of this case?",
+              "Why is the order critical to this legal issue?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 4
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 0
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Thomas most likely ask next?",
+          "options": {
+            "A": "What implications does the timeline for voluntary departure have on the final removal order in this case?",
+            "B": "I thought we were talking about the 60 --whether there are 60 days or\n62 days to leave for --voluntarily.",
+            "C": "How might the timing of this case influence the outcome of future similar removal proceedings?",
+            "D": "What are the procedural requirements for filing a notice of appeal in a removal case?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Thomas",
+          "debug_info": {
+            "correct_answer": "I thought we were talking about the 60 --whether there are 60 days or\n62 days to leave for --voluntarily.",
+            "fake_questions": [
+              "What implications does the timeline for voluntary departure have on the final removal order in this case?",
+              "What are the procedural requirements for filing a notice of appeal in a removal case?",
+              "How might the timing of this case influence the outcome of future similar removal proceedings?"
+            ],
+            "all_generated_alternatives": [
+              "What implications does the timeline for voluntary departure have on the final removal order in this case?",
+              "How does the BIA's decision on reopening appeal affect the deadlines for voluntary departure procedures?",
+              "What factors influence the duration required for leaving voluntarily after a removal order is issued?",
+              "Can the court grant extensions beyond the statutory period for voluntary departure in this case?",
+              "What are the procedural requirements for filing a notice of appeal in a removal case?",
+              "How does the 60-day deadline for appealing relate to the jurisdictional authority of this court?",
+              "What is the standard for determining whether the BIA acted appropriately in denying voluntary departure?",
+              "Which legal tests apply to assess the validity of the removal order's timeframe requirements?",
+              "What role does due process play in determining the sufficiency of notice for voluntary departure periods?",
+              "How might the timing of this case influence the outcome of future similar removal proceedings?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 4,
+            "total_questions_in_conversation": 4
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 0
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 3,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nYou argue, and just did, that this is a very simple question. But a good\npart of your argument is tak ing regulatory provisions and applying\nthem to the statute.\nYou say that that is the appropriate prism through which to read the\nstatute.\nThe prism test doesn't sound very straightforward and clear to me.\n### Gerard J. Cedrone:\nWhat you have in this case is everything pointing in the same direction.\nSo start with the regulation. Section 1001.1 provides a definition of\n\"day\" that has governed since the creation of the INA and that\nremained unchanged for a decade before this particular provision\npassed.\nAnd the government even acknowledges now that other deadlines in\nthe same section of IIRIRA follow that definition.\nSo somebody picking up the statute in 1996 would have read the statute\nin light of that definition.\nBut it's not just the regulation.\nAs we point out, that regulation codifies an earlier practice that's\nreflected in Civil Rule 6(a), which this Court and the BIA have looked to.\nThat rule itself codifies earlier decisions, like this Court's decision in\nStreet, that recognized a general principle that when a power can be\nexercised up until a certain day, if that day is a Sunday or holiday, it can\nbe exercised the next business day.\n### Chief Justice Roberts:\nI'm sorry, go ahead.\n### Gerard J. Cedrone:\nEncapsulated an even earlier common law principle.\nAnd so somebody reading this statute in '96 would have had no reason\nto deviate from all of those things, pointing to the same interpretation.\n### Chief Justice Roberts:\nBut your argument evolves, right? I mean, as I read your brief anyway,\nthe Sunday provision was pretty clear early on, but then Saturday kind\nof crept in there somewhere along the way.\nAnd so, usually, we think of statutory -- timing deadlines as not sort of\nflexible in that way.\n### Gerard J. Cedrone:\nTwo points, Your Honor. First, I would just return to the regulation and\nsay that that definition, which was in place for years before this statute\n### Gerard J. Cedrone:\nRight, and I think that regulation encapsulates an earlier principle that\nhas not changed over time.\nSo the way I would frame the principle generally is that there are certain\ndays, you can call them -- certain legally recognized days of rest.\nYou can call them non-business days.\nYou can use the Latin term dies non juridicus.\nThat principle recognizes that when a deadline or time period expires on\none of those legally recognized days of rest, it carries over to the next\nday.\nBut the days that are legally recognized days of rest can change over\ntime. And so, with respect to Saturday, of course, there was a change in\nthe 20th century as Saturday came to be recognized as a day that's akin\nto Sunday, on par with Sunday. But the prin --- the underlying principle",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 4,
+      "target_dialogue": "## Justice Sotomayor\n### Justice Sotomayor:\nCounsel, why are you going so far? You don't need the common law.\nCommon law provides a background for what Congress was doing when\nit passed this law, correct?\n### Gerard J. Cedrone:\nYes.\n### Justice Sotomayor:\nAnd your answer is that when a word comes with old soil, you transport\nthe old soil.\n### Gerard J. Cedrone:\nThat's right.\n### Justice Sotomayor:\nAll right.\nAnd the old soil here, even according to the government, was that \"day\"\nwas defined according to the regulation.\n### Gerard J. Cedrone:\nThat's right.\n### Justice Sotomayor:\nAll right.\nNow the question is do we follow the government's new argument that\nthere's somehow a difference in how \"day\" is defined with respect to\ncourt obligations or -- I --I don't know where they get the word\n\"substantive\" from --or substantive obligations, correct?\n### Gerard J. Cedrone:\nThat's right.\n### Justice Sotomayor:\nBut, if I look at the old soil, why don't I look at the law itself, the INA law,\nand when Congress wanted to talk about calendar days, it used\n\"calendar day\" instead of the word \"day,\" correct? I'm looking at 8\nU.S.C. 1228(b)(3), which has to do with the Attorney --Attorney General\nnot executing any order for expedited removal until 14 calendar days\nhave passed, correct?\n### Gerard J. Cedrone:\nI confess I'm not familiar with that particular provision, but our position\n### Justice Sotomayor:\nAnd something like this would be a clear deviation?\n### Gerard J. Cedrone:\nI think it probably would be.\n### Justice Sotomayor:\nAll right.\nNow am I -- I want to go back to the jurisdictional question that Justice\nThomas started with.\nThe government didn't raise a jurisdictional -- this jurisdictional point\nbefore the Tenth Circuit, did it?\n### Gerard J. Cedrone:\nIt did not.\n### Justice Sotomayor:\nAnd it raised it in its petition for opposition, but you didn't reply to it\nuntil your reply, correct?\n### Gerard J. Cedrone:\nThat's correct.\n### Justice Sotomayor:\nHas this percolated among other courts yet?\n### Gerard J. Cedrone:\nI don't believe this particular issue -- well, I should say this.\n### Justice Sotomayor:\nindependent jurisdictional basis, correct?\n### Gerard J. Cedrone:\nThat's right.\n### Justice Sotomayor:\nSo hard to think why anybody would think they didn't have jurisdiction.\nBut, if we were to accept the government's ruling, do you know what\nother consequences this would have?\n### Gerard J. Cedrone:\nI think, if you accept the government's view of jurisdiction in this case, it\nwould be either a real sea change for immigration law because it would\nmean that reopening and reconsideration decisions aren't separately\nreviewable, as this Court has consistently pointed out in Reyes Mata, in\n### Justice Sotomayor:\nknow whether we would have granted cert if we knew it was one-off to\nstart with -- that everybody else appeals the order to remove, but you\ndidn't.\nSo I guess my question is, assuming we rule the way the government\nwants us to, do we know f ully the consequences of that?\n### Gerard J. Cedrone:\nI think it would be a lot of make-way arguments in the courts of appeals.\nThe government doesn't dispute, nor could it, that courts of appeals\n### Justice Sotomayor:\nCounsel, stop going to the substance.\nI'm trying to ask you a question.\nGiven that this is a new issue before us, isn't the best way to deal with it\n### Gerard J. Cedrone:\nI agree, the Court doesn't need to weigh into the jurisdictional issue\nbeyond recognizing that this case falls within 1252(a)(1).\nI -- I do think there would be confusion if the Court were to side with the\ngovernment because the government doesn't dispute that courts of\nappeals can review this exact issue.\nIt just thinks you have to bundle it with other arguments.\nThere's nothing in the text of the statute that requires it.",
+      "justice_name": "Justice Sotomayor",
+      "total_justice_questions": 11,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Sotomayor most likely ask next?",
+          "options": {
+            "A": "All right.\nNow the question is do we follow the government's new argument that\nthere's somehow a difference in how \"day\" is defined with respect to\ncourt obligations or -- I --I don't know where they get the word\n\"substantive\" from --or substantive obligations, correct?",
+            "B": "Is there any legal precedent that supports altering the definition of 'day' based on implied rather than explicit obligations?",
+            "C": "What implications does the government's position on the definition of 'day' have for procedural requirements in this case?",
+            "D": "How does the potential difference in 'day' definitions relate to other statutory time limitations in immigration law?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Sotomayor",
+          "debug_info": {
+            "correct_answer": "All right.\nNow the question is do we follow the government's new argument that\nthere's somehow a difference in how \"day\" is defined with respect to\ncourt obligations or -- I --I don't know where they get the word\n\"substantive\" from --or substantive obligations, correct?",
+            "fake_questions": [
+              "What implications does the government's position on the definition of 'day' have for procedural requirements in this case?",
+              "How does the potential difference in 'day' definitions relate to other statutory time limitations in immigration law?",
+              "Is there any legal precedent that supports altering the definition of 'day' based on implied rather than explicit obligations?"
+            ],
+            "all_generated_alternatives": [
+              "What implications does the government's position on the definition of 'day' have for procedural requirements in this case?",
+              "How might the definition of 'day' affect the standard applied to time-sensitive judicial obligations?",
+              "Can you explain whether the current interpretation of 'day' falls under legislative intent rather than judicial precedent?",
+              "How does the potential difference in 'day' definitions relate to other statutory time limitations in immigration law?",
+              "In considering potential changes to the definition of 'day,' how would that impact previous rulings on this statute?",
+              "What are the potential consequences of interpreting 'day' in this manner on overall due process in administrative matters?",
+              "Is there any legal precedent that supports altering the definition of 'day' based on implied rather than explicit obligations?",
+              "Can the timing of a decision on the definition of 'day' influence the court's ruling on related statutory interpretations?",
+              "What are the current legal standards for defining terms in immigration statutes versus general statutory interpretation?",
+              "How do the historical meanings of time-related terms contrast with the modern statutory definitions in this context?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 11
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 1
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Sotomayor most likely ask next?",
+          "options": {
+            "A": "But, if I look at the old soil, why don't I look at the law itself, the INA law,\nand when Congress wanted to talk about calendar days, it used\n\"calendar day\" instead of the word \"day,\" correct? I'm looking at 8\nU.S.C. 1228(b)(3), which has to do with the Attorney --Attorney General\nnot executing any order for expedited removal until 14 calendar days\nhave passed, correct?",
+            "B": "What implications arise from the lack of a specific definition of 'day' in the regulations surrounding the expedited removal process?",
+            "C": "Given the historical context, how should we interpret the different definitions of 'day' in various statutes, particularly regarding the INA?",
+            "D": "If we are examining statutory language, how would you interpret the significance of terms such as 'business days' compared to 'calendar days' in removal orders?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Sotomayor",
+          "debug_info": {
+            "correct_answer": "But, if I look at the old soil, why don't I look at the law itself, the INA law,\nand when Congress wanted to talk about calendar days, it used\n\"calendar day\" instead of the word \"day,\" correct? I'm looking at 8\nU.S.C. 1228(b)(3), which has to do with the Attorney --Attorney General\nnot executing any order for expedited removal until 14 calendar days\nhave passed, correct?",
+            "fake_questions": [
+              "Given the historical context, how should we interpret the different definitions of 'day' in various statutes, particularly regarding the INA?",
+              "If we are examining statutory language, how would you interpret the significance of terms such as 'business days' compared to 'calendar days' in removal orders?",
+              "What implications arise from the lack of a specific definition of 'day' in the regulations surrounding the expedited removal process?"
+            ],
+            "all_generated_alternatives": [
+              "Given the historical context, how should we interpret the different definitions of 'day' in various statutes, particularly regarding the INA?",
+              "Can we consider how the term 'day' has been interpreted in prior court decisions relating to expedited removal under 8 U.S.C.?",
+              "What role does Congress's intent play when they specified 'calendar day' in 8 U.S.C. 1228(b)(3) in terms of compliance timelines?",
+              "If we are examining statutory language, how would you interpret the significance of terms such as 'business days' compared to 'calendar days' in removal orders?",
+              "How do the definitions and applications of statutory terms like 'day' differ when applied to procedural requirements versus substantive rights?",
+              "What implications arise from the lack of a specific definition of 'day' in the regulations surrounding the expedited removal process?",
+              "Would adhering to the plain language of the statute affect how we view the Attorney General's responsibilities under the expedited removal law?",
+              "In interpreting the INA, should we consider the legislative history to clarify Congressional intent on timeframes linked to 'day' or similar terms?",
+              "When discussing standard interpretations of the INA, how does the ambiguity in terms like 'day' affect judicial review processes?",
+              "How might recent changes to immigration regulations impact the interpretation of terms such as 'day' in relation to agency actions?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 11
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 1
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Sotomayor most likely ask next?",
+          "options": {
+            "A": "How does this affect our understanding of statutory interpretation?",
+            "B": "What penalties are involved in failing to comply?",
+            "C": "And something like this would be a clear deviation?",
+            "D": "Would this ruling contradict existing case law?"
+          },
+          "answer": "C",
+          "target_justice": "Justice Sotomayor",
+          "debug_info": {
+            "correct_answer": "And something like this would be a clear deviation?",
+            "fake_questions": [
+              "How does this affect our understanding of statutory interpretation?",
+              "Would this ruling contradict existing case law?",
+              "What penalties are involved in failing to comply?"
+            ],
+            "all_generated_alternatives": [
+              "Would this interpretation create any legal precedent?",
+              "How does this affect our understanding of statutory interpretation?",
+              "Is there a procedural rule that governs this situation?",
+              "Could this be seen as a reasonable deviation from norms?",
+              "What are the timelines relevant to this statutory provision?",
+              "Would this ruling contradict existing case law?",
+              "How does the definition of 'day' influence the outcome?",
+              "What penalties are involved in failing to comply?",
+              "Should we consider historical context for this law?",
+              "Is there a governing regulation linked to this argument?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 4,
+            "total_questions_in_conversation": 11
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 1
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Sotomayor most likely ask next?",
+          "options": {
+            "A": "Let's pivot a bit; can you identify any relevant statutes that Congress enacted to guide Tenth Circuit decisions in these cases?",
+            "B": "In light of our jurisdictional concerns, did the government previously challenge this final order of removal in lower courts?",
+            "C": "All right.\nNow am I -- I want to go back to the jurisdictional question that Justice\nThomas started with.\nThe government didn't raise a jurisdictional -- this jurisdictional point\nbefore the Tenth Circuit, did it?",
+            "D": "Given our current discussion, can you clarify whether the government raised the issue of the standard of review before the Tenth Circuit?"
+          },
+          "answer": "C",
+          "target_justice": "Justice Sotomayor",
+          "debug_info": {
+            "correct_answer": "All right.\nNow am I -- I want to go back to the jurisdictional question that Justice\nThomas started with.\nThe government didn't raise a jurisdictional -- this jurisdictional point\nbefore the Tenth Circuit, did it?",
+            "fake_questions": [
+              "Given our current discussion, can you clarify whether the government raised the issue of the standard of review before the Tenth Circuit?",
+              "In light of our jurisdictional concerns, did the government previously challenge this final order of removal in lower courts?",
+              "Let's pivot a bit; can you identify any relevant statutes that Congress enacted to guide Tenth Circuit decisions in these cases?"
+            ],
+            "all_generated_alternatives": [
+              "Given our current discussion, can you clarify whether the government raised the issue of the standard of review before the Tenth Circuit?",
+              "Before addressing the jurisdictional point, did the government present its arguments regarding the validity of the removal order in the Tenth Circuit?",
+              "Am I correct in saying that this case now hinges on whether the government presented alternative grounds for appeal in the appellate court?",
+              "In light of our jurisdictional concerns, did the government previously challenge this final order of removal in lower courts?",
+              "If we shift focus, could you explain how the agency's decisions were perceived by the Tenth Circuit regarding substantive due process?",
+              "What is your view on how the Tenth Circuit navigated its own jurisdictional thresholds in this removal order?",
+              "I want to return to the procedural aspects here. Did the Tenth Circuit provide any insight on the government's ability to challenge this order?",
+              "Could you elaborate on the factors the Tenth Circuit used in determining the credible fear standard in this removal case?",
+              "I am curious whether there were previous jurisdictional disputes regarding the final order that the government did not address?",
+              "Let's pivot a bit; can you identify any relevant statutes that Congress enacted to guide Tenth Circuit decisions in these cases?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 5,
+            "total_questions_in_conversation": 11
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 1
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Sotomayor most likely ask next?",
+          "options": {
+            "A": "Did the government initially challenge proper jurisdiction in the Tenth Circuit, or was it raised later in the appeals process?",
+            "B": "How did the failure to address jurisdictional issues in the initial courts impact the appellate process?",
+            "C": "And it raised it in its petition for opposition, but you didn't reply to it\nuntil your reply, correct?",
+            "D": "How do jurisdictional challenges differ in significance from the merits of the case being argued?"
+          },
+          "answer": "C",
+          "target_justice": "Justice Sotomayor",
+          "debug_info": {
+            "correct_answer": "And it raised it in its petition for opposition, but you didn't reply to it\nuntil your reply, correct?",
+            "fake_questions": [
+              "Did the government initially challenge proper jurisdiction in the Tenth Circuit, or was it raised later in the appeals process?",
+              "How did the failure to address jurisdictional issues in the initial courts impact the appellate process?",
+              "How do jurisdictional challenges differ in significance from the merits of the case being argued?"
+            ],
+            "all_generated_alternatives": [
+              "Did the government initially challenge proper jurisdiction in the Tenth Circuit, or was it raised later in the appeals process?",
+              "In what way did the government's arguments evolve from the initial trial phase to the appeal before the Tenth Circuit?",
+              "Is there a distinction between jurisdictional arguments and substantive claims made in opposing a removal order?",
+              "How did the failure to address jurisdictional issues in the initial courts impact the appellate process?",
+              "When did the government begin raising jurisdictional concerns regarding the action before the Tenth Circuit?",
+              "What procedural requirements govern a party's obligation to respond to jurisdictional claims in immigration matters?",
+              "Could the timing of raising this jurisdictional issue affect the final outcome of the appeal ruling?",
+              "What was the basis for the government's argument in its initial petition as opposed to its later replies?",
+              "What are the implications of not refuting the jurisdictional claims in the first stage of the proceedings?",
+              "How do jurisdictional challenges differ in significance from the merits of the case being argued?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 6,
+            "total_questions_in_conversation": 11
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 1
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Sotomayor most likely ask next?",
+          "options": {
+            "A": "What precedents support this legal principle?",
+            "B": "Has this percolated among other courts yet?",
+            "C": "Is there a pending legislative change affecting this case?",
+            "D": "How does this impact administrative review processes?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Sotomayor",
+          "debug_info": {
+            "correct_answer": "Has this percolated among other courts yet?",
+            "fake_questions": [
+              "What precedents support this legal principle?",
+              "Is there a pending legislative change affecting this case?",
+              "How does this impact administrative review processes?"
+            ],
+            "all_generated_alternatives": [
+              "What precedents support this legal principle?",
+              "Have other courts ruled on this matter recently?",
+              "Is there a pending legislative change affecting this case?",
+              "What jurisdictions have addressed similar issues?",
+              "How does this compare to established case law?",
+              "What are the implications of this ruling for future cases?",
+              "What was the outcome in the previous circuit review?",
+              "How does this impact administrative review processes?",
+              "What were the main arguments presented earlier?",
+              "What standards govern this area of law?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 7,
+            "total_questions_in_conversation": 11
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 1
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Sotomayor most likely ask next?",
+          "options": {
+            "A": "independent jurisdictional basis, correct?",
+            "B": "was a waiver of jurisdiction made?",
+            "C": "is there a personal jurisdiction issue?",
+            "D": "original jurisdiction, is it?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Sotomayor",
+          "debug_info": {
+            "correct_answer": "independent jurisdictional basis, correct?",
+            "fake_questions": [
+              "original jurisdiction, is it?",
+              "is there a personal jurisdiction issue?",
+              "was a waiver of jurisdiction made?"
+            ],
+            "all_generated_alternatives": [
+              "original jurisdiction, is it?",
+              "what defines the jurisdiction here?",
+              "do we have subject matter jurisdiction?",
+              "is there a personal jurisdiction issue?",
+              "can this be appealed directly?",
+              "what is the legal basis for this?",
+              "are there any procedural flaws?",
+              "how does this affect standing?",
+              "was a waiver of jurisdiction made?",
+              "is concurrent jurisdiction applicable?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 8,
+            "total_questions_in_conversation": 11
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 1
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Sotomayor most likely ask next?",
+          "options": {
+            "A": "Would accepting the government's jurisdiction claim affect other legal standards governing removal proceedings?",
+            "B": "Might there be any implications under the common law if we accepted the government's assertion about jurisdiction?",
+            "C": "So hard to think why anybody would think they didn't have jurisdiction.\nBut, if we were to accept the government's ruling, do you know what\nother consequences this would have?",
+            "D": "In what ways might the proposed ruling impact the interpretation of jurisdiction under the INA, if accepted?"
+          },
+          "answer": "C",
+          "target_justice": "Justice Sotomayor",
+          "debug_info": {
+            "correct_answer": "So hard to think why anybody would think they didn't have jurisdiction.\nBut, if we were to accept the government's ruling, do you know what\nother consequences this would have?",
+            "fake_questions": [
+              "In what ways might the proposed ruling impact the interpretation of jurisdiction under the INA, if accepted?",
+              "Might there be any implications under the common law if we accepted the government's assertion about jurisdiction?",
+              "Would accepting the government's jurisdiction claim affect other legal standards governing removal proceedings?"
+            ],
+            "all_generated_alternatives": [
+              "If the government claims a lack of jurisdiction, what implications might that have for future removal orders in similar cases?",
+              "In what ways might the proposed ruling impact the interpretation of jurisdiction under the INA, if accepted?",
+              "What additional procedural steps would be necessary if the government’s position on jurisdiction were adopted?",
+              "How could the jurisdictional decision influence the threshold for final orders of removal moving forward?",
+              "Might there be any implications under the common law if we accepted the government's assertion about jurisdiction?",
+              "What are the substantive differences between the government's interpretation and yours regarding the jurisdictional issue?",
+              "What jurisdictional bases could still apply if the court accepts the government's position in this case?",
+              "Would accepting the government's jurisdiction claim affect other legal standards governing removal proceedings?",
+              "How might this case set a precedent for jurisdictional arguments in future immigration proceedings if the ruling is in your favor?",
+              "What are the potential conflicts with other circuits' interpretations of jurisdiction if we were to reject the government's view?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 9,
+            "total_questions_in_conversation": 11
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 1
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Sotomayor most likely ask next?",
+          "options": {
+            "A": "What implications arise if we accept the government's position on the jurisdiction? Are there specific cases that illustrate this change?",
+            "B": "know whether we would have granted cert if we knew it was one-off to\nstart with -- that everybody else appeals the order to remove, but you\ndidn't.\nSo I guess my question is, assuming we rule the way the government\nwants us to, do we know f ully the consequences of that?",
+            "C": "What are the broader impacts on immigration law if reopening and reconsideration decisions are deemed non-reviewable?",
+            "D": "What procedural safeguards exist in immigration law that could impact the government's ability to claim jurisdiction?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Sotomayor",
+          "debug_info": {
+            "correct_answer": "know whether we would have granted cert if we knew it was one-off to\nstart with -- that everybody else appeals the order to remove, but you\ndidn't.\nSo I guess my question is, assuming we rule the way the government\nwants us to, do we know f ully the consequences of that?",
+            "fake_questions": [
+              "What implications arise if we accept the government's position on the jurisdiction? Are there specific cases that illustrate this change?",
+              "What are the broader impacts on immigration law if reopening and reconsideration decisions are deemed non-reviewable?",
+              "What procedural safeguards exist in immigration law that could impact the government's ability to claim jurisdiction?"
+            ],
+            "all_generated_alternatives": [
+              "What implications arise if we accept the government's position on the jurisdiction? Are there specific cases that illustrate this change?",
+              "How does the precedent set by prior immigration cases affect this particular removal order appeal?",
+              "Regarding the appeal process for final orders, what standard must be applied when evaluating the government's arguments?",
+              "Can we consider the historical context of the INA in determining the appropriate interpretation of 'day' for jurisdictional purposes?",
+              "What are the broader impacts on immigration law if reopening and reconsideration decisions are deemed non-reviewable?",
+              "What specific statutory definitions in the INA should we consider to clarify our understanding of jurisdiction in this case?",
+              "In similar cases, how have courts interpreted 'calendar days' in relation to the timing of an appeal or removal order?",
+              "How might this case's jurisdictional issue affect the rights of other individuals in similar immigration removal circumstances?",
+              "What procedural safeguards exist in immigration law that could impact the government's ability to claim jurisdiction?",
+              "Can you summarize the main arguments made by both parties regarding jurisdiction without addressing the removal order itself?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 10,
+            "total_questions_in_conversation": 11
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 1
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Sotomayor most likely ask next?",
+          "options": {
+            "A": "Instead of focusing on this new issue, shouldn't we revert to discussing the traditional definitions of jurisdiction as they apply to immigration law?",
+            "B": "Counsel, stop going to the substance.\nI'm trying to ask you a question.\nGiven that this is a new issue before us, isn't the best way to deal with it",
+            "C": "Is it correct that the government created new standards for jurisdictional review that could complicate future cases in immigration courts?",
+            "D": "Counsel, rather than addressing the merits, can you explain how this new issue aligns with established precedent in immigration law at this stage of the proceedings?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Sotomayor",
+          "debug_info": {
+            "correct_answer": "Counsel, stop going to the substance.\nI'm trying to ask you a question.\nGiven that this is a new issue before us, isn't the best way to deal with it",
+            "fake_questions": [
+              "Counsel, rather than addressing the merits, can you explain how this new issue aligns with established precedent in immigration law at this stage of the proceedings?",
+              "Is it correct that the government created new standards for jurisdictional review that could complicate future cases in immigration courts?",
+              "Instead of focusing on this new issue, shouldn't we revert to discussing the traditional definitions of jurisdiction as they apply to immigration law?"
+            ],
+            "all_generated_alternatives": [
+              "Counsel, rather than addressing the merits, can you explain how this new issue aligns with established precedent in immigration law at this stage of the proceedings?",
+              "Given the importance of this case, should we consider a broader principle of statutory interpretation rather than focusing solely on the specific facts presented?",
+              "Before discussing the specifics, can you summarize how this case fits into the larger context of administrative law and its procedural requirements?",
+              "Is it correct that the government created new standards for jurisdictional review that could complicate future cases in immigration courts?",
+              "If we take the proposed approach by the government, what implications does that have for other recent rulings in immigration cases over the past few years?",
+              "What impact does the lack of a prior jurisdictional framework have on the overall analysis of this removal order?",
+              "Instead of focusing on this new issue, shouldn't we revert to discussing the traditional definitions of jurisdiction as they apply to immigration law?",
+              "How would a ruling in favor of your argument affect the administrative agency's authority moving forward in similar future cases?",
+              "Given the historical context of this law, do you believe Congress intended for such a jurisdictional challenge to arise at this moment?",
+              "In light of recent changes, do you think it would be prudent to revisit the original legislative intent behind this aspect of immigration law?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 11,
+            "total_questions_in_conversation": 11
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 1
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 5,
+      "target_dialogue": "## Justice Gorsuch\n### Justice Gorsuch:\nWell, I think, as I understood",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 6,
+      "target_dialogue": "## Justice Sotomayor\n### Justice Sotomayor:\n, Mr. Cedrone, one of --\nwhat she was asking you to talk about was what collateral\nconsequences, errors that the government might make in a reopening\npetition that's denied that would be unreviewable.\nI mean, one consequence here would be say you were clearly within the\n60 days, there was no doubt about it, and the government said you\nweren't.\nThat would be unreviewable, I think, on the government's jurisdictional\ntheory because it wouldn't affect the order of -- it wouldn't affect the\nremovability of your client, even though it would impose a 10-year bar,\noutside the country, erroneously.\nAre there other such consequences like that that you can think of?\n### Gerard J. Cedrone:\nI think there are all sorts of things that get decided in reopening or\nreconsideration decisions that are distinct from removability but\nnevertheless go to the terms of your final order of removal.\nSo people -- Congress contemplated that people would seek reopening\noften years after a final order of removal because of changed factual\ncircumstances or other things. And under subsection (b)(9), the statute\ncontemplates that all of these things will get funneled into a proceeding\nin the court of appeals.\nAnd so to say that there's -- that this should have been raised\ndifferently doesn't account for the fact that this is the proceeding in\nwhich these issues should be raised.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 7,
+      "target_dialogue": "## Justice Barrett\n### Justice Barrett:\nthe merits.\nOn jurisdiction,",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 8,
+      "target_dialogue": "## Justice Sotomayor\n### Justice Sotomayor:\npointed out that this seems to be a\none -off case.\nI just want to clarify with you -- and the government can speak to this\ntoo if the answer is different -- how often does it happen that someone\nlike your client simply challenges the motion to reconsider and not the\nother -- the underlying order? Is -- is this very unusual so that this\njurisdictional question wouldn't really frequently arise?\n### Gerard J. Cedrone:\nI confess that I --I don't have a sense of the -- the balance of that, other\nthan to say that, as I was just describing, motions to reopen often come\nup years after the final order of removal and may involve questions of\nchanged factual circumstances or other things that entitle you to relief\nfrom removal.\nAnd so I think, on the government's view, this case is a one-off, not in\nthat the government is taking the position that this issue is never\nreviewable, just that you have to bundle it in your petition with some\nsort of challenge, however slight, to your removability to seize the court\nof jurisdiction.\nAnd I don't see any support for that in the statute.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 9,
+      "target_dialogue": "## Justice Barrett\n### Justice Barrett:\nOkay.\nMy question on the merits.\nMost of the time when we think about this, and as I understand the\nregulatory backdrop, when we're thinking about filing something, the\nreason why it gets bumped over to, say, a Monday from a Saturday is\nthat the court's closed.\nBut could your client have departed on a Saturday? It just -- that -- that\nstrikes me as the difference here, that this isn't governing filing dates or\nsomething that you're doing. It's just saying that your authorization to\nbe in the country expires, you know, at that 60 -day mark.\nAnd it's not that the court was closed.\nI mean, your client could have departed, right?\n### Gerard J. Cedrone:\nThat's true.\nI can't dispute the factual premise that often somebody can get on a\nplane or drive across the border on a Saturday.\nThis principle is deeper than that, and there are several indications that\nthis principle is not just about court closures or filings.\nI think the best evidence of that is to go -- I'll start with the regulation\nand work outwards.\nSo the regulatory definition of \"day\" in Section 1001.1 says that\ndefinition of \"day,\" which builds in the traditional rule, applies to any\naction in immigration regulations.\nEven on the government's theory of how that deadline applies, that\nprinciple applies to things like getting married to maintain your visa\nstatus, regulatory deadlines for getting fingerprinted after you enter\nthe country, regulatory deadlines for taking a citizenship test.\nSo these are all things that are not filing, not court-related. Working\noutward from there, Rule 6(a), as we pointed out, also applies to any\napplicable statute and any court order.\nAnd so that, of course, covers things like filing in district court, but it\nalso covers things -- we give examples at page 18 of our reply brief -- of\ninjunctions that a court might enter imposing substantive obligations\non a party.\nSo say you're a defendant in a trade secrets suit.\nYou're found liable.\nThe court might enter an order at the end of the case saying: Defendant,\nyou have 30 days to turn over the misappropriated property.\nUnder Rule 6(a), that 30-day deadline clearly follows the traditional\nrule.\nAnd then working even outward from there, we have examples like --at\npage 28 of our br ief, cases like the Aetna case applying this traditional\nprinciple to deadlines under ERISA, which bind private parties, private\nplans, requires them to take all sorts of actions vis --vis each other\noutside the context of litigation.\nAnd then this Court's decision in Street, which applied this principle to a\nstatute that sets time limits on the President's authority to take action,\nas we explain in the brief, that statute in Street is parallel to this statute.\nSection 1229c gives the Attorney General the authority to grant\nvoluntary departure and then places a time limit on it.\nThe statute in Street worked similarly.\nThe Court applied the traditional rule there.\nIt should apply the traditional rule here.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 10,
+      "target_dialogue": "## Justice Alito",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 11,
+      "target_dialogue": "## Justice Kagan",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 12,
+      "target_dialogue": "## Justice Alito\n### Justice Alito:\napplies in all situations, and it just causes a lot of confusion if it's not\nuniform.\nI --I get that.\nBut put all of that aside.\nCan you think of any practical reason why Congress would have wanted\nto give a two-day extension when what's involved is something that\ncan be done just as easily on a Saturday or a Sunday as a Monday? There\nwere reasons for the rules about filing, because courts were closed.\nSome of the things that you mentioned are things that would be more\ndifficult perhaps to accomplish on a weekend.\nOriginally, perhaps the rule for Sunday was based on religion.\nYou might argue that it should be extended to Saturday if your counsel -\n-if your -- your client has a -- if that is that --is -- is a holy day, a\nspecial day for your particular client.\nBut I can't think of any practical reason why there should be a rule -- a\ndifferent rule for departing the country.\n### Gerard J. Cedrone:\nYeah.\nSo I think there's two -- two practical reasons, one more substantive\nand one more procedural.\nThis traditional rule, in our view, stems from a general principle that\nthere are certain legally set-aside days where presumptively at least the\ngovernment can't ask people to do stuff.\nAnd so the persistence of this rule, even in the face of 24/7 e-filing,\nshows that this is a principle that's deeper than just impracticability,\n### Justice Alito:\nWell, I mean, that's -- that doesn't strike me as a practical reason. Why\ncan't they say: You've got to get out of the country in 60 days? You can\nget out of the country just as easily on a Saturday or a Sunday as you can\non a Monday.\n### Gerard J. Cedrone:\nI'll mention just as an aside some of the amicus briefs go into the fact\nthat it -- it may well be more difficult to travel on the weekends.\nBut I guess putting that aside, the second practical reason, the\nprocedural one, is that we're talking about deadlines with severe\nconsequences.\nThe question of how and when your deadline runs should be easily\nunderstood and easily calculated, especially when there are severe\nconsequences.\nAnd on the government's view, you have to undertake a case-by-case\ndetermination for each deadline in the regulations and each deadline in\nthe INA.\nMaybe I could give an example.\nSo there's a 180-day deadline in the regulations, Section 1003.23, a 180\n-day for seeking relief from in absentia removal.\nThat statutory dead -- that regulatory deadline doesn't cross-\nreference the statute.\nSo you might think, if you pick up the regulation and pick up the\ndefinition, you know how it applies.\n### Justice Alito:\nWell, but that -- that --in seeking relief, that -- that's requiring you to\nfile some sort of a document.\n### Gerard J. Cedrone:\nThat's true, although, as my colloquy with",
+      "justice_name": "Justice Alito",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Alito most likely ask next?",
+          "options": {
+            "A": "If Congress had intended for clear timelines related to departure, why did they not specify exceptions for weekends?",
+            "B": "Well, I mean, that's -- that doesn't strike me as a practical reason. Why\ncan't they say: You've got to get out of the country in 60 days? You can\nget out of the country just as easily on a Saturday or a Sunday as you can\non a Monday.",
+            "C": "Is there a legal precedent that requires courts to provide specific timelines for voluntary departure in similar cases?",
+            "D": "What have courts stated about the necessity of adhering to traditional weekend closures in legal matters unrelated to immigration?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Alito",
+          "debug_info": {
+            "correct_answer": "Well, I mean, that's -- that doesn't strike me as a practical reason. Why\ncan't they say: You've got to get out of the country in 60 days? You can\nget out of the country just as easily on a Saturday or a Sunday as you can\non a Monday.",
+            "fake_questions": [
+              "Is there a legal precedent that requires courts to provide specific timelines for voluntary departure in similar cases?",
+              "If Congress had intended for clear timelines related to departure, why did they not specify exceptions for weekends?",
+              "What have courts stated about the necessity of adhering to traditional weekend closures in legal matters unrelated to immigration?"
+            ],
+            "all_generated_alternatives": [
+              "Is there a legal precedent that requires courts to provide specific timelines for voluntary departure in similar cases?",
+              "Given the laws governing removal orders, how flexible should the timelines for departure actually be?",
+              "What arguments could be made regarding whether the removal order provides adequate notice to individuals about their obligations?",
+              "How might the timing of filing appeals affect a petitioner's ability to challenge a removal order effectively?",
+              "If Congress had intended for clear timelines related to departure, why did they not specify exceptions for weekends?",
+              "What implications arise from the presence of different legal filings that could influence the timeline for voluntary departure?",
+              "In what way do procedural rules affect the interpretation of timelines for filing departures in immigration cases?",
+              "How do substantive versus procedural distinctions play a role in understanding the requirements for an orderly departure?",
+              "What rationale could be offered to argue that limitations on departure timelines may unfairly impact certain demographics?",
+              "What have courts stated about the necessity of adhering to traditional weekend closures in legal matters unrelated to immigration?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 2
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 13,
+      "target_dialogue": "## Justice Barrett\n### Justice Barrett:\nexplained,\nthere are other deadlines in the regulations, like things like getting\nmarried and getting fingerprinted.\nAnd the point is that on th e government's view, even though that\nregulation -- regulatory deadline is facially clear, you need to go to the\nINA and see if there's a statutory analogue for that 180-day deadline, it\nturns out there is in Section 1229a.\nBut even then you're not done.\nOn the government's view, now you have to construct a family tree for\nthe statutory deadline and the regulatory deadline and see which one\ncame first.\nOnly then can you figure out if your deadline is on a Saturday or Monday.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 14,
+      "target_dialogue": "## Justice Alito\n### Justice Alito:\nRight.\nI may understand it.\nThis is the argument for a uniform rule.\nIt makes things -- it makes things simpler.\nSo I --I -- I get that.\nI get that.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 15,
+      "target_dialogue": "## Justice Sotomayor\n### Justice Sotomayor:\nCounsel, it's not only that it's simpler, but the INA is filled with\nprovisions like this where the individual's activities are tied to the\ngovernment's activities, correct?\n### Gerard J. Cedrone:\nThat's right.\n### Justice Sotomayor:\nAnd, here, Section 1302, going back to",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 16,
+      "target_dialogue": "## Justice Barrett\n### Justice Barrett:\n's question in part,\nsays that when someone's visiting the United States, if they're going to\nstay longer than 30 days, it says -- the provision states that noncitizens\nwho remain in the U.S. for 30 days or longer must apply for registration\nand be fingerprinted before the expiration of such 30 days.\nSo that's very clear like our 60 days here.\nUnder the government's theory, I don't know whether they can be\nfingerprinted by the government on Saturday or Sunday.\nWe'd have to figure that out, correct?\n### Gerard J. Cedrone:\nRight.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 17,
+      "target_dialogue": "## Justice Sotomayor\n### Justice Sotomayor:\nWe'd have to figure out whether the agency is open for them to register\non Saturday and Sunday, correct?\n### Gerard J. Cedrone:\nRight.\n### Justice Sotomayor:\nSo these are the practical difficulties. With respect to the issue here, yes,\nthere's a obligation on the alien to depart, but there's also a\n### Gerard J. Cedrone:\nThat's exactly right.\n### Justice Sotomayor:\nSo it's not simply an obligation that's tied only to the individual.\nIf the individual does something, then the government has an\nobligation to -- to dismiss their order of removal and give them\nadditional time, correct?\n### Gerard J. Cedrone:\nThat's right.\nAnd I think it's telling that the regulations tie this departure deadline to\na filing deadline.\nIt shows that in the government's view at least before, these things\nmaybe aren't that different at all.\nBut the confusion, as your questioning highlights, there are hundreds of\ninstances of the word \"day\" in Title 8 of the Code of Federal Regulations\nand dozens, if not a couple hundred, of instances in the INA. And n the\ngovernment's view that for each of those, not only -- that the statute\nand regulations require somebody for each of th ose to undertake this\nintricate analysis of statutory and legislative history just doesn't make\nsense, especially -- I mean, it does -- it's hard enough for lawyers to\nfigure out in an individual case an individual deadline under the\ngovernment's view, is it Saturday or Monday.",
+      "justice_name": "Justice Sotomayor",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Sotomayor most likely ask next?",
+          "options": {
+            "A": "Does the obligation of the government in this context necessarily depend on specific regulations, or are there discretionary aspects involved?",
+            "B": "So it's not simply an obligation that's tied only to the individual.\nIf the individual does something, then the government has an\nobligation to -- to dismiss their order of removal and give them\nadditional time, correct?",
+            "C": "Could the government's duty to extend time be seen as an independent obligation regardless of the individual's compliance?",
+            "D": "Is the obligation for the government to dismiss the order contingent purely on the individual's actions or are there additional factors involved?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Sotomayor",
+          "debug_info": {
+            "correct_answer": "So it's not simply an obligation that's tied only to the individual.\nIf the individual does something, then the government has an\nobligation to -- to dismiss their order of removal and give them\nadditional time, correct?",
+            "fake_questions": [
+              "Is the obligation for the government to dismiss the order contingent purely on the individual's actions or are there additional factors involved?",
+              "Could the government's duty to extend time be seen as an independent obligation regardless of the individual's compliance?",
+              "Does the obligation of the government in this context necessarily depend on specific regulations, or are there discretionary aspects involved?"
+            ],
+            "all_generated_alternatives": [
+              "Is the obligation for the government to dismiss the order contingent purely on the individual's actions or are there additional factors involved?",
+              "How does the concept of due process influence the government's obligations in removal orders in immigration cases?",
+              "Could the government's duty to extend time be seen as an independent obligation regardless of the individual's compliance?",
+              "What are the broader implications of an individual's actions on the overall immigration process and government obligations?",
+              "Is the scope of the government's responsibility limited to the circumstances of the individual, or does it extend to procedural guidelines?",
+              "What are the primary factors that determine whether the order of removal is subject to dismissal based on compliance?",
+              "To what extent does the INA outline the government's responsibilities regarding orders of removal that are not contingent upon individual action?",
+              "Does the obligation of the government in this context necessarily depend on specific regulations, or are there discretionary aspects involved?",
+              "What procedural requirements must the individual meet for the government to consider dismissing an order of removal?",
+              "How do collateral consequences of an order of removal impact the government's obligations towards the individual involved?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 3
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 18,
+      "target_dialogue": "## Justice Kagan",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 19,
+      "target_dialogue": "## Justice Alito\n### Justice Alito:\nAre you seriously -- oh, no, go ahead.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 20,
+      "target_dialogue": "## Justice Kagan\n### Justice Kagan:\nNo, go ahead.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 21,
+      "target_dialogue": "## Justice Alito\n### Justice Alito:\nDo you seriously think that there are people in the position of your client\nwho rely on this and say, well, this is really important for me to get out of\nthe country or withdraw my -- my acquiescence in voluntary departure\nwithin 60 days, but, wow, I read this, so I've got another two days? I\nmean, seriously?\n### Gerard J. Cedrone:\nSeriously.\nAnd let me make three points.\n(Laughter.)\nSo, first, there are plenty of immigration organizations that provide\nguidance to noncitizens about how deadlines apply.\n### Justice Alito:\nI mean, if you were providing advice, would you say, okay, you know,\nyou've got the extra two days? Would you?\n### Gerard J. Cedrone:\nI mean, if the government's position is adopted in this case, certainly\n### Justice Alito:\nWell, with how, you know, the way things are --were at the time when -\n-when this came into play, would you say, well, you've got the extra two\ndays?\n### Gerard J. Cedrone:\nYes, I would, and -- and let me make two other points.\nOne is that for a noncitizen in immigration proceedings, even on the\ngovernment's view, basically, every deadline up until this final order\nfollows the traditional rule.\nSo, if you're a noncitizen going through immigration proceedings, you\nknow my brief is due on a Saturday; that means it's due on a Monday.\nI need to file an appeal on a Saturday; that means it's due on a Monday.\nIt's only this very last deadline that follows a different rule.\nSo I do think that would be a trap for the unwary.\nAnd the last point I would make is that, yes, I think, when you have\neverything consistently pointing in the same way not just in the law, but\nthe D.C. Circuit made this point in Sherwood, this rule is not just a\nlawyerly contrivance.\nIt's also meant to capture the way that things work out in the world, in\nbusiness, in society.\nAnd so just one concrete example.\nThe motion that was filed in this case was sent by FedEx priority\novernight on a Friday.\nThat means it gets there Monday morning.\nAnd I'm not suggesting that anything in our case turns on the vagaries\nof FedEx's shipping policies.\nIt's just to say that even in business, overnight on a Friday sometimes\nmeans Monday.\nThis is a principle that applies across the board.",
+      "justice_name": "Justice Alito",
+      "total_justice_questions": 3,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Alito most likely ask next?",
+          "options": {
+            "A": "If the court provided extra time, would that change how you assess voluntary departure options for your client?",
+            "B": "What implications does this extra time have for the client's ability to apply for relief from removal?",
+            "C": "What alternative advice would you provide if the deadline were strictly enforced without any extensions?",
+            "D": "I mean, if you were providing advice, would you say, okay, you know,\nyou've got the extra two days? Would you?"
+          },
+          "answer": "D",
+          "target_justice": "Justice Alito",
+          "debug_info": {
+            "correct_answer": "I mean, if you were providing advice, would you say, okay, you know,\nyou've got the extra two days? Would you?",
+            "fake_questions": [
+              "If the court provided extra time, would that change how you assess voluntary departure options for your client?",
+              "What implications does this extra time have for the client's ability to apply for relief from removal?",
+              "What alternative advice would you provide if the deadline were strictly enforced without any extensions?"
+            ],
+            "all_generated_alternatives": [
+              "If the court provided extra time, would that change how you assess voluntary departure options for your client?",
+              "Given the two days, how would you recommend your client proceed with their departure plans?",
+              "What implications does this extra time have for the client's ability to apply for relief from removal?",
+              "Would you argue that earlier filing deadlines should be clarified in the context of voluntary departure orders?",
+              "What alternative advice would you provide if the deadline were strictly enforced without any extensions?",
+              "How does this two-day extension compare to the usual requirements for appealing a removal decision?",
+              "What statutory basis would you cite to justify additional time for voluntary departure, if any?",
+              "Would these extra two days apply equally to all noncitizens, regardless of their specific circumstances?",
+              "How might this precedent affect future interpretations of deadlines in immigration law cases?",
+              "Could this argument leverage common law principles to redefine how 'days' are interpreted in legal contexts?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 4
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Alito most likely ask next?",
+          "options": {
+            "A": "In what ways do statutory definitions of 'day' differ across various federal regulations, and how does it affect compliance?",
+            "B": "How might changes in immigration deadlines impact the decisions of noncitizens regarding their departure from the country?",
+            "C": "Well, with how, you know, the way things are --were at the time when -\n-when this came into play, would you say, well, you've got the extra two\ndays?",
+            "D": "What role do amicus briefs play in shaping the interpretations of jurisdictional issues before appellate courts?"
+          },
+          "answer": "C",
+          "target_justice": "Justice Alito",
+          "debug_info": {
+            "correct_answer": "Well, with how, you know, the way things are --were at the time when -\n-when this came into play, would you say, well, you've got the extra two\ndays?",
+            "fake_questions": [
+              "How might changes in immigration deadlines impact the decisions of noncitizens regarding their departure from the country?",
+              "In what ways do statutory definitions of 'day' differ across various federal regulations, and how does it affect compliance?",
+              "What role do amicus briefs play in shaping the interpretations of jurisdictional issues before appellate courts?"
+            ],
+            "all_generated_alternatives": [
+              "How might changes in immigration deadlines impact the decisions of noncitizens regarding their departure from the country?",
+              "Could you explain how the concept of equitable tolling could apply in situations involving immigration petitions?",
+              "What procedural requirements exist for immigrants seeking judicial review of their removal orders under 8 U.S.C. § 1252?",
+              "In what ways do statutory definitions of 'day' differ across various federal regulations, and how does it affect compliance?",
+              "How does the principle of finality in removal orders affect the ability to seek reconsideration after a ruling?",
+              "What is the significance of voluntary departure within statutory deadlines for individuals facing removal proceedings?",
+              "What implications might arise if a jurisdictional challenge is raised belatedly in the appellate process?",
+              "How does the concept of due process intersect with the regulations governing voluntary departure in immigration law?",
+              "What are the requirements for filing a timely appeal against an immigration judge's decision on a removal order?",
+              "What role do amicus briefs play in shaping the interpretations of jurisdictional issues before appellate courts?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 4
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 22,
+      "target_dialogue": "## Justice Kagan\n### Justice Kagan:\nDo you know whether the government, in fact, applies this rollover rule\nto anything that's not a filing deadline? I mean, you mentioned\nfingerprinting.\nYou mentioned marriage.\nfiling deadline?\n### Gerard J. Cedrone:\nI think the AILA amicus brief gets into this most clearly.\nIt provides examples of immigration judges applying this day in and day\nout.\nI think the -- most of the examples we've collected are actually in the\nvoluntary departure context, but I -- I think there are other examples in\nthat brief as well of situations where this applies.\nAnd I should point out this is -- in the voluntary departure context, for\nexample, it's a 60-day statutory ceiling.\nSo an immigration judge in an individual case could, for example, set the\ndeadline earlier or set the deadline on a date certain.\nThis is just about the rule that applies, absent another indication.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 23,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nJustice Thomas, anything further?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 24,
+      "target_dialogue": "## Justice Alito\n### Justice Alito:\n? Justice Sotomayor?\nJustice Gorsuch, anything? No?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 25,
+      "target_dialogue": "## Justice Kavanaugh\n### Justice Kavanaugh:\n? Justice Barrett?\nJustice Jackson?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 26,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\nCan I just ask, so it's a trap for the unweary because the filing of the\nmotion triggers the extension, is that right?\n### Gerard J. Cedrone:\nIn our view, the departure deadline and the motion deadline move\ntogether.\nSo it's -- it's -- the 60-day voluntary departure deadline?\n### Justice Jackson:\nYeah.\n### Gerard J. Cedrone:\nOn the government's view, operates differently than every other\n### Justice Jackson:\nYeah.\nNo, I understand that, but I guess I was -- I was trying to -- I hear Justice\nAlito raising the point that if a person is told they have 60 days to get\nout of the country, when we're getting to day 58, 59, or whatever, they\nshould be ready to go.\nAnd so are they getting two extra days or, like, what is happening? And I\nguess your response is that the way that the rules operate, if that person\nfiles a motion, that motion then needs to be resolved by the court and\nthe person can stay until that happens.\nSo what's really the trap is that ordinarily, when you file a motion, you\nget to the following Monday if the deadline is over the weekend, and\nthat's the way it works in every other scenario.\nAnd yet, here, you'd be filing the motion and it wouldn't.\n### Gerard J. Cedrone:\nThat's exactly right.\nI think that captures it , and that's what happened to our client in this\ncase with quite severe consequences if the government's view is\nadopted.\n### Justice Jackson:\nThank you.",
+      "justice_name": "Justice Jackson",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Jackson most likely ask next?",
+          "options": {
+            "A": "Yeah.\nNo, I understand that, but I guess I was -- I was trying to -- I hear Justice\nAlito raising the point that if a person is told they have 60 days to get\nout of the country, when we're getting to day 58, 59, or whatever, they\nshould be ready to go.\nAnd so are they getting two extra days or, like, what is happening? And I\nguess your response is that the way that the rules operate, if that person\nfiles a motion, that motion then needs to be resolved by the court and\nthe person can stay until that happens.\nSo what's really the trap is that ordinarily, when you file a motion, you\nget to the following Monday if the deadline is over the weekend, and\nthat's the way it works in every other scenario.\nAnd yet, here, you'd be filing the motion and it wouldn't.",
+            "B": "Can you explain how the timing of filing a motion for reconsideration could affect a noncitizen's right to appeal the removal order?",
+            "C": "How does the concept of laches apply to the government's duty to execute a removal order?",
+            "D": "What are the jurisdictional standards that courts apply when reviewing a decision to deny a motion to reopen an immigration case?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Jackson",
+          "debug_info": {
+            "correct_answer": "Yeah.\nNo, I understand that, but I guess I was -- I was trying to -- I hear Justice\nAlito raising the point that if a person is told they have 60 days to get\nout of the country, when we're getting to day 58, 59, or whatever, they\nshould be ready to go.\nAnd so are they getting two extra days or, like, what is happening? And I\nguess your response is that the way that the rules operate, if that person\nfiles a motion, that motion then needs to be resolved by the court and\nthe person can stay until that happens.\nSo what's really the trap is that ordinarily, when you file a motion, you\nget to the following Monday if the deadline is over the weekend, and\nthat's the way it works in every other scenario.\nAnd yet, here, you'd be filing the motion and it wouldn't.",
+            "fake_questions": [
+              "Can you explain how the timing of filing a motion for reconsideration could affect a noncitizen's right to appeal the removal order?",
+              "What are the jurisdictional standards that courts apply when reviewing a decision to deny a motion to reopen an immigration case?",
+              "How does the concept of laches apply to the government's duty to execute a removal order?"
+            ],
+            "all_generated_alternatives": [
+              "Can you explain how the timing of filing a motion for reconsideration could affect a noncitizen's right to appeal the removal order?",
+              "What implications does the principle of equitable tolling have on deadlines in immigration proceedings?",
+              "In the context of this case, how do regulations about filing deadlines differ for voluntary departure versus other immigration relief?",
+              "What are the jurisdictional standards that courts apply when reviewing a decision to deny a motion to reopen an immigration case?",
+              "How does the concept of laches apply to the government's duty to execute a removal order?",
+              "Is there a distinction in legality between the terms 'day' and 'working day' in immigration statutes, and how might that affect filing requirements?",
+              "How does the principle of res judicata intersect with the necessity of timely motions in immigration law?",
+              "What procedural safeguards exist for noncitizens concerning mandatory departure orders under the Immigration and Nationality Act?",
+              "What legal tests apply to determining whether a motion is timely filed when the deadline falls on a weekend or holiday?",
+              "Could the interpretation of the phrase 'final order of removal' change depending on ancillary motions filed by the petitioner?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 5
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 27,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nMr. Yang.\n### Anthony A. Yang:\nMr. Chief Justice, and may it please the Court: Section 1229c's\nmaximum 60-day period for voluntary departure is not extended when\nthe last day falls on a weekend or a holiday.\nThe requirement to arrange for travel and to depart the United States\ninvolves primary conduct in the real world.\nNothing prevents departure on weekends or holidays, when many\nprefer to travel.\nAnd unlike contexts involving the timing of litigation-based or\nadministrative acts before courts or agencies, no tradition by rule or\notherwise potentially exists for extending statutory deadlines for\nprimary conduct.\nBut, first, statutory jurisdiction is lacking in the highly atypical posture\nhere. Section 1252(a)(1) grants jurisdiction to review final orders of\nremoval.\nBut, in Petitioner's case, it does no t involve review of a final order of\nremoval.\nIt does not affect the validity of a final order of removal.\nAnd it does not even affect how you would implement a final order of\nremoval.\nMoreover, Petitioner has other avenues for judicial review of the timing\nissue here. He could seek APA review after unsuccessfully seeking DHS\nto return his voluntary departure bond or to adjust his status in the\ncountry. Now, on the merits, Section 1229c's test reflects the default\nrule that the 60-day statutory minimum means what it says.\nAnd neither common law tradition nor the definition of \"day\" for\ncertain regulations supports a contextual exception here in the context\nof primary conduct.\nSimilarly, there are other statutes governing similar primary conduct.\nThe 90 -day period to depart after entering the United States through\nthe visa waiver program or on a K visa to marry does not allow stays of 93\ndays. The 29 -day statutory period for a ship crewman to temporarily\nland does not extend to 32 days.\nAnd Petitioner identifies no examples of extending statutory periods for\nengaging in such primary conduct.\nNow Section 12 --the question whether Section 1229c(d)'s penalties\napply for failing to depart timely is a distinct question.\nThose sanctions apply only if the noncitizen voluntarily fails to depart\ntimely.\nBut Petitioner has not argued that his departure was not non-voluntary\nor if it was non-voluntary, and the 60 -day period itself cannot be\nextended. I welcome the Court's questions.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 28,
+      "target_dialogue": "## Justice Thomas\n### Justice Thomas:\nMr. Yang, did you raise the jurisdictional issue below?\n### Anthony A. Yang:\nWe raised a different one, not this one.\nWe raised this issue in our -- in our Op, albeit abbreviated form, but we\ndid in our Op.\n### Justice Thomas:\nPetitioner argues that this is, in fact, non -jurisdictional and that you\nwaived it.\nWould you respond to that?\n### Anthony A. Yang:\nYes.\nThis is jurisdictional.\nSection 1252(a)(1) provides for review of a final order of removal, and\nthat's the jurisdictional provision because it applies the Hobbs Act.\nThe Hobbs Act provision, the -- the jurisdictional provision of the Hobbs\nAct is Section 2342.\nIt provides review in the court of appeals of seven distinct types of\norders but not orders in the immigration context, only orders from other\nagencies.\nSo the way, as Mata recognizes, the way that there is jurisdiction here is\n1252(a)(1) grants jurisdiction to review final orders of removal and then\njust plugs that into the Hobbs Act.",
+      "justice_name": "Justice Thomas",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Thomas most likely ask next?",
+          "options": {
+            "A": "What potential consequences arise if this issue is considered jurisdictional instead of procedural?",
+            "B": "What distinctions exist between jurisdictional and non-jurisdictional issues in recent court rulings?",
+            "C": "Petitioner argues that this is, in fact, non -jurisdictional and that you\nwaived it.\nWould you respond to that?",
+            "D": "How does the appellate court's jurisdiction interact with the final order of removal issued here?"
+          },
+          "answer": "C",
+          "target_justice": "Justice Thomas",
+          "debug_info": {
+            "correct_answer": "Petitioner argues that this is, in fact, non -jurisdictional and that you\nwaived it.\nWould you respond to that?",
+            "fake_questions": [
+              "How does the appellate court's jurisdiction interact with the final order of removal issued here?",
+              "What potential consequences arise if this issue is considered jurisdictional instead of procedural?",
+              "What distinctions exist between jurisdictional and non-jurisdictional issues in recent court rulings?"
+            ],
+            "all_generated_alternatives": [
+              "How does the appellate court's jurisdiction interact with the final order of removal issued here?",
+              "What arguments did the petitioner make regarding the jurisdictional implications in the earlier appeals?",
+              "Can the court consider equitable tolling in regards to the jurisdictional argument presented?",
+              "What potential consequences arise if this issue is considered jurisdictional instead of procedural?",
+              "How does the concept of finality apply to the jurisdictional question raised in this case?",
+              "Can you clarify the implications of failing to raise this issue in the lower courts?",
+              "What role does the government’s stance on jurisdiction play in the determination of this case?",
+              "How does the petitioner view voluntary departure in terms of jurisdiction and subsequent appeals?",
+              "What is the procedure for raising jurisdictional issues in cases involving immigration law?",
+              "What distinctions exist between jurisdictional and non-jurisdictional issues in recent court rulings?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 6
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 29,
+      "target_dialogue": "## Justice Kagan\n### Justice Kagan:\nAnd -- and when you say \"final order of removal,\" what do you think\nthat encompasses?\n### Anthony A. Yang:\nYeah, I -- I think there's a few things.\nAnd this is -- after the Court's decision in Nasrallah, it is the following.\nIt is the final order of removal itself.\n### Justice Kagan:\nNow what --what does that mean, \"the final order of removal itself\"?\n### Anthony A. Yang:\nYeah.\n### Justice Kagan:\neverything else that appears in the final order?\n### Anthony A. Yang:\nNot the latter.\nWe made that argument.\nIt was rejected in Nasrallah. The -- Nasrallah says the final order of\nremoval either finds the citizen deportable or orders deportation.\nThat's it.",
+      "justice_name": "Justice Kagan",
+      "total_justice_questions": 3,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Kagan most likely ask next?",
+          "options": {
+            "A": "What are the implications of a final removal order on an individual?",
+            "B": "Now what --what does that mean, \"the final order of removal itself\"?",
+            "C": "What implications does this case have for the grounds of inadmissibility?",
+            "D": "How does a final order differ from a preliminary injunction?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Kagan",
+          "debug_info": {
+            "correct_answer": "Now what --what does that mean, \"the final order of removal itself\"?",
+            "fake_questions": [
+              "What are the implications of a final removal order on an individual?",
+              "What implications does this case have for the grounds of inadmissibility?",
+              "How does a final order differ from a preliminary injunction?"
+            ],
+            "all_generated_alternatives": [
+              "What are the implications of a final removal order on an individual?",
+              "How do appellate courts determine jurisdiction over removal orders?",
+              "What specific criteria must be met for a final removal order?",
+              "What implications does this case have for the grounds of inadmissibility?",
+              "What does the term 'removal' mean under immigration law?",
+              "How does a final order differ from a preliminary injunction?",
+              "What is the significance of the Board of Immigration Appeals' decision?",
+              "What legal standards govern the review of a final order of removal?",
+              "What procedural steps are involved in contesting a removal order?",
+              "What authority does Congress have in defining 'final orders' in immigration?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 7
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Kagan most likely ask next?",
+          "options": {
+            "A": "How is a stay of removal formally issued?",
+            "B": "everything else that appears in the final order?",
+            "C": "How does the agency interpret mandatory relief provisions?",
+            "D": "How do appeals affect the final removal order?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Kagan",
+          "debug_info": {
+            "correct_answer": "everything else that appears in the final order?",
+            "fake_questions": [
+              "How do appeals affect the final removal order?",
+              "How does the agency interpret mandatory relief provisions?",
+              "How is a stay of removal formally issued?"
+            ],
+            "all_generated_alternatives": [
+              "What constitutes a preliminary order of removal?",
+              "How do appeals affect the final removal order?",
+              "What are the implications of a pending motion?",
+              "What parts of the order can be contested?",
+              "How does the agency interpret mandatory relief provisions?",
+              "What procedural steps must be followed post-removal?",
+              "Can a final removal order be modified later?",
+              "How is a stay of removal formally issued?",
+              "What evidence supports the validity of the order?",
+              "What is the timeline for appealing a decision?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 7
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 30,
+      "target_dialogue": "## Justice Gorsuch\n### Anthony A. Yang:\nThat's only the first category of things.\n### Justice Gorsuch:\nIf I might just finish.\n### Anthony A. Yang:\nSure.\nYeah.\n### Justice Gorsuch:\nThank you.\n### Anthony A. Yang:\nYeah.\n### Justice Gorsuch:\nSo one provision in this particular final order is that you're going to be\nbarred for 10 years from seeking reentry into the country after -- if --if\nyou don't voluntarily remove yourself within 60 days.\nThat's actually written in the final order.\nAnd where -- this --this litigation tests the validity of that, doesn't it?\n### Justice Gorsuch:\nOkay.\nWhy not?\n### Justice Gorsuch:\nI agree with that.\n### Anthony A. Yang:\nThat is the tail end of the BIA's decision on the appeal.\nNot rehearing, not reconsideration, and not reopening.\nIt says two orders: Order, appeal dismissed; order, voluntary departure.\nThen it has -- these are in bold, you know, all caps.\n### Justice Gorsuch:\nI've read it.\nIt says: Warning.\n### Anthony A. Yang:\nBut it says: Notice.\nIt says: Notice, if you fail to voluntarily depart, there are civil penalties -\n### Justice Gorsuch:\nYeah.\n### Justice Gorsuch:\nYeah.\n### Anthony A. Yang:\nThat -- nothing's going to change with that.\nThat's true.\nIf you fail to voluntarily depart, that's -- those are -- there are\nsanctions.",
+      "justice_name": "Justice Gorsuch",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Gorsuch most likely ask next?",
+          "options": {
+            "A": "Why dismiss this case?",
+            "B": "What about jurisdiction?",
+            "C": "What are consequences?",
+            "D": "Okay.\nWhy not?"
+          },
+          "answer": "D",
+          "target_justice": "Justice Gorsuch",
+          "debug_info": {
+            "correct_answer": "Okay.\nWhy not?",
+            "fake_questions": [
+              "What are consequences?",
+              "Why dismiss this case?",
+              "What about jurisdiction?"
+            ],
+            "all_generated_alternatives": [
+              "Why is that?",
+              "What if not?",
+              "What are consequences?",
+              "What is the rationale?",
+              "How does this apply?",
+              "Why dismiss this case?",
+              "What leads to removal?",
+              "Who argues otherwise?",
+              "What evidence supports that?",
+              "What about jurisdiction?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 8
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 31,
+      "target_dialogue": "## Justice Kagan\n### Justice Kagan:\nBut the order operates entirely differently under your view versus under\nMr. Cedrone's view.\nOne might say the order operates entirely differently depending on\nwhether one takes the view of the original immigration judge or the\nlater view of the Board.\nI mean, this rollover thing makes the order into a different order with\ndifferent consequences.\n### Anthony A. Yang:\nIt --it does not change the order.\nThe order -- the bottom line of the order and the only thing that these\norders ultimately require here that wouldn't allow for judicial review\nlater is this alien -- noncitizen is deportable and shall be removed.\nThat's it, period.\nThere are collateral consequences, but, as I noted in my intro, those\ncollateral consequences can be challenged separately.\nFor instance, on every noncitizen who's granted voluntary departure,\nthey must post a monet ary bond.\nWe keep the bond.\nIf they want the bond back, they simply say: I want my bond back. DHS\nwill adjudicate.\nHere, DHS has already said: You violated your -- this is in Footnote 4 of\nour brief.\nYou violated the voluntary departure period.\nTherefore, we're keeping your bond. They can --he could challenge -- I\ndon't -- he could challenge that before the agency's administrative\nprocess and then seek APA review.\nHe could, while he's in the count ry, for instance, seek to adjust status\nwith DHS. DHS would probably say: Can't adjust status, you're barred.\nThen you get judicial review of that through normal APA review.\nWhat's happening here is a jurisdictional provision that is designed to\nreview only final orders of removal is being used to review something\nthat has nothing to do with a final order of removal.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 32,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\nBut, Mr. Yang -- Mr. Yang, you -- you --you, in making that argument,\nseem to be relying on Nasrallah and suggesting that only orders that\nrelate to the removability qualify as affecting the validity.\n### Justice Jackson:\nAm I wrong about that? No?\n### Justice Jackson:\nOkay.\nSorry.\n### Justice Jackson:\nOkay.\n### Justice Jackson:\nOkay.\n### Justice Jackson:\nYeah.\n### Anthony A. Yang:\nIn addition, you can raise issues together with the final order of removal.\nAnd there's -- there's another category which we think is included.\nReview of a final order should include rulings that affect how to\nimplement the final order.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 33,
+      "target_dialogue": "## Justice Gorsuch\n### Justice Gorsuch:\nOh, there we go.\n### Anthony A. Yang:\nRight.\nHow to implement the final order.\n### Justice Gorsuch:\nThere we go.\nYeah. How ar e you going to implement this final order?\n### Justice Gorsuch:\nIs -- is the fellow barred from the country for 10 years or not?\n### Anthony A. Yang:\nThat's not in the final order.\n### Justice Gorsuch:\n(Laughter.)\n### Anthony A. Yang:\nThank you.\nIt -- it -- it --all that simply does -- the -- the final order says several\nwarnings.\n### Justice Gorsuch:\nI mean, where do you get all this from 1252? I mean, I thought you were\na good textualist, Mr. Yang.\n### Justice Gorsuch:\nAnd it says that we have --we have authority -- the court of appeals has\nauthority to review final orders of removal.\nIt -- it -- that's it.\nThat's what it says.\n### Anthony A. Yang:\nThat's true.\nAnd it says that judicial review of all other questions -- this is a zipper\nclause in (b)(9) -- are available only in judicial review of the final -- of a\nfinal order under this section.\n### Justice Gorsuch:\nAll right.\nIf it's so obvious, how come you didn't raise it below?\n### Anthony A. Yang:\nThat I --I can't -- I can't speak to.\n### Justice Gorsuch:\nAll right.\nNeither can I.",
+      "justice_name": "Justice Gorsuch",
+      "total_justice_questions": 4,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Gorsuch most likely ask next?",
+          "options": {
+            "A": "What other consequences arise from failing to depart under this order?",
+            "B": "How does the issue of reentry bars apply to this case specifically?",
+            "C": "Is -- is the fellow barred from the country for 10 years or not?",
+            "D": "Is the government required to provide a hearing before enforcing this order?"
+          },
+          "answer": "C",
+          "target_justice": "Justice Gorsuch",
+          "debug_info": {
+            "correct_answer": "Is -- is the fellow barred from the country for 10 years or not?",
+            "fake_questions": [
+              "What other consequences arise from failing to depart under this order?",
+              "How does the issue of reentry bars apply to this case specifically?",
+              "Is the government required to provide a hearing before enforcing this order?"
+            ],
+            "all_generated_alternatives": [
+              "What other consequences arise from failing to depart under this order?",
+              "Is the government required to provide a hearing before enforcing this order?",
+              "What is the process for contesting a final order of removal in court?",
+              "How does the issue of reentry bars apply to this case specifically?",
+              "What is the timeline for appealing this decision in the appellate court?",
+              "Is there a possibility for judicial review of the process leading to this order?",
+              "Under what circumstances can the removal order be stayed or postponed?",
+              "What differences exist in the consequences of voluntary vs. involuntary departure?",
+              "How might changes to immigration law affect this type of removal order?",
+              "What criteria are used to evaluate the validity of a final order of removal?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 4
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 9
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Gorsuch most likely ask next?",
+          "options": {
+            "A": "Why is the text of 1252 considered relevant in discussions about jurisdiction over agency decisions?",
+            "B": "I mean, where do you get all this from 1252? I mean, I thought you were\na good textualist, Mr. Yang.",
+            "C": "What is the significance of statutory interpretation in immigration cases involving final removal orders?",
+            "D": "What procedure should parties follow if they wish to contest a removal order issued by the BIA?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Gorsuch",
+          "debug_info": {
+            "correct_answer": "I mean, where do you get all this from 1252? I mean, I thought you were\na good textualist, Mr. Yang.",
+            "fake_questions": [
+              "What is the significance of statutory interpretation in immigration cases involving final removal orders?",
+              "Why is the text of 1252 considered relevant in discussions about jurisdiction over agency decisions?",
+              "What procedure should parties follow if they wish to contest a removal order issued by the BIA?"
+            ],
+            "all_generated_alternatives": [
+              "What is the significance of statutory interpretation in immigration cases involving final removal orders?",
+              "Could you clarify how the recent case law might influence interpretation of 1252 in discussing removal orders?",
+              "How does the burden of proof apply in cases of judicial review of removal orders under section 1252?",
+              "What arguments can be made regarding the legislative history of the Immigration and Nationality Act in this context?",
+              "How does the court's analysis of agency discretion impact the review of removal orders under 1252?",
+              "Why is the text of 1252 considered relevant in discussions about jurisdiction over agency decisions?",
+              "Can you explain any differences between administrative and judicial reviews of immigration removal orders?",
+              "What role does the constitution play in challenges to final removal orders under 1252?",
+              "What procedure should parties follow if they wish to contest a removal order issued by the BIA?",
+              "How does the concept of due process factor into the proceedings regarding final removal orders under the INA?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 4
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 9
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Gorsuch most likely ask next?",
+          "options": {
+            "A": "Why wasn't this argument fully introduced in your initial brief?",
+            "B": "All right.\nIf it's so obvious, how come you didn't raise it below?",
+            "C": "When did the government first raise this particular jurisdictional challenge?",
+            "D": "How do additional filings relate to the effectiveness of your case's arguments?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Gorsuch",
+          "debug_info": {
+            "correct_answer": "All right.\nIf it's so obvious, how come you didn't raise it below?",
+            "fake_questions": [
+              "Why wasn't this argument fully introduced in your initial brief?",
+              "When did the government first raise this particular jurisdictional challenge?",
+              "How do additional filings relate to the effectiveness of your case's arguments?"
+            ],
+            "all_generated_alternatives": [
+              "Why wasn't this argument fully introduced in your initial brief?",
+              "What procedural requirements are needed to establish this jurisdictional point?",
+              "How does the court limit arguments not presented in previous lower courts?",
+              "When did the government first raise this particular jurisdictional challenge?",
+              "What are the implications of not raising this issue at the appellate level?",
+              "How does your case's specific timing impact the jurisdictional argument?",
+              "What statutory provisions govern the raising of new arguments in court?",
+              "Why is preserving arguments crucial for appellate court review, in your view?",
+              "What role does case precedent play in arguments raised at trial?",
+              "How do additional filings relate to the effectiveness of your case's arguments?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 4,
+            "total_questions_in_conversation": 4
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 9
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 34,
+      "target_dialogue": "## Justice Jackson",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 35,
+      "target_dialogue": "## Justice Gorsuch\n### Justice Gorsuch:\nCan we hold -- wait.\n### Justice Gorsuch:\nWhy --why -- why -- is it -- is it --I mean, \"jurisdictional,\" as Justice\nGinsburg used to love to say, is a word of many --too many meanings.\n### Anthony A. Yang:\nThis is the big \"J\" jurisdictional meaning.\nThis is -- because 1252(a)(1) only grants jurisdiction through the Hobbs\nAct to review final orders of removal. And we think you can expand that\na little bit by knowing the case has nothing to do with the final order of\nremoval.\nIt is not -- the final order, it does not affect its validity.\n### Justice Gorsuch:\nAll right.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 36,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\nMr. Yang, not only did you not raise it, I thought you affirmatively\nrepresented to the Tenth Circuit that there was jurisdiction in this case.\n### Anthony A. Yang:\nWe said there wasn't but for a different reason.\n### Justice Jackson:\nAll right.\nSo what --what do you do about the fact that Nasrallah itself recognized\n### Justice Jackson:\nyou're talking about.\nSo why -- why is it that this is not?\n### Anthony A. Yang:\nNo, because an evidentiary ruling that's -- I mean, if it were -- if the\njudge admitted something and had said, well, -- 44 this is completely\nirrelevant, has nothing to do with anything, maybe that would be the\n### Justice Jackson:\nWell, this is not completely irrelevant.\nI mean, this, as",
+      "justice_name": "Justice Jackson",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Jackson most likely ask next?",
+          "options": {
+            "A": "How does the Administrative Procedure Act relate to this removal order analysis?",
+            "B": "Why might the court’s jurisdiction be challenged in other immigration matters?",
+            "C": "you're talking about.\nSo why -- why is it that this is not?",
+            "D": "What arguments support a difference between removal orders and voluntary departures?"
+          },
+          "answer": "C",
+          "target_justice": "Justice Jackson",
+          "debug_info": {
+            "correct_answer": "you're talking about.\nSo why -- why is it that this is not?",
+            "fake_questions": [
+              "What arguments support a difference between removal orders and voluntary departures?",
+              "How does the Administrative Procedure Act relate to this removal order analysis?",
+              "Why might the court’s jurisdiction be challenged in other immigration matters?"
+            ],
+            "all_generated_alternatives": [
+              "What implications does the jurisdictional ruling have on similar removal cases?",
+              "How does precedent dictate the outcome of this specific immigration appeal?",
+              "Could you clarify the timeline for filing appeals in this jurisdiction?",
+              "What arguments support a difference between removal orders and voluntary departures?",
+              "How does the Administrative Procedure Act relate to this removal order analysis?",
+              "What factors determine the validity of a jurisdictional claim in immigration cases?",
+              "Is there a statutory basis for extending deadlines in voluntary departure situations?",
+              "What are the procedural limitations on reviewing final orders of removal?",
+              "How does the final order impact the ability to appeal the order's penalties?",
+              "Why might the court’s jurisdiction be challenged in other immigration matters?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 10
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 37,
+      "target_dialogue": "## Justice Gorsuch\n### Justice Gorsuch:\nkeeps emphasizing, has to -- imposes\nserious consequences on -- on the defendant. So what I'm saying is an\nevidentiary ruling that doesn't go to directly whether or not a person is\nremovable under Nasrallah counts because it's still a part of the final\norder for the purpose of reviewability.\n### Anthony A. Yang:\nThe final order here is an order of removal.\nIt orders -- grants voluntary departure.\nThe only collateral consequences that arise arise from the decision on\nreopening and then reconsideration.\nBut Petitioner's not even seeking reconsideration -- to challenge the\nreopening decision.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 38,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\nSo here -- here's my",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 39,
+      "target_dialogue": "## Justice Barrett\n### Justice Barrett:\nSo would it have mattered if he -- would it matter if he had?\n### Anthony A. Yang:\nYes, because a reopening decision, if --if -- now you can't make a\nfrivolous claim.\nI mean, Bell versus Hood and Steel Co. makes clear there's no\njurisdiction over frivolous claims.\nBut, if you have a good -faith claim that you're challenging the motion\nto reopen, you're move -- moving to reopen and that itself will affect\neither the validity of the final order or it could affect how the final order\nis implemented.\n### Anthony A. Yang:\nwould have been arguing that it should have been reopened, one,\n### Justice Barrett:\nRight.\n### Justice Barrett:\nCould he have -- 46 challenged the collateral consequences, as Justice\nGorsuch was talking about, through a motion to reopen? Is that the\ngovernment's position?\n### Justice Barrett:\nNo? Okay.\n### Anthony A. Yang:\nThe collateral consequences come up later, right?\n### Justice Barrett:\nOkay.\n### Anthony A. Yang:\nIt comes up when you are denied a benefit or when you don't get your\nbond, and he can challenge those in those contexts in the country.\n### Justice Barrett:\nOkay.\nCan he make",
+      "justice_name": "Justice Barrett",
+      "total_justice_questions": 3,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Barrett most likely ask next?",
+          "options": {
+            "A": "Could the petitioner have appealed the original removal order directly based on the implications discussed by Justice Gorsuch?",
+            "B": "Would a timely response to the final order in the Tenth Circuit have been essential in addressing the jurisdictional issue?",
+            "C": "What are the potential implications if the government argued that no action was necessary regarding the collateral consequences discussed?",
+            "D": "Could he have -- 46 challenged the collateral consequences, as Justice\nGorsuch was talking about, through a motion to reopen? Is that the\ngovernment's position?"
+          },
+          "answer": "D",
+          "target_justice": "Justice Barrett",
+          "debug_info": {
+            "correct_answer": "Could he have -- 46 challenged the collateral consequences, as Justice\nGorsuch was talking about, through a motion to reopen? Is that the\ngovernment's position?",
+            "fake_questions": [
+              "Could the petitioner have appealed the original removal order directly based on the implications discussed by Justice Gorsuch?",
+              "Would a timely response to the final order in the Tenth Circuit have been essential in addressing the jurisdictional issue?",
+              "What are the potential implications if the government argued that no action was necessary regarding the collateral consequences discussed?"
+            ],
+            "all_generated_alternatives": [
+              "Could the petitioner have appealed the original removal order directly based on the implications discussed by Justice Gorsuch?",
+              "Is there any need for a separate brief specifically addressing the motion to reopen in light of the recent jurisdictional rulings?",
+              "Did the government provide evidence regarding the final order's effects on other pending motions during the proceedings?",
+              "Would a timely response to the final order in the Tenth Circuit have been essential in addressing the jurisdictional issue?",
+              "How might a motion for reconsideration differ in addressing the consequences mentioned by Justice Gorsuch compared to a motion to reopen?",
+              "What are the potential implications if the government argued that no action was necessary regarding the collateral consequences discussed?",
+              "How does the principle of exhaustion of administrative remedies play a role in challenges to collateral consequences in removal orders?",
+              "Could he have contested the proposed penalties associated with the final order through an alternative legal framework?",
+              "What procedural steps must be taken if he wishes to revise the underlying facts related to the final order of removal?",
+              "Is it feasible for the court to consider new evidence in a motion to reopen related to the concerns raised by Justice Gorsuch?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 11
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Barrett most likely ask next?",
+          "options": {
+            "A": "How do collateral consequences apply?",
+            "B": "Can he appeal this ruling?",
+            "C": "Is there a statute of limitations?",
+            "D": "Okay.\nCan he make"
+          },
+          "answer": "D",
+          "target_justice": "Justice Barrett",
+          "debug_info": {
+            "correct_answer": "Okay.\nCan he make",
+            "fake_questions": [
+              "Can he appeal this ruling?",
+              "How do collateral consequences apply?",
+              "Is there a statute of limitations?"
+            ],
+            "all_generated_alternatives": [
+              "What is his burden?",
+              "Can he appeal this ruling?",
+              "What does due process require?",
+              "What are the appeals procedures?",
+              "How do collateral consequences apply?",
+              "Can we challenge the jurisdiction?",
+              "What does the INA provide?",
+              "Is there a statute of limitations?",
+              "What arguments can be made?",
+              "Can he file for reconsideration?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 11
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 40,
+      "target_dialogue": "## Justice Gorsuch\n### Justice Gorsuch:\nSo you can challenge even things that are not having to do with your\n### Anthony A. Yang:\nUh-huh.\n### Anthony A. Yang:\nYeah.\nIt's a normal APA challenge, not a challenge to a final order of removal -\n### Justice Gorsuch:\nalso challenged this determination on the 10 years even though it\ndoesn't fall, in your view, into any of your -- in any of the buckets?\n### Justice Gorsuch:\nBecause I thought your view is I only have jurisdiction to do things that\nhave to do with removability, and this isn't one of them.\n### Anthony A. Yang:\nIt --no, it would.\nWhen he challenged -- if he had challenged the motion to reopen by\nsaying proceedings should have reopening -- be reopened, which then\n### Justice Gorsuch:\nYeah.\nBut, in -- in -- in -- in that litigation, a court might say your Niz-Perez\nargument's no good.\n### Anthony A. Yang:\nSure.\n### Justice Gorsuch:\nBut you don't have to wait 10 years.\n### Anthony A. Yang:\nSure.\n### Justice Gorsuch:\nAnd I have jurisdiction to do that.\n### Anthony A. Yang:\nThe fact that you lose, might lose, doesn't mean there's not jurisd iction\nto -- to --you know, to seek review.\n### Justice Gorsuch:\nthen I'll -- I'll let you go.\n### Anthony A. Yang:\nSure.\n### Justice Gorsuch:\nPromise.\nWell, maybe not.\n(Laughter.)\n### Anthony A. Yang:\nI'm happy to be here as long as you'd like to be.\n### Justice Gorsuch:\nI take the common law point that it usually has to do with court\ndeadlines.\nBut your regulation is clear.\nIt says all, any.\nAnd you've had this regulation for a very long time, and, normally, the\ngovernment really likes its regulations.\nIt used to come up here and say we have to defer to them.\nNow it comes up here and says we should give them great respect when\nthey're contemporaneous and long-standing, which check both those\nboxes here, right? So you're --you're running from your regulations.\nI mean, it's sort of like garlic in front of a vampire.\nYou don't want to have anything to do with them.\n### Anthony A. Yang:\nWell, I don't know that that's quite right.\nThe regulation at issue here is not a general definition of \"day\"\nthroughout the immigration context.\nIt is limited in -- textually in two specific ways. One, it only --applies\nonly to regulations, not statutes.\nSecondly, it applies only when t he period of action is provided in the\nregulation.\nAnd we don't think that applies. Section 1229c is a statutory provision,\nso 1221(a) --or 1221 --or, sorry, Section 1-1 would not apply.\nNo regulatory antecedent to which 1-1 would have applied exists.\nAnd the implementing regulations --and this is on page 8a of the\nappendix to our brief --say that the maximum is 60 days, as set forth in\nSection 240B of the Act.\nIt's not saying that the maximum is set forth in the regulations.\nIt's saying that the Act is what sets forth the -- the maximum.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 41,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nCounsel, you began your argument by emphasizing the distinction\nbetween this type of deadline and general court deadlines.\nI -- I -- I don't quite understand that.\nI mean, this is a deadline for the courts as well.\ndepending upon how we -- we rule.\nI don't know how that's any different than our deadline for --for filing a\ncert petition.\nI mean, it's --it affects what the -- you know, outside conduct, but it\nalso binds the court.\n### Anthony A. Yang:\nI don't -- it's true that it can have legal consequences, but when I make\nthe distinction between primary conduct in the real world and things\nthat are concerning actions in litigation, things like filing deadlines or\nother things that are -- that's what I'm talking about.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 42,
+      "target_dialogue": "## Justice Kagan\n### Justice Kagan:\nSo I completely understand the rationale for that, but that appears no\nplace in any statute or in any regulation that you're talking to.\nSo that's -- I mean -- I mean, that would be an entirely atextual limit on\nthis regulation in particular.\n### Anthony A. Yang:\nI don't -- I don't think so because the general rule, the default r ule, is\nthe text, and the text, we think, is clear.\nThe question is whether to seek a contextual exception from the text.\nAnd our point is the exceptions, if they apply, only apply in these other\ncontexts, not conducts --contexts involving primary conduct.\n### Justice Kagan:\nI --I -- I guess I don't understand this.\nI thought that we had been talking about a general regulation that has a\nrollover principle in it and that says that's the way the agency is going to\nunderstand what the word \"day\" means in this -- you know, when it\nconfronts 60-day periods or 30 -day periods or what have you.\nAnd the argument that you are making, sort of filing deadlines versus\neverything else or things that are about primary conduct versus things\nthat are primarily about court conduct, that just doesn't appear in the\nagency's own regulation respecting this issue.\n### Anthony A. Yang:\nThat's true.\nThe regulation, though, is itself limited only to, one, regulations that\nuse the word \"day,\" and, two, only those that set the time to take action\nitself, not statutory times to take action.\nSo, if you're looking for an exception, it doesn't lie there.\nThat's our point.\nAnd the statute says this period shall not exceed 60 days.\nThat's 60 days.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 43,
+      "target_dialogue": "## Justice Jackson\n### Anthony A. Yang:\nSaturday is a day. Holidays.\n### Justice Jackson:\ndays, but where is the authority that says that if you file a motion for\nreopening or whatnot, you can stay until that motion is -- is decided?\n### Anthony A. Yang:\nOh, no, that's not necessarily the case.\n### Justice Jackson:\nThat's not?\n### Anthony A. Yang:\nSo what happens is -- this all follows from Dada in 2008 and the\nregulations that were enacted in response to Dada.\n### Justice Jackson:\nThe expiration.\n### Justice Jackson:\nYeah.\n### Anthony A. Yang:\nWhat happens then is you are immediately subject to an order of\ndeportation.\n### Justice Jackson:\nI see.\n### Anthony A. Yang:\nAnd we could remove you from the country like that.\n### Justice Jackson:\nI see.\n### Justice Jackson:\ncourts? Several of my colleagues have sort of raised this.\nI mean, if your filing of a particular motion has the consequence of\naffecting a withdrawal and, therefore, starting the process of actual\n### Anthony A. Yang:\nRight.\n### Anthony A. Yang:\nUh-huh.\n### Anthony A. Yang:\nBecause the voluntary departure deadline exists regardless of whether\nany filing is made.\n### Justice Jackson:\nThat's the case of anything.\n### Anthony A. Yang:\nNo, no, no.\n### Anthony A. Yang:\nNo, no, no, that's not, because Congress says your time to voluntary\n### Justice Jackson:\nMm-hmm.\n### Anthony A. Yang:\nIf you do nothing, you've got to voluntarily depart in 60 days.\nThere's no filing.\nAnd the filing deadline for a motion to reopen is 90 days. It's timely if\nit's filed -- this motion to -- to file --reopen was timely.\nIt was within the 90 days.\nThe voluntary departure deadline is a separate one governing primary\nconduct.\nThe fact that the -- the Petitioner wanted to get it in, his motion in,\nbefore that separate deadline expired doesn't convert that separate\ndeadline into a filing deadline.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 44,
+      "target_dialogue": "## Justice Kagan\n### Justice Kagan:\nCan -- can -- can I -- can I take you back to the jurisdictional question\n### Anthony A. Yang:\nSure.\n### Anthony A. Yang:\nMm-hmm.\n### Justice Kagan:\nIf this Petitioner had wanted to challenge the view of timeliness\n### Anthony A. Yang:\nMm-hmm.\n### Justice Kagan:\ncourt, you're saying?\n### Anthony A. Yang:\nWell, he could have done it in -- in multiple ways.\nHe could have -- if he wanted to do it in the context of the removal\nproceedings -- not going to the collateral consequences, because,\nremember, he could challenge the withholding of the bond or he could\n### Anthony A. Yang:\nSure.\n### Anthony A. Yang:\nYeah.\n### Anthony A. Yang:\nYeah.\n### Anthony A. Yang:\nMm-hmm.\n### Justice Kagan:\nAnd how does he challenge that determination?\n### Anthony A. Yang:\nSo if --he could challenge the motion to reopen on judicial review.\nHe could have sought reconsideration and then challenged both the\nmotion to reopen and the motion for reconsideration.\n### Justice Kagan:\nOkay.\nSo let's stop there.\n### Anthony A. Yang:\nBut it wouldn't have -- okay.\n### Justice Kagan:\nHe could challenge -- he could challenge it in court, is the first thing.\nAnd then you said the second thing is he could challenge it as long as he\nincluded a challenge to his removability.\nThat was the second thing.\nAnd I guess what I want to say is, I mean, this strikes me as a -- a very\nstrange rule that you're precluding him from doing what actually\nseems, from the agency's own perspective, the sensible thing.\nIn other words, he's seeking exhaustion of administrative remedies.\nBefore he goes to court, he wants to make sure that the agency itself has\nthough t about this question sufficiently.\nAnd then you say, well, he has to attach it to a challenge about\nremovability. But he's saying he doesn't have a challenge about\nremovability.\nSo you're asking him to make up a completely meritless claim in order to\nget jurisdiction. And how do either one of those things make sense? This\nis a man who's really trying to, like, get the agency to focus on this\ntimeliness determination that has just arisen in his -- in the denial of\nhis motion to reopen. He did what I would think the agency would want\nhim to do.\n### Anthony A. Yang:\nWell, I will say that where this comes from is the text; that is, there's\nreview only of a final order of removal.\nThat's 1252(a)(1).\nIt then goes to Nasrallah, which interpreted \"final order of removal.\"\n### Justice Kagan:\nOkay.\nThat's -- that's completely non-responsive to the question that I just\nasked.\n### Anthony A. Yang:\nBut why -- our position is following the text and this Court's decisions.\n### Justice Kagan:\nOkay.\nWell, let me ask you about the text then.\nIs this a question of law and fact arising from any action taken or\nproceeding brought to remove an alien from the United States?\n### Anthony A. Yang:\nIt is.\n### Justice Kagan:\nAll right.\nIt is.\n### Anthony A. Yang:\nYeah.\n### Justice Kagan:\nIt is a question of law and fact arising from an action taken or proceeding\nbrought to remove an alien.\nAnd then it says: Any of those questions shall be available only in judicial\nreview of a final order under this section.\nNow wouldn't you read that to say that all those other questions that\n### Anthony A. Yang:\nNot if there's not a final order.\nIf there's not review of the final order of removal, it doesn't fall within\nthat -- that's what the text says.\nIt's available only in judicial review of a final order.",
+      "justice_name": "Justice Kagan",
+      "total_justice_questions": 6,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Kagan most likely ask next?",
+          "options": {
+            "A": "court, you're saying?",
+            "B": "Are you suggesting appellate review?",
+            "C": "Is this a final order?",
+            "D": "Is the BIA involved here?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Kagan",
+          "debug_info": {
+            "correct_answer": "court, you're saying?",
+            "fake_questions": [
+              "Is this a final order?",
+              "Are you suggesting appellate review?",
+              "Is the BIA involved here?"
+            ],
+            "all_generated_alternatives": [
+              "What is your jurisdiction?",
+              "Is this a final order?",
+              "Which legal standard applies?",
+              "How do you define dismissal?",
+              "Are you suggesting appellate review?",
+              "What about procedural requirements?",
+              "What precedents support your view?",
+              "Can we address a different issue?",
+              "What are the statutory provisions?",
+              "Is the BIA involved here?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 6
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 12
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Kagan most likely ask next?",
+          "options": {
+            "A": "What are the consequences of his inaction here?",
+            "B": "How does jurisdiction affect the appeal process?",
+            "C": "How does he appeal the final order decision?",
+            "D": "And how does he challenge that determination?"
+          },
+          "answer": "D",
+          "target_justice": "Justice Kagan",
+          "debug_info": {
+            "correct_answer": "And how does he challenge that determination?",
+            "fake_questions": [
+              "How does he appeal the final order decision?",
+              "How does jurisdiction affect the appeal process?",
+              "What are the consequences of his inaction here?"
+            ],
+            "all_generated_alternatives": [
+              "What standard applies to review removal orders?",
+              "How does he appeal the final order decision?",
+              "What legal arguments support this removal order?",
+              "How does jurisdiction affect the appeal process?",
+              "What must he prove to obtain judicial review?",
+              "What options does he have following removal?",
+              "What evidence is needed for a timely appeal?",
+              "How do procedural rules govern this case?",
+              "What specific arguments did the government raise?",
+              "What are the consequences of his inaction here?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 6
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 12
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Kagan most likely ask next?",
+          "options": {
+            "A": "Is it possible for the petitioner to argue for equitable tolling of the deadlines related to his removal order under current immigration law?",
+            "B": "He could challenge -- he could challenge it in court, is the first thing.\nAnd then you said the second thing is he could challenge it as long as he\nincluded a challenge to his removability.\nThat was the second thing.\nAnd I guess what I want to say is, I mean, this strikes me as a -- a very\nstrange rule that you're precluding him from doing what actually\nseems, from the agency's own perspective, the sensible thing.\nIn other words, he's seeking exhaustion of administrative remedies.\nBefore he goes to court, he wants to make sure that the agency itself has\nthough t about this question sufficiently.\nAnd then you say, well, he has to attach it to a challenge about\nremovability. But he's saying he doesn't have a challenge about\nremovability.\nSo you're asking him to make up a completely meritless claim in order to\nget jurisdiction. And how do either one of those things make sense? This\nis a man who's really trying to, like, get the agency to focus on this\ntimeliness determination that has just arisen in his -- in the denial of\nhis motion to reopen. He did what I would think the agency would want\nhim to do.",
+            "C": "Can the petitioner simply disregard the requirement to challenge the removal order if he believes the agency's decision was arbitrary?",
+            "D": "How would the court determine if the petitioner has properly exhausted his administrative remedies before seeking judicial review?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Kagan",
+          "debug_info": {
+            "correct_answer": "He could challenge -- he could challenge it in court, is the first thing.\nAnd then you said the second thing is he could challenge it as long as he\nincluded a challenge to his removability.\nThat was the second thing.\nAnd I guess what I want to say is, I mean, this strikes me as a -- a very\nstrange rule that you're precluding him from doing what actually\nseems, from the agency's own perspective, the sensible thing.\nIn other words, he's seeking exhaustion of administrative remedies.\nBefore he goes to court, he wants to make sure that the agency itself has\nthough t about this question sufficiently.\nAnd then you say, well, he has to attach it to a challenge about\nremovability. But he's saying he doesn't have a challenge about\nremovability.\nSo you're asking him to make up a completely meritless claim in order to\nget jurisdiction. And how do either one of those things make sense? This\nis a man who's really trying to, like, get the agency to focus on this\ntimeliness determination that has just arisen in his -- in the denial of\nhis motion to reopen. He did what I would think the agency would want\nhim to do.",
+            "fake_questions": [
+              "How would the court determine if the petitioner has properly exhausted his administrative remedies before seeking judicial review?",
+              "Is it possible for the petitioner to argue for equitable tolling of the deadlines related to his removal order under current immigration law?",
+              "Can the petitioner simply disregard the requirement to challenge the removal order if he believes the agency's decision was arbitrary?"
+            ],
+            "all_generated_alternatives": [
+              "How would the court determine if the petitioner has properly exhausted his administrative remedies before seeking judicial review?",
+              "Is the petitioner required to file a separate motion seeking reconsideration before he can address the timeliness issue in court?",
+              "What procedural steps must the petitioner take before he can appeal the decision regarding his removability?",
+              "Is it possible for the petitioner to argue for equitable tolling of the deadlines related to his removal order under current immigration law?",
+              "What is the significance of the jurisdictional question in the broader context of immigration law as it impacts the review of executive agency decisions?",
+              "How can the agency's determination about the petitioner's removability impact subsequent challenges to the final order of removal?",
+              "What are the implications of the agency not addressing the timeliness issue in its initial order for the petitioner's ability to seek judicial review?",
+              "Can the petitioner simply disregard the requirement to challenge the removal order if he believes the agency's decision was arbitrary?",
+              "What effect does the failure to raise a jurisdictional challenge at the agency level have on the petitioner's ability to appeal to the courts?",
+              "How does the standard of proof shift when an immigrant is contesting the conditions of voluntary departure versus an outright removal?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 4,
+            "total_questions_in_conversation": 6
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 12
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Kagan most likely ask next?",
+          "options": {
+            "A": "Okay.\nWell, let me ask you about the text then.\nIs this a question of law and fact arising from any action taken or\nproceeding brought to remove an alien from the United States?",
+            "B": "Is there a jurisdictional basis for appealing a final order of removal under the INA?",
+            "C": "What provisions allow for discretionary relief from an order of removal per immigration law?",
+            "D": "What role does the standard of 'reasonable fear' play in asylum claims within immigration law?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Kagan",
+          "debug_info": {
+            "correct_answer": "Okay.\nWell, let me ask you about the text then.\nIs this a question of law and fact arising from any action taken or\nproceeding brought to remove an alien from the United States?",
+            "fake_questions": [
+              "Is there a jurisdictional basis for appealing a final order of removal under the INA?",
+              "What provisions allow for discretionary relief from an order of removal per immigration law?",
+              "What role does the standard of 'reasonable fear' play in asylum claims within immigration law?"
+            ],
+            "all_generated_alternatives": [
+              "Is there a jurisdictional basis for appealing a final order of removal under the INA?",
+              "How does the definition of 'alien' factor into procedural requirements for removal proceedings?",
+              "What factual matters can an alien contest when appealing an order of removal?",
+              "Does the burden of proof shift if an alien introduces new evidence after a removal order?",
+              "What role does the standard of 'reasonable fear' play in asylum claims within immigration law?",
+              "Can allegations of procedural error affect a court's ability to review a removal order?",
+              "What are the administrative steps required before seeking judicial review of a removal order?",
+              "In what scenarios can an individual challenge the findings of fact in a removal order?",
+              "What provisions allow for discretionary relief from an order of removal per immigration law?",
+              "Is the scope of review for removal orders limited strictly to constitutional violations?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 5,
+            "total_questions_in_conversation": 6
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 12
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Kagan most likely ask next?",
+          "options": {
+            "A": "What are the implications for noncitizens if a final order includes consequences regarding future reentry into the country?",
+            "B": "To what extent does the INA allow for challenges to final orders of removal based on procedural errors in the administrative process?",
+            "C": "It is a question of law and fact arising from an action taken or proceeding\nbrought to remove an alien.\nAnd then it says: Any of those questions shall be available only in judicial\nreview of a final order under this section.\nNow wouldn't you read that to say that all those other questions that",
+            "D": "What documentation is required for an alien to contest their removal effectively in the immigration context?"
+          },
+          "answer": "C",
+          "target_justice": "Justice Kagan",
+          "debug_info": {
+            "correct_answer": "It is a question of law and fact arising from an action taken or proceeding\nbrought to remove an alien.\nAnd then it says: Any of those questions shall be available only in judicial\nreview of a final order under this section.\nNow wouldn't you read that to say that all those other questions that",
+            "fake_questions": [
+              "To what extent does the INA allow for challenges to final orders of removal based on procedural errors in the administrative process?",
+              "What are the implications for noncitizens if a final order includes consequences regarding future reentry into the country?",
+              "What documentation is required for an alien to contest their removal effectively in the immigration context?"
+            ],
+            "all_generated_alternatives": [
+              "To what extent does the INA allow for challenges to final orders of removal based on procedural errors in the administrative process?",
+              "How does the court determine the scope of judicial review for actions taken under immigration statutes in general?",
+              "Are there ramifications of a final order of removal that one can challenge independent of the underlying proceeding?",
+              "How do statutory provisions define the timeline for filing an appeal against a decision of the Board of Immigration Appeals?",
+              "What fundamental rights could be impacted by the government's interpretation of jurisdiction in immigration cases?",
+              "How can a petitioner raise issues regarding the timeliness of filing once a final order of removal has been issued?",
+              "What are the implications for noncitizens if a final order includes consequences regarding future reentry into the country?",
+              "Is the definition of a final order influenced by the context of the case or merely a ministerial act?",
+              "What documentation is required for an alien to contest their removal effectively in the immigration context?",
+              "Do courts consider equities when reviewing final orders of removal, and what factors influence their decisions?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 6,
+            "total_questions_in_conversation": 6
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 12
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 45,
+      "target_dialogue": "## Justice Jackson",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 46,
+      "target_dialogue": "## Justice Kagan\n### Justice Kagan:\nWell, it's -- judicial review of a final order is understood to include all of\nthose questions.\n### Anthony A. Yang:\nThat was rejected by this Court in Nasrallah.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 47,
+      "target_dialogue": "## Justice Jackson\n### Anthony A. Yang:\nNo, no.\nWe argued that all rulings in the removal proceeding under the zipper\nclause, that kind of thing goes into a final order.\nThe Court rejected that.\nThey said no, no, no, that was under the fotee framework. That all\nchanged.\nNow we're going to apply the definition in the INA.\nThat definition means: A final order of removal either finds a noncitizen\ndeportable or orders deportation.\nThere's another category, things that affect the validity of that, that\nmerge into the final order.\n### Justice Jackson:\nunderstand.\nYou -- you keep going to Nasrallah. But, in Mata, I thought the Court\nmade clear that the INA's grant of jurisdiction over final orders of\nremoval encompasses review of decisions refusing to reopen or\nreconsider such orders.\n### Anthony A. Yang:\nThat's true.\n### Justice Jackson:\nHere, we have a decision refusing to reconsider or reopen. Nasrallah did\nnot involve a decision refusing to reconsider or reopen.\nSo why doesn't Mata's determination that those kinds of decisions\n### Anthony A. Yang:\nBecause Mata recognizes that reopening and reconsideration can be\nsubject to review.\nIt doesn't say everything.\nSo, for instance, take an alien who's a -- a -- a soccer fan and says: I\nwant -- I move for reconsideration.\nI want you to include in your opinion the statement I'm as good of a\nsoccer player as Lionel Messi.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 48,
+      "target_dialogue": "## Justice Kagan\n### Justice Kagan:\nI don't think you should trivialize this case, Mr. Yang.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 49,
+      "target_dialogue": "## Justice Jackson\n### Anthony A. Yang:\nNo, no, no, no, because it doesn't affect the final order of removal.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 50,
+      "target_dialogue": "## Justice Kagan",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 51,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\nBut, Mr. Yang, Mata says that there are certain categories of orders,\nthose that go to reopening and remove -- reconsideration that do count\nas final orders of removal.\nThat seems to me to be a simple, clear line that judges can apply when\nwe determine whether or not we have jurisdiction, and it's one that\nmakes sense.\nYou want us to drill down.\nOnly certain finals -- only certain orders of reopening or\nreconsideration count.\n### Anthony A. Yang:\nIt's hard to avoid the \"final order of removal\" language because that's\nwhere the only jurisdictional grant is.\n### Justice Jackson:\nI'm not avoiding it. I'm saying Mata interpreted it.\n### Justice Jackson:\nMata interpreted \"final orders of removal\" to \"encompass review of\n### Justice Jackson:\nWhat I hear you saying is, yes, but only certain decisions that refuse to\nreopen or reconsider count, and you want us to look at the extent to\nwhich the person, in their applicatio n, made certain arguments. It\nseems like a very technical way to go about this when we have a case\nthat already interprets motions -- or --or decisions that encompass\nreview of refusing to reopen or reconsider as final orders of removal for\nthis purpose.\n### Anthony A. Yang:\nMata did not say that every motion to reopen and every motion to\nreconsider, regardless of what it concerns, is subject to the jurisdictional\nprovision.\nAnd our point is most --most are included.\n### Justice Jackson:\nBut why -- why wouldn't it be? Why wouldn't it be? We -- we are\n### Anthony A. Yang:\nMm-hmm.\n### Justice Jackson:\nWe're not saying whether or not his claim is meritorious, whether or not\nwhen it was talking about jurisdiction be that the final order of removal\nand any subsequent attempts to get the court to revisit or get the\nagency to revisit through a motion for reopening or a motion for\nreconsideration all fits in the umbrella of things that the court would\nreview?\n### Anthony A. Yang:\nBecause, when the issue concerns a matter as collateral as this and, in\n### Justice Jackson:\nIt's not collateral because it relates to the final order of removal in the\nway that Mata indicated.\n### Anthony A. Yang:\nAnd, in addition, where you have judicial review elsewhere, Congress\nwould have thought that those collateral consequences could be\npursued but in a different judicial forum in a different way.\nIt's not unusual here, when --we're talking about removal proc\needings, where it doesn't affect the order of removal in any way. It really\ndoesn't.\nThis is all collateral. This order of removal is unchanged. There's not a\nword on that page in, what is it, 42 and 43a that would change. Nothing.\nThey say it would change.\nBut, like, how are you going to change it? Notice: If you fail to voluntary\ndepart, the following will happen.\nThat's right, nothing's changing there.",
+      "justice_name": "Justice Jackson",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Jackson most likely ask next?",
+          "options": {
+            "A": "In addressing jurisdiction under Section 1252(a)(1), should the emphasis be placed on the final order or the validity of the reopening motion?",
+            "B": "We're not saying whether or not his claim is meritorious, whether or not\nwhen it was talking about jurisdiction be that the final order of removal\nand any subsequent attempts to get the court to revisit or get the\nagency to revisit through a motion for reopening or a motion for\nreconsideration all fits in the umbrella of things that the court would\nreview?",
+            "C": "What criteria must be met for a court to have jurisdiction over a petition for a motion to reconsider an order of removal?",
+            "D": "In this context, how might the definition of 'final order' differ from other judicial review standards under immigration law?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Jackson",
+          "debug_info": {
+            "correct_answer": "We're not saying whether or not his claim is meritorious, whether or not\nwhen it was talking about jurisdiction be that the final order of removal\nand any subsequent attempts to get the court to revisit or get the\nagency to revisit through a motion for reopening or a motion for\nreconsideration all fits in the umbrella of things that the court would\nreview?",
+            "fake_questions": [
+              "What criteria must be met for a court to have jurisdiction over a petition for a motion to reconsider an order of removal?",
+              "In this context, how might the definition of 'final order' differ from other judicial review standards under immigration law?",
+              "In addressing jurisdiction under Section 1252(a)(1), should the emphasis be placed on the final order or the validity of the reopening motion?"
+            ],
+            "all_generated_alternatives": [
+              "Is the concept of final orders of removal interpreted differently than that of preliminary orders in immigration proceedings?",
+              "What criteria must be met for a court to have jurisdiction over a petition for a motion to reconsider an order of removal?",
+              "To what extent do jurisdictional factors affect the review of collateral consequences post-final order of removal?",
+              "Are motions for reopening of final removal orders governed by different standards compared to those for reconsideration?",
+              "In this context, how might the definition of 'final order' differ from other judicial review standards under immigration law?",
+              "Can the jurisdictional standards outlined in Section 1252(a)(1) be applied uniformly to all removal proceedings by the BIA?",
+              "What implications does the term 'final order' have for appeals beyond the removal stage in immigration matters?",
+              "How do the procedural requirements for filing a motion to reopen differ from motions filed during the initial removal process?",
+              "What role does the accountability of the agency play when reconsidering a final removal order in an appeal?",
+              "In addressing jurisdiction under Section 1252(a)(1), should the emphasis be placed on the final order or the validity of the reopening motion?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 13
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 52,
+      "target_dialogue": "## Justice Kagan\n### Justice Kagan:\nWell, but the meaning of that provision has changed.\nI mean -- and that provision is in the overall order of removal.\nthe conclusion as to remov ability.\nBut, in fact, it has --it makes reference to other matters, including\nvoluntary departure.\nAnd the meaning of the voluntary departure provision, how it's\nimplemented, how it operates on the ground, completely changes\ndepending on whose view of timeliness one adopts.\n### Anthony A. Yang:\nThe order doesn't change. It's n o different than a sentence, a criminal\nsentence.\nIf the criminal sentence says: We're going to impose supervised release,\nand if you commit a federal crime while on supervised release, it's a\nviolation.\nThat judgment doesn't say you've committed another federal crime.\nYou've got to wait for a separate order about whether or not you\nviolated the terms of supervised release. That's the same here.\nThis is simply saying: If the following happens, these are consequences.\nThe -- the separate order that really addresses whether they happened\nis the motion to reopen, which they're not challenging, and a motion for\nreconsideration, which they are.\nAnd that's the only thing they're challenging, and it doesn't affect the\nfinal order of removal.\nI think it's also important to just note the consequences or the penalty\nthat's imposed by c(d) of a monetary sanction or ineligibility for certain\nrelief, like cancellation and adjustment of status, only applies if the\nnoncitizen voluntarily fails to depart in the time period specified.\nAnd the Board has interpreted that provision in a case called Zmijewska.\nIt's 21 I&N Decision 89.\nAnd the court --the Board said: You do not voluntarily fail to depart if,\nthrough no fault of your own, you're unaware of the grant of voluntary\ndeparture or you're physically unable to depart.\nSo my point by this discursion is to explain that whether or not the\nnoncitizen is subject to these penalties is a separate inquiry.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 53,
+      "target_dialogue": "## Justice Barrett\n### Anthony A. Yang:\nSure.\n### Justice Barrett:\nSo you didn't make this argument in the Tenth Circuit.\nHave you -- has the government made this in any court?\n### Anthony A. Yang:\nThis is the -- this is a very rare case, rarely arises, so we've not made it.\nAnd it's also an argument that builds from Nasrallah, which is very\nrecent too.\nSo the combination of the two, this is the first time that we made it in\nthis case, first in the very --in a very summary way and now more\nthoroughly here.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 54,
+      "target_dialogue": "## Justice Kavanaugh\n### Justice Kavanaugh:\nCan we -- this was not the question we granted cert on.\n### Anthony A. Yang:\nJurisdiction, you're saying?\n### Justice Kavanaugh:\nCorrect, jurisdiction.\n### Anthony A. Yang:\nYeah.\nYeah.\n### Justice Kavanaugh:\nAnd if it were easy, then I can see just resolving it.\n### Anthony A. Yang:\nYeah.\n### Justice Kavanaugh:\nBut the questions reveal that maybe it's not so easy.\n### Anthony A. Yang:\nYeah.\n### Justice Kavanaugh:\nIn that circumstance, is the prudent thing to do to -- to vacate and send\nit back so that the Tenth Circuit can consider the jurisdictional issue in\nthe first instance? To",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 55,
+      "target_dialogue": "## Justice Barrett\n### Justice Barrett:\n's question, it hasn't really -- and\nJustice Sotomayor's earlier, it hasn't really percolated this kind of jurisdi\nctional question, so I'm just trying to figure out what's sensible for us to\n### Anthony A. Yang:\nYeah.\nWe would not object to that.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 56,
+      "target_dialogue": "## Justice Kavanaugh\n### Justice Kavanaugh:\nRight.\n### Justice Kavanaugh:\nunforeseen.\n### Anthony A. Yang:\nAnd we don't object to that.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 57,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\n### Anthony A. Yang:\nThank you.\n### Chief Justice Roberts:\nJustice Thomas, anything further?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 58,
+      "target_dialogue": "## Justice Thomas\n### Justice Thomas:\nthis --this situation in this case now. Would you explain what you mean\nby that?\n### Anthony A. Yang:\nSo our position in Nasrallah was that all rulings in a removal proceeding\nwere within the ambit of the term \"final order of removal.\" And we were\ndoing that because there were exclusions of review of final orders of\nremoval.\nAnd the court rejected that argument. The court said: The term \"final\norder of removal\" in 1252 is something more limited, relying on the\nstatutory definition.\nIt is, one, things that find -- rulings that find the citizen --noncitizen\ndeportable or order deportation.\nThose are -- that's it. Now, in addition, Nasrallah says that things that\naffect the validity of the final order will merge in the final order.\nAnd we would like to extend that to some other things too.\nWe think that if you raise an issue together with, under (b)(9), the zipper\nclause helps you, because it says you can raise it in judicial review of a\nfinal order of removal.\nBut you still have to have a final order of removal you're seeking review\nAnd we think things like withholding of removal, where it affects how\nyou implement the final order of removal, even though it doesn't affect\nthe validity of the final order of removal, that's close enough because\nwe need to know how to implement the final order.\nThat is part of judicial review of the final order of removal under the\nzipper clause.\nSo those are the things that we think get covered, but all of them point\nback to some -- a final order of removal, and the reason is, is because\nthe jurisdictional provision in 1252(a)(1) only grants jurisdiction over\nreview of a final order of removal.\nThat's it.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 59,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Alito, anything further?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 60,
+      "target_dialogue": "## Justice Sotomayor\n### Justice Sotomayor:\n?\nI'd like to go to agency practice.\n### Anthony A. Yang:\nMm-hmm.\n### Justice Sotomayor:\nJustice Gorsuch was right that, most of the time, the agency comes in to\ndefend its practices.\nIn this very case, the immigration judge told Petitioner that he had the\nextra two days.\nIt -- the summary of the March 5th oral ruling says Respondent's\napplication for voluntary departure was granted until May 6th.\nThat's 62 days from March 5th.\nI understand from the amicus brief filed here that that was a consistent\npractice by immigration judges.\n### Anthony A. Yang:\nI'm not sure that's correct, but I don't want to interrupt.\n### Justice Sotomayor:\nBut some did.\n### Anthony A. Yang:\nSome.\n### Justice Sotomayor:\nOkay.\n### Anthony A. Yang:\nAnd -- and it's binding precedent in the Ninth Circuit.\n### Justice Sotomayor:\nAnd when did the agency correct that filing?\n### Anthony A. Yang:\nExcuse me?\n### Justice Sotomayor:\nWhen did the BIA issue an actual ruling that said they were wrong?\n### Anthony A. Yang:\nWell, it hasn't yet.\nIn 2007, the BIA's decision in Meza-Vallejos, which is the Ninth Circuit\nprecedential decision on the other side of this split, went the way we\nsaid.\nwith Petitioner, although it's --it's not quite the same position, but\nbottom line is basically the same.\nThen, in this case, we address it again.\n### Justice Sotomayor:\nThank you, Mr. Yang.",
+      "justice_name": "Justice Sotomayor",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Sotomayor most likely ask next?",
+          "options": {
+            "A": "When did the BIA issue an actual ruling that said they were wrong?",
+            "B": "What are the typical grounds for challenging a BIA removal order?",
+            "C": "When did the attorney general last affirm the BIA's authority on removal orders?",
+            "D": "How has the BIA historically interpreted voluntary departure extensions?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Sotomayor",
+          "debug_info": {
+            "correct_answer": "When did the BIA issue an actual ruling that said they were wrong?",
+            "fake_questions": [
+              "How has the BIA historically interpreted voluntary departure extensions?",
+              "When did the attorney general last affirm the BIA's authority on removal orders?",
+              "What are the typical grounds for challenging a BIA removal order?"
+            ],
+            "all_generated_alternatives": [
+              "What are the legal consequences of the BIA's prior rulings?",
+              "When did the Ninth Circuit issue its decision on this immigration case?",
+              "How has the BIA historically interpreted voluntary departure extensions?",
+              "What procedural requirements must be met for an appeal of an immigration decision?",
+              "When did the attorney general last affirm the BIA's authority on removal orders?",
+              "What impact does precedent have on the BIA's future rulings?",
+              "How does the BIA define jurisdiction in relation to removal proceedings?",
+              "What is the standard for judicial review of BIA decisions regarding removals?",
+              "What are the typical grounds for challenging a BIA removal order?",
+              "How does agency practice influence judicial interpretations of immigration law?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 14
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 61,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Kagan? Justice Gorsuch, anything?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 62,
+      "target_dialogue": "## Justice Kavanaugh\n### Anthony A. Yang:\nMm-hmm.\n### Anthony A. Yang:\nMm-hmm.\n### Anthony A. Yang:\nMm-hmm.\n### Justice Kavanaugh:\nperspective could ensue, and what language would you want us to\ninclude in the opinion so that it does not have those kinds of ripple\neffects?\n### Anthony A. Yang:\nWell, it -- it's a little hard to know.\nIt will depend on how the Court writes the opinion.\n### Justice Kavanaugh:\nMaybe this just reinforces my prior question that we shouldn't be doing\nthis, but assume we are doing this.\n### Anthony A. Yang:\nYeah.\n### Justice Kavanaugh:\nAnd assume you lose.\n### Anthony A. Yang:\nYeah.\n### Anthony A. Yang:\nYeah.\n### Justice Kavanaugh:\nforeseen that you can tell us now don't do that.\n### Anthony A. Yang:\nTotally understand.\nSo I think you would restate the Nasrallah.\nStart with Nasrallah, right? You can seek review of a final order of\nremoval that is -- finds the citizen deportable, orders deportation.\nTwo, you can seek review of rulings that merge into the final order, and\nthe reason they merge is because they affect the validity of the final\norder of removal.\nAnd I think you can also say that you can review things together with the\nfinal order of removal under the zipper clause, (b)(9), but, again, you\nstill need to explain how there's a final order of removal being reviewed.\nAnd then you can go even further and say that rulings that affect how to\nimplement the final order, even if it doesn't reflect -- affect the validity\nof the final order -- so, for instance, can you remove to this country?\nQuintessential question about withholding or CAT relief, right? Can you\nreviewed in and of themselves because they're close enough to a final\norder.\nNow, after you've said all that, because we don't want to carve out these\nWe -- we came to the conclusion that, well, when you --that's pretty\ngenerous, but there's still this category of things that just doesn't have\na relevant relationship to a final order of removal.\nHere, where you're seeking to change some language, an opinion with\ncollateral consequences, I'm not sure how you then square the circle and\nsay: And that somehow fits into those categories.\nBut you'd have to try to do that in some way, I think.\n### Justice Kavanaugh:\nThank you.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 63,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Barrett?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 64,
+      "target_dialogue": "## Justice Jackson",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 65,
+      "target_dialogue": "## Justice Kavanaugh\n### Anthony A. Yang:\nMm-hmm.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 66,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\nquestions that the government thinks the court should not be able to,\nright?\n### Anthony A. Yang:\nI guess it depends on what the court says because we're not just talking\nabout this case.\n### Justice Jackson:\nRight.\n### Anthony A. Yang:\nYeah.\n### Justice Jackson:\nAnd it just seems to me that you'd be in a situation in which there would\n### Anthony A. Yang:\nMm-hmm.\n### Justice Jackson:\nwould consider under circumstances in which the government thinks\nyou shouldn't be -- the court should not be able to do so.\n### Anthony A. Yang:\nYeah.\nI think the consequences really will flow from how the Court decides\nwhat judicial review of a final order of removal is in light of Nasrallah.\n### Justice Jackson:\nThank you.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 67,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nRebuttal, Mr. Cedrone?\n### Gerard J. Cedrone:\nThank you, Your Honor. Let me say a few words about jurisdiction and\nthen a few words about the merits.\nOn jurisdiction, the question of whether there's going to be a blast\nradius from this decision, the government explains at page 18 of its brief\nthat it sees the jurisdictional question in this case as turning on two\nidiosyncratic features of this case.\nWhat the government has tried to do is construct a view of jurisdiction\nthat disposes of this case and no other.\nFor the reasons we've explained, that view of jurisdiction is wrong.\nThe Court doesn't have to do anything unprecedented to recognize as\nmuch.\nIt can start with the text of the statute, which covers a final order of\nremoval.\nOn the government's view, a final order of removal is just the piece of\nthe order that says you are removable to this country.\nI don't know where that comes from.\nin this case is the government's view, which appeared for the first time\nin a brief in opposition and has continued to evolve, including at the\nlectern here today.\nI heard Mr. Yang say for the first time that there's a voluntariness test\nthat needs to be adjudicated, and he cited a BIA case that I don't believe\nwas in his brief.\nThe reason for that is this is a rule that's crafted to dispose of this case.\nThe Court doesn't have to do anything different from what it's already\nsaid in previous cases to recognize jurisdiction.\nI also heard Mr. Yang say on -- on jurisdiction that jurisdiction is\navailable in a case where the question turns on how the removal order is\nimplemented.\nI don't know how to credibly explain to a client that the one -- the\n$3,000 fine you get slapped with as you're removed from the country\nand the 10-year bar on return is not part of how the removal order is\nimplemented.\nSo I think you can even rely on Mr. Yang's words here today to recognize\nthat there is jurisdiction.\nTurning to the merits, the government's main argument is that there's\nprimary conduct and statutes and regulations governing filings. I also\ndon't know where that comes from.\nIf you start with the regulation, Section 1001.1, it says it applies to any\naction.\nThe government tries to read that in a way that it only applies to\nregulatory deadlines and not statutory deadlines.\nWhat the government fails to grapple with is that many statutory\ndeadlines -- excuse me, many regulatory deadlines simply parrot\nstatutory deadlines in Title 8 of the Code of Federal Regulations and in\nplenty of other regulatory schemes outside of immigration.\nWe cite examples at page 42 of our brief where other agencies have\nadopted this same traditional principle.\nSo, at the end of the day, I think the question is, what would somebody\npicking up this statute in 1996 have made of it? That person would have\nhad the immigration regulation we've been talking about.\nThey would have been -- they would have had Rule 6(a), which both this\nCourt and the BIA have looked to to understand how deadlines work not\nonly where the rule directly applies but also in other cases.\nThat person would have had precedent from this Court applying this\ntraditional rule. That --that --that person would have had the common\nlaw principle that has applied even before that.\nAnd there is nothing cutting in the other direction, nothing that that\nperson would have looked to in 1996 to think that there was a different\ndefinition, a different time calculation rule that applied to this statute\nand this statute only.\nWe ask the Court to reverse.\n\n### Chief Justice Roberts:\nThank you, counsel.\nThe case is submitted.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    }
+  ],
+  "answer_distribution": {
+    "counts": {
+      "A": 7,
+      "B": 13,
+      "C": 9,
+      "D": 6
+    },
+    "percentages": {
+      "A": 20.0,
+      "B": 37.142857142857146,
+      "C": 25.71428571428571,
+      "D": 17.142857142857142
+    },
+    "total_questions": 35
+  }
+}

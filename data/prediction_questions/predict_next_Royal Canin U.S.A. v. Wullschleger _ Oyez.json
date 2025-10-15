@@ -1,0 +1,1259 @@
+{
+  "source_file": "Royal Canin U.S.A. v. Wullschleger _ Oyez.md",
+  "description": "MODERATELY CHALLENGING predict-next Justice question generation with balanced legal distractors",
+  "methodology": "Two-step process: (1) Generate 10 related legal alternatives, (2) Select 3 balanced distractors for 70-80% target accuracy",
+  "difficulty_level": "MODERATE - Targets law students and legal professionals (70-80% accuracy)",
+  "distractor_approach": "Balanced mix: related but different, clearly different, and obviously wrong alternatives",
+  "context_mode": "with_previous_contexts",
+  "use_previous_contexts": true,
+  "background": "Anastasia Wullschleger filed a class-action complaint in Missouri state court against Royal Canin and Nestle Purina, alleging that their requirement for a prescription for specialized dog food was misleading and led to higher prices. The defendants removed the case to federal court, which remanded it back to state court, and then they appealed to the U.S. Court of Appeals for the Eighth Circuit, which determined that the antitrust and unjust-enrichment claims raised substantial federal issues and belonged in federal court. Upon returning to the district court, Wullschleger amended her complaint to remove references to federal law, dropped the antitrust and unjust-enrichment claims, and added a civil-conspiracy claim. Despite these changes, the district court exercised federal-question jurisdiction and ultimately granted the manufacturers’ motion to dismiss, leading to a second appeal. Reviewing the case de novo, the Eighth Circuit concluded that amending a complaint to eliminate the only federal questions destroys subject-matter jurisdiction and thus returned the case to state court.",
+  "conversations": [
+    {
+      "conversation_id": 1,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nWe'll hear argument next in Case 23-677, Royal Canin versus\nWullschleger.\nMs. Wellington.\n### Katherine B. Wellington:\nMr. Chief Justice, and may it please the Court: The Eighth Circuit's\ndecision below is an extreme outlier.\nIt conflicts with the text and structure of Section 1367 and with more\nthan a century of precedent.\nChief Justice Marshall held in Mollan against Torrance in 1824 that in a\ndiversity case, a federal court's jurisdiction once vested cannot be\ndivested by subsequent events.\nThe Court extended that reasoning to removal actions in Kirby against\nAmerican Soda in 1904.\nAnd in 1938, this Court held in St. Paul Mercury that if the plaintiff after\nremoval amends his pleadings, this does not deprive the district court of\njurisdiction because the defendant's statutory right to removal should\nnot be subject to the plaintiff's caprice.\nThe second Justice Marshall confirmed that conclusion in Carnegie -\nMellon against Cohill in 1988, and Justice Scalia concurred in Rockwell in\n2007.\nRespondents ask this Court to upset that settled interpretation,\nclaiming that it conflicts with the text of Section 1367.\nBut Congress codified this Court's longstanding precedent in the text of\nSection 1367 itself, making clear that if the federal court has original\njurisdiction, it shall continue to have supplemental jurisdiction unless\nCongress expressly provided otherwise.\nRespondents cannot cite a single decision of this Court, a single decision\nof a court of appeals outside of the Eighth Circuit, or a single treatise\nthat supports their position.\nRespondents realize how weak their case is and instead ask the Court to\ndecide something else, whether Grable should be overruled and, if not,\nwhether Grable's requirements were met.\nThis Court did not grant certiorari on either question.\nGrable is settled law, and the Eighth Circuit correctly applied it here.\nThe Court should affirm its longstanding precedent and reverse the\ndecision below.\nI welcome the Court's questions.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 2,
+      "target_dialogue": "## Justice Thomas\n### Justice Thomas:\nYou mentioned Section 1367.\nCould you spend a few minutes on your argument as to how it disposes\nof -- supports your argument?\n### Katherine B. Wellington:\nCertainly, Your Honor.\nSo th e text of Section 1367 states that there is supplemental jurisdiction\nunless Congress has expressly provided otherwise.\nAnd the text of Section 1367 does not say that when a plaintiff amends\nthe complaint to delete the federal question, there is no longer\nsupplemental jurisdiction.\nAnd that's exactly the interpretive approach that this Court adopted in\nExxon Mobil against Allapattah, where the Court was trying to figure out\nwhat does Section 1367 say about Rule 23 and plaintiffs in class actions.\nAnd the Court looked at Section 1367, said it doesn't say anything about\nRule 23, and that means that there is supplemental jurisdiction.\nThere are also some important structural inferences here.\nSo --so Section 1367(c)(3) makes clear that where the district court has\ndismissed all claims ov er which it has original jurisdiction, it can\ncontinue to exercise supplemental jurisdiction.\nAnd that really disposes of the argument that there has to be an ongoing\nfederal question in the case in order for supplemental jurisdiction to be\nwarranted.\nCongress didn't intend that here.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 3,
+      "target_dialogue": "## Justice Kagan\n### Justice Kagan:\nSo do you think, Ms. Wellington, that --let's say this wasn't a removal\ncase.\nLet's say this was an original case and it was brought in federal court,\nand then the plaintiff took out the federal claim, leaving only state\nclaims.\nIs there supplemental jurisdiction there?\n### Katherine B. Wellington:\nSo this Court has treated these two situations differently, and Justice\nScalia explained why in Rockwell.\nSo there was a concern in Rockwell that when a plaintiff goes into\nfederal court, pleads a federal question, and then immediately or\nsubsequently drops it, that they're trying to plead their way into federal\ncourt.\n### Justice Kagan:\nSo forgetting what the reason for that is, you do agree with that rule\nthat once I file a suit in federal court as an original matter, then take out\nthe federal claims, leaving only state law claims, there's nothing at that\npoint for the federal court to do? It's not a doctrine of discretion\nanymore. The federal court has to dismiss.\nIs that correct?\n### Katherine B. Wellington:\nThat is how we have asked this Court to read Rockwell.\n### Katherine B. Wellington:\nYes.\n### Katherine B. Wellington:\nThat is our view.\n### Justice Kagan:\nSo, if that's the case, I don't think that your arguments from 1367 can be\nright because your arguments from 1367 would suggest the opposite\nresult in the case that I gave.\nIn other words, it's very hard to read 1367 as imposing some kind of\ndistinction between original cases and removed cases.\n### Katherine B. Wellington:\nSo I agree, Your Honor, that there is no distinction in the text of 1367\nitself.\nThis Court could revisit its decision in Rockwell or limit it to the FCA\ncontext.\nWe haven't asked the Court to do that because we think that we win on\n### Justice Kagan:\nI guess what it suggests to me, though, is, if you were willing to say,\nlook, the Rockwell understanding of original cases is settled, we're not\ncontesting that, then I think your arguments from 1367 go away\nbecause 1367 just doesn't create the kind of distinction that you're\nasking us to create.\nSo either you lose as to removed cases too, or these arguments from the\ntext are just not going to get us to your result.\n### Katherine B. Wellington:\nSo we disagree, Your Honor, with your interpretation of the text of\nSection 1367.\nWe think Congress has ma de clear that there is supplemental\njurisdiction unless Congress has expressly provided otherwise.\nIt hasn't done that.\nAnd I think it's very important to consider how Congress came to write\nSection 1367.\nIt was in response to Finley, where this Court took an extremely narrow\nview of -- pendent-claim and pendent-party jurisdiction, pendent-\nparty jurisdiction in particular, and Congress said no, that's not what we\nwant.\nWe want a broader view of pendent -claim and pendent-party\njurisdiction. And that's why they wrote this very broad statute here.\nAnd it would be very strange to conclude that Congress intended to\nabrogate Cohill.",
+      "justice_name": "Justice Kagan",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Kagan most likely ask next?",
+          "options": {
+            "A": "In the scenario where a plaintiff brings solely state law claims in federal court after initially asserting a federal issue, would there be a basis for maintaining federal jurisdiction if the state claims are sufficiently intertwined with the federal issue?",
+            "B": "If federal jurisdiction is based on a federal question and that question is eliminated, how would the concept of diversity jurisdiction play into whether the federal court must dismiss state law claims?",
+            "C": "Given the premise that a plaintiff initially presents a federal claim and later withdraws it, could the federal court decline jurisdiction based on discretion even if the state claims remain viable?",
+            "D": "So forgetting what the reason for that is, you do agree with that rule\nthat once I file a suit in federal court as an original matter, then take out\nthe federal claims, leaving only state law claims, there's nothing at that\npoint for the federal court to do? It's not a doctrine of discretion\nanymore. The federal court has to dismiss.\nIs that correct?"
+          },
+          "answer": "D",
+          "target_justice": "Justice Kagan",
+          "debug_info": {
+            "correct_answer": "So forgetting what the reason for that is, you do agree with that rule\nthat once I file a suit in federal court as an original matter, then take out\nthe federal claims, leaving only state law claims, there's nothing at that\npoint for the federal court to do? It's not a doctrine of discretion\nanymore. The federal court has to dismiss.\nIs that correct?",
+            "fake_questions": [
+              "In the scenario where a plaintiff brings solely state law claims in federal court after initially asserting a federal issue, would there be a basis for maintaining federal jurisdiction if the state claims are sufficiently intertwined with the federal issue?",
+              "If federal jurisdiction is based on a federal question and that question is eliminated, how would the concept of diversity jurisdiction play into whether the federal court must dismiss state law claims?",
+              "Given the premise that a plaintiff initially presents a federal claim and later withdraws it, could the federal court decline jurisdiction based on discretion even if the state claims remain viable?"
+            ],
+            "all_generated_alternatives": [
+              "In the scenario where a plaintiff brings solely state law claims in federal court after initially asserting a federal issue, would there be a basis for maintaining federal jurisdiction if the state claims are sufficiently intertwined with the federal issue?",
+              "If a plaintiff voluntarily dismisses their federal claim after the case has been initiated, does the concept of forum shopping become relevant in determining whether the court should retain jurisdiction?",
+              "Does the principle of supplemental jurisdiction apply in this case if the federal claim was dropped before any significant proceedings occurred, affecting the court's ability to adjudicate the state claims?",
+              "Given the premise that a plaintiff initially presents a federal claim and later withdraws it, could the federal court decline jurisdiction based on discretion even if the state claims remain viable?",
+              "What circumstances could lead a court to exercise jurisdiction over state claims following the dismissal of an original federal claim, particularly in instances involving closely related matters of state law?",
+              "If federal jurisdiction is based on a federal question and that question is eliminated, how would the concept of diversity jurisdiction play into whether the federal court must dismiss state law claims?",
+              "In a case where no federal claims are left but the parties are from different states, how might the factors of a motion to remand become critical in determining the outcome?",
+              "Can a federal court retain jurisdiction to resolve state claims if those claims arise from the same transaction or occurrence as the dismissed federal claims, or is jurisdiction strictly dependent on the existence of a federal issue?",
+              "At what point does a federal court lose the ability to exercise jurisdiction over a case when a plaintiff drops their federal claim while the case is in progress?",
+              "Is it possible for a federal court to exercise pendent jurisdiction over state law claims if there is a significant federal interest involved, even after the withdrawal of the federal claim?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 0
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 4,
+      "target_dialogue": "## Justice Sotomayor\n### Justice Sotomayor:\nThat's the point",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 5,
+      "target_dialogue": "## Justice Barrett",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 6,
+      "target_dialogue": "## Justice Sotomayor",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 7,
+      "target_dialogue": "## Justice Barrett\n### Justice Barrett:\nSorry.\nGo ahead.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 8,
+      "target_dialogue": "## Justice Sotomayor\n### Justice Sotomayor:\nThat's the point, isn't it? I -- I can't get over the fact that what Congress\ndid in 1367 was address the questions that had been in the Court.\nThe first one was the diversity issue under St. Paul, and it agreed with\nthe Court.\nIt disagreed with the Court on pendent and supplemental jurisdiction,\nand it wrote a statute to address that.\nAnd yet it knew from Cahill that we had said that if a plaintiff dismisses\nan action, that potentially we go back to the original amendment, and it\ndidn't do what it did for diversity.\nIt wrote it to say only when the district court dismisses the federal\nclaims do you retain supplemental jurisdiction.\nThat, to me, is the statute.\nThey had all our case law.\nThey addressed one -- one thing they agreed with.\nThey disagreed with another, and they disagreed with the third by not\nadopting what it did with diversity.\n### Katherine B. Wellington:\nSo two responses, Your Honor.\nFirst, Section (3) --(c)(2) does express -- expressly address this Cohill\nsituation.\nIt says the district courts may decline to exercise supplemental\njurisdiction when the state law claim substantially predominates.\n### Justice Sotomayor:\nNo, when the district court has dismissed all claims.\nIt doesn't say when the plaintiff has dismissed all claims.\n### Katherine B. Wellington:\nSo I agree, that's (c)(3).\n### Justice Sotomayor:\nAnd when the district court dismisses all federal claims, the party still\nhas a right to appeal, correct?\n### Katherine B. Wellington:\nThat's correct.\n### Justice Sotomayor:\nbecause the claim has disappeared, there's no appeal for the defendant\n### Katherine B. Wellington:\nI -- I sort of --I think, Your Honor, it depends on the case.\nI think there could still be an appeal in a diversity case where the district\ncourt dismisses a claim and the plaintiff says you shouldn't have\ndismissed that claim.\n### Justice Sotomayor:\nNo, but that's because they're there because of the -- the diversity\nprovision of the statute.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 9,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\nCan I just understand your argument about whether or not an\namendment can affect federal question jurisdiction? So setting aside\ndiversity for a second, we're in federal question land.\nThe case is filed in federal court.\nAnd the plaintiff goes through the first couple weeks and then says: You\nknow what? I'm dropping my federal claims, because it originally\nbrought a complaint that had federal and state claims.\nDoes that affect jurisdiction in your view or not?\n### Justice Jackson:\nAnd the plaintiff amends and takes out the federal claims.\nCan the court proceed, can it decide through supplemental jurisdiction\nor whatnot to continue on with the case?\n### Katherine B. Wellington:\nSo this Court suggested in Rockwell that the answer to that would be no,\nyou would not continue in that case.\n### Justice Jackson:\nOkay.\nSo next question.\nYou --the case is brought in state court and it has federal and state\nclaims, and before the defendant has the ability to remove, the plaintiff\nsays: Oops, I didn't mean to bring the federal claims, I'm dropping\nthem.\nSo no removal action yet or motion yet. Can it be still removed? Is there\nany basis for federal jurisdiction in that situation?\n### Katherine B. Wellington:\nNo, Your Honor.\n### Justice Jackson:\nAll right.\nSo it seems to me then your argument comes down to the impact of\nremoval because somehow, even though in a situation in which the\nplaintiff amends, if it was brought originally in federal court or amends\nif it's brought originally in st ate court, those have an impact, you say, on\nfederal question jurisdiction.\nSomehow, if the defendant removes before the plaintiff can drop the\nfederal claims, you say no impact on federal question jurisdiction.\nIs that right?\n### Katherine B. Wellington:\nThat's correct.\n### Justice Jackson:\nWhy?\n### Katherine B. Wellington:\nSo this Court explained in St. Paul Mercury that once you've removed to\nfederal court, there is a removal statute and the defendants have a right\nto remove.\n### Justice Jackson:\nBut the removal statute doesn't say, as I think",
+      "justice_name": "Justice Jackson",
+      "total_justice_questions": 5,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Jackson most likely ask next?",
+          "options": {
+            "A": "And the plaintiff amends and takes out the federal claims.\nCan the court proceed, can it decide through supplemental jurisdiction\nor whatnot to continue on with the case?",
+            "B": "Could the court assert concurrent jurisdiction if a plaintiff chooses to drop federal claims in favor of pursuing only state claims?",
+            "C": "If the plaintiff drops their federal claims after filing, what is the impact on the court's subject matter jurisdiction in reference to ancillary jurisdiction?",
+            "D": "What are the implications of a plaintiff deciding to drop federal claims in terms of potential remand to state court?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Jackson",
+          "debug_info": {
+            "correct_answer": "And the plaintiff amends and takes out the federal claims.\nCan the court proceed, can it decide through supplemental jurisdiction\nor whatnot to continue on with the case?",
+            "fake_questions": [
+              "If the plaintiff drops their federal claims after filing, what is the impact on the court's subject matter jurisdiction in reference to ancillary jurisdiction?",
+              "What are the implications of a plaintiff deciding to drop federal claims in terms of potential remand to state court?",
+              "Could the court assert concurrent jurisdiction if a plaintiff chooses to drop federal claims in favor of pursuing only state claims?"
+            ],
+            "all_generated_alternatives": [
+              "If the plaintiff drops their federal claims after filing, what is the impact on the court's subject matter jurisdiction in reference to ancillary jurisdiction?",
+              "In what situation can a plaintiff amend their claims, removing federal questions, and still maintain diversity jurisdiction if applicable?",
+              "How does a plaintiff's later amendment to exclude federal claims affect the court's power to hear related state claims?",
+              "Can the federal court retain jurisdiction if the plaintiff originally included both federal and state claims but only pursues state law claims after filing?",
+              "What are the implications of a plaintiff deciding to drop federal claims in terms of potential remand to state court?",
+              "Does the timeliness of filing an amendment affect the court's ability to exercise supplemental jurisdiction over remaining state claims?",
+              "How does the court evaluate the enforceability of supplemental jurisdiction when a plaintiff amends their claims during proceedings?",
+              "Could the court assert concurrent jurisdiction if a plaintiff chooses to drop federal claims in favor of pursuing only state claims?",
+              "What considerations does the court weigh when deciding if supplemental jurisdiction applies after a plaintiff removes federal claims from their complaint?",
+              "Is it possible for the federal court to address state law claims if the plaintiff drops federal claims despitepreviously joining them in the original complaint?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 5
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 1
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Jackson most likely ask next?",
+          "options": {
+            "A": "Is there a requirement for a plaintiff to maintain federal claims in order to establish subject matter jurisdiction in cases filed in state court along with state law claims?",
+            "B": "Okay.\nSo next question.\nYou --the case is brought in state court and it has federal and state\nclaims, and before the defendant has the ability to remove, the plaintiff\nsays: Oops, I didn't mean to bring the federal claims, I'm dropping\nthem.\nSo no removal action yet or motion yet. Can it be still removed? Is there\nany basis for federal jurisdiction in that situation?",
+            "C": "If a plaintiff drops federal claims before any motion to dismiss is filed, is the case still subject to removal based on the original jurisdiction invoked by the federal claims?",
+            "D": "Can a plaintiff voluntarily dismiss their federal claims in a case initially heard in state court while still preserving the ability to invoke federal jurisdiction?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Jackson",
+          "debug_info": {
+            "correct_answer": "Okay.\nSo next question.\nYou --the case is brought in state court and it has federal and state\nclaims, and before the defendant has the ability to remove, the plaintiff\nsays: Oops, I didn't mean to bring the federal claims, I'm dropping\nthem.\nSo no removal action yet or motion yet. Can it be still removed? Is there\nany basis for federal jurisdiction in that situation?",
+            "fake_questions": [
+              "If a plaintiff drops federal claims before any motion to dismiss is filed, is the case still subject to removal based on the original jurisdiction invoked by the federal claims?",
+              "Can a plaintiff voluntarily dismiss their federal claims in a case initially heard in state court while still preserving the ability to invoke federal jurisdiction?",
+              "Is there a requirement for a plaintiff to maintain federal claims in order to establish subject matter jurisdiction in cases filed in state court along with state law claims?"
+            ],
+            "all_generated_alternatives": [
+              "If a plaintiff drops federal claims before any motion to dismiss is filed, is the case still subject to removal based on the original jurisdiction invoked by the federal claims?",
+              "How would the court assess the appropriateness of imposing jurisdiction based on supplemental claims if the plaintiff alters their complaint after the case has been removed to federal court?",
+              "In what circumstances can a federal court maintain jurisdiction after a plaintiff amends their complaint to eliminate federal claims initially included?",
+              "What implications does dropping a federal claim have for concurrent state law claims if both were initially included in a complaint filed in federal court?",
+              "Can a plaintiff voluntarily dismiss their federal claims in a case initially heard in state court while still preserving the ability to invoke federal jurisdiction?",
+              "What procedural steps must a defendant undertake to challenge the federal jurisdiction after the plaintiff drops their federal claims before any removal action is taken?",
+              "Once a plaintiff has dropped federal claims from their original complaint, how does that affect the potential for diversity jurisdiction to be invoked later?",
+              "Is there a requirement for a plaintiff to maintain federal claims in order to establish subject matter jurisdiction in cases filed in state court along with state law claims?",
+              "Could the federal court adjudicate state law claims if the plaintiff seeks a remand to state court after amending their complaint to remove federal claims?",
+              "What authority do federal courts have to exercise supplemental jurisdiction over state claims if the federal claims are dismissed post-removal?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 5
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 1
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Jackson most likely ask next?",
+          "options": {
+            "A": "What role does subject matter jurisdiction play in cases that involve both federal and state claims when the defendant seeks to remove the case?",
+            "B": "What happens to federal question jurisdiction in cases involving diversity jurisdiction if federal claims are dropped before removal?",
+            "C": "Can you explain how the notice of removal impacts the federal question jurisdiction when multiple claims are filed by the plaintiff?",
+            "D": "All right.\nSo it seems to me then your argument comes down to the impact of\nremoval because somehow, even though in a situation in which the\nplaintiff amends, if it was brought originally in federal court or amends\nif it's brought originally in st ate court, those have an impact, you say, on\nfederal question jurisdiction.\nSomehow, if the defendant removes before the plaintiff can drop the\nfederal claims, you say no impact on federal question jurisdiction.\nIs that right?"
+          },
+          "answer": "D",
+          "target_justice": "Justice Jackson",
+          "debug_info": {
+            "correct_answer": "All right.\nSo it seems to me then your argument comes down to the impact of\nremoval because somehow, even though in a situation in which the\nplaintiff amends, if it was brought originally in federal court or amends\nif it's brought originally in st ate court, those have an impact, you say, on\nfederal question jurisdiction.\nSomehow, if the defendant removes before the plaintiff can drop the\nfederal claims, you say no impact on federal question jurisdiction.\nIs that right?",
+            "fake_questions": [
+              "Can you explain how the notice of removal impacts the federal question jurisdiction when multiple claims are filed by the plaintiff?",
+              "What role does subject matter jurisdiction play in cases that involve both federal and state claims when the defendant seeks to remove the case?",
+              "What happens to federal question jurisdiction in cases involving diversity jurisdiction if federal claims are dropped before removal?"
+            ],
+            "all_generated_alternatives": [
+              "Can you explain how the notice of removal impacts the federal question jurisdiction when multiple claims are filed by the plaintiff?",
+              "What are the implications of a plaintiff choosing to amend their complaint to add federal claims after a removal has occurred?",
+              "In what situations might a court retain jurisdiction over a state law claim that was part of a previously dismissed federal claim?",
+              "Can a defendant successfully argue for removal if the state claims are less complex than the federal claims originally presented?",
+              "What role does subject matter jurisdiction play in cases that involve both federal and state claims when the defendant seeks to remove the case?",
+              "How does the different timing of a removal notice affect the court's ability to apply supplemental jurisdiction in federal question cases?",
+              "What are the procedural steps a plaintiff must follow if they decide to withdraw federal claims after a case has already been removed to federal court?",
+              "What happens to federal question jurisdiction in cases involving diversity jurisdiction if federal claims are dropped before removal?",
+              "To what extent can a federal court exercise jurisdiction over state claims after a plaintiff decides to amend and drop all federal claims?",
+              "What criteria must be met for a plaintiff to maintain federal jurisdiction in cases where state claims are later introduced and federal claims are removed?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 4,
+            "total_questions_in_conversation": 5
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 1
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Jackson most likely ask next?",
+          "options": {
+            "A": "Why can't the plaintiff amend claims in state court?",
+            "B": "How does diversity jurisdiction relate to this case?",
+            "C": "Why?",
+            "D": "What are the elements of supplemental jurisdiction?"
+          },
+          "answer": "C",
+          "target_justice": "Justice Jackson",
+          "debug_info": {
+            "correct_answer": "Why?",
+            "fake_questions": [
+              "What are the elements of supplemental jurisdiction?",
+              "How does diversity jurisdiction relate to this case?",
+              "Why can't the plaintiff amend claims in state court?"
+            ],
+            "all_generated_alternatives": [
+              "What is the basis for federal jurisdiction?",
+              "How does removal affect the initial pleadings?",
+              "What are the elements of supplemental jurisdiction?",
+              "What grounds can the defendant assert for removal?",
+              "Why can't the plaintiff amend claims in state court?",
+              "How does the law define 'federal question' jurisdiction?",
+              "What procedural steps must the plaintiff take to amend?",
+              "How does diversity jurisdiction relate to this case?",
+              "What are the implications of dropping federal claims?",
+              "What does jurisdictional conflict mean here?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 5,
+            "total_questions_in_conversation": 5
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 1
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 10,
+      "target_dialogue": "## Justice Sotomayor\n### Justice Sotomayor:\nwas\ntrying to get at, anything about what happens to jurisdiction.\nI thought the removal statute was really just giving the defendant the\nability to bring this action into federal court.\nIt doesn't say anything about whether or not the federal court can be\ndivested of jurisdiction once it's there.\nAnd I don't understand why the federal court can be divested of\nbrought it there but can't be divested of jurisdic tion if it comes to\nfederal court because the defendant brought it there.\n### Katherine B. Wellington:\nAnd -- and just to be clear, the rule that we're asking for and the rule\nthat this Court has applied for a hundred years is that it's a matter of\ndiscretion once you get to federal court on removal.\nIt's up to the district court judge.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 11,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\nOn removal.\nBut I guess why -- why does it make a difference as to how this case\nlanded in federal court as to whether or not the federal judge can be\ndivested of his jurisdiction? That's what your argument seems to turn\non, and I don't know why that's the case.\n### Katherine B. Wellington:\nAnd this Court addressed that in St. Paul Mercury and said that the\ndefendant's right to remove should not be subject to the plaintiff's\ncaprice.\nCongress gave defendants rights in the situation when the case gets to\nfederal court on removal.\n### Justice Jackson:\nIt changes the scope of jurisdiction.\nThe --the removal right carries with it the ability to affect the\njurisdiction of the Court, is what you're saying?\n### Katherine B. Wellington:\nThat's what this Court has long held in cases like St. Paul Mercury.\nIn Cohill, the Court recognized that, in Rockwell.\nIt also recognized it in cases like Carlsbad, where this Court was talking\nabout Cohill remands and determined that they were not mandatory,\nthat they were a matter of discretion for the district court.\nAnd I agree, Your Honor, that in most cases, the outcome's going to be\nthe same.\nWhen you get to federal court on a removal, in a removal case, you drop\nyour federal claim. Immediately, most of the time you're going to go\nright back to state court.\nIt's going to be the same outcome.\nWhere it matters are cases like this one, where the case has been going\non for almost two years when they amend their claims.\nWe've cited other cases where it's been pending in federal court for a\nlong time and right before an adverse decision -- so that's on page 16 of\nour yellow brief -- right before an adverse decision, the plaintiff\namends their complaint to try to get back to state court.\nAnd in that situation, district courts have said: Well, I'm going to\nbalance this attempt at gamesmanship with other considerations like -",
+      "justice_name": "Justice Jackson",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Jackson most likely ask next?",
+          "options": {
+            "A": "It changes the scope of jurisdiction.\nThe --the removal right carries with it the ability to affect the\njurisdiction of the Court, is what you're saying?",
+            "B": "What role does diversity jurisdiction play in determining federal court jurisdiction after removal?",
+            "C": "Could the amendment of a complaint impact the original jurisdiction of the federal court?",
+            "D": "Does the removal statute imply that federal jurisdiction is inherently superior to state jurisdiction?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Jackson",
+          "debug_info": {
+            "correct_answer": "It changes the scope of jurisdiction.\nThe --the removal right carries with it the ability to affect the\njurisdiction of the Court, is what you're saying?",
+            "fake_questions": [
+              "Could the amendment of a complaint impact the original jurisdiction of the federal court?",
+              "What role does diversity jurisdiction play in determining federal court jurisdiction after removal?",
+              "Does the removal statute imply that federal jurisdiction is inherently superior to state jurisdiction?"
+            ],
+            "all_generated_alternatives": [
+              "How does the removal process influence the timelines for filing claims in federal court?",
+              "What role does diversity jurisdiction play in determining federal court jurisdiction after removal?",
+              "Could the amendment of a complaint impact the original jurisdiction of the federal court?",
+              "In what way does the plaintiff's initial choice of forum affect subsequent motions for removal?",
+              "Does the removal statute imply that federal jurisdiction is inherently superior to state jurisdiction?",
+              "How does a federal court's discretion in dismissal relate to original claims versus removed claims?",
+              "What implications does 'plaintiff's caprice' have on the defendant's ability to appeal in federal court?",
+              "Is there a difference in how federal question jurisdiction is treated in original cases versus removed cases?",
+              "What are the requirements for a plaintiff to maintain jurisdiction under a supplemental claim?",
+              "When can the federal court modify its jurisdiction based on amendments to a state claim?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 2
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 12,
+      "target_dialogue": "## Justice Barrett\n### Justice Barrett:\nCounsel, can I interrupt you there? I mean, St. Paul Mercury is a little bit\ndifferent because it's diversity.\nAnd there's always been a problem, you know, when I used to teach\ndiversity jurisdiction, in the amount in controversy and figuring out how\nto value it.\nAnd you're not capped to the damages that you claim.\nAnd so there wasn't a real change there.\nAnd, you know, Cohill, okay, it's -- it's helpful, but it's really about a\ndifferent point.\nIt's about dismissal versus remand.\nI think the best thing for you are all these court of appeals cases.\nI mean, I -- I have a lot of trouble with the textual argument for the\nreasons Justice Kagan is saying, but, I mean, it does give me some pause\nto say, well, all these courts of appeals have thought this was okay and\nthere is that footnote in Rockwell, but it's not quite the old soil principle\nbecause the old soil principle requires you to be able to hang your hat on\nsomething in the statute and say this is what brought along the old soil\nwith it.\nSo you cite Taggart and the old soil principle, but what are you attaching\nit to as opposed to just some sort of, like, free-floating, everyone\nthought we could do this?\n### Katherine B. Wellington:\nSo we totally agree, Your Honor, it has to be important that for decades\nand decades and decades every court of appeals has gone the same way.\nWe disagree, Your Honor, that Cohill didn't address this question.\nIt does say that when a federal law claim is eliminated at an early stage\nof the litigation, the district court has a powerful reason to choose.\n### Justice Barrett:\nTo choose its dicta, its dicta.\nJust go with my old soil question.\n### Katherine B. Wellington:\nSo -- so I think it is important here that Congress whole swath took\nparts of Gibbs and Cohill and the lower court cases prior to the\nenactment of the statute.\nSo Section (a) as well as Sections (c)(2) and (3) are word for word from\nGibbs.\nThe top part of Section (c), the district court may decline to exercise\nsupplemental jurisdiction, that's drawn directly from Cohill.\nAnd (c)(1), where it talks about the claim raises a novel or complex issue\nof state law, that comes from 1980s court of appeals decisions that took\nthat into account when determining whether to exercise supplemental\njurisdiction.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 13,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nYour --your briefing, obviously, suggests at least at the outset you\ndon't think Grable has much to do with this case.\nAnd your friend on the other side obviously disagrees.\nBut I wonder why it -- it doesn't.\nI mean, your reading, I think, assumes the correctness of your position\nunder 1367 that this complaint is one over which the district court would\nhave original jurisdiction.\nAnd your friend, I think, has concluded that depends upon whether\nGrable is correct.\nAnd so why --why isn't it -- why doesn't it depend upon Grable?\n### Katherine B. Wellington:\nSo this Court can decide jurisdictional issues in any order. That's what it\nheld in Sinochem.\nWe agree that there has to be an adjudication of the Grable question in\norder to get to the ultimate, you know, remedy in this case.\nBut that's not what we're asking this Court to decide.\nSo we don't think the Court has to decide the issue.\nIf the Court wants to decide the issue, we think there plainly was\njurisdiction based on the original complaint. The original complaint\nrepeatedly claims that there are violations of the Food, Drug, and\nCosmetic Act and then in paragraphs 136 and 137 of the complaint asks\nfor an injunction requiring ongoing compliance with federal law.\n### Chief Justice Roberts:\nWell, the original complaint but not the removed complaint.\nIn other words, not the complaint with all the federal things stripped\nout of it.\nIn that situation, if that's the one you look at, then Grable is critical to\nyour success, I think.\n### Katherine B. Wellington:\nJust to be clear, so the -- the complaint at the time of removal had a\nfederal claim, you know, that's our position. I think Your Honor is talking\nabout supplemental jurisdiction.\n### Chief Justice Roberts:\nI'm sorry, yes, of course.\n### Katherine B. Wellington:\nAnd --and this Court has long held that you don't have to have a federal\nquestion at all stages of the case in order to exercise supplemental\njurisdiction. That's exactly what the Court held in Rosado, where the\noriginal federal claim became moot, and this Court said that the three-\njudge district court could continue to go on and decide the ancillary\nclaims even though it didn't have original jurisdiction because you don't\nhave to have jurisdiction over the original federal claim through all\nproceedings.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 14,
+      "target_dialogue": "## Justice Kavanaugh\n### Justice Kavanaugh:\nIn -- in 2007, in Rockwell, in Footnote 6, the statement there resolves\nthis case in your favor, Footnote 6.\nNow the other side's going to say a lot of things about Footnote 6, I\nthink, that it's dicta, that it's mistaken, that it's w rong, that it should\nbe ditched.\nYou want to just take on Footnote 6? Because you win with Footnote 6,\n### Katherine B. Wellington:\nWe think Footnote 6 is not dicta.\nWe think it's actually quite essential to ans wering the question that\nJustice Jackson was asking: Why do we treat these two circumstances\ndifferently? And you have to remember, prior to Rockwell, this Court\nhad not addressed cases that were originally filed in federal court.\nSo this Court was trying to explain we have a hundred years where we do\nsomething different in the removal context.\nWhy are we going to do something different here? And Justice Scalia was\nexplaining the different policy concerns.\nSo we don't think that's dicta.\nWe actually think it is essential to the reasoning in that case.\nAnd even if you think it isn't a holding, it certainly is recognizing that\nthis Court has resolved the question in the removal context going all the",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 15,
+      "target_dialogue": "## Justice Alito",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 16,
+      "target_dialogue": "## Justice Kavanaugh",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 17,
+      "target_dialogue": "## Justice Alito\n### Justice Alito:\nGo ahead.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 18,
+      "target_dialogue": "## Justice Kavanaugh\n### Justice Kavanaugh:\nseem, as Justice Kagan's questions indicate, that the Rockwell above the\nline and the Rockwell footnote, you would think, would come out the\nsame way under the text of the statute.\nSo I guess, assuming the above-the-line part is correct, why does the\ntext of the statute support Footnote 6?\n### Katherine B. Wellington:\nSo I think the text of the statute supports the removal jurisdiction in this\ncase, not what happened in Rockwell.\n### Justice Kavanaugh:\nRight.\nSo the -- I think your answer is the part of Rockwell that's not in the\nfootnote is -- is shaky.\n### Katherine B. Wellington:\nThat's correct.\n### Justice Kavanaugh:\nThe part in the footnote, you think that's solid.\n### Katherine B. Wellington:\nI think that's solid because the text of Section 1367 says there is\nsupplemental jurisdiction unless Congress has expressly provided\notherwise.\nSection (c)(3) makes clear that you don't have to have a federal question\nthroughout the proceedings in order for there to continue to be\nsupplemental jurisdiction; (c)(2) expressly addresses situations like this\none, where the federal law claims have fallen out.\nIn that situation, the state law claims would substantially predominate.\n### Justice Kavanaugh:\nI think they're going to probably say something also like it was stray\ncomments that weren't carefully considered.\nAnd I -- do you want to respond to the -- I'm just previewing what\nthey're likely to say.\n### Katherine B. Wellington:\nOne thing I would -- I do w ant to emphasize here is this Court was\nthinking about this question in Cohill.\nIf you go to the oral argument in Cohill -- right around minute 5, Justice\nScalia is asking the same questions that we're talking about today.\nSo the Court wasn't somehow unaware of this question.\n### Justice Kavanaugh:\nRight.\nHe seemed to be articulating the position in the oral argument, as I read\nit, that Judge Stras ultimately came to in the Eighth Circuit, but,\nobviously, by the time of Rockwell, Justice Scalia had not stuck with\nthat.\n### Katherine B. Wellington:\nI -- I think that's right, and I think it is important that this Court was\naware of the question, continued to apply its precedents, longstanding\npreceden t in Cohill.\nAnd I don't think you can write Cohill, which is all about this is a doctrine\nof discretion.\nI don't think you can write Cohill if you think that the court didn't have\njurisdiction.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 19,
+      "target_dialogue": "## Justice Sotomayor",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 20,
+      "target_dialogue": "## Justice Alito",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 21,
+      "target_dialogue": "## Justice Sotomayor\n### Justice Sotomayor:\nGo ahead.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 22,
+      "target_dialogue": "## Justice Alito\n### Justice Alito:\nSuppose a diversity case --I have a diversity case, I file it in state court,\nit's removed to federal court, and once I'm in federal court, I join a non -\ndiverse party.\nCan the federal -- can the federal court hold onto that case?\n### Katherine B. Wellington:\nSo, no, Your Honor, and that is addressed specifically in 1367(b). So there\nare circumstances, you know, for example, where there's a third -party\ndefendant or a dispensable plaintiff under Rule 20 that, you know, the\n### Justice Alito:\nYeah.\nWell, why should there be a different rule regarding parties and claims?\n### Katherine B. Wellington:\nSo Congress thought very hard about this.\nThis Court has long held -- had two different lines of precedent, one for\npendent-claim jurisdiction and one for pendent-party jurisdiction.\nIt has taken a very broad view to pendent-claim jurisdiction and very\nnarrow view to pendent-party jurisdiction. And Congress said that's not\nwhat we want.\nWe don't want Finley.\nWe do want some limits.\nI think (b) tells you that (a) is so broadly written that if you don't have\n(b), that there would be concerns about diversity jurisdiction questions,\nYour Honor.\nBut Congress thought very carefully about this, and it -- it made clear\nthat there would continue to be supplemental jurisdiction even when\nthe federal claims dropped out of the case.\n### Justice Alito:\nIf we thought that the Eighth Circuit's decision is right as a matter of\nfirst principle, what relevance, if any, would this line of court of appeals\ndecisions have in our decision-making?\n### Katherine B. Wellington:\nI think it's very important here because Congress is codifying precedent.\nIt's codifying these court of appeals decisions in particular in (c)(1).\nIt's very much aware of them.\nAnd the court of appeals decisions are reflecting this Court's decision in\nSt. Paul Mercury and Cohill and -- and now Rockwell.\nThis is incredibly well established. So I don't think the Court should\nignore that that's what the court of appeals have been doing and that\nthey're doing it for a reason, because this is a doctrine of discretion.\nIt's a matter for the district court to say, what are the fairness concerns?\nWhat are the comity concerns? What are the judicial efficiency\nconcerns? Maybe the district court can dispose of the state law\nquestions really easily and the case has been going on for two years in\nthe district court.\nIt doesn't make sense to send that case back to state court.\n### Justice Alito:\nWell, this goes back to a question that",
+      "justice_name": "Justice Alito",
+      "total_justice_questions": 3,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Alito most likely ask next?",
+          "options": {
+            "A": "Yeah.\nWell, why should there be a different rule regarding parties and claims?",
+            "B": "What factors influence jurisdiction based on party diversity after removal?",
+            "C": "What are the procedural steps for joining parties in federal court?",
+            "D": "Why do courts handle supplemental jurisdiction differently for claims and parties?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Alito",
+          "debug_info": {
+            "correct_answer": "Yeah.\nWell, why should there be a different rule regarding parties and claims?",
+            "fake_questions": [
+              "Why do courts handle supplemental jurisdiction differently for claims and parties?",
+              "What factors influence jurisdiction based on party diversity after removal?",
+              "What are the procedural steps for joining parties in federal court?"
+            ],
+            "all_generated_alternatives": [
+              "How do federal and state claims differ in a removal scenario?",
+              "What implications arise when adding parties to a diversity case?",
+              "Why do courts handle supplemental jurisdiction differently for claims and parties?",
+              "What are the procedural steps for joining parties in federal court?",
+              "How does the removal statute impact federal question jurisdiction in this case?",
+              "What are the grounds for dismissing claims in state versus federal court?",
+              "What factors influence jurisdiction based on party diversity after removal?",
+              "How does Rule 20 apply to the joining of parties in federal litigation?",
+              "What are the consequences of a plaintiff dismissing a federal claim?",
+              "Why does diversity jurisdiction only apply to certain claims in federal court?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 3
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Alito most likely ask next?",
+          "options": {
+            "A": "If this case were brought under a different statute, what impact would similar appellate judgments have on our final ruling?",
+            "B": "If we thought that the Eighth Circuit's decision is right as a matter of\nfirst principle, what relevance, if any, would this line of court of appeals\ndecisions have in our decision-making?",
+            "C": "Does the Eighth Circuit's ruling have any bearing on our interpretation of federalism in relation to this issue?",
+            "D": "If the Eighth Circuit's ruling was prompted by a unique statutory interpretation, how might that influence the precedent established by other circuit decisions?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Alito",
+          "debug_info": {
+            "correct_answer": "If we thought that the Eighth Circuit's decision is right as a matter of\nfirst principle, what relevance, if any, would this line of court of appeals\ndecisions have in our decision-making?",
+            "fake_questions": [
+              "If the Eighth Circuit's ruling was prompted by a unique statutory interpretation, how might that influence the precedent established by other circuit decisions?",
+              "If this case were brought under a different statute, what impact would similar appellate judgments have on our final ruling?",
+              "Does the Eighth Circuit's ruling have any bearing on our interpretation of federalism in relation to this issue?"
+            ],
+            "all_generated_alternatives": [
+              "If the Eighth Circuit's ruling was prompted by a unique statutory interpretation, how might that influence the precedent established by other circuit decisions?",
+              "In considering other appellate decisions, how should we weigh the Eighth Circuit's view against conflicting rulings from our own circuit?",
+              "What implications does the Eighth Circuit's decision have for our analysis of the original jurisdictional issues at play in this case?",
+              "If this case were brought under a different statute, what impact would similar appellate judgments have on our final ruling?",
+              "How do principles of judicial economy factor into the relevance of the Eighth Circuit's decision in our deliberations?",
+              "What role do dissenting opinions within the Eighth Circuit play if we conclude their interpretation is correct?",
+              "If we prioritize precedent, how might other circuits' decisions influence our assessment of the Eighth Circuit's validity?",
+              "How does the interplay between diverse jurisdiction and supplemental claims affect our evaluation of the Eighth Circuit's rationale?",
+              "What procedural hurdles must we consider when assessing the implications of similar court of appeals decisions on our ruling?",
+              "Does the Eighth Circuit's ruling have any bearing on our interpretation of federalism in relation to this issue?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 3
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 23,
+      "target_dialogue": "## Justice Barrett\n### Justice Barrett:\nasked. Usually,\nwhen we apply this old soil rule, we're talking about a term of art in the\nstatute about which there was a body of preexisting precedent.\nWhat term of art can you point to here that supports your argument?\n### Katherine B. Wellington:\nSure.\nSo, if you look at (c), the district courts may decline to exercise\nsupplemental jurisdiction, that language comes directly from Cohill.\nIt's not in Gibbs.\nThat's the language the Court uses twice.\nAnd so, when you're thinking about what did Congress intend to codify\nwhen it comes to whether the district court can exercise discretion, I\nthink you have to take into account what this Court held in Cohill.\nI also think, Your Honor, if you think that the text doesn't say anything,\nthis Court has held that statutory silence implies ratification by\nCongress.\nI think you can apply that doctrine as well to reach the answer here.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 24,
+      "target_dialogue": "## Justice Kagan\n### Justice Kagan:\nI think, if you think that the text doesn't say anything, you're left with\ntrying to figure out what rule to use in this instance that best coheres\nwith the whole panoply of rules that we use in other contexts.\nAnd I think that on that account, you have a tough road to hoe.\nYou have --you have St. Paul, and that's the amount in controversy. But,\nfor the reasons that",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 25,
+      "target_dialogue": "## Justice Barrett\n### Justice Barrett:\nsaid, the amount in controversy\nrequirement has generally been thought of as sui generis because of the\ndifficulty of figuring out when, how you're supposed to measure that.\nBut, otherwise, you know, I think that the rule basically is we look to the\noperative complaint.\nWe look to the original complaint when the original complaint is\noperative, but once the complaint has been amended, we look to the\namended complaint because that's th e operative complaint, and that's\nwhy you can create diversity jurisdiction or destroy diversity jurisdiction\nby adding and removing parties.\nAnd it's also why you can, you know, add -- it's also what -- what\nexplains Rockwell. And it also explains how you can add and remove\nfederal claims to create or -- or get rid of federal question jurisdiction.\nSo you're asking for a very kind of unique rule, where it's like, no, we\ndon't look to the operative complaint; we look to this old complaint that\nhas nothing to do with the case anymore.\n### Katherine B. Wellington:\nMay I respond, Your Honor?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 26,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nCertainly.\n### Katherine B. Wellington:\nSo I think it's very important here that this is a longstanding rule that\nreally reflects the idea that Congress wanted district courts to make the\ndecision. They wanted district courts to decide, is there gamesmanship\ngoing on here? Is there judicial efficiency concerns? Are there comity\nconcerns? And this rule that this Court is talking about would need to\napply to all sorts of different circumstances, such as when the claims\nbecome moot, when the parties settle the claim, when the plaintiff\namends the complaint. And when Congress drafted Section 1367(c),\nwhat it wanted was to give district courts discretion, and that's a\nreflection of decades and decades of precedent, Your Honor.\n### Chief Justice Roberts:\nThank you. Thank you, counsel.\nJust a brief question.\nYou complain about the forum manipulation problems this would\ncreate.\nI don't see how that's a problem here. They wanted -- they start in\nstate court; they want to go back to state court.\nThey're not trying to manipulate anything.\n### Katherine B. Wellington:\nSo we think that it is forum manipulation, particularly in this case,\nwhere th ey waited almost two years to amend the complaint after they\nlose in the Eighth Circuit.\nWe think that's a form of forum manipulation.\nWe think there are much more extreme forms of forum manipulation,\nfor example, where a plaintiff -- you know, the district court says: I' m\nabout to rule against you.\nThat's what happened in three cases on page 16 of the yellow brief.\nAnd the plaintiff says: Great, send me back to state court.\nAnd that's a very serious form of forum manipulation.\nBut we agree, Your Honor, in many cases, the mine-run of cases, you get\nto federal court, you immediately amend the complaint, the federal\njudge is going to send that back to state court.\nWe're really talking about the more unique circumstances like this one\nwhere it's been going on for a long time and Congress wanted district\ncourts to consider different considerations.\n### Chief Justice Roberts:\nThank you. Justice Thomas?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 27,
+      "target_dialogue": "## Justice Thomas\n### Justice Thomas:\nJustice Sotomayor asked you about what happens when the --a judge\ndismisses some of the federal -- the federal claims, and you responded\nto that.\nAnd she was referring to (c)(3), which only refers to the district court\ndismissing those claims.\nIt says -- but (c)(3) says nothing about the instance in which the party\namends the complaint and eliminates the federal claims.\nWould you address that?\n### Katherine B. Wellington:\nCertainly.\nThat's a really important point.\nSo that is addressed in (c)(2).\nSo, in (c)(2), where there is no longer a federal claim, the state claim will\nsubstantially predominate.\nIt could also fall under (c)(4), an exceptional circumstance.\nI would point out, Your Honor, that (c) is simply listing when district\ncourts may decline to exercise supplemental jurisdiction. This Court in\nExxon Mobil against Allapattah said really the key question is, is it in the\nstatute? And -- and, certainly, amendments to the complaint is not in\nthe statute.\nSo we think that's sufficient.\nBut, if you want to look at the text of (c)(2), I think that also answers the\nquestion.\n### Justice Thomas:\nBut -- but do you agree that when the district court dismisses a claim, it\nremains in the case?\n### Katherine B. Wellington:\nI agree, Your Honor. But that is also true of an amended complaint. You\ncan appeal whether a complaint was properly amended.\nWe cited the Lucente case in the Second Circuit that reinstates the\noriginal complaint on appeal.\nSo, if that's the test, we think that's met.\n### Justice Thomas:\nDo we normally think of a complaint that's amended by the party to\neliminate a federal claim as still having that claim?\n### Katherine B. Wellington:\nI -- I think that's true of all these circumstances.\nWhere the claim becomes moot, where the parties settle, where the\nplaintiff voluntarily amends, where the district court dismisses, those\nclaims, for the purposes of the party, aren't going to continue to be\nlitigated.\nWe think the important question here is: When do you evaluate whether\nthere is an original federal question in the case? Under this Court's\nlongstanding precedent going all the way back to St. Paul Mercury, you\nlook at the time of removal, Your Honor.\n### Justice Thomas:\nSo when does an amended complaint supersede the earlier complaint?\n### Katherine B. Wellington:\nYour Honor, we don't think that's the right question.\nThe question isn't whether it supersedes the original complaint.\nThe question is: At the time of removal, is there an original federal\nquestion in the case? We think that's what the phrase \"in the action\" is\ndoing.\nIf you look directly at Gibbs, which is where that language came from,\nGibbs is saying what you need is the original claim and the supplemental\nclaim to be in the same case. That's true regardless of whether the\ncomplaint is amended.\nThat claim was filed in the same case.",
+      "justice_name": "Justice Thomas",
+      "total_justice_questions": 4,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Thomas most likely ask next?",
+          "options": {
+            "A": "Do you think that once a federal claim is dismissed, it affects the remaining state claims in the case?",
+            "B": "But -- but do you agree that when the district court dismisses a claim, it\nremains in the case?",
+            "C": "Can the court independently choose to retain jurisdiction over claims that have been dismissed?",
+            "D": "What happens to supplemental jurisdiction if the plaintiff drops their federal claims after the case is filed?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Thomas",
+          "debug_info": {
+            "correct_answer": "But -- but do you agree that when the district court dismisses a claim, it\nremains in the case?",
+            "fake_questions": [
+              "Do you think that once a federal claim is dismissed, it affects the remaining state claims in the case?",
+              "What happens to supplemental jurisdiction if the plaintiff drops their federal claims after the case is filed?",
+              "Can the court independently choose to retain jurisdiction over claims that have been dismissed?"
+            ],
+            "all_generated_alternatives": [
+              "Do you think that once a federal claim is dismissed, it affects the remaining state claims in the case?",
+              "What limitations exist on remanding claims back to state court after a dismissal by the district court?",
+              "Is there a significant difference between dismissing a claim and having a plaintiff amend their complaint?",
+              "Can the court independently choose to retain jurisdiction over claims that have been dismissed?",
+              "How does the procedural posture of a case impact the district court's jurisdiction over dismissed claims?",
+              "What happens to supplemental jurisdiction if the plaintiff drops their federal claims after the case is filed?",
+              "If the court finds a federal claim insufficient, can a related state claim still proceed?",
+              "What role does subject matter jurisdiction play when a claim is dismissed by the district court?",
+              "How does the concept of judicial discretion apply to retained claims after federal claims are dismissed?",
+              "Under what circumstances can a plaintiff amend their complaint without affecting the court's jurisdiction?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 4
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 4
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Thomas most likely ask next?",
+          "options": {
+            "A": "In what circumstances might a federal court retain jurisdiction after all federal claims have been removed from the case?",
+            "B": "Does federal question jurisdiction automatically terminate when a plaintiff drops their federal claims within a general civil action?",
+            "C": "Do we normally think of a complaint that's amended by the party to\neliminate a federal claim as still having that claim?",
+            "D": "Can a federal court choose to adjudicate state claims even if a party has voluntarily eliminated all federal claims?"
+          },
+          "answer": "C",
+          "target_justice": "Justice Thomas",
+          "debug_info": {
+            "correct_answer": "Do we normally think of a complaint that's amended by the party to\neliminate a federal claim as still having that claim?",
+            "fake_questions": [
+              "In what circumstances might a federal court retain jurisdiction after all federal claims have been removed from the case?",
+              "Does federal question jurisdiction automatically terminate when a plaintiff drops their federal claims within a general civil action?",
+              "Can a federal court choose to adjudicate state claims even if a party has voluntarily eliminated all federal claims?"
+            ],
+            "all_generated_alternatives": [
+              "Does amending a complaint to drop state law claims affect the federal court's jurisdiction over any remaining federal claims?",
+              "In what circumstances might a federal court retain jurisdiction after all federal claims have been removed from the case?",
+              "What implications arise when a party voluntarily dismisses a federal claim without amending their original complaint?",
+              "Does federal question jurisdiction automatically terminate when a plaintiff drops their federal claims within a general civil action?",
+              "How does the amendment of a complaint influence the overall jurisdictional basis of a case filed in federal court?",
+              "When might supplemental jurisdiction apply in a scenario where federal claims are dropped during the litigation process?",
+              "What is the effect of a plaintiff's amendment on the court's discretion to maintain state law claims once federal claims are dismissed?",
+              "Can a federal court choose to adjudicate state claims even if a party has voluntarily eliminated all federal claims?",
+              "What procedural step must a party take to maintain a federal claim if amendments are proposed to a complaint?",
+              "In the context of this case, is it appropriate to consider an amended complaint as retaining prior federal claims even when they are dismissed?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 4
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 4
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Thomas most likely ask next?",
+          "options": {
+            "A": "So when does an amended complaint supersede the earlier complaint?",
+            "B": "How does an amendment affect the original complaint's validity?",
+            "C": "Can a state claim remain after federal claims are removed?",
+            "D": "When can a defendant challenge the amended complaint in court?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Thomas",
+          "debug_info": {
+            "correct_answer": "So when does an amended complaint supersede the earlier complaint?",
+            "fake_questions": [
+              "How does an amendment affect the original complaint's validity?",
+              "Can a state claim remain after federal claims are removed?",
+              "When can a defendant challenge the amended complaint in court?"
+            ],
+            "all_generated_alternatives": [
+              "When does a federal claim get dismissed in court?",
+              "How does an amendment affect the original complaint's validity?",
+              "What are the effects of a dismissal on jurisdiction?",
+              "When can a defendant challenge the amended complaint in court?",
+              "How does the timing of amendments impact jurisdictional issues?",
+              "What legal standard governs the amendment of complaints?",
+              "When does supplemental jurisdiction come into play with amendments?",
+              "Can a state claim remain after federal claims are removed?",
+              "What rules govern the filing of an amended complaint?",
+              "How does the court assess the merits of a dismissed claim?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 4,
+            "total_questions_in_conversation": 4
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 4
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 28,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Alito?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 29,
+      "target_dialogue": "## Justice Alito\n### Justice Alito:\nWhen many courts of appeals have considered a question and they've all\ndecided it the same way, that certainly requires very respectful\nconsideration.\nThey are very likely correct.\nBut would you also recognize that there can be circumstances in which\nthere can be sort of a snowball effect in busy courts of appeals,\nparticularly on certain -- a certain category of issues so that if a court of\nappeals decides a question one way, then the next one just latches onto\nthat, and pretty soon, courts of appeals confronting an issue are very\nlikely to say: Wow, if all these other circuits have gone this way, I'm not\ngoing to create a conflict in the circuits on this, I'm just going to go\nalong with it.\nDo you think that's a --a dynamic that can occur in courts of appeals\nand, if so, should we take it into account?\n### Katherine B. Wellington:\nI think that's possible, Your Honor, but I think this is a pretty unique\ncase.\nWe searched high and low, and the only two cases we found that went\nthe other way was one district court case from 1915 and one district\ncourt case from 1940.\nThat is overwhelming precedent in the courts of appeals.\nAnd if you look at cases like Boelens, which is a case that Justice Scalia\ncited in Rockwell from the Fifth Circuit, it very carefully explains the\nreasoning of why we treat these two circumstances differently. I think\nyou also have to look at this Court's precedents, cases like International\nCollege of Surgeons, Rosado, Carlsbad, Osborn against Haley.\nAll of those cases are suggesting that this is a doctrine of discretion.\nSo this Court has been giving the lower federal courts the same signal\nfor many, many decades that this is how we're going to treat this\nsituation, and we think that's what Congress codified in the text of\nSection 1367 itself.\n### Justice Alito:\nWell, do you think that --that courts of appeals read our decisions\ndifferently than we may? I mean, you know, I'm --I was on a court of\nappeals for 15 years.\nIf I saw a strong dictum in a Supreme Court decision, I would very likely\njust salute and move on.\nBut, here -- (Laughter.)",
+      "justice_name": "Justice Alito",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Alito most likely ask next?",
+          "options": {
+            "A": "Do you think Congress's intent behind jurisdictional statutes is reflected adequately in how courts interpret those statutes historically?",
+            "B": "How do courts assess the weight of dissenting opinions in Supreme Court rulings when making their decisions?",
+            "C": "Do you believe that the relevance of Supreme Court precedent has changed across different circuits over time, especially when recent cases have been interpreted in various ways?",
+            "D": "Well, do you think that --that courts of appeals read our decisions\ndifferently than we may? I mean, you know, I'm --I was on a court of\nappeals for 15 years.\nIf I saw a strong dictum in a Supreme Court decision, I would very likely\njust salute and move on.\nBut, here -- (Laughter.)"
+          },
+          "answer": "D",
+          "target_justice": "Justice Alito",
+          "debug_info": {
+            "correct_answer": "Well, do you think that --that courts of appeals read our decisions\ndifferently than we may? I mean, you know, I'm --I was on a court of\nappeals for 15 years.\nIf I saw a strong dictum in a Supreme Court decision, I would very likely\njust salute and move on.\nBut, here -- (Laughter.)",
+            "fake_questions": [
+              "Do you believe that the relevance of Supreme Court precedent has changed across different circuits over time, especially when recent cases have been interpreted in various ways?",
+              "Do you think Congress's intent behind jurisdictional statutes is reflected adequately in how courts interpret those statutes historically?",
+              "How do courts assess the weight of dissenting opinions in Supreme Court rulings when making their decisions?"
+            ],
+            "all_generated_alternatives": [
+              "Do you believe that the relevance of Supreme Court precedent has changed across different circuits over time, especially when recent cases have been interpreted in various ways?",
+              "How do you think precedent impacts the way federal judges approach cases that fall under both federal and state jurisdiction?",
+              "Why might a federal appellate court choose to deviate from the Supreme Court's guidance on jurisdictional issues?",
+              "In your opinion, does the relationship between lower courts and the Supreme Court influence judicial decision-making on procedural matters?",
+              "How do courts assess the weight of dissenting opinions in Supreme Court rulings when making their decisions?",
+              "Do you think Congress's intent behind jurisdictional statutes is reflected adequately in how courts interpret those statutes historically?",
+              "What role do amicus briefs play in shaping the interpretations of precedent by appellate courts, in your view?",
+              "What factors should courts consider when determining whether to follow established precedent or to challenge it?",
+              "Can you discuss the implications of a court recognizing or disregarding dicta from higher courts in its own rulings?",
+              "Do you agree that how courts interpret jurisdiction can significantly affect the balance between state and federal powers in legal disputes?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 5
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 30,
+      "target_dialogue": "## Justice Sotomayor\n### Justice Sotomayor:\nNot now. (Laughter.)",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 31,
+      "target_dialogue": "## Justice Alito\n### Justice Alito:\n-- more of an obligation -- it depends,",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 32,
+      "target_dialogue": "## Justice Sotomayor\n### Justice Sotomayor:\n--\n(Laughter.)",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 33,
+      "target_dialogue": "## Justice Alito\n### Justice Alito:\nwhat we've written -- we know how these things are written.\nYou know, we know how these footnotes are written.\nCan -- do we have liberty to read them a little bit differently?\n### Katherine B. Wellington:\nOf course, the Court has the liberty to read its footnotes how it would\nlike.\nBut I -- but I do think it is important to keep in mind here that the\nquestion is what did Congress intend.\nCongress enacted this statute in reaction to the Court's very narrow\nview of supplemental jurisdiction.\nIn Finley, it adopted very broad language.\nAnd I think it would be very weird to think that Congress intended to\nabrogate Cohill silently without saying anything about it.\nAnd I think it would also be strange to treat the situation where the\nplaintiff amends the complaint differently than a situation where it\nbecomes moot, where it drops out of the case for some other reason,\nsuch as settlement.\nI think then you'd have to get into the Eighth Circuit's decision between\ninvoluntary and voluntary amendments.\n### Justice Alito:\nThank you.\nThank you.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 34,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Sotomayor?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 35,
+      "target_dialogue": "## Justice Sotomayor\n### Justice Sotomayor:\nI go back to Congress knew when to adopt or not adopt a particular\ncircuit court reading, and it didn't do anything with 1367, but it did do\nwith diversity to codify that.\nSo I don't know how much the old soil counts.\nBut let's go back to first principles. What's the justification for this?\nPlaintiff manipulation, correct?\n### Katherine B. Wellington:\nIt's much broader than that, Your Honor.\nSo judicial efficiency is a very important reason why Congress enacted\nthe Gibbs principles into Section 1367.\nSo a case may be pending for two or three years.\nThe district court might be really familiar with it.\nIt might be a really straightforward question of state law.\n### Justice Sotomayor:\nSo how doesn't Rule 15 take care of that? It gives plaintiffs a narrow\nwindow to amend and, otherwise, it needs to seek permission.\nSo why didn't the district court simply deny permission here?\n### Katherine B. Wellington:\nThis case was pending almost two years before the amendment was\nmade, but it was still an amendment as of right in this case.\n### Justice Sotomayor:\nIt wasn't within the window permitted by the rule.\n### Katherine B. Wellington:\nIt was, Your Honor, because the case went up on appeal and came down.\nSo there are situations like that.\n### Justice Sotomayor:\nI see.\n### Katherine B. Wellington:\nBut there's also -- you know, leave to amend should be freely given\nunder Rule 15.\nThat's not really the kind of standard that takes into account these\n### Justice Sotomayor:\nOh, it certainly does.\nI mean, that's the entire purpose of the freedom -- of the power and\nit's really -- you have an amici, the Center for Litigation and Courts,\nwho supports your argument but says don't rely on that.\nAnd I think they make that point for a reason.\nIt's not your strongest point.\nAnd then I don't understand why we should change all the other rules\nthat respect an amended complaint as the complaint setting forth the\nclaims in an action.\n### Katherine B. Wellington:\nYour Honor, we think, if you were to rule for the other side, that would be\nupsetting a hundred years of precedent, every single court of appeals\ndecision.\nThat would be changing the rules.\nAll we ask this Court to do here is apply settled law.",
+      "justice_name": "Justice Sotomayor",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Sotomayor most likely ask next?",
+          "options": {
+            "A": "Why might a plaintiff prefer to amend their complaint in state court rather than seeking to drop claims in a federal court setting?",
+            "B": "How does Rule 15's amendment framework impact a court's authority to dismiss state claims once federal claims are eliminated by the plaintiff?",
+            "C": "So how doesn't Rule 15 take care of that? It gives plaintiffs a narrow\nwindow to amend and, otherwise, it needs to seek permission.\nSo why didn't the district court simply deny permission here?",
+            "D": "Can you explain how the dismissal of federal claims under Rule 41 might affect the subsequent handling of remaining state claims in federal court?"
+          },
+          "answer": "C",
+          "target_justice": "Justice Sotomayor",
+          "debug_info": {
+            "correct_answer": "So how doesn't Rule 15 take care of that? It gives plaintiffs a narrow\nwindow to amend and, otherwise, it needs to seek permission.\nSo why didn't the district court simply deny permission here?",
+            "fake_questions": [
+              "How does Rule 15's amendment framework impact a court's authority to dismiss state claims once federal claims are eliminated by the plaintiff?",
+              "Can you explain how the dismissal of federal claims under Rule 41 might affect the subsequent handling of remaining state claims in federal court?",
+              "Why might a plaintiff prefer to amend their complaint in state court rather than seeking to drop claims in a federal court setting?"
+            ],
+            "all_generated_alternatives": [
+              "How does Rule 15's amendment framework impact a court's authority to dismiss state claims once federal claims are eliminated by the plaintiff?",
+              "In the context of supplemental jurisdiction, what role does the discretion of the district court play in permitting or denying amendments?",
+              "Can you explain how the dismissal of federal claims under Rule 41 might affect the subsequent handling of remaining state claims in federal court?",
+              "What is the legal standard for evaluating whether a plaintiff's amendment constitutes an attempt to manipulate the jurisdiction?",
+              "Why might a plaintiff prefer to amend their complaint in state court rather than seeking to drop claims in a federal court setting?",
+              "What procedural requirements must be met for a plaintiff to amend a complaint after removing a case to federal court?",
+              "How does a federal court evaluate jurisdiction based on the amendment of claims versus the original filing under federal jurisdiction?",
+              "What implications does the doctrine of judicial efficiency have on a court's decision to allow or disallow amendments to a complaint?",
+              "How do different circuits interpret the effect of Rule 15 amendments on supplemental jurisdiction under Section 1367?",
+              "What are the consequences for a plaintiff who attempts to drop federal claims after a motion to dismiss has been filed by the defendant?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 6
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 36,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Kagan? Justice Gorsuch?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 37,
+      "target_dialogue": "## Justice Gorsuch\n### Justice Gorsuch:\nWe talked a lot about 1367, but I'm not sure we paid much attention yet\nto 1447.\nAnd I -- I can certainly see the argument that the operative complaint\nshould be the one at the time of removal under the old version of 1447,\nwhich suggests that a case should be remanded if it was improvidently\nremoved.\nThat -- that does seem to focus the Court's attention on the complaint\nat the time of removal.\nAnd I think a lot of the court of appeals kind of have been operating\nunder that kind of idea of the rule.\nBut it's been amended, and it now reads that -- that a case should be\nremanded if at any time it appears that the district court lacks subject\nand I'm sure we're going to hear this argument, so I wanted to give you a\nchance to respond to it before you sit down -- that that focuses the\nCourt's attention on --on the then-operative complaint.\nThoughts?\n### Katherine B. Wellington:\nTwo responses, Your Honor.\nSo I think it's important to keep in mind that the 1911 version of the\nstatute, the predecessor of 1447 that was in effect during St. Paul\nMercury, had basically the same text as it did today.\n### Justice Gorsuch:\nI grant -- I grant you that.\n### Katherine B. Wellington:\nYes.\n### Justice Gorsuch:\nAnd now it's come back to looking more directly at the -- the then-\noperative complaint, doesn't it?\n### Katherine B. Wellington:\nSo I think it is important that this Court reached the ruling that it did in\nSt. Paul Mercury under the old text.\n### Katherine B. Wellington:\nYes.\n### Justice Gorsuch:\nWe've been around that --that tree a few times. So putting aside that\npoint, have you got anything else you want to say about it?\n### Katherine B. Wellington:\nCertainly. So they didn't make that argument in the red brief because it\ndoesn't answer the question.\nThe question is whether the federal court has jurisdiction or not.\nWe think that's answered at the time of removal.\nAnd this Court, in the Wisconsin Department of Corrections case, said\nthat Section 1447 was merely procedural.\nIt did not affect the district court's jurisdiction.\nSo I think you would have to revisit that case in order to read 1447 here\nthe way you suggest.\n### Justice Gorsuch:\nOkay.\nThank you.",
+      "justice_name": "Justice Gorsuch",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Gorsuch most likely ask next?",
+          "options": {
+            "A": "After considering the arguments presented, can you clarify your stance on whether the current jurisdiction is appropriate for state claims?",
+            "B": "We've been around that --that tree a few times. So putting aside that\npoint, have you got anything else you want to say about it?",
+            "C": "How do the recent amendments to 1447 interact with the concept of subject matter jurisdiction in removal cases?",
+            "D": "Can you explain how the amendment of a complaint affects the federal court's subject matter jurisdiction in cases like these?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Gorsuch",
+          "debug_info": {
+            "correct_answer": "We've been around that --that tree a few times. So putting aside that\npoint, have you got anything else you want to say about it?",
+            "fake_questions": [
+              "Can you explain how the amendment of a complaint affects the federal court's subject matter jurisdiction in cases like these?",
+              "How do the recent amendments to 1447 interact with the concept of subject matter jurisdiction in removal cases?",
+              "After considering the arguments presented, can you clarify your stance on whether the current jurisdiction is appropriate for state claims?"
+            ],
+            "all_generated_alternatives": [
+              "After considering the arguments presented, can you clarify your stance on whether the current jurisdiction is appropriate for state claims?",
+              "What specific legal precedents did Congress propose to establish in the creation of jurisdictional statutes like 1367?",
+              "In light of the current discussion, would you agree that the jurisdictional aspects differ between original and removed cases?",
+              "Can you explain how the amendment of a complaint affects the federal court's subject matter jurisdiction in cases like these?",
+              "What considerations must a court weigh when determining whether to grant supplemental jurisdiction over state claims?",
+              "Could you elaborate on how the district court's discretion plays a role in these jurisdictional questions?",
+              "Do you believe that issues surrounding amendment rights are critical in determining procedural outcomes in removal cases?",
+              "How do the recent amendments to 1447 interact with the concept of subject matter jurisdiction in removal cases?",
+              "Would you consider the timing of amendments as a key factor in evaluating jurisdiction before removal?",
+              "To what extent do you believe existing case law influences the judicial interpretation of supplemental jurisdiction?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 7
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 38,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Kavanaugh?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 39,
+      "target_dialogue": "## Justice Kavanaugh\n### Justice Kavanaugh:\nI just want to make sure on the state of the law, and maybe following up\non Justice Kagan's question, because you would think when you pick\nthis up, if you were uninitiated, that there would be a standard rule.\nLook at the complaint at the time of filing or removal, or look at the\ncomplaint at the time of amendment.\nBut at least as I looked at everything, it's just a mess, right? There's just\nboxes everywhere where, you know, in the diversity context, destroying\ndiversity almost always compels dismissal or a remand, but reducing\nthe amount in controversy or changing citizenship of a party almost\nnever does. Right? Is that correct?\n### Katherine B. Wellington:\nThat's correct, Your Honor.\n### Justice Kavanaugh:\nLike Morgan's Heirs and St. Paul Mercury on the one hand and Owen\nEquipment on the other, there's no logic connecting those things at\nleast as I see it.\n### Justice Kavanaugh:\nThey were just rules out there without connective logic.\nThere might be --each box has its own little idiosyncratic policy\nconsiderations, but there's no connective rule at least as I read it.\nCorrect me if I'm wrong.\n### Katherine B. Wellington:\nI think you're right.\n### Justice Kavanaugh:\nOr the other side can correct me if I'm wrong too.\nYeah.\n### Katherine B. Wellington:\nI think you're right, Your Honor, that there are different rules that apply\nin different circumstances, that they have different policy concerns or\nlongstanding prudential concerns and that this Court shouldn't go\naround disrupting those rules.\nThere are lots of different rules that apply with respect to adding diverse\nparties. Sometimes you can do that.\nSometimes you can't. You can add a non-diverse successor in interest,\nfor example.\nSo there's lots of different circumstances.\nAnd we simply ask the Court to apply settled law.\nWe don't think the Court has to come up with a unifying theory for all\nthese different areas of the law.\nCongress acted with an important reason here with respect to\nsupplemental jurisdiction.\nIt wanted to protect the defendant's right to remove.\nAnd I think that's why you see this broad text here.\nAnd as well as judicial efficiency.\n### Justice Kavanaugh:\nAnd by \"settled law,\" you mean Footnote 6, you mean Cohill? Or what\nare you referring to there?\n### Katherine B. Wellington:\nSo you're right, Your Honor.\nSo St. Paul Mercury, Cohill, and Rockwell.\nThere are also cases like Carlsbad, where this Court expressly asked, is a\nCohill remand -- that's the phrase the Court used -- is a Cohill remand\ndiscretionary? I don't think this Court could answer the question yes\nwithout having, again, decided this question.\nThere are other cases like International College of Surgeons and Rosado\nthat, again, emphasize that this is a discretionary question. And I don't\nthink this Court should just depart from all of that precedent here.\nI don't think there's a good reason to.\nAnd this Court should --this is a statutory question. Stare decisis carries\nenhanced force in the statutory context, and that's why we've asked the\nCourt to continue to apply settled law.\n### Justice Kavanaugh:\nThank you.",
+      "justice_name": "Justice Kavanaugh",
+      "total_justice_questions": 3,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Kavanaugh most likely ask next?",
+          "options": {
+            "A": "They were just rules out there without connective logic.\nThere might be --each box has its own little idiosyncratic policy\nconsiderations, but there's no connective rule at least as I read it.\nCorrect me if I'm wrong.",
+            "B": "What is the impact of plaintiff manipulation on the court's discretion regarding jurisdiction, especially in light of precedent from similar previous cases?",
+            "C": "Can you clarify whether the principles governing federal question jurisdiction are consistent across different circuits, or do they exhibit unique variations that affect the application of supplemental jurisdiction?",
+            "D": "What are the statutory implications of diversity jurisdiction concerning claim amendments, and how do they relate to the concepts discussed regarding federal claims?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Kavanaugh",
+          "debug_info": {
+            "correct_answer": "They were just rules out there without connective logic.\nThere might be --each box has its own little idiosyncratic policy\nconsiderations, but there's no connective rule at least as I read it.\nCorrect me if I'm wrong.",
+            "fake_questions": [
+              "Can you clarify whether the principles governing federal question jurisdiction are consistent across different circuits, or do they exhibit unique variations that affect the application of supplemental jurisdiction?",
+              "What are the statutory implications of diversity jurisdiction concerning claim amendments, and how do they relate to the concepts discussed regarding federal claims?",
+              "What is the impact of plaintiff manipulation on the court's discretion regarding jurisdiction, especially in light of precedent from similar previous cases?"
+            ],
+            "all_generated_alternatives": [
+              "Can you clarify whether the principles governing federal question jurisdiction are consistent across different circuits, or do they exhibit unique variations that affect the application of supplemental jurisdiction?",
+              "Is it correct to assert that federal diversity jurisdiction offers more flexible interpretations than federal question jurisdiction at the time of amendment or removal?",
+              "How do procedural rules impact the dismissal of claims in federal court versus their treatment in state court when considering jurisdictional challenges?",
+              "Could you explain why some courts approach amendments altering claims differently, and whether those approaches affect the perception of jurisdiction in federal and state contexts?",
+              "What are the statutory implications of diversity jurisdiction concerning claim amendments, and how do they relate to the concepts discussed regarding federal claims?",
+              "In light of the current case law, is the traditional understanding of judicial efficiency in federal court still relevant when considering supplemental jurisdiction principles?",
+              "How does the procedural timeline of a case influence the authority of a federal court to resolve state law claims after federal claims have been amended out?",
+              "Could the differences in how courts handle jurisdictional questions at removal versus at amendment suggest a broader inconsistency in federal jurisdictional rules?",
+              "What is the impact of plaintiff manipulation on the court's discretion regarding jurisdiction, especially in light of precedent from similar previous cases?",
+              "Is it accurate to say that removing federal claims post-removal complicates jurisdictional clarity, or does it merely reflect the established principles outlined in Section 1367?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 8
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Kavanaugh most likely ask next?",
+          "options": {
+            "A": "Does this discussion hinge on the definition of supplemental jurisdiction or a different legal principle entirely?",
+            "B": "Are you suggesting the interpretation of statute 1367 differs based on the context in which cases are filed?",
+            "C": "Are you arguing that the inclusion of Footnote 6 significantly alters the interpretation of jurisdiction in this case?",
+            "D": "And by \"settled law,\" you mean Footnote 6, you mean Cohill? Or what\nare you referring to there?"
+          },
+          "answer": "D",
+          "target_justice": "Justice Kavanaugh",
+          "debug_info": {
+            "correct_answer": "And by \"settled law,\" you mean Footnote 6, you mean Cohill? Or what\nare you referring to there?",
+            "fake_questions": [
+              "Are you suggesting the interpretation of statute 1367 differs based on the context in which cases are filed?",
+              "Does this discussion hinge on the definition of supplemental jurisdiction or a different legal principle entirely?",
+              "Are you arguing that the inclusion of Footnote 6 significantly alters the interpretation of jurisdiction in this case?"
+            ],
+            "all_generated_alternatives": [
+              "Are you suggesting the interpretation of statute 1367 differs based on the context in which cases are filed?",
+              "Could you clarify if your reference to settled law includes any relevant amendments made to the jurisdiction?",
+              "What judicial philosophies influence the differing treatments of federal and state claims in this legal context?",
+              "Does this discussion hinge on the definition of supplemental jurisdiction or a different legal principle entirely?",
+              "What precedent do you base your arguments on regarding the relationship between federal and state law claims?",
+              "Can you elaborate on how the original complaint's status impacts a court's jurisdiction over the state claims?",
+              "Are you arguing that the inclusion of Footnote 6 significantly alters the interpretation of jurisdiction in this case?",
+              "What role do policy considerations play in the interpretation of supplemental jurisdiction under Section 1367?",
+              "Could you specify how this case's procedural history affects your understanding of the jurisdictional context?",
+              "Why is it necessary to assert that the plaintiff's amendment doesn't negate the federal question jurisdiction?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 8
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 40,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Barrett?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 41,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\n?\nJust a couple of quick points.\nSo you keep talking about protecting the defendant's prerogative of\nremoval.\nBut I thought there was also sort of basic principles about the plaintiff's\nprerogative to bring a case in state or federal court to be the master of\ntheir claims.\nAnd so what I don't understand is why the plaintiff has to be stuck with\nthe jurisdictional consequences of claims they are no longer bringing?\nThey've given up their ability to seek relief on the federal claims, and so\nit just seems odd to me, especially when our case law kind of generally\nlinks jurisdiction with the claim, you have to have jurisdiction for every\nclaim, those two concepts run together, and yet somehow they can drop\nclaims and still be, in your view, subject to the jurisdictional\nconsequences of that.\nThat just seems discordant to me, so can you speak a little bit about\nthat?\n### Katherine B. Wellington:\nIt's a really important question, Your Honor, because what Congress was\ntrying to do is take into account the right of plaintiffs to be the master of\ntheir complaint but also the right of defendants to remove.\n### Justice Jackson:\nBut Justice Gorsuch points to statutes that talk about remand.\nSo, even though the defendant has exercised its right of removal, there\nare circumstances in which that right is not given precedence.\nThe case goes back to state court, right?\n### Katherine B. Wellington:\nThat's exactly right. It's up to the district court to decide.\nAnd we think in the mine run of cases where you amend the complaint\nright after you remove, there's removal to federal court, that's going to\ngo back to state court.\nWhat we're really talking about here are more unusual cases where it's\nbeen going on for a long time.\n### Justice Jackson:\nCan I just ask you about the text, moving quickly because I'm mindful of\nthe time.\nI don't understand how the question could possibly be whether or not\nthere is original jurisdiction at the time of removal. Of course, there is.\nThat's why the case gets to be removed.\nI mean, there's no question there that does any work because you only\nget to remove it if there's original jurisdiction.\nSo isn't the question really what happens when, after we've identified\noriginal jurisdiction and it's removed, the claims over which there were\noriginal jurisdiction drop out? Can supplemental jurisdiction be\nexercised when those original jurisdiction claims are no longer there?\nWhen we look at the text of 1367, I don't understand your argument\nthat supplemental jurisdiction arises in that situation because (a) says,\nin any civil action of which district courts have original jurisdiction, the\ndistrict court shall have supplemental jurisdiction.\nBut, in my scenario, original jurisdiction is gone.\nSo how can you have supplemental jurisdiction in a situation like this?\n### Katherine B. Wellington:\nI think it's really important to go back to the first principles that this\nCourt was applying in Cohill.\nIt was looking at St. P aul Mercury, which holds that you have original\njurisdiction at a particular time.\nAnd so, once you get original jurisdiction, you continue to have\nsupplemental jurisdiction.\nThat's what the Court held in Rosado.\n### Justice Jackson:\nor ever had original jurisdiction? It seems to be in the present tense\nsaying that you have to have original jurisdiction in order to exercise\nsupplemental.\n### Katherine B. Wellington:\nAnd I think that's because you have decades and decades of precedent\nsaying that in a removal context, you look at whether there's\njurisdiction at the time of removal.\nAt that time, the district court has original jurisdiction, and then the\nquestion is, will it continue to have supplemental jurisdiction? The text\nhere is framed in a forward-looking future tense, and we think \"shall\nhave\" does cover the situation where there's ongoing supplemental\njurisdiction.\n### Justice Jackson:\nThank you.",
+      "justice_name": "Justice Jackson",
+      "total_justice_questions": 3,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Jackson most likely ask next?",
+          "options": {
+            "A": "But Justice Gorsuch points to statutes that talk about remand.\nSo, even though the defendant has exercised its right of removal, there\nare circumstances in which that right is not given precedence.\nThe case goes back to state court, right?",
+            "B": "Does the primary holding of Cohill indicate that federal courts can always retain supplemental jurisdiction regardless of state claims?",
+            "C": "How does the principle of federal question jurisdiction interplay with the plaintiff's right to amend their complaint in state court?",
+            "D": "Can the defendant waive the right to remove, allowing the case to remain in state court despite federal jurisdiction questions?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Jackson",
+          "debug_info": {
+            "correct_answer": "But Justice Gorsuch points to statutes that talk about remand.\nSo, even though the defendant has exercised its right of removal, there\nare circumstances in which that right is not given precedence.\nThe case goes back to state court, right?",
+            "fake_questions": [
+              "Can the defendant waive the right to remove, allowing the case to remain in state court despite federal jurisdiction questions?",
+              "How does the principle of federal question jurisdiction interplay with the plaintiff's right to amend their complaint in state court?",
+              "Does the primary holding of Cohill indicate that federal courts can always retain supplemental jurisdiction regardless of state claims?"
+            ],
+            "all_generated_alternatives": [
+              "Can the defendant waive the right to remove, allowing the case to remain in state court despite federal jurisdiction questions?",
+              "Does a judge have discretion to decline a removal motion if the case was improperly removed from state court?",
+              "What must a plaintiff demonstrate to establish federal jurisdiction after dropping state claims from their complaint?",
+              "How does the principle of federal question jurisdiction interplay with the plaintiff's right to amend their complaint in state court?",
+              "Are there standards under which a federal district court must assess its jurisdiction after an amendment drops federal claims?",
+              "What role does the doctrine of precedent play if the case raises issues unrelated to the subject matter jurisdiction of the plaintiff?",
+              "How do procedural rules under Rule 12 affect the ability of a federal court to remand a case back to state court?",
+              "In what circumstances can a federal court dismiss a case without addressing the merits when there's ambiguity about jurisdiction?",
+              "Does the primary holding of Cohill indicate that federal courts can always retain supplemental jurisdiction regardless of state claims?",
+              "What happens if the plaintiff reintroduces claims that initially established federal jurisdiction after the case has been removed?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 9
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Jackson most likely ask next?",
+          "options": {
+            "A": "How does the removal of federal claims by the plaintiff affect the jurisdiction of the federal court regarding supplemental claims?",
+            "B": "Can I just ask you about the text, moving quickly because I'm mindful of\nthe time.\nI don't understand how the question could possibly be whether or not\nthere is original jurisdiction at the time of removal. Of course, there is.\nThat's why the case gets to be removed.\nI mean, there's no question there that does any work because you only\nget to remove it if there's original jurisdiction.\nSo isn't the question really what happens when, after we've identified\noriginal jurisdiction and it's removed, the claims over which there were\noriginal jurisdiction drop out? Can supplemental jurisdiction be\nexercised when those original jurisdiction claims are no longer there?\nWhen we look at the text of 1367, I don't understand your argument\nthat supplemental jurisdiction arises in that situation because (a) says,\nin any civil action of which district courts have original jurisdiction, the\ndistrict court shall have supplemental jurisdiction.\nBut, in my scenario, original jurisdiction is gone.\nSo how can you have supplemental jurisdiction in a situation like this?",
+            "C": "How does the principle of plaintiff's choice of forum interact with the removal statute in relation to original jurisdiction during a case?",
+            "D": "Can you explain how changes in jurisdictional statutes over the years have impacted the way courts interpret original versus supplemental jurisdiction?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Jackson",
+          "debug_info": {
+            "correct_answer": "Can I just ask you about the text, moving quickly because I'm mindful of\nthe time.\nI don't understand how the question could possibly be whether or not\nthere is original jurisdiction at the time of removal. Of course, there is.\nThat's why the case gets to be removed.\nI mean, there's no question there that does any work because you only\nget to remove it if there's original jurisdiction.\nSo isn't the question really what happens when, after we've identified\noriginal jurisdiction and it's removed, the claims over which there were\noriginal jurisdiction drop out? Can supplemental jurisdiction be\nexercised when those original jurisdiction claims are no longer there?\nWhen we look at the text of 1367, I don't understand your argument\nthat supplemental jurisdiction arises in that situation because (a) says,\nin any civil action of which district courts have original jurisdiction, the\ndistrict court shall have supplemental jurisdiction.\nBut, in my scenario, original jurisdiction is gone.\nSo how can you have supplemental jurisdiction in a situation like this?",
+            "fake_questions": [
+              "How does the removal of federal claims by the plaintiff affect the jurisdiction of the federal court regarding supplemental claims?",
+              "How does the principle of plaintiff's choice of forum interact with the removal statute in relation to original jurisdiction during a case?",
+              "Can you explain how changes in jurisdictional statutes over the years have impacted the way courts interpret original versus supplemental jurisdiction?"
+            ],
+            "all_generated_alternatives": [
+              "How does the removal of federal claims by the plaintiff affect the jurisdiction of the federal court regarding supplemental claims?",
+              "What is the distinction between original jurisdiction and supplemental jurisdiction under Section 1367?",
+              "In what circumstances can a federal court retain jurisdiction after a plaintiff withdraws all federal claims, based on existing case law?",
+              "How does the principle of plaintiff's choice of forum interact with the removal statute in relation to original jurisdiction during a case?",
+              "What implications does the failure to establish federal question jurisdiction have on the supplemental jurisdiction of state law claims in federal court?",
+              "How does the federal court's discretion to remand after removal relate to the plaintiff's right to amend their complaint?",
+              "What are the implications of the original jurisdiction requirement for diversity jurisdiction as opposed to federal question jurisdiction under removal statutes?",
+              "Can a defendant challenge the jurisdictional basis of a case if the plaintiff drops federal claims post-removal, and how does that interact with Section 1367?",
+              "What specific legal standards govern a court's decision on whether to exercise supplemental jurisdiction after a plaintiff modifies their claims?",
+              "Can you explain how changes in jurisdictional statutes over the years have impacted the way courts interpret original versus supplemental jurisdiction?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 9
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 42,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nMr. Keller.\n### Ashley C. Keller:\nMr. Chief Justice, and may it please the Court: The life of the law has not\nbeen logic.\nIt has been experience.\nAnd experience should have taught us by now that a suit arises under\nthe law that creates the cause of action. That should be the definitive\ntest for arising under jurisdiction for at least three reasons. It's the most\nfaithful to the text, it avoids serious constitutional problems, and it will\nsave decades of pointless litigation over jurisdiction.\nNow, if you're not yet ready to re-embrace American Well Works, and it\nsounds like you might not be, I suspect that stare decisis does a fair bit of\nwork, in which case stare decisis applies an easy alternative path to\naffirm.\nThis case is Merrell Dow but for pets not people.\nAnd while I take a back seat to nobody in my love of our four-legged\nfriends, I am confident Congress believed that misbranded human\nproduct was a more substantial federal issue than misbranded pet food.\nIf we turn to which complaint controls, the Eighth Circuit again should\nbe affirmed.\nMy friend and I crucially agree the text of 1367 is dispositive here.\nAnd, remarkably, we also agree, if this case were originally in federal\ncourt, it must be dismissed.\nWhy? Because, by amending out all of the federal issues, they're no\nlonger in the action.\nIf that's what the text of 1367 means for an original case, how can the\nexact same words take on a different meaning with removal? Despite\nmy friend's professed commitment to textualism, she has no choice but\nto flee to public policy.\nWe can't have these mischievous plaintiffs' lawyers shopping around\nfor their judges, we're told.\nNow that concern is not happening in the real world, and my friend's\nsolution wouldn't solve the problem even if it were.\nBut none of that matters.\nThis Court has said many times that text trumps policy. You merely need\nto say so once again in order to affirm.\nI welcome your questions.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 43,
+      "target_dialogue": "## Justice Thomas\n### Justice Thomas:\nMr. Keller, would you spend a bit more time on the application of 1367\nand how it supports your argument?\n### Ashley C. Keller:\nOf course, Your Honor. So I think the plain text controls.\nWe agree about that.\nThe present tense verbs, I think, are intended to indicate that there is\njurisdiction presently.\nWe focused on the word \"have\" with the colloquy with Justice -- Justice\nJackson.\nI would also focus on the word \"are.\" There has to be a relationship\nbetween the other claims, the state law claims that are related to claims\nin the action, the federal -- federal claims that are within the Court's\noriginal jurisdiction.\nIf we amend out those federal claims, they're no longer in the action.\nThere's no relationship.\nAnd so there's no supplemental jurisdiction.\nThat's 1367(a).\nThat's the requirement to establish supplemental jurisdiction.\nYou don't get to the exceptions in (b) or (c) unless you establish\njurisdiction under (a).",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 44,
+      "target_dialogue": "## Justice Kagan\n### Justice Kagan:\nI think not logic but experience, you lose, Mr. Keller, because the\nexperience cuts the other way.\nI mean, just the -- this has all -- until the Eighth Circuit came along, the\nposition of the Petitioners has always been understood, assumed.\nEvery -- everybody thought that that was the rule.\nAnd it was a rule which really has no adverse consequences because\neverybody remands these cases anyway.\nIn 99 percent of the cases, these -- these --you know, there's a\nremand. So, like, what harm is this rule doing? And this rule has existed\nin every single circuit court for lo these many years.\n### Ashley C. Keller:\nYeah, so I respectfully disagree.\nThe master principle that I think governs in every context, except the\namount in controversy, is that the amended complaint controls.\n### Justice Kagan:\nSo I basically agree with you.\nI mean, I basically agree with you on that and not with Justice\nKavanaugh.\nJustice Kavanaugh says it's all arbitrary.\nI don't think it's arbitrary.\nI think some of the cases that he was talking about is when facts in the\nworld change, but when we're not talking about facts in the world, when\nwe're talking about allegations, I think that the structure is the way you\ndescribe it, that we look to the operative complaint, the amended\ncomplaint, except in the amount in controversy area, where there are\nsort of special considerations.\nBut -- so I -- I kind of agree with you that if we were creating a system\nwhere all the rules cohered, yours is the better rule. But -- but I think on\nthe other side of the table is, look, we have this anomalous rule, but this\nanomalous rule has been accepted b y everybody for many, many years,\nand it does no harm anyway since most of these cases are remanded\nback to state court where they belong.\n### Ashley C. Keller:\nYeah, a couple of responses to that,\n### Justice Kagan:\n.\nFirst of all, I don't think that we, meaning this Court, has ever embraced\nthat rule. It's true that the lower courts deserve respectful\nconsideration, but a lot of these cases predate binding statutory text, so\nI'm not sure that that's dispositive.\nAlso, I would respectfully submit that you're the supervisory Court\nthat's most important in our Article III system.\nAnd when you're hearing a question for the first time, you ought to\nadjudicate it correctly, notwithstanding the respectful consideration\nthat you would give to the lower courts.\nAnd if you've determined, as it sounds like you have, that from first\nprinciples I'm right, the fact that lower courts that obviously can't bind\nthis one got it wrong I don't think is a reason to just say let's go along to\nget along.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 45,
+      "target_dialogue": "## Justice Gorsuch\n### Justice Gorsuch:\nconsidered the question.\nI understand that.\nBut you do have Cohill and the Rockhill -- Rockwell footnote to deal\nwith, and I ha ven't heard a word about those yet.\n### Ashley C. Keller:\nWell, here it comes,\n### Justice Gorsuch:\n.\nAs Justice -- (Laughter.)\nI can't wait. (Laughter.)\n### Ashley C. Keller:\nAs -- as Justice Kavanaugh previewed, I don't think that Footnote 6 in\nRockwell is anywhere near the ratio decidendi of the opinion.\nJustice Scalia was as capable as anyone of making a stray remark.\nHe didn't even consider the statutory text of 1367, which both my friend\nand I agree is dispositive. And the easiest way to tell that it's dicta is, if\nyou cover up Footnote 6, would it make any difference for the\nadjudication of the rights and responsibilities of the parties? Obviously\nnot.\nRockwell would have come out the exact same way and the exact same\noutcome and judgment would have occurred.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 46,
+      "target_dialogue": "## Justice Kavanaugh\n### Justice Kavanaugh:\nWe have a lot of things in opinions that you can make that same\ncomment about that we follow, just for the -- just to put that out there.\nSorry to interrupt.\n### Ashley C. Keller:\nI -- and I --and I agree with you,\n### Justice Kavanaugh:\n.\nThe fact that it's dicta doesn't mean that you toss it out the window.\nNo, that we don't even treat it as dicta, but keep going.\n### Ashley C. Keller:\nWell, it's up to you to decide whether or not you would treat it as dicta\nhere.\nI think it's pretty ill-considered and it doesn't get into the fact that it\ncreates the inconsistency that we've been talking about, where the\nexact same text means one thing for an original case and something else\nfor a removed case.\nI don't think that's the sort of thing that Justice Scalia would have\ncountenanced given his commitment to textualism.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 47,
+      "target_dialogue": "## Justice Barrett\n### Justice Barrett:\nCounsel, your friend on the other side -- were you finished?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 48,
+      "target_dialogue": "## Justice Gorsuch\n### Justice Gorsuch:\nYeah.\nThank you.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 49,
+      "target_dialogue": "## Justice Barrett\n### Justice Barrett:\nYour friend on the other side says that this would wreak havoc with the\nClass Action Fairness Act and remove cases.\nDo you want to address that?\n### Ashley C. Keller:\nI'm not sure that I understand that point, Your Honor.\nI don't see why it would wreak any havoc.\nCAFA makes it a lot easier to remove cases into federal court. So, in the\nmine-run case, they're going to have no difficulty.\nThe difficulty that they face here is that you have no diversity of any\nkind.\nCAFA obviously eliminates complete diversity and goes to minimal\ndiversity as the standard, but that's a relatively unusual circumstance.\nOftentimes, plaintiffs are trying to seek a nationwide class or\nsomething broader.\nSo I don't think it's going to wreak havoc because the incentives are still\ngoing to be there when there's widespread harm for plaintiffs to pursue\nclasses that include citizens from many different states.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 50,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nCounsel, we have had cases where we came out the other way than every\ncourt of appeals had come out, right?\n### Ashley C. Keller:\nYes, you have, Mr. Chief Justice.\n### Chief Justice Roberts:\nLike what?\n### Ashley C. Keller:\nI think there are -- that's a great question.\n(Laughter.)\nAnd none spring to mind, but I am positive that I can find some.",
+      "justice_name": "Chief Justice Roberts",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Chief Justice Roberts most likely ask next?",
+          "options": {
+            "A": "Can you provide examples?",
+            "B": "Can you clarify the jurisdiction?",
+            "C": "Like what?",
+            "D": "Why did the Court decide?"
+          },
+          "answer": "C",
+          "target_justice": "Chief Justice Roberts",
+          "debug_info": {
+            "correct_answer": "Like what?",
+            "fake_questions": [
+              "Can you provide examples?",
+              "Can you clarify the jurisdiction?",
+              "Why did the Court decide?"
+            ],
+            "all_generated_alternatives": [
+              "Can you provide examples?",
+              "What evidence exists?",
+              "How do precedents apply?",
+              "Why did the Court decide?",
+              "What was the case outcome?",
+              "What does your opponent argue?",
+              "Which rule governs this issue?",
+              "What standard of review applies?",
+              "Can you clarify the jurisdiction?",
+              "What are previous rulings?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 10
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 51,
+      "target_dialogue": "## Justice Kavanaugh\n### Justice Kavanaugh:\nCentral Bank?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 52,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nWell, I mean, it's pretty bold to take the position without knowing one.\n### Ashley C. Keller:\nFair.\nMea culpa.\n### Chief Justice Roberts:\nWas that -- was that the case in Chadha?\n### Ashley C. Keller:\nINS versus Chadha?\n### Chief Justice Roberts:\nYes.\n### Ashley C. Keller:\nI -- I don't know.\nI apologize.\n### Chief Justice Roberts:\nSomebody will check.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 53,
+      "target_dialogue": "## Justice Kagan\n### Justice Kagan:\nGosh, I'm not sure which way that cuts. (Laughter.)",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 54,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nI'm not sure that's true.\nI just have it in the back of my mind, but -- okay.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 55,
+      "target_dialogue": "## Justice Kavanaugh\n### Justice Kavanaugh:\nJust go back to the state of the law.\nI certainly didn't use the word \"arbitrary.\" It's just that each bucket has\ndeveloped based on its own idiosyncratic considerations.\nAnd you can't necessarily get a through line of look at the time of filing\nor the time of amendment at least as I look at them.\nAnd it's beyond just amount in controversy.\nIt's change in citizenship as well.\nI just want to --do you agree with that on the change in citizenship?\n### Ashley C. Keller:\nI agree, obviously, that the change in citizenship rule has a long\npedigree.\nIt goes back to 1824.\nI don't agree that that's about whic h complaint controls. That's about\nreal-world facts.\n### Justice Kavanaugh:\nRight.\n### Ashley C. Keller:\nSo, if you want to amend a complaint to say: I made a mistake, I said that\nI was from Florida and the defendant was from Illinois, but I realized\nthat the defendant actually moved to Florida two years ago, so we're\nboth from Florida, the amended complaint would control there.\n### Justice Kavanaugh:\nRight.\nAnd then, on Footnote 6, let me just -- I know you're going to disagree\nthat it controls.\nIf --if it does control, I mean, if it is binding, it goes against you in this\ncase, correct?\n### Ashley C. Keller:\nOf course.\nAnd then I win under Grable or Merrell Dow.\n### Justice Kavanaugh:\nRight.",
+      "justice_name": "Justice Kavanaugh",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Kavanaugh most likely ask next?",
+          "options": {
+            "A": "Considering the impacts of Footnote 6, what are the broader implications for statutory interpretation in similar cases?",
+            "B": "To clarify, does your stance suggest that Footnote 6 is irrelevant to the jurisdictional questions in this matter?",
+            "C": "If the court decides your argument is incorrect, how do you expect that decision will impact the interpretation of similar cases?",
+            "D": "Right.\nAnd then, on Footnote 6, let me just -- I know you're going to disagree\nthat it controls.\nIf --if it does control, I mean, if it is binding, it goes against you in this\ncase, correct?"
+          },
+          "answer": "D",
+          "target_justice": "Justice Kavanaugh",
+          "debug_info": {
+            "correct_answer": "Right.\nAnd then, on Footnote 6, let me just -- I know you're going to disagree\nthat it controls.\nIf --if it does control, I mean, if it is binding, it goes against you in this\ncase, correct?",
+            "fake_questions": [
+              "Considering the impacts of Footnote 6, what are the broader implications for statutory interpretation in similar cases?",
+              "If the court decides your argument is incorrect, how do you expect that decision will impact the interpretation of similar cases?",
+              "To clarify, does your stance suggest that Footnote 6 is irrelevant to the jurisdictional questions in this matter?"
+            ],
+            "all_generated_alternatives": [
+              "If Footnote 6 is not considered binding, what implications does that have for the precedent set in this case?",
+              "Considering the impacts of Footnote 6, what are the broader implications for statutory interpretation in similar cases?",
+              "If the case is ultimately decided against you, what legal standards will the court likely rely on moving forward?",
+              "So, regarding the implications of your position, can you explain how it aligns with existing jurisprudence on binding precedent?",
+              "Can you elaborate on whether there are specific examples where Footnote 6 has been a decisive factor in court rulings in the past?",
+              "If the court decides your argument is incorrect, how do you expect that decision will impact the interpretation of similar cases?",
+              "Are you asserting that Footnote 6 truly lacks relevance in determinations of jurisdiction or limitations on claims?",
+              "How does the understanding of Footnote 6 shape the fundamental questions surrounding jurisdiction in this court?",
+              "To clarify, does your stance suggest that Footnote 6 is irrelevant to the jurisdictional questions in this matter?",
+              "If Footnote 6 were to hold weight, could you describe its potential influence on the overall outcome of your legal strategy?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 11
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 56,
+      "target_dialogue": "## Justice Kagan\n### Justice Kagan:\nAnd, you know, I just wonder, so you look at Footnote 6.\nTo me, Footnote 6 is like somebody said: Hey, but how about Cohill? And\nthen they said: Oh, yeah, Cohill, so we have to put in Footnote 6.\nAnd -- and so the fact that Footnote 6 is there suggests a certain kind of\nreading of Cohill.\nAnd, you know, what Cohill was about that it -- was this question of do\nyou have to dismiss a case or can you remand the case back to the state\ncourt? But Cohill's logic does cut against you, I think, fairly heavily here\nbecause, as I read, Cohill what it does is say something like this: You\nknow, the supplemental jurisdiction business, ever since Gibbs, we've\nunderstood it as a completely discretionary area of jurisdiction.\nYou can keep the case.\nYou can dismiss the case.\nIf you can keep the case and you can dismiss the case, surely you should\nbe able to remand the case as well.\nAnd that's the essential logic of Cohill.\nIt's like everything is discretionary in this area, why shouldn't this be\ntoo? But that logic really does cut against you because it suggests that\neverything is discretionary in this area, including keeping the case.\n### Ashley C. Keller:\nYeah, a couple of responses to that,\n### Justice Kagan:\n.\nWhatever amount of discretion I think existed in the Cohill era I don't\nthink can continue through binding statutory text.\nSo we're no longer operating in a common law realm. We're operating in\na realm where Congress chose to act.\nWe can debate whether Congress chose to codify whatever the common\nlaw rules were hook, line, and sinker.\nI would suggest from -- Allapattah that it codified binding statutory\ntext, and we should follow the text.\nSo I don't think we can just go with free-wheeling old principles now\nthat Congress\nWell, how about if I think that the text doesn't really help either of you?\nThe -- you know, you're saying text; you're saying text, and, in fact,\nneither of you really has a very strong argument about text and we have\nto decide this case on other grounds.\n### Ashley C. Keller:\nSo the other grounds, I think, would be the master pri nciple that we\ntalked about that the operative complaint almost always controls.\nThe only context that I'm aware of where it doesn't control is the\namount in controversy.\nThat, by the way, was also codified through binding text.\nThat's 1446.\nI agree that it goes back longer to cases like St. Paul Mercury.\nAs an aside, I actually think that's a completely defensible\ninterpretation of the old statutory text precisely because Congress\nunderstands it doesn't want to blur the line between jurisdictional facts\nand the merits. We don't want to create the Judge Posner problem\nwhere a plaintiff comes into court and loses or wins an amount that's\n### Justice Kagan:\nThank you.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 57,
+      "target_dialogue": "## Justice Alito\n### Justice Alito:\nDo I understand your -- what you just said to mean that you would win\nthis case even if 1367 had never been enacted?\n### Ashley C. Keller:\nI think that I would win this case if 1367 hadn't been enacted and we\nwere still in a more common law regime and this issue were squarely\npresented to the Court for the first time.\nCohill had this issue obliquely presented.\nYes, there was an amended complaint. But the party presentation rule\nshould matter. No one made that fact relevant for the Court's\nconsideration.\nYou could have considered it sua sponte because it went to jurisdiction,\nbut no one did.\nAnd this Court has pointed out before that drive -by jurisdictional\nrulings don't have any precedential effect.\nThe reason you had to say that is sometimes, even though you would\nlike to avoid it, you issue drive-by jurisdictional rulings.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 58,
+      "target_dialogue": "## Justice Gorsuch\n### Justice Gorsuch:\nWhy --why -- why -- why would we say Cohill addressed this? As I\nunderstand it, in -- the question there was whether to remand or\ndismiss, and this -- this issue wasn't presented to the Court at all.\n### Ashley C. Keller:\nI completely agree with it.\nIt was not presented to the Court.\nThe facts of Cohill, though, I have to say in the -- in the spirit of candor\nwas that there was an amended complaint and it dropped the federal\nclaim, and then there was the question of whether there is discretion to\nremand versus just discretion to dismiss for lack of continuing\njurisdiction.\n### Justice Gorsuch:\nAnd do you have any way to rationalize St. Paul Mercury other than it's\nbeen codified now?\n### Ashley C. Keller:\nNo, I do think that I can rationalize St. Paul Mercury.\nAs I was saying just a moment ago, I do think that the amount in\ncontroversy, even before Congress said in 1446 we have to look to the\ninitial pleading, going back to cases like St. Paul Mercury, it is reasonable\nto read -- read the words \"amount in controversy\" to mean\ntheoretically possible to be recovered.\nIt doesn't matter what happens after you file your lawsuit.\nAnd so, if the plaintiff pleads in an initial complaint, consistent with\nRule 11 or whatever the equivalent was in 1938, I'm above the\njurisdictional amount in controversy, that's showing that it's\ntheoretically possible to recover that amount in good faith, and that's\ngood enough for the statutory jurisdictional requirement that Congress\nadded onto Article III.",
+      "justice_name": "Justice Gorsuch",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Gorsuch most likely ask next?",
+          "options": {
+            "A": "What impact does the statute of limitations have on claims after they are dropped from an amended complaint?",
+            "B": "How does St. Paul Mercury differentiate between remand and dismissal in jurisdictional contexts?",
+            "C": "What does the legislative history of Section 1367 reveal about Congress's intent regarding subject matter jurisdiction?",
+            "D": "And do you have any way to rationalize St. Paul Mercury other than it's\nbeen codified now?"
+          },
+          "answer": "D",
+          "target_justice": "Justice Gorsuch",
+          "debug_info": {
+            "correct_answer": "And do you have any way to rationalize St. Paul Mercury other than it's\nbeen codified now?",
+            "fake_questions": [
+              "How does St. Paul Mercury differentiate between remand and dismissal in jurisdictional contexts?",
+              "What does the legislative history of Section 1367 reveal about Congress's intent regarding subject matter jurisdiction?",
+              "What impact does the statute of limitations have on claims after they are dropped from an amended complaint?"
+            ],
+            "all_generated_alternatives": [
+              "How does St. Paul Mercury differentiate between remand and dismissal in jurisdictional contexts?",
+              "What arguments support the rejection of Cohill in favor of St. Paul Mercury on remand issues?",
+              "Can you explain how the continued jurisdiction relates to the defendant's removal rights?",
+              "What impact does the statute of limitations have on claims after they are dropped from an amended complaint?",
+              "How do the principles of judicial efficiency tie into supplemental jurisdiction within these cases?",
+              "What does the legislative history of Section 1367 reveal about Congress's intent regarding subject matter jurisdiction?",
+              "Is there a distinction between original and supplemental jurisdiction as it pertains to amended complaints?",
+              "How might a court view plaintiff's discretion to drop claims post-removal in terms of jurisdiction?",
+              "What role does judicial precedent play in determining the viability of the amended claims in federal court?",
+              "Why might a court choose to remand a case instead of dismissing it entirely under existing jurisdictional standards?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 12
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 59,
+      "target_dialogue": "## Justice Barrett\n### Justice Barrett:\nMr. Keller, in thinking about -- you know,",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 60,
+      "target_dialogue": "## Justice Kavanaugh\n### Justice Kavanaugh:\nwas\ntalking about the different boxes and some of the inconsistencies.\nOne way I've been thinking about this is I think it's been true for a very\nlong time, back to Strawbridge versus Curtiss and the complete\ndiversity requirement, you know, talking about Mottley and the well-\npleaded complaint rule, that the Court for a very long time exercised a\npretty free hand in interpreting 13-1 and --1331 and 1332. That\nlanguage is identical to Article III, but yet the Court interpreted it to\nmean something different.\nAnd I think that in the Gibbs regime pre -1367, the Court was exercising\na pretty free hand in -- in articulating the contours of pendent\njurisdiction and ancillary jurisdiction before Congress controlled it.\nCan you think -- I mean, I think a lot of this case seems to kind of come\ndown to is that just the way we've been treating jurisdictional statutes\nand do we keep it up with 1367, or in 1367 because, in Finley, the Court\nkind of said no, look, Congress, there need to be clear jurisdictional\nrules, expressly invited Congress to address it, which Congress did.\nWould you say, do you think it's fair to say, or can you think of a counter-\nexample that in 1367, when it comes to supplemental jurisdiction, the\nCourt has tightened its belt and isn't being as free-wheeling, or can you\nthink of other examples where the Court, this Court, has done kind of\nwhat the court of appeals seemed to have continued to do in 1367, which\nis maybe make a little bit more jurisdictional policy than was set out in\nthe text?\n### Ashley C. Keller:\nYeah, an important question,",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 61,
+      "target_dialogue": "## Justice Barrett\n### Justice Barrett:\n.\nI think I would describe the history a little differently.\nI wouldn't describe it as free-wheeling.\nI would say it all points in one direction.\nThe Court construed jurisdictional statutes more narrowly than Article\nIII.\nSo that's certainly true with Strawbridge versus Curtiss.\nWe know that there's not a complete diversity requirement because of\nCAFA.\nIt's the same thing with 1331.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 62,
+      "target_dialogue": "## Justice Thomas\n### Justice Thomas:\nnoted this in Grable.\nFrom the very beginning of the Jurisdiction and Removal Act of 1875,\nthis Court almost immediately construed the words \"arising under\" to\nbe not coextensive with Article III.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 63,
+      "target_dialogue": "## Justice Barrett\n### Justice Barrett:\nGibbs is a counter-example for you, though.\n### Ashley C. Keller:\nGibbs is a counter-example, and the Court in Finley, I think, gently\ncriticized Gibbs for operating without a statute.\nIt did invite Congress to act.\nCongress has now acted, and so, having taken up this Court's invitation\nto supply positive law codifying this entire area, I think you should stick\nto your normal statutory interpretation principles.\nAnd if you want to put a thumb on the scale, it should be against\njurisdiction, consistent with tradition.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 64,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\nSetting aside 1367, going back to",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 65,
+      "target_dialogue": "## Justice Alito\n### Justice Alito:\n's question, I'm wondering\nwhether the sort of core principles basis for your position is basically the\nplaintiff is the master of the complaint.\nThey get to plead the claims.\nFor federal question jurisdiction, the claims matter.\nThat is, jurisdiction is based on the claims that the plaintiff pleads.\nIf the claims are amended, the federal court can be divested of\njurisdiction, and removal really has no bearing on the scope of\njurisdiction or at least that's never been established, that -- that how it\ncomes to federal court matters with respect to an amended complaint.\nIs that roughly where you're coming from with the principles that would\nunderlie this, even setting aside the statute?\n### Ashley C. Keller:\nYes, that syllogism is perfect.\nIf there are no further questions or -- I'm happy to go to seriatim.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 66,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Thomas? Justice Alito?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 67,
+      "target_dialogue": "## Justice Kavanaugh\n### Justice Kavanaugh:\n? Thank you, counsel.\n### Ashley C. Keller:\nThank you, Your Honor.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 68,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nRebuttal?\n### Katherine B. Wellington:\nThank you, Your Honor.\nAs Justice Kagan says, under experience, Respondents lose.\nTo rule for Respondents on the question presented, this Court would\nneed to overrule or distinguish away St. Paul Mercury, Cohill, Rockwell,\nGibbs, Carlsbad, Rosado, Powerex, Osborn against Haley, International\nCollege of Surgeons, and Wisconsin Department of Corrections.\nThat's 10 decisions of this Court, on top of dozens and dozens of court of\nappeals decisions that have consistently and unanimously supported\nPetitioners' position.\nIndeed, even Respondents agreed that the district court could exercise\nsupplemental jurisdiction.\nThey said it in their amended complaint.\nIt's only until the Eighth Circuit invited briefing on this that they\nswitched positions.\nAnd I think it's quite telling here that the Eighth Circuit reached the\ndecision it did by apparently missing all of the footnotes that it should\nhave read, including in Rockwell but also in the Second Circuit and the\nEleventh Circuit decisions that it cited.\nSo I think that's the reason we're here today.\nAs Justice Barrett asked, ruling for Respondents would also call into\nquestion the rule that applies in CAFA cases.\nThe court of appeals have said -- you know, if you get into federal court\non a removal in a CAFA case, the plaintiff immediately amends to try to\nget rid of all the class action allegations, the courts of appeals have said\nthat's a question of discretion for the district court.\nMaybe the district court will send a lot of those cases back to state court,\nbut maybe, when the case has been going on for two years and the class\nis about to get certified, that's a situation in which the district court\nmay say, okay, I'm going to keep this case here in federal court.\nIt would also call into question the Court's longstanding rules that\namendments to the amount in controversy do not affect jurisdiction.\nAnd what do Respondents want instead? So, instead of an approach that\ngives district courts discretion in every case to determine what makes\nsense as a matter of judicial economy, convenience, fairness, and\ncomity, they want an inflexible rule that gives district courts no choi ce\nand that would subject the defendant's right to removal to the\nplaintiff's caprice.\nAs the Chief's questions suggest, where this Court decides to overrule\nevery single court of appeals, it should have a really good reason.\nAnd there isn't a really good reason here to upset a longstanding\njurisdictional rule that has worked just fine for a century.\nThe Eighth Circuit simply got it wrong, and this Court should vacate the\ndecision below.\nThank you.\n\n### Chief Justice Roberts:\nThank you. The case is submitted.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    }
+  ],
+  "answer_distribution": {
+    "counts": {
+      "A": 6,
+      "B": 5,
+      "C": 4,
+      "D": 6
+    },
+    "percentages": {
+      "A": 28.57142857142857,
+      "B": 23.809523809523807,
+      "C": 19.047619047619047,
+      "D": 28.57142857142857
+    },
+    "total_questions": 21
+  }
+}

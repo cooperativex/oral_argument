@@ -1,0 +1,1329 @@
+{
+  "source_file": "Monsalvo Velazquez v. Garland _ Oyez.md",
+  "background": "Chief Justice Roberts\n### Chief Justice Roberts:\nWe'll hear argument first this morning in Case 23-929, Velazquez\nversus Garland.\nMr. Cedrone.\n### Gerard J. Cedrone:\nThank you, Mr. Chief Justice, and may it please the Court: The 60-day\ntime period in the voluntary departure statute works like any routine\nlegal time period.\nWhen the last day falls on a weekend or holiday, the period continues to\nrun until the next business day.\nCongress would have expected people to read the statute this way.\nIn 1996, common law principles, case law, established rules and\nregulations, and years of consistent practice all pointed to that\ninterpretation.\nIf Congress had meant to deviate from that traditional understanding, it\nwould have said so.\nEven the government now acknowledges that other deadlines in the\nsame section of IIRIRA follow the traditional rule in light of a long-\nstanding immigration regulation defining the word \"day.\" So the only\nway to adopt the government's interpretation is to believe that\nCongress used two different meani ngs of the word \"day\" in the same\nsection of the same statute.\nThere's simply no indication that Congress took that kind of split\napproach.\nThe government's interpretation would also spell chaos for regulatory\ndefinitions and deadlines.\nIn the government's view, even though Section 1001.1(h) provides a\nsingle definition for the word \"day,\" that -- the immigration\nregulations actually use that term to mean different things throughout.\nAnd so the only way to tell which deadline follows which time\ncalculation rule is to trace each deadline's history back through earlier\nand earlier versions of the code and Code of Federal Regulations.\nAnswering a question as simple as does my deadline fall on Saturday or\nMonday shouldn't depend on this kind of complex historical\ninvestigation, especially when deportation's on the line.\nThe default rule for weekends and holidays exists precisely to avoid this\nkind of case-by-case guesswork. The government identifies no reason\nand certainly no reason grounded in the text of the statute to depart\nfrom that traditional rule.\nThe Court should read Section 1229c like any other statute and follow\nthe usual rule for weekends and holidays.\nI welcome the Court's questions.",
+  "conversations": [
+    {
+      "conversation_id": 1,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\n1252(a) speaks in terms of a removal --final removal order.\nIs there one involved in this case?\n### Gerard J. Cedrone:\nThere is, Your Honor. And I would make two points.\nFirst, as you point out, subsection (a)(1) speaks in terms of judicial\nreview of a final order of removal.\nThat's exactly what we're seeking.\nIf we win in this case, the final order of removal that binds our client will\nsay one thing.\nIf we lose, it will say another.\nAnd the second point is this Court has long recognized that BIA\ndecisions on reopening and reconsideration are separate final orders\nthat require a separate petition and are separately reviewable in the\ncourts of appeals.\n### Justice Thomas:\nIt seems that you're saying that a collateral consequence to a ruling on\nthis is a part of the final or der.\nHow is that?\n### Justice Thomas:\nThe order itself is not here, right?\n### Gerard J. Cedrone:\nI disagree, Your Honor, in two respects.\nSo, one, as I just pointed out, the Court has consistently explained that a\n### Justice Thomas:\nI thought we were talking about the 60 --whether there are 60 days or\n62 days to leave for --voluntarily.\n### Gerard J. Cedrone:\nThat's right, Your Honor.\nAnd the voluntary departure order at pages 42a and 43a of the Petition\nAppendix spell out the consequences if, on the one hand, our client files\na timely motion to reopen or, on the other hand, if our client fails to\ndepart the country or files an untimely motion.\nThere are two alternate orders of removal waiting in the wings, one with\nharsh penalties, one without, and this timeliness determination directly\naffects which of those alternate orders of removal will take effect.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"__________________________________________ --final removal order.\nIs there one involved in this case?\"",
+          "options": {
+            "A": "1252(c) defines standards for immigration removal",
+            "B": "1252(a) speaks in terms of a removal",
+            "C": "1252(a) outlines terms of legal removal",
+            "D": "1252(b) refers to a deportation process"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "1252(a) speaks in terms of a removal",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 7,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 1,
+              "speaker": "Justice Thomas",
+              "original_statement": "1252(a) speaks in terms of a removal --final removal order.\nIs there one involved in this case?"
+            },
+            "explanation": "This phrase references a specific statutory provision, requiring knowledge of its implications regarding removal orders and the context in which they apply."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"1252(a) speaks in terms of a removal --__________________.\nIs there one involved in this case?\"",
+          "options": {
+            "A": "conditional removal order",
+            "B": "final removal order",
+            "C": "temporary removal order",
+            "D": "preliminary removal order"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "final removal order",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 1,
+              "speaker": "Justice Thomas",
+              "original_statement": "1252(a) speaks in terms of a removal --final removal order.\nIs there one involved in this case?"
+            },
+            "explanation": "Understanding the distinction between a 'final removal order' and other types of orders is crucial in immigration law and judicial review."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"1252(a) speaks in terms of a removal --final removal order.\n__________________________________________\"",
+          "options": {
+            "A": "Is there one party opposing this interpretation?",
+            "B": "Is there any precedent cited for this?",
+            "C": "Is there a statute relevant to this?",
+            "D": "Is there one involved in this case?"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "Is there one involved in this case?",
+            "category": "judicial_test",
+            "difficulty": "hard",
+            "word_count": 7,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 1,
+              "speaker": "Justice Thomas",
+              "original_statement": "1252(a) speaks in terms of a removal --final removal order.\nIs there one involved in this case?"
+            },
+            "explanation": "This question probes the relevance of a final removal order to the case at hand, testing the student's ability to connect statutory language with case facts."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"It seems that you're saying that a ____________ to a ruling on\nthis is a part of the final or der.\nHow is that?\"",
+          "options": {
+            "A": "consequential effect",
+            "B": "collateral consequence",
+            "C": "collateral outcome",
+            "D": "incidental consequence"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "collateral consequence",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 2,
+              "speaker": "Justice Thomas",
+              "original_statement": "It seems that you're saying that a collateral consequence to a ruling on\nthis is a part of the final or der.\nHow is that?"
+            },
+            "explanation": "This phrase requires an understanding of how collateral consequences can affect legal rulings and the implications of such consequences in judicial decisions."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"It seems that you're saying that a collateral consequence to a ruling on\nthis is a part of the final or der.\n__________________\"",
+          "options": {
+            "A": "What does that?",
+            "B": "When is that?",
+            "C": "Why is that?",
+            "D": "How is that?"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "How is that?",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 2,
+              "speaker": "Justice Thomas",
+              "original_statement": "It seems that you're saying that a collateral consequence to a ruling on\nthis is a part of the final or der.\nHow is that?"
+            },
+            "explanation": "This phrase prompts an inquiry into the reasoning behind the assertion made, requiring students to analyze the justification for legal arguments and the implications of judicial questioning."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"I thought we were talking about the 60 --whether there are 60 days or\n62 days to leave for --______.\"",
+          "options": {
+            "A": "volitional",
+            "B": "voluntary",
+            "C": "voluntarily",
+            "D": "voluntarily"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "voluntarily",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 1,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 3,
+              "speaker": "Justice Thomas",
+              "original_statement": "I thought we were talking about the 60 --whether there are 60 days or\n62 days to leave for --voluntarily."
+            },
+            "explanation": "The use of 'voluntarily' raises questions about the nature of consent in legal proceedings, particularly in immigration law, which is essential for grasping the nuances of voluntary departure statutes."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 2,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nYou argue, and just did, that this is a very simple question. But a good\npart of your argument is tak ing regulatory provisions and applying\nthem to the statute.\nYou say that that is the appropriate prism through which to read the\nstatute.\nThe prism test doesn't sound very straightforward and clear to me.\n### Gerard J. Cedrone:\nWhat you have in this case is everything pointing in the same direction.\nSo start with the regulation. Section 1001.1 provides a definition of\n\"day\" that has governed since the creation of the INA and that\nremained unchanged for a decade before this particular provision\npassed.\nAnd the government even acknowledges now that other deadlines in\nthe same section of IIRIRA follow that definition.\nSo somebody picking up the statute in 1996 would have read the statute\nin light of that definition.\nBut it's not just the regulation.\nAs we point out, that regulation codifies an earlier practice that's\nreflected in Civil Rule 6(a), which this Court and the BIA have looked to.\nThat rule itself codifies earlier decisions, like this Court's decision in\nStreet, that recognized a general principle that when a power can be\nexercised up until a certain day, if that day is a Sunday or holiday, it can\nbe exercised the next business day.\n### Chief Justice Roberts:\nI'm sorry, go ahead.\n### Gerard J. Cedrone:\nEncapsulated an even earlier common law principle.\nAnd so somebody reading this statute in '96 would have had no reason\nto deviate from all of those things, pointing to the same interpretation.\n### Chief Justice Roberts:\nBut your argument evolves, right? I mean, as I read your brief anyway,\nthe Sunday provision was pretty clear early on, but then Saturday kind\nof crept in there somewhere along the way.\nAnd so, usually, we think of statutory -- timing deadlines as not sort of\nflexible in that way.\n### Gerard J. Cedrone:\nTwo points, Your Honor. First, I would just return to the regulation and\nsay that that definition, which was in place for years before this statute\n### Gerard J. Cedrone:\nRight, and I think that regulation encapsulates an earlier principle that\nhas not changed over time.\nSo the way I would frame the principle generally is that there are certain\ndays, you can call them -- certain legally recognized days of rest.\nYou can call them non-business days.\nYou can use the Latin term dies non juridicus.\nThat principle recognizes that when a deadline or time period expires on\none of those legally recognized days of rest, it carries over to the next\nday.\nBut the days that are legally recognized days of rest can change over\ntime. And so, with respect to Saturday, of course, there was a change in\nthe 20th century as Saturday came to be recognized as a day that's akin\nto Sunday, on par with Sunday. But the prin --- the underlying principle",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"You argue, and just did, that this is a very simple question. But a good\npart of your argument is tak ing ____________ and applying\nthem to the statute.\nYou say that that is the appropriate prism through which to read the\nstatute.\nThe prism test doesn't sound very straightforward and clear to me.\"",
+          "options": {
+            "A": "regulatory definitions",
+            "B": "regulatory provisions",
+            "C": "regulatory guidelines",
+            "D": "regulatory standards"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "regulatory provisions",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 1,
+              "speaker": "Chief Justice Roberts",
+              "original_statement": "You argue, and just did, that this is a very simple question. But a good\npart of your argument is tak ing regulatory provisions and applying\nthem to the statute.\nYou say that that is the appropriate prism through which to read the\nstatute.\nThe prism test doesn't sound very straightforward and clear to me."
+            },
+            "explanation": "This phrase highlights the intersection of statutory interpretation and regulatory frameworks, challenging students to understand how regulations influence the application of statutes."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"You argue, and just did, that this is a very simple question. But a good\npart of your argument is tak ing regulatory provisions and applying\nthem to the statute.\nYou say that that is the ____________ through which to read the\nstatute.\nThe prism test doesn't sound very straightforward and clear to me.\"",
+          "options": {
+            "A": "appropriate scope",
+            "B": "appropriate prism",
+            "C": "appropriate framework",
+            "D": "appropriate standard"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "appropriate prism",
+            "category": "judicial_test",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 1,
+              "speaker": "Chief Justice Roberts",
+              "original_statement": "You argue, and just did, that this is a very simple question. But a good\npart of your argument is tak ing regulatory provisions and applying\nthem to the statute.\nYou say that that is the appropriate prism through which to read the\nstatute.\nThe prism test doesn't sound very straightforward and clear to me."
+            },
+            "explanation": "The term 'prism' suggests a specific interpretative lens or framework that the justice is questioning, prompting students to analyze the validity and implications of different interpretative approaches."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"But your argument evolves, right? I mean, as I read your brief anyway,\nthe Sunday provision was pretty clear early on, but then Saturday kind\nof crept in there somewhere along the way.\nAnd so, usually, we think of ________________________ as not sort of\nflexible in that way.\"",
+          "options": {
+            "A": "statutory -- timing requirements",
+            "B": "statutory -- timing provisions",
+            "C": "statutory -- timing regulations",
+            "D": "statutory -- timing deadlines"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "statutory -- timing deadlines",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 2,
+              "speaker": "Chief Justice Roberts",
+              "original_statement": "But your argument evolves, right? I mean, as I read your brief anyway,\nthe Sunday provision was pretty clear early on, but then Saturday kind\nof crept in there somewhere along the way.\nAnd so, usually, we think of statutory -- timing deadlines as not sort of\nflexible in that way."
+            },
+            "explanation": "This phrase highlights the judicial focus on the rigidity of statutory deadlines, which is crucial for understanding how courts interpret legislative intent and enforceability."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"But __________________, right? I mean, as I read your brief anyway,\nthe Sunday provision was pretty clear early on, but then Saturday kind\nof crept in there somewhere along the way.\nAnd so, usually, we think of statutory -- timing deadlines as not sort of\nflexible in that way.\"",
+          "options": {
+            "A": "your reasoning develops",
+            "B": "your claim progresses",
+            "C": "your position changes",
+            "D": "your argument evolves"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "your argument evolves",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 2,
+              "speaker": "Chief Justice Roberts",
+              "original_statement": "But your argument evolves, right? I mean, as I read your brief anyway,\nthe Sunday provision was pretty clear early on, but then Saturday kind\nof crept in there somewhere along the way.\nAnd so, usually, we think of statutory -- timing deadlines as not sort of\nflexible in that way."
+            },
+            "explanation": "This phrase indicates the dynamic nature of legal arguments and the importance of consistency in legal reasoning, challenging students to consider how arguments can shift over time."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"But your argument evolves, right? I mean, as I read your brief anyway,\n____________________________________ early on, but then Saturday kind\nof crept in there somewhere along the way.\nAnd so, usually, we think of statutory -- timing deadlines as not sort of\nflexible in that way.\"",
+          "options": {
+            "A": "the Monday provision was very unclear",
+            "B": "the Sunday provision was pretty clear",
+            "C": "the Saturday provision was quite ambiguous",
+            "D": "the Sunday regulation was somewhat vague"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "the Sunday provision was pretty clear",
+            "category": "case_law",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 2,
+              "speaker": "Chief Justice Roberts",
+              "original_statement": "But your argument evolves, right? I mean, as I read your brief anyway,\nthe Sunday provision was pretty clear early on, but then Saturday kind\nof crept in there somewhere along the way.\nAnd so, usually, we think of statutory -- timing deadlines as not sort of\nflexible in that way."
+            },
+            "explanation": "This phrase references the clarity of statutory provisions, prompting students to analyze how clarity in legislation affects judicial interpretation and application."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 3,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nCounsel, why are you going so far? You don't need the common law.\nCommon law provides a background for what Congress was doing when\nit passed this law, correct?\n### Gerard J. Cedrone:\nYes.\n### Justice Sotomayor:\nAnd your answer is that when a word comes with old soil, you transport\nthe old soil.\n### Gerard J. Cedrone:\nThat's right.\n### Justice Sotomayor:\nAll right.\nAnd the old soil here, even according to the government, was that \"day\"\nwas defined according to the regulation.\n### Gerard J. Cedrone:\nThat's right.\n### Justice Sotomayor:\nAll right.\nNow the question is do we follow the government's new argument that\nthere's somehow a difference in how \"day\" is defined with respect to\ncourt obligations or -- I --I don't know where they get the word\n\"substantive\" from --or substantive obligations, correct?\n### Gerard J. Cedrone:\nThat's right.\n### Justice Sotomayor:\nBut, if I look at the old soil, why don't I look at the law itself, the INA law,\nand when Congress wanted to talk about calendar days, it used\n\"calendar day\" instead of the word \"day,\" correct? I'm looking at 8\nU.S.C. 1228(b)(3), which has to do with the Attorney --Attorney General\nnot executing any order for expedited removal until 14 calendar days\nhave passed, correct?\n### Gerard J. Cedrone:\nI confess I'm not familiar with that particular provision, but our position\n### Justice Sotomayor:\nAnd something like this would be a clear deviation?\n### Gerard J. Cedrone:\nI think it probably would be.\n### Justice Sotomayor:\nAll right.\nNow am I -- I want to go back to the jurisdictional question that Justice\nThomas started with.\nThe government didn't raise a jurisdictional -- this jurisdictional point\nbefore the Tenth Circuit, did it?\n### Gerard J. Cedrone:\nIt did not.\n### Justice Sotomayor:\nAnd it raised it in its petition for opposition, but you didn't reply to it\nuntil your reply, correct?\n### Gerard J. Cedrone:\nThat's correct.\n### Justice Sotomayor:\nHas this percolated among other courts yet?\n### Gerard J. Cedrone:\nI don't believe this particular issue -- well, I should say this.\n### Justice Sotomayor:\nindependent jurisdictional basis, correct?\n### Gerard J. Cedrone:\nThat's right.\n### Justice Sotomayor:\nSo hard to think why anybody would think they didn't have jurisdiction.\nBut, if we were to accept the government's ruling, do you know what\nother consequences this would have?\n### Gerard J. Cedrone:\nI think, if you accept the government's view of jurisdiction in this case, it\nwould be either a real sea change for immigration law because it would\nmean that reopening and reconsideration decisions aren't separately\nreviewable, as this Court has consistently pointed out in Reyes Mata, in\n### Justice Sotomayor:\nknow whether we would have granted cert if we knew it was one-off to\nstart with -- that everybody else appeals the order to remove, but you\ndidn't.\nSo I guess my question is, assuming we rule the way the government\nwants us to, do we know f ully the consequences of that?\n### Gerard J. Cedrone:\nI think it would be a lot of make-way arguments in the courts of appeals.\nThe government doesn't dispute, nor could it, that courts of appeals\n### Justice Sotomayor:\nCounsel, stop going to the substance.\nI'm trying to ask you a question.\nGiven that this is a new issue before us, isn't the best way to deal with it\n### Gerard J. Cedrone:\nI agree, the Court doesn't need to weigh into the jurisdictional issue\nbeyond recognizing that this case falls within 1252(a)(1).\nI -- I do think there would be confusion if the Court were to side with the\ngovernment because the government doesn't dispute that courts of\nappeals can review this exact issue.\nIt just thinks you have to bundle it with other arguments.\nThere's nothing in the text of the statute that requires it.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"And your answer is that when a word comes with ____________, you transport\nthe old soil.\"",
+          "options": {
+            "A": "old soil",
+            "B": "new ground",
+            "C": "ancient land",
+            "D": "fresh earth"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "old soil",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 2,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "And your answer is that when a word comes with old soil, you transport\nthe old soil."
+            },
+            "explanation": "This phrase challenges the understanding of legal interpretation and the principle of carrying forward established meanings and precedents in statutory construction."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"All right.\nAnd ________________________, even according to the government, was that \"day\"\nwas defined according to the regulation.\"",
+          "options": {
+            "A": "the new soil there",
+            "B": "the old soil here",
+            "C": "the cold soil here",
+            "D": "the bold toil here"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "the old soil here",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 3,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "All right.\nAnd the old soil here, even according to the government, was that \"day\"\nwas defined according to the regulation."
+            },
+            "explanation": "This phrase suggests a reference to established legal principles or precedents, indicating the importance of historical context in judicial reasoning."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"All right.\nNow the question is do we follow the government's new argument that\nthere's somehow a difference in how \"day\" is defined with respect to\n____________ or -- I --I don't know where they get the word\n\"substantive\" from --or substantive obligations, correct?\"",
+          "options": {
+            "A": "court requirements",
+            "B": "court responsibilities",
+            "C": "court obligations",
+            "D": "court duties"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "court obligations",
+            "category": "legal_concept",
+            "difficulty": "medium",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 4,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "All right.\nNow the question is do we follow the government's new argument that\nthere's somehow a difference in how \"day\" is defined with respect to\ncourt obligations or -- I --I don't know where they get the word\n\"substantive\" from --or substantive obligations, correct?"
+            },
+            "explanation": "This phrase probes the distinction between different types of legal obligations, which is crucial for understanding procedural versus substantive law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"All right.\nNow the question is do we follow the government's new argument that\nthere's somehow a difference in how \"day\" is defined with respect to\ncourt obligations or -- I --I don't know where they get the word\n\"substantive\" from --or ____________, correct?\"",
+          "options": {
+            "A": "substantive duties",
+            "B": "substantive requirements",
+            "C": "procedural obligations",
+            "D": "substantive obligations"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "substantive obligations",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 4,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "All right.\nNow the question is do we follow the government's new argument that\nthere's somehow a difference in how \"day\" is defined with respect to\ncourt obligations or -- I --I don't know where they get the word\n\"substantive\" from --or substantive obligations, correct?"
+            },
+            "explanation": "This phrase requires familiarity with the distinction between substantive and procedural law, testing the student's grasp of legal principles."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"All right.\nNow the question is do we follow the __________________ that\nthere's somehow a difference in how \"day\" is defined with respect to\ncourt obligations or -- I --I don't know where they get the word\n\"substantive\" from --or substantive obligations, correct?\"",
+          "options": {
+            "A": "government's revised stance",
+            "B": "government's latest position",
+            "C": "government's prior argument",
+            "D": "government's new argument"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "government's new argument",
+            "category": "other",
+            "difficulty": "medium",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 4,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "All right.\nNow the question is do we follow the government's new argument that\nthere's somehow a difference in how \"day\" is defined with respect to\ncourt obligations or -- I --I don't know where they get the word\n\"substantive\" from --or substantive obligations, correct?"
+            },
+            "explanation": "This phrase highlights the importance of understanding the evolution of legal arguments and the implications of new interpretations in judicial reasoning."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"But, if I look at the old soil, why don't I look at the law itself, __________________,\nand when Congress wanted to talk about calendar days, it used\n\"calendar day\" instead of the word \"day,\" correct? I'm looking at 8\nU.S.C. 1228(b)(3), which has to do with the Attorney --Attorney General\nnot executing any order for expedited removal until 14 calendar days\nhave passed, correct?\"",
+          "options": {
+            "A": "the INA law",
+            "B": "the IIRIRA statute",
+            "C": "the INA regulation",
+            "D": "the IIRIRA law"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "the INA law",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 5,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "But, if I look at the old soil, why don't I look at the law itself, the INA law,\nand when Congress wanted to talk about calendar days, it used\n\"calendar day\" instead of the word \"day,\" correct? I'm looking at 8\nU.S.C. 1228(b)(3), which has to do with the Attorney --Attorney General\nnot executing any order for expedited removal until 14 calendar days\nhave passed, correct?"
+            },
+            "explanation": "This phrase references the Immigration and Nationality Act, which is crucial for understanding the statutory framework governing immigration law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"But, if I look at the old soil, why don't I look at the law itself, the INA law,\nand when Congress wanted to talk about ____________, it used\n\"calendar day\" instead of the word \"day,\" correct? I'm looking at 8\nU.S.C. 1228(b)(3), which has to do with the Attorney --Attorney General\nnot executing any order for expedited removal until 14 calendar days\nhave passed, correct?\"",
+          "options": {
+            "A": "legal days",
+            "B": "business days",
+            "C": "working days",
+            "D": "calendar days"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "calendar days",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 5,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "But, if I look at the old soil, why don't I look at the law itself, the INA law,\nand when Congress wanted to talk about calendar days, it used\n\"calendar day\" instead of the word \"day,\" correct? I'm looking at 8\nU.S.C. 1228(b)(3), which has to do with the Attorney --Attorney General\nnot executing any order for expedited removal until 14 calendar days\nhave passed, correct?"
+            },
+            "explanation": "This term distinguishes between different types of days in legal contexts, highlighting the importance of precise language in statutory interpretation."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"But, if I look at the old soil, why don't I look at the law itself, the INA law,\nand when Congress wanted to talk about calendar days, it used\n\"calendar day\" instead of the word \"day,\" correct? I'm looking at 8\nU.S.C. 1228(b)(3), which has to do with the Attorney --Attorney General\nnot executing any order for expedited removal until __________________\nhave passed, correct?\"",
+          "options": {
+            "A": "14 calendar days",
+            "B": "14 statutory days",
+            "C": "14 working days",
+            "D": "14 business days"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "14 calendar days",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 5,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "But, if I look at the old soil, why don't I look at the law itself, the INA law,\nand when Congress wanted to talk about calendar days, it used\n\"calendar day\" instead of the word \"day,\" correct? I'm looking at 8\nU.S.C. 1228(b)(3), which has to do with the Attorney --Attorney General\nnot executing any order for expedited removal until 14 calendar days\nhave passed, correct?"
+            },
+            "explanation": "This phrase specifies a time frame that is critical in the context of legal deadlines and procedural requirements under immigration law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"All right.\nNow am I -- I want to go back to the ____________ that Justice\nThomas started with.\nThe government didn't raise a jurisdictional -- this jurisdictional point\nbefore the Tenth Circuit, did it?\"",
+          "options": {
+            "A": "jurisdictional matter",
+            "B": "jurisdictional question",
+            "C": "jurisdictional claim",
+            "D": "jurisdictional issue"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "jurisdictional question",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 6,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "All right.\nNow am I -- I want to go back to the jurisdictional question that Justice\nThomas started with.\nThe government didn't raise a jurisdictional -- this jurisdictional point\nbefore the Tenth Circuit, did it?"
+            },
+            "explanation": "This phrase highlights the critical issue of jurisdiction, which is fundamental to the court's authority to hear a case and is often a complex area of law requiring deep understanding."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"All right.\nNow am I -- I want to go back to the jurisdictional question that Justice\nThomas started with.\nThe government didn't raise a jurisdictional -- this jurisdictional point\n________________________, did it?\"",
+          "options": {
+            "A": "before the Tenth Circuit",
+            "B": "within the Tenth Circuit",
+            "C": "during the Tenth Circuit",
+            "D": "after the Tenth Circuit"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "before the Tenth Circuit",
+            "category": "jurisdiction",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 6,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "All right.\nNow am I -- I want to go back to the jurisdictional question that Justice\nThomas started with.\nThe government didn't raise a jurisdictional -- this jurisdictional point\nbefore the Tenth Circuit, did it?"
+            },
+            "explanation": "This phrase references a specific appellate court, testing knowledge of the jurisdictional hierarchy and the implications of raising arguments at different levels of the judicial system."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"All right.\nNow am I -- I want to go back to the jurisdictional question that Justice\nThomas started with.\nThe government didn't raise a jurisdictional -- __________________\nbefore the Tenth Circuit, did it?\"",
+          "options": {
+            "A": "the jurisdictional issue",
+            "B": "a jurisdictional concern",
+            "C": "that jurisdictional matter",
+            "D": "this jurisdictional point"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "this jurisdictional point",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 6,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "All right.\nNow am I -- I want to go back to the jurisdictional question that Justice\nThomas started with.\nThe government didn't raise a jurisdictional -- this jurisdictional point\nbefore the Tenth Circuit, did it?"
+            },
+            "explanation": "This phrase emphasizes the importance of specific jurisdictional arguments in legal proceedings, which can significantly affect the outcome of a case."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"And it raised it in its __________________, but you didn't reply to it\nuntil your reply, correct?\"",
+          "options": {
+            "A": "petition for opposition",
+            "B": "motion for opposition",
+            "C": "appeal for dismissal",
+            "D": "petition for review"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "petition for opposition",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 7,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "And it raised it in its petition for opposition, but you didn't reply to it\nuntil your reply, correct?"
+            },
+            "explanation": "This phrase highlights the procedural aspect of legal arguments, specifically the formal request made by a party in response to another party's claims, which is crucial for understanding the dynamics of litigation."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"And it raised it in its petition for opposition, but ______________________________\nuntil your reply, correct?\"",
+          "options": {
+            "A": "you failed to answer it",
+            "B": "you didn't respond to it",
+            "C": "you haven't replied to it",
+            "D": "you didn't reply to it"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "you didn't reply to it",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 7,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "And it raised it in its petition for opposition, but you didn't reply to it\nuntil your reply, correct?"
+            },
+            "explanation": "This phrase underscores the importance of timely responses in legal proceedings, emphasizing the procedural expectations that parties must adhere to in litigation."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"And it raised it in its petition for opposition, but you didn't reply to it\n__________________, correct?\"",
+          "options": {
+            "A": "before your answer",
+            "B": "during your reply",
+            "C": "after your response",
+            "D": "until your reply"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "until your reply",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 7,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "And it raised it in its petition for opposition, but you didn't reply to it\nuntil your reply, correct?"
+            },
+            "explanation": "This phrase indicates the significance of the reply stage in legal arguments, which is critical for understanding the flow of litigation and the importance of addressing opposing arguments."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"So hard to think why anybody would ______________________________.\nBut, if we were to accept the government's ruling, do you know what\nother consequences this would have?\"",
+          "options": {
+            "A": "argue they never had jurisdiction",
+            "B": "believe they lacked proper jurisdiction",
+            "C": "assume they did not possess jurisdiction",
+            "D": "think they didn't have jurisdiction"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "think they didn't have jurisdiction",
+            "category": "jurisdiction",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 8,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "So hard to think why anybody would think they didn't have jurisdiction.\nBut, if we were to accept the government's ruling, do you know what\nother consequences this would have?"
+            },
+            "explanation": "This phrase challenges the understanding of jurisdictional principles and the implications of a court's authority to hear a case."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"So hard to think why anybody would think they didn't have jurisdiction.\nBut, if we were to ________________________, do you know what\nother consequences this would have?\"",
+          "options": {
+            "A": "overturn the government's decision",
+            "B": "reject the government's interpretation",
+            "C": "accept the court's ruling",
+            "D": "accept the government's ruling"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "accept the government's ruling",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 8,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "So hard to think why anybody would think they didn't have jurisdiction.\nBut, if we were to accept the government's ruling, do you know what\nother consequences this would have?"
+            },
+            "explanation": "This phrase probes the consequences of deference to governmental interpretations of statutes, testing knowledge of administrative law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"So hard to think why anybody would think they didn't have jurisdiction.\nBut, if we were to accept the government's ruling, do you know what\n______________________________?\"",
+          "options": {
+            "A": "other consequences this would have",
+            "B": "other outcomes this might produce",
+            "C": "other repercussions this could entail",
+            "D": "other implications this may cause"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "other consequences this would have",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 8,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "So hard to think why anybody would think they didn't have jurisdiction.\nBut, if we were to accept the government's ruling, do you know what\nother consequences this would have?"
+            },
+            "explanation": "This phrase invites consideration of the broader implications of judicial decisions, requiring an understanding of legal reasoning and precedent."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"know whether we would have ____________ if we knew it was one-off to\nstart with -- that everybody else appeals the order to remove, but you\ndidn't.\nSo I guess my question is, assuming we rule the way the government\nwants us to, do we know f ully the consequences of that?\"",
+          "options": {
+            "A": "granted cert",
+            "B": "dismissed cert",
+            "C": "granted review",
+            "D": "denied cert"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "granted cert",
+            "category": "judicial_test",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 9,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "know whether we would have granted cert if we knew it was one-off to\nstart with -- that everybody else appeals the order to remove, but you\ndidn't.\nSo I guess my question is, assuming we rule the way the government\nwants us to, do we know f ully the consequences of that?"
+            },
+            "explanation": "This phrase refers to the judicial process of granting a writ of certiorari, which is a crucial aspect of appellate jurisdiction and indicates the Court's discretion in selecting cases for review."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"know whether we would have granted cert if we knew it was one-off to\nstart with -- that everybody else appeals the order to remove, but you\ndidn't.\nSo I guess my question is, assuming we rule the way the government\nwants us to, do we know f ully the __________________?\"",
+          "options": {
+            "A": "consequences of that",
+            "B": "consequences of this",
+            "C": "effects of that",
+            "D": "outcomes of those"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "consequences of that",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 9,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "know whether we would have granted cert if we knew it was one-off to\nstart with -- that everybody else appeals the order to remove, but you\ndidn't.\nSo I guess my question is, assuming we rule the way the government\nwants us to, do we know f ully the consequences of that?"
+            },
+            "explanation": "This phrase highlights the importance of understanding the implications of judicial decisions, particularly in terms of how a ruling may affect future cases and legal interpretations."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"know whether we would have granted cert if we knew it was one-off to\nstart with -- that __________________________________________, but you\ndidn't.\nSo I guess my question is, assuming we rule the way the government\nwants us to, do we know f ully the consequences of that?\"",
+          "options": {
+            "A": "everybody else appeals the order to remove",
+            "B": "everyone else contests the ruling to deport",
+            "C": "anyone else challenges the decision to remove",
+            "D": "all other parties appeal the judgment to deport"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "everybody else appeals the order to remove",
+            "category": "case_law",
+            "difficulty": "hard",
+            "word_count": 7,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 9,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "know whether we would have granted cert if we knew it was one-off to\nstart with -- that everybody else appeals the order to remove, but you\ndidn't.\nSo I guess my question is, assuming we rule the way the government\nwants us to, do we know f ully the consequences of that?"
+            },
+            "explanation": "This phrase underscores the procedural norms in immigration law regarding appeals, indicating the typical legal pathways that parties take in removal proceedings."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Counsel, stop going to the substance.\nI'm trying to ask you a question.\nGiven that this is a ________________________, isn't the best way to deal with it\"",
+          "options": {
+            "A": "new argument before panel",
+            "B": "new question before court",
+            "C": "new matter before us",
+            "D": "new issue before us"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "new issue before us",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 10,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "Counsel, stop going to the substance.\nI'm trying to ask you a question.\nGiven that this is a new issue before us, isn't the best way to deal with it"
+            },
+            "explanation": "This phrase highlights the judicial inquiry into the novelty of the legal question, which requires an understanding of how courts address previously unexamined issues."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Counsel, stop going to the substance.\nI'm trying to ask you a question.\nGiven that this is a new issue before us, isn't the ____________________________________\"",
+          "options": {
+            "A": "most effective way to handle it",
+            "B": "best approach to resolve this matter",
+            "C": "best way to deal with it",
+            "D": "optimal method to address this issue"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "best way to deal with it",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 10,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "Counsel, stop going to the substance.\nI'm trying to ask you a question.\nGiven that this is a new issue before us, isn't the best way to deal with it"
+            },
+            "explanation": "This phrase reflects the justice's probing into the appropriate judicial approach or methodology for resolving a complex legal issue, emphasizing the importance of procedural reasoning."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 4,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nWell, I think, as I understood",
+      "questions": []
+    },
+    {
+      "conversation_id": 5,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\n, Mr. Cedrone, one of --\nwhat she was asking you to talk about was what collateral\nconsequences, errors that the government might make in a reopening\npetition that's denied that would be unreviewable.\nI mean, one consequence here would be say you were clearly within the\n60 days, there was no doubt about it, and the government said you\nweren't.\nThat would be unreviewable, I think, on the government's jurisdictional\ntheory because it wouldn't affect the order of -- it wouldn't affect the\nremovability of your client, even though it would impose a 10-year bar,\noutside the country, erroneously.\nAre there other such consequences like that that you can think of?\n### Gerard J. Cedrone:\nI think there are all sorts of things that get decided in reopening or\nreconsideration decisions that are distinct from removability but\nnevertheless go to the terms of your final order of removal.\nSo people -- Congress contemplated that people would seek reopening\noften years after a final order of removal because of changed factual\ncircumstances or other things. And under subsection (b)(9), the statute\ncontemplates that all of these things will get funneled into a proceeding\nin the court of appeals.\nAnd so to say that there's -- that this should have been raised\ndifferently doesn't account for the fact that this is the proceeding in\nwhich these issues should be raised.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \", Mr. Cedrone, one of --\nwhat she was asking you to talk about was what collateral\nconsequences, errors that the government might make in a reopening\npetition that's denied that would be ______.\nI mean, one consequence here would be say you were clearly within the\n60 days, there was no doubt about it, and the government said you\nweren't.\nThat would be unreviewable, I think, on the government's jurisdictional\ntheory because it wouldn't affect the order of -- it wouldn't affect the\nremovability of your client, even though it would impose a 10-year bar,\noutside the country, erroneously.\nAre there other such consequences like that that you can think of?\"",
+          "options": {
+            "A": "unrevoked",
+            "B": "unreviewed",
+            "C": "unreviewable",
+            "D": "unremovable"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "unreviewable",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 1,
+            "context_info": {
+              "conversation_id": 5,
+              "statement_index": 1,
+              "speaker": "Justice Sotomayor",
+              "original_statement": ", Mr. Cedrone, one of --\nwhat she was asking you to talk about was what collateral\nconsequences, errors that the government might make in a reopening\npetition that's denied that would be unreviewable.\nI mean, one consequence here would be say you were clearly within the\n60 days, there was no doubt about it, and the government said you\nweren't.\nThat would be unreviewable, I think, on the government's jurisdictional\ntheory because it wouldn't affect the order of -- it wouldn't affect the\nremovability of your client, even though it would impose a 10-year bar,\noutside the country, erroneously.\nAre there other such consequences like that that you can think of?"
+            },
+            "explanation": "This term indicates a legal determination that cannot be appealed or reviewed by a higher court, necessitating knowledge of jurisdictional limits and standards of review."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 6,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nthe merits.\nOn jurisdiction,",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Justice Barrett\n### Justice Barrett:\n____________.\nOn jurisdiction,\"",
+          "options": {
+            "A": "the merits",
+            "B": "the issues",
+            "C": "the principles",
+            "D": "the standards"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "the merits",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 6,
+              "statement_index": 1,
+              "speaker": "Unknown Justice",
+              "original_statement": "Justice Barrett\n### Justice Barrett:\nthe merits.\nOn jurisdiction,"
+            },
+            "explanation": "This phrase indicates a focus on the substantive issues of a case, challenging students to understand the distinction between procedural and substantive legal arguments."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 7,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\npointed out that this seems to be a\none -off case.\nI just want to clarify with you -- and the government can speak to this\ntoo if the answer is different -- how often does it happen that someone\nlike your client simply challenges the motion to reconsider and not the\nother -- the underlying order? Is -- is this very unusual so that this\njurisdictional question wouldn't really frequently arise?\n### Gerard J. Cedrone:\nI confess that I --I don't have a sense of the -- the balance of that, other\nthan to say that, as I was just describing, motions to reopen often come\nup years after the final order of removal and may involve questions of\nchanged factual circumstances or other things that entitle you to relief\nfrom removal.\nAnd so I think, on the government's view, this case is a one-off, not in\nthat the government is taking the position that this issue is never\nreviewable, just that you have to bundle it in your petition with some\nsort of challenge, however slight, to your removability to seize the court\nof jurisdiction.\nAnd I don't see any support for that in the statute.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"pointed out that this seems to be a\none -off case.\nI just want to clarify with you -- and the government can speak to this\ntoo if the answer is different -- how often does it happen that someone\nlike your client simply challenges the motion to reconsider and not the\nother -- the underlying order? Is -- is this very unusual so that this\n____________ wouldn't really frequently arise?\"",
+          "options": {
+            "A": "jurisdictional matter",
+            "B": "jurisdictional question",
+            "C": "jurisdictional issue",
+            "D": "jurisdictional inquiry"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "jurisdictional question",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 7,
+              "statement_index": 1,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "pointed out that this seems to be a\none -off case.\nI just want to clarify with you -- and the government can speak to this\ntoo if the answer is different -- how often does it happen that someone\nlike your client simply challenges the motion to reconsider and not the\nother -- the underlying order? Is -- is this very unusual so that this\njurisdictional question wouldn't really frequently arise?"
+            },
+            "explanation": "This term requires knowledge of jurisdictional issues and how they affect the court's authority to hear a case."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 8,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nOkay.\nMy question on the merits.\nMost of the time when we think about this, and as I understand the\nregulatory backdrop, when we're thinking about filing something, the\nreason why it gets bumped over to, say, a Monday from a Saturday is\nthat the court's closed.\nBut could your client have departed on a Saturday? It just -- that -- that\nstrikes me as the difference here, that this isn't governing filing dates or\nsomething that you're doing. It's just saying that your authorization to\nbe in the country expires, you know, at that 60 -day mark.\nAnd it's not that the court was closed.\nI mean, your client could have departed, right?\n### Gerard J. Cedrone:\nThat's true.\nI can't dispute the factual premise that often somebody can get on a\nplane or drive across the border on a Saturday.\nThis principle is deeper than that, and there are several indications that\nthis principle is not just about court closures or filings.\nI think the best evidence of that is to go -- I'll start with the regulation\nand work outwards.\nSo the regulatory definition of \"day\" in Section 1001.1 says that\ndefinition of \"day,\" which builds in the traditional rule, applies to any\naction in immigration regulations.\nEven on the government's theory of how that deadline applies, that\nprinciple applies to things like getting married to maintain your visa\nstatus, regulatory deadlines for getting fingerprinted after you enter\nthe country, regulatory deadlines for taking a citizenship test.\nSo these are all things that are not filing, not court-related. Working\noutward from there, Rule 6(a), as we pointed out, also applies to any\napplicable statute and any court order.\nAnd so that, of course, covers things like filing in district court, but it\nalso covers things -- we give examples at page 18 of our reply brief -- of\ninjunctions that a court might enter imposing substantive obligations\non a party.\nSo say you're a defendant in a trade secrets suit.\nYou're found liable.\nThe court might enter an order at the end of the case saying: Defendant,\nyou have 30 days to turn over the misappropriated property.\nUnder Rule 6(a), that 30-day deadline clearly follows the traditional\nrule.\nAnd then working even outward from there, we have examples like --at\npage 28 of our br ief, cases like the Aetna case applying this traditional\nprinciple to deadlines under ERISA, which bind private parties, private\nplans, requires them to take all sorts of actions vis --vis each other\noutside the context of litigation.\nAnd then this Court's decision in Street, which applied this principle to a\nstatute that sets time limits on the President's authority to take action,\nas we explain in the brief, that statute in Street is parallel to this statute.\nSection 1229c gives the Attorney General the authority to grant\nvoluntary departure and then places a time limit on it.\nThe statute in Street worked similarly.\nThe Court applied the traditional rule there.\nIt should apply the traditional rule here.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Okay.\nMy question on the merits.\nMost of the time when we think about this, and as I understand the\nregulatory backdrop, when we're thinking about filing something, the\nreason why it gets bumped over to, say, a Monday from a Saturday is\nthat __________________.\nBut could your client have departed on a Saturday? It just -- that -- that\nstrikes me as the difference here, that this isn't governing filing dates or\nsomething that you're doing. It's just saying that your authorization to\nbe in the country expires, you know, at that 60 -day mark.\nAnd it's not that the court was closed.\nI mean, your client could have departed, right?\"",
+          "options": {
+            "A": "the court's closed",
+            "B": "the court's adjourned",
+            "C": "the court's open",
+            "D": "the court's unavailable"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "the court's closed",
+            "category": "other",
+            "difficulty": "medium",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 8,
+              "statement_index": 1,
+              "speaker": "Justice Barrett",
+              "original_statement": "Okay.\nMy question on the merits.\nMost of the time when we think about this, and as I understand the\nregulatory backdrop, when we're thinking about filing something, the\nreason why it gets bumped over to, say, a Monday from a Saturday is\nthat the court's closed.\nBut could your client have departed on a Saturday? It just -- that -- that\nstrikes me as the difference here, that this isn't governing filing dates or\nsomething that you're doing. It's just saying that your authorization to\nbe in the country expires, you know, at that 60 -day mark.\nAnd it's not that the court was closed.\nI mean, your client could have departed, right?"
+            },
+            "explanation": "This phrase highlights the judicial reasoning regarding procedural implications of court closures on filing deadlines, which is crucial for understanding regulatory frameworks."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 9,
+      "dialogue": "Justice Alito",
+      "questions": []
+    },
+    {
+      "conversation_id": 10,
+      "dialogue": "Justice Kagan",
+      "questions": []
+    },
+    {
+      "conversation_id": 11,
+      "dialogue": "Justice Alito\n### Justice Alito:\napplies in all situations, and it just causes a lot of confusion if it's not\nuniform.\nI --I get that.\nBut put all of that aside.\nCan you think of any practical reason why Congress would have wanted\nto give a two-day extension when what's involved is something that\ncan be done just as easily on a Saturday or a Sunday as a Monday? There\nwere reasons for the rules about filing, because courts were closed.\nSome of the things that you mentioned are things that would be more\ndifficult perhaps to accomplish on a weekend.\nOriginally, perhaps the rule for Sunday was based on religion.\nYou might argue that it should be extended to Saturday if your counsel -\n-if your -- your client has a -- if that is that --is -- is a holy day, a\nspecial day for your particular client.\nBut I can't think of any practical reason why there should be a rule -- a\ndifferent rule for departing the country.\n### Gerard J. Cedrone:\nYeah.\nSo I think there's two -- two practical reasons, one more substantive\nand one more procedural.\nThis traditional rule, in our view, stems from a general principle that\nthere are certain legally set-aside days where presumptively at least the\ngovernment can't ask people to do stuff.\nAnd so the persistence of this rule, even in the face of 24/7 e-filing,\nshows that this is a principle that's deeper than just impracticability,\n### Justice Alito:\nWell, I mean, that's -- that doesn't strike me as a practical reason. Why\ncan't they say: You've got to get out of the country in 60 days? You can\nget out of the country just as easily on a Saturday or a Sunday as you can\non a Monday.\n### Gerard J. Cedrone:\nI'll mention just as an aside some of the amicus briefs go into the fact\nthat it -- it may well be more difficult to travel on the weekends.\nBut I guess putting that aside, the second practical reason, the\nprocedural one, is that we're talking about deadlines with severe\nconsequences.\nThe question of how and when your deadline runs should be easily\nunderstood and easily calculated, especially when there are severe\nconsequences.\nAnd on the government's view, you have to undertake a case-by-case\ndetermination for each deadline in the regulations and each deadline in\nthe INA.\nMaybe I could give an example.\nSo there's a 180-day deadline in the regulations, Section 1003.23, a 180\n-day for seeking relief from in absentia removal.\nThat statutory dead -- that regulatory deadline doesn't cross-\nreference the statute.\nSo you might think, if you pick up the regulation and pick up the\ndefinition, you know how it applies.\n### Justice Alito:\nWell, but that -- that --in seeking relief, that -- that's requiring you to\nfile some sort of a document.\n### Gerard J. Cedrone:\nThat's true, although, as my colloquy with",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"applies in all situations, and it just causes a lot of confusion if it's not\nuniform.\nI --I get that.\nBut put all of that aside.\nCan you think of any practical reason why Congress would have wanted\nto give a ____________ when what's involved is something that\ncan be done just as easily on a Saturday or a Sunday as a Monday? There\nwere reasons for the rules about filing, because courts were closed.\nSome of the things that you mentioned are things that would be more\ndifficult perhaps to accomplish on a weekend.\nOriginally, perhaps the rule for Sunday was based on religion.\nYou might argue that it should be extended to Saturday if your counsel -\n-if your -- your client has a -- if that is that --is -- is a holy day, a\nspecial day for your particular client.\nBut I can't think of any practical reason why there should be a rule -- a\ndifferent rule for departing the country.\"",
+          "options": {
+            "A": "two-day deadline",
+            "B": "two-month extension",
+            "C": "two-day extension",
+            "D": "two-week extension"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "two-day extension",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 11,
+              "statement_index": 1,
+              "speaker": "Justice Alito",
+              "original_statement": "applies in all situations, and it just causes a lot of confusion if it's not\nuniform.\nI --I get that.\nBut put all of that aside.\nCan you think of any practical reason why Congress would have wanted\nto give a two-day extension when what's involved is something that\ncan be done just as easily on a Saturday or a Sunday as a Monday? There\nwere reasons for the rules about filing, because courts were closed.\nSome of the things that you mentioned are things that would be more\ndifficult perhaps to accomplish on a weekend.\nOriginally, perhaps the rule for Sunday was based on religion.\nYou might argue that it should be extended to Saturday if your counsel -\n-if your -- your client has a -- if that is that --is -- is a holy day, a\nspecial day for your particular client.\nBut I can't think of any practical reason why there should be a rule -- a\ndifferent rule for departing the country."
+            },
+            "explanation": "This phrase challenges the understanding of statutory interpretation and the implications of legislative intent regarding time extensions in legal contexts."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, I mean, that's -- that doesn't strike me as a ____________. Why\ncan't they say: You've got to get out of the country in 60 days? You can\nget out of the country just as easily on a Saturday or a Sunday as you can\non a Monday.\"",
+          "options": {
+            "A": "practical justification",
+            "B": "practical reason",
+            "C": "practical rationale",
+            "D": "practical basis"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "practical reason",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 11,
+              "statement_index": 2,
+              "speaker": "Justice Alito",
+              "original_statement": "Well, I mean, that's -- that doesn't strike me as a practical reason. Why\ncan't they say: You've got to get out of the country in 60 days? You can\nget out of the country just as easily on a Saturday or a Sunday as you can\non a Monday."
+            },
+            "explanation": "This phrase challenges the respondent to consider the sufficiency of practical justifications in legal reasoning, particularly in the context of statutory interpretation."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, but that -- that --in ____________, that -- that's requiring you to\nfile some sort of a document.\"",
+          "options": {
+            "A": "seeking protection",
+            "B": "seeking relief",
+            "C": "seeking assistance",
+            "D": "seeking remedy"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "seeking relief",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 11,
+              "statement_index": 3,
+              "speaker": "Justice Alito",
+              "original_statement": "Well, but that -- that --in seeking relief, that -- that's requiring you to\nfile some sort of a document."
+            },
+            "explanation": "This phrase encapsulates the fundamental legal principle of requesting judicial assistance or remedy, which is central to many legal proceedings."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 12,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nexplained,\nthere are other deadlines in the regulations, like things like getting\nmarried and getting fingerprinted.\nAnd the point is that on th e government's view, even though that\nregulation -- regulatory deadline is facially clear, you need to go to the\nINA and see if there's a statutory analogue for that 180-day deadline, it\nturns out there is in Section 1229a.\nBut even then you're not done.\nOn the government's view, now you have to construct a family tree for\nthe statutory deadline and the regulatory deadline and see which one\ncame first.\nOnly then can you figure out if your deadline is on a Saturday or Monday.",
+      "questions": []
+    },
+    {
+      "conversation_id": 13,
+      "dialogue": "Justice Alito\n### Justice Alito:\nRight.\nI may understand it.\nThis is the argument for a uniform rule.\nIt makes things -- it makes things simpler.\nSo I --I -- I get that.\nI get that.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 14,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nCounsel, it's not only that it's simpler, but the INA is filled with\nprovisions like this where the individual's activities are tied to the\ngovernment's activities, correct?\n### Gerard J. Cedrone:\nThat's right.\n### Justice Sotomayor:\nAnd, here, Section 1302, going back to",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 15,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\n's question in part,\nsays that when someone's visiting the United States, if they're going to\nstay longer than 30 days, it says -- the provision states that noncitizens\nwho remain in the U.S. for 30 days or longer must apply for registration\nand be fingerprinted before the expiration of such 30 days.\nSo that's very clear like our 60 days here.\nUnder the government's theory, I don't know whether they can be\nfingerprinted by the government on Saturday or Sunday.\nWe'd have to figure that out, correct?\n### Gerard J. Cedrone:\nRight.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 16,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nWe'd have to figure out whether the agency is open for them to register\non Saturday and Sunday, correct?\n### Gerard J. Cedrone:\nRight.\n### Justice Sotomayor:\nSo these are the practical difficulties. With respect to the issue here, yes,\nthere's a obligation on the alien to depart, but there's also a\n### Gerard J. Cedrone:\nThat's exactly right.\n### Justice Sotomayor:\nSo it's not simply an obligation that's tied only to the individual.\nIf the individual does something, then the government has an\nobligation to -- to dismiss their order of removal and give them\nadditional time, correct?\n### Gerard J. Cedrone:\nThat's right.\nAnd I think it's telling that the regulations tie this departure deadline to\na filing deadline.\nIt shows that in the government's view at least before, these things\nmaybe aren't that different at all.\nBut the confusion, as your questioning highlights, there are hundreds of\ninstances of the word \"day\" in Title 8 of the Code of Federal Regulations\nand dozens, if not a couple hundred, of instances in the INA. And n the\ngovernment's view that for each of those, not only -- that the statute\nand regulations require somebody for each of th ose to undertake this\nintricate analysis of statutory and legislative history just doesn't make\nsense, especially -- I mean, it does -- it's hard enough for lawyers to\nfigure out in an individual case an individual deadline under the\ngovernment's view, is it Saturday or Monday.",
+      "questions": []
+    },
+    {
+      "conversation_id": 17,
+      "dialogue": "Justice Kagan",
+      "questions": []
+    },
+    {
+      "conversation_id": 18,
+      "dialogue": "Justice Alito\n### Justice Alito:\nAre you seriously -- oh, no, go ahead.",
+      "questions": []
+    },
+    {
+      "conversation_id": 19,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nNo, go ahead.",
+      "questions": []
+    },
+    {
+      "conversation_id": 20,
+      "dialogue": "Justice Alito\n### Justice Alito:\nDo you seriously think that there are people in the position of your client\nwho rely on this and say, well, this is really important for me to get out of\nthe country or withdraw my -- my acquiescence in voluntary departure\nwithin 60 days, but, wow, I read this, so I've got another two days? I\nmean, seriously?\n### Gerard J. Cedrone:\nSeriously.\nAnd let me make three points.\n(Laughter.)\nSo, first, there are plenty of immigration organizations that provide\nguidance to noncitizens about how deadlines apply.\n### Justice Alito:\nI mean, if you were providing advice, would you say, okay, you know,\nyou've got the extra two days? Would you?\n### Gerard J. Cedrone:\nI mean, if the government's position is adopted in this case, certainly\n### Justice Alito:\nWell, with how, you know, the way things are --were at the time when -\n-when this came into play, would you say, well, you've got the extra two\ndays?\n### Gerard J. Cedrone:\nYes, I would, and -- and let me make two other points.\nOne is that for a noncitizen in immigration proceedings, even on the\ngovernment's view, basically, every deadline up until this final order\nfollows the traditional rule.\nSo, if you're a noncitizen going through immigration proceedings, you\nknow my brief is due on a Saturday; that means it's due on a Monday.\nI need to file an appeal on a Saturday; that means it's due on a Monday.\nIt's only this very last deadline that follows a different rule.\nSo I do think that would be a trap for the unwary.\nAnd the last point I would make is that, yes, I think, when you have\neverything consistently pointing in the same way not just in the law, but\nthe D.C. Circuit made this point in Sherwood, this rule is not just a\nlawyerly contrivance.\nIt's also meant to capture the way that things work out in the world, in\nbusiness, in society.\nAnd so just one concrete example.\nThe motion that was filed in this case was sent by FedEx priority\novernight on a Friday.\nThat means it gets there Monday morning.\nAnd I'm not suggesting that anything in our case turns on the vagaries\nof FedEx's shipping policies.\nIt's just to say that even in business, overnight on a Friday sometimes\nmeans Monday.\nThis is a principle that applies across the board.",
+      "questions": []
+    },
+    {
+      "conversation_id": 21,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nDo you know whether the government, in fact, applies this rollover rule\nto anything that's not a filing deadline? I mean, you mentioned\nfingerprinting.\nYou mentioned marriage.\nfiling deadline?\n### Gerard J. Cedrone:\nI think the AILA amicus brief gets into this most clearly.\nIt provides examples of immigration judges applying this day in and day\nout.\nI think the -- most of the examples we've collected are actually in the\nvoluntary departure context, but I -- I think there are other examples in\nthat brief as well of situations where this applies.\nAnd I should point out this is -- in the voluntary departure context, for\nexample, it's a 60-day statutory ceiling.\nSo an immigration judge in an individual case could, for example, set the\ndeadline earlier or set the deadline on a date certain.\nThis is just about the rule that applies, absent another indication.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 22,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nJustice Thomas, anything further?",
+      "questions": []
+    },
+    {
+      "conversation_id": 23,
+      "dialogue": "Justice Alito\n### Justice Alito:\n? Justice Sotomayor?\nJustice Gorsuch, anything? No?",
+      "questions": []
+    },
+    {
+      "conversation_id": 24,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\n? Justice Barrett?\nJustice Jackson?",
+      "questions": []
+    },
+    {
+      "conversation_id": 25,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nCan I just ask, so it's a trap for the unweary because the filing of the\nmotion triggers the extension, is that right?\n### Gerard J. Cedrone:\nIn our view, the departure deadline and the motion deadline move\ntogether.\nSo it's -- it's -- the 60-day voluntary departure deadline?\n### Justice Jackson:\nYeah.\n### Gerard J. Cedrone:\nOn the government's view, operates differently than every other\n### Justice Jackson:\nYeah.\nNo, I understand that, but I guess I was -- I was trying to -- I hear Justice\nAlito raising the point that if a person is told they have 60 days to get\nout of the country, when we're getting to day 58, 59, or whatever, they\nshould be ready to go.\nAnd so are they getting two extra days or, like, what is happening? And I\nguess your response is that the way that the rules operate, if that person\nfiles a motion, that motion then needs to be resolved by the court and\nthe person can stay until that happens.\nSo what's really the trap is that ordinarily, when you file a motion, you\nget to the following Monday if the deadline is over the weekend, and\nthat's the way it works in every other scenario.\nAnd yet, here, you'd be filing the motion and it wouldn't.\n### Gerard J. Cedrone:\nThat's exactly right.\nI think that captures it , and that's what happened to our client in this\ncase with quite severe consequences if the government's view is\nadopted.\n### Justice Jackson:\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 26,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nMr. Yang.\n### Anthony A. Yang:\nMr. Chief Justice, and may it please the Court: Section 1229c's\nmaximum 60-day period for voluntary departure is not extended when\nthe last day falls on a weekend or a holiday.\nThe requirement to arrange for travel and to depart the United States\ninvolves primary conduct in the real world.\nNothing prevents departure on weekends or holidays, when many\nprefer to travel.\nAnd unlike contexts involving the timing of litigation-based or\nadministrative acts before courts or agencies, no tradition by rule or\notherwise potentially exists for extending statutory deadlines for\nprimary conduct.\nBut, first, statutory jurisdiction is lacking in the highly atypical posture\nhere. Section 1252(a)(1) grants jurisdiction to review final orders of\nremoval.\nBut, in Petitioner's case, it does no t involve review of a final order of\nremoval.\nIt does not affect the validity of a final order of removal.\nAnd it does not even affect how you would implement a final order of\nremoval.\nMoreover, Petitioner has other avenues for judicial review of the timing\nissue here. He could seek APA review after unsuccessfully seeking DHS\nto return his voluntary departure bond or to adjust his status in the\ncountry. Now, on the merits, Section 1229c's test reflects the default\nrule that the 60-day statutory minimum means what it says.\nAnd neither common law tradition nor the definition of \"day\" for\ncertain regulations supports a contextual exception here in the context\nof primary conduct.\nSimilarly, there are other statutes governing similar primary conduct.\nThe 90 -day period to depart after entering the United States through\nthe visa waiver program or on a K visa to marry does not allow stays of 93\ndays. The 29 -day statutory period for a ship crewman to temporarily\nland does not extend to 32 days.\nAnd Petitioner identifies no examples of extending statutory periods for\nengaging in such primary conduct.\nNow Section 12 --the question whether Section 1229c(d)'s penalties\napply for failing to depart timely is a distinct question.\nThose sanctions apply only if the noncitizen voluntarily fails to depart\ntimely.\nBut Petitioner has not argued that his departure was not non-voluntary\nor if it was non-voluntary, and the 60 -day period itself cannot be\nextended. I welcome the Court's questions.",
+      "questions": []
+    },
+    {
+      "conversation_id": 27,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nMr. Yang, did you raise the jurisdictional issue below?\n### Anthony A. Yang:\nWe raised a different one, not this one.\nWe raised this issue in our -- in our Op, albeit abbreviated form, but we\ndid in our Op.\n### Justice Thomas:\nPetitioner argues that this is, in fact, non -jurisdictional and that you\nwaived it.\nWould you respond to that?\n### Anthony A. Yang:\nYes.\nThis is jurisdictional.\nSection 1252(a)(1) provides for review of a final order of removal, and\nthat's the jurisdictional provision because it applies the Hobbs Act.\nThe Hobbs Act provision, the -- the jurisdictional provision of the Hobbs\nAct is Section 2342.\nIt provides review in the court of appeals of seven distinct types of\norders but not orders in the immigration context, only orders from other\nagencies.\nSo the way, as Mata recognizes, the way that there is jurisdiction here is\n1252(a)(1) grants jurisdiction to review final orders of removal and then\njust plugs that into the Hobbs Act.",
+      "questions": []
+    },
+    {
+      "conversation_id": 28,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nAnd -- and when you say \"final order of removal,\" what do you think\nthat encompasses?\n### Anthony A. Yang:\nYeah, I -- I think there's a few things.\nAnd this is -- after the Court's decision in Nasrallah, it is the following.\nIt is the final order of removal itself.\n### Justice Kagan:\nNow what --what does that mean, \"the final order of removal itself\"?\n### Anthony A. Yang:\nYeah.\n### Justice Kagan:\neverything else that appears in the final order?\n### Anthony A. Yang:\nNot the latter.\nWe made that argument.\nIt was rejected in Nasrallah. The -- Nasrallah says the final order of\nremoval either finds the citizen deportable or orders deportation.\nThat's it.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 29,
+      "dialogue": "Justice Gorsuch\n### Anthony A. Yang:\nThat's only the first category of things.\n### Justice Gorsuch:\nIf I might just finish.\n### Anthony A. Yang:\nSure.\nYeah.\n### Justice Gorsuch:\nThank you.\n### Anthony A. Yang:\nYeah.\n### Justice Gorsuch:\nSo one provision in this particular final order is that you're going to be\nbarred for 10 years from seeking reentry into the country after -- if --if\nyou don't voluntarily remove yourself within 60 days.\nThat's actually written in the final order.\nAnd where -- this --this litigation tests the validity of that, doesn't it?\n### Justice Gorsuch:\nOkay.\nWhy not?\n### Justice Gorsuch:\nI agree with that.\n### Anthony A. Yang:\nThat is the tail end of the BIA's decision on the appeal.\nNot rehearing, not reconsideration, and not reopening.\nIt says two orders: Order, appeal dismissed; order, voluntary departure.\nThen it has -- these are in bold, you know, all caps.\n### Justice Gorsuch:\nI've read it.\nIt says: Warning.\n### Anthony A. Yang:\nBut it says: Notice.\nIt says: Notice, if you fail to voluntarily depart, there are civil penalties -\n### Justice Gorsuch:\nYeah.\n### Justice Gorsuch:\nYeah.\n### Anthony A. Yang:\nThat -- nothing's going to change with that.\nThat's true.\nIf you fail to voluntarily depart, that's -- those are -- there are\nsanctions.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 30,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nBut the order operates entirely differently under your view versus under\nMr. Cedrone's view.\nOne might say the order operates entirely differently depending on\nwhether one takes the view of the original immigration judge or the\nlater view of the Board.\nI mean, this rollover thing makes the order into a different order with\ndifferent consequences.\n### Anthony A. Yang:\nIt --it does not change the order.\nThe order -- the bottom line of the order and the only thing that these\norders ultimately require here that wouldn't allow for judicial review\nlater is this alien -- noncitizen is deportable and shall be removed.\nThat's it, period.\nThere are collateral consequences, but, as I noted in my intro, those\ncollateral consequences can be challenged separately.\nFor instance, on every noncitizen who's granted voluntary departure,\nthey must post a monet ary bond.\nWe keep the bond.\nIf they want the bond back, they simply say: I want my bond back. DHS\nwill adjudicate.\nHere, DHS has already said: You violated your -- this is in Footnote 4 of\nour brief.\nYou violated the voluntary departure period.\nTherefore, we're keeping your bond. They can --he could challenge -- I\ndon't -- he could challenge that before the agency's administrative\nprocess and then seek APA review.\nHe could, while he's in the count ry, for instance, seek to adjust status\nwith DHS. DHS would probably say: Can't adjust status, you're barred.\nThen you get judicial review of that through normal APA review.\nWhat's happening here is a jurisdictional provision that is designed to\nreview only final orders of removal is being used to review something\nthat has nothing to do with a final order of removal.",
+      "questions": []
+    },
+    {
+      "conversation_id": 31,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nBut, Mr. Yang -- Mr. Yang, you -- you --you, in making that argument,\nseem to be relying on Nasrallah and suggesting that only orders that\nrelate to the removability qualify as affecting the validity.\n### Justice Jackson:\nAm I wrong about that? No?\n### Justice Jackson:\nOkay.\nSorry.\n### Justice Jackson:\nOkay.\n### Justice Jackson:\nOkay.\n### Justice Jackson:\nYeah.\n### Anthony A. Yang:\nIn addition, you can raise issues together with the final order of removal.\nAnd there's -- there's another category which we think is included.\nReview of a final order should include rulings that affect how to\nimplement the final order.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 32,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nOh, there we go.\n### Anthony A. Yang:\nRight.\nHow to implement the final order.\n### Justice Gorsuch:\nThere we go.\nYeah. How ar e you going to implement this final order?\n### Justice Gorsuch:\nIs -- is the fellow barred from the country for 10 years or not?\n### Anthony A. Yang:\nThat's not in the final order.\n### Justice Gorsuch:\n(Laughter.)\n### Anthony A. Yang:\nThank you.\nIt -- it -- it --all that simply does -- the -- the final order says several\nwarnings.\n### Justice Gorsuch:\nI mean, where do you get all this from 1252? I mean, I thought you were\na good textualist, Mr. Yang.\n### Justice Gorsuch:\nAnd it says that we have --we have authority -- the court of appeals has\nauthority to review final orders of removal.\nIt -- it -- that's it.\nThat's what it says.\n### Anthony A. Yang:\nThat's true.\nAnd it says that judicial review of all other questions -- this is a zipper\nclause in (b)(9) -- are available only in judicial review of the final -- of a\nfinal order under this section.\n### Justice Gorsuch:\nAll right.\nIf it's so obvious, how come you didn't raise it below?\n### Anthony A. Yang:\nThat I --I can't -- I can't speak to.\n### Justice Gorsuch:\nAll right.\nNeither can I.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 33,
+      "dialogue": "Justice Jackson",
+      "questions": []
+    },
+    {
+      "conversation_id": 34,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nCan we hold -- wait.\n### Justice Gorsuch:\nWhy --why -- why -- is it -- is it --I mean, \"jurisdictional,\" as Justice\nGinsburg used to love to say, is a word of many --too many meanings.\n### Anthony A. Yang:\nThis is the big \"J\" jurisdictional meaning.\nThis is -- because 1252(a)(1) only grants jurisdiction through the Hobbs\nAct to review final orders of removal. And we think you can expand that\na little bit by knowing the case has nothing to do with the final order of\nremoval.\nIt is not -- the final order, it does not affect its validity.\n### Justice Gorsuch:\nAll right.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 35,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nMr. Yang, not only did you not raise it, I thought you affirmatively\nrepresented to the Tenth Circuit that there was jurisdiction in this case.\n### Anthony A. Yang:\nWe said there wasn't but for a different reason.\n### Justice Jackson:\nAll right.\nSo what --what do you do about the fact that Nasrallah itself recognized\n### Justice Jackson:\nyou're talking about.\nSo why -- why is it that this is not?\n### Anthony A. Yang:\nNo, because an evidentiary ruling that's -- I mean, if it were -- if the\njudge admitted something and had said, well, -- 44 this is completely\nirrelevant, has nothing to do with anything, maybe that would be the\n### Justice Jackson:\nWell, this is not completely irrelevant.\nI mean, this, as",
+      "questions": []
+    },
+    {
+      "conversation_id": 36,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nkeeps emphasizing, has to -- imposes\nserious consequences on -- on the defendant. So what I'm saying is an\nevidentiary ruling that doesn't go to directly whether or not a person is\nremovable under Nasrallah counts because it's still a part of the final\norder for the purpose of reviewability.\n### Anthony A. Yang:\nThe final order here is an order of removal.\nIt orders -- grants voluntary departure.\nThe only collateral consequences that arise arise from the decision on\nreopening and then reconsideration.\nBut Petitioner's not even seeking reconsideration -- to challenge the\nreopening decision.",
+      "questions": []
+    },
+    {
+      "conversation_id": 37,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nSo here -- here's my",
+      "questions": []
+    },
+    {
+      "conversation_id": 38,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nSo would it have mattered if he -- would it matter if he had?\n### Anthony A. Yang:\nYes, because a reopening decision, if --if -- now you can't make a\nfrivolous claim.\nI mean, Bell versus Hood and Steel Co. makes clear there's no\njurisdiction over frivolous claims.\nBut, if you have a good -faith claim that you're challenging the motion\nto reopen, you're move -- moving to reopen and that itself will affect\neither the validity of the final order or it could affect how the final order\nis implemented.\n### Anthony A. Yang:\nwould have been arguing that it should have been reopened, one,\n### Justice Barrett:\nRight.\n### Justice Barrett:\nCould he have -- 46 challenged the collateral consequences, as Justice\nGorsuch was talking about, through a motion to reopen? Is that the\ngovernment's position?\n### Justice Barrett:\nNo? Okay.\n### Anthony A. Yang:\nThe collateral consequences come up later, right?\n### Justice Barrett:\nOkay.\n### Anthony A. Yang:\nIt comes up when you are denied a benefit or when you don't get your\nbond, and he can challenge those in those contexts in the country.\n### Justice Barrett:\nOkay.\nCan he make",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 39,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nSo you can challenge even things that are not having to do with your\n### Anthony A. Yang:\nUh-huh.\n### Anthony A. Yang:\nYeah.\nIt's a normal APA challenge, not a challenge to a final order of removal -\n### Justice Gorsuch:\nalso challenged this determination on the 10 years even though it\ndoesn't fall, in your view, into any of your -- in any of the buckets?\n### Justice Gorsuch:\nBecause I thought your view is I only have jurisdiction to do things that\nhave to do with removability, and this isn't one of them.\n### Anthony A. Yang:\nIt --no, it would.\nWhen he challenged -- if he had challenged the motion to reopen by\nsaying proceedings should have reopening -- be reopened, which then\n### Justice Gorsuch:\nYeah.\nBut, in -- in -- in -- in that litigation, a court might say your Niz-Perez\nargument's no good.\n### Anthony A. Yang:\nSure.\n### Justice Gorsuch:\nBut you don't have to wait 10 years.\n### Anthony A. Yang:\nSure.\n### Justice Gorsuch:\nAnd I have jurisdiction to do that.\n### Anthony A. Yang:\nThe fact that you lose, might lose, doesn't mean there's not jurisd iction\nto -- to --you know, to seek review.\n### Justice Gorsuch:\nthen I'll -- I'll let you go.\n### Anthony A. Yang:\nSure.\n### Justice Gorsuch:\nPromise.\nWell, maybe not.\n(Laughter.)\n### Anthony A. Yang:\nI'm happy to be here as long as you'd like to be.\n### Justice Gorsuch:\nI take the common law point that it usually has to do with court\ndeadlines.\nBut your regulation is clear.\nIt says all, any.\nAnd you've had this regulation for a very long time, and, normally, the\ngovernment really likes its regulations.\nIt used to come up here and say we have to defer to them.\nNow it comes up here and says we should give them great respect when\nthey're contemporaneous and long-standing, which check both those\nboxes here, right? So you're --you're running from your regulations.\nI mean, it's sort of like garlic in front of a vampire.\nYou don't want to have anything to do with them.\n### Anthony A. Yang:\nWell, I don't know that that's quite right.\nThe regulation at issue here is not a general definition of \"day\"\nthroughout the immigration context.\nIt is limited in -- textually in two specific ways. One, it only --applies\nonly to regulations, not statutes.\nSecondly, it applies only when t he period of action is provided in the\nregulation.\nAnd we don't think that applies. Section 1229c is a statutory provision,\nso 1221(a) --or 1221 --or, sorry, Section 1-1 would not apply.\nNo regulatory antecedent to which 1-1 would have applied exists.\nAnd the implementing regulations --and this is on page 8a of the\nappendix to our brief --say that the maximum is 60 days, as set forth in\nSection 240B of the Act.\nIt's not saying that the maximum is set forth in the regulations.\nIt's saying that the Act is what sets forth the -- the maximum.",
+      "questions": []
+    },
+    {
+      "conversation_id": 40,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nCounsel, you began your argument by emphasizing the distinction\nbetween this type of deadline and general court deadlines.\nI -- I -- I don't quite understand that.\nI mean, this is a deadline for the courts as well.\ndepending upon how we -- we rule.\nI don't know how that's any different than our deadline for --for filing a\ncert petition.\nI mean, it's --it affects what the -- you know, outside conduct, but it\nalso binds the court.\n### Anthony A. Yang:\nI don't -- it's true that it can have legal consequences, but when I make\nthe distinction between primary conduct in the real world and things\nthat are concerning actions in litigation, things like filing deadlines or\nother things that are -- that's what I'm talking about.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 41,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nSo I completely understand the rationale for that, but that appears no\nplace in any statute or in any regulation that you're talking to.\nSo that's -- I mean -- I mean, that would be an entirely atextual limit on\nthis regulation in particular.\n### Anthony A. Yang:\nI don't -- I don't think so because the general rule, the default r ule, is\nthe text, and the text, we think, is clear.\nThe question is whether to seek a contextual exception from the text.\nAnd our point is the exceptions, if they apply, only apply in these other\ncontexts, not conducts --contexts involving primary conduct.\n### Justice Kagan:\nI --I -- I guess I don't understand this.\nI thought that we had been talking about a general regulation that has a\nrollover principle in it and that says that's the way the agency is going to\nunderstand what the word \"day\" means in this -- you know, when it\nconfronts 60-day periods or 30 -day periods or what have you.\nAnd the argument that you are making, sort of filing deadlines versus\neverything else or things that are about primary conduct versus things\nthat are primarily about court conduct, that just doesn't appear in the\nagency's own regulation respecting this issue.\n### Anthony A. Yang:\nThat's true.\nThe regulation, though, is itself limited only to, one, regulations that\nuse the word \"day,\" and, two, only those that set the time to take action\nitself, not statutory times to take action.\nSo, if you're looking for an exception, it doesn't lie there.\nThat's our point.\nAnd the statute says this period shall not exceed 60 days.\nThat's 60 days.",
+      "questions": []
+    },
+    {
+      "conversation_id": 42,
+      "dialogue": "Justice Jackson\n### Anthony A. Yang:\nSaturday is a day. Holidays.\n### Justice Jackson:\ndays, but where is the authority that says that if you file a motion for\nreopening or whatnot, you can stay until that motion is -- is decided?\n### Anthony A. Yang:\nOh, no, that's not necessarily the case.\n### Justice Jackson:\nThat's not?\n### Anthony A. Yang:\nSo what happens is -- this all follows from Dada in 2008 and the\nregulations that were enacted in response to Dada.\n### Justice Jackson:\nThe expiration.\n### Justice Jackson:\nYeah.\n### Anthony A. Yang:\nWhat happens then is you are immediately subject to an order of\ndeportation.\n### Justice Jackson:\nI see.\n### Anthony A. Yang:\nAnd we could remove you from the country like that.\n### Justice Jackson:\nI see.\n### Justice Jackson:\ncourts? Several of my colleagues have sort of raised this.\nI mean, if your filing of a particular motion has the consequence of\naffecting a withdrawal and, therefore, starting the process of actual\n### Anthony A. Yang:\nRight.\n### Anthony A. Yang:\nUh-huh.\n### Anthony A. Yang:\nBecause the voluntary departure deadline exists regardless of whether\nany filing is made.\n### Justice Jackson:\nThat's the case of anything.\n### Anthony A. Yang:\nNo, no, no.\n### Anthony A. Yang:\nNo, no, no, that's not, because Congress says your time to voluntary\n### Justice Jackson:\nMm-hmm.\n### Anthony A. Yang:\nIf you do nothing, you've got to voluntarily depart in 60 days.\nThere's no filing.\nAnd the filing deadline for a motion to reopen is 90 days. It's timely if\nit's filed -- this motion to -- to file --reopen was timely.\nIt was within the 90 days.\nThe voluntary departure deadline is a separate one governing primary\nconduct.\nThe fact that the -- the Petitioner wanted to get it in, his motion in,\nbefore that separate deadline expired doesn't convert that separate\ndeadline into a filing deadline.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 43,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nCan -- can -- can I -- can I take you back to the jurisdictional question\n### Anthony A. Yang:\nSure.\n### Anthony A. Yang:\nMm-hmm.\n### Justice Kagan:\nIf this Petitioner had wanted to challenge the view of timeliness\n### Anthony A. Yang:\nMm-hmm.\n### Justice Kagan:\ncourt, you're saying?\n### Anthony A. Yang:\nWell, he could have done it in -- in multiple ways.\nHe could have -- if he wanted to do it in the context of the removal\nproceedings -- not going to the collateral consequences, because,\nremember, he could challenge the withholding of the bond or he could\n### Anthony A. Yang:\nSure.\n### Anthony A. Yang:\nYeah.\n### Anthony A. Yang:\nYeah.\n### Anthony A. Yang:\nMm-hmm.\n### Justice Kagan:\nAnd how does he challenge that determination?\n### Anthony A. Yang:\nSo if --he could challenge the motion to reopen on judicial review.\nHe could have sought reconsideration and then challenged both the\nmotion to reopen and the motion for reconsideration.\n### Justice Kagan:\nOkay.\nSo let's stop there.\n### Anthony A. Yang:\nBut it wouldn't have -- okay.\n### Justice Kagan:\nHe could challenge -- he could challenge it in court, is the first thing.\nAnd then you said the second thing is he could challenge it as long as he\nincluded a challenge to his removability.\nThat was the second thing.\nAnd I guess what I want to say is, I mean, this strikes me as a -- a very\nstrange rule that you're precluding him from doing what actually\nseems, from the agency's own perspective, the sensible thing.\nIn other words, he's seeking exhaustion of administrative remedies.\nBefore he goes to court, he wants to make sure that the agency itself has\nthough t about this question sufficiently.\nAnd then you say, well, he has to attach it to a challenge about\nremovability. But he's saying he doesn't have a challenge about\nremovability.\nSo you're asking him to make up a completely meritless claim in order to\nget jurisdiction. And how do either one of those things make sense? This\nis a man who's really trying to, like, get the agency to focus on this\ntimeliness determination that has just arisen in his -- in the denial of\nhis motion to reopen. He did what I would think the agency would want\nhim to do.\n### Anthony A. Yang:\nWell, I will say that where this comes from is the text; that is, there's\nreview only of a final order of removal.\nThat's 1252(a)(1).\nIt then goes to Nasrallah, which interpreted \"final order of removal.\"\n### Justice Kagan:\nOkay.\nThat's -- that's completely non-responsive to the question that I just\nasked.\n### Anthony A. Yang:\nBut why -- our position is following the text and this Court's decisions.\n### Justice Kagan:\nOkay.\nWell, let me ask you about the text then.\nIs this a question of law and fact arising from any action taken or\nproceeding brought to remove an alien from the United States?\n### Anthony A. Yang:\nIt is.\n### Justice Kagan:\nAll right.\nIt is.\n### Anthony A. Yang:\nYeah.\n### Justice Kagan:\nIt is a question of law and fact arising from an action taken or proceeding\nbrought to remove an alien.\nAnd then it says: Any of those questions shall be available only in judicial\nreview of a final order under this section.\nNow wouldn't you read that to say that all those other questions that\n### Anthony A. Yang:\nNot if there's not a final order.\nIf there's not review of the final order of removal, it doesn't fall within\nthat -- that's what the text says.\nIt's available only in judicial review of a final order.",
+      "questions": []
+    },
+    {
+      "conversation_id": 44,
+      "dialogue": "Justice Jackson",
+      "questions": []
+    },
+    {
+      "conversation_id": 45,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nWell, it's -- judicial review of a final order is understood to include all of\nthose questions.\n### Anthony A. Yang:\nThat was rejected by this Court in Nasrallah.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 46,
+      "dialogue": "Justice Jackson\n### Anthony A. Yang:\nNo, no.\nWe argued that all rulings in the removal proceeding under the zipper\nclause, that kind of thing goes into a final order.\nThe Court rejected that.\nThey said no, no, no, that was under the fotee framework. That all\nchanged.\nNow we're going to apply the definition in the INA.\nThat definition means: A final order of removal either finds a noncitizen\ndeportable or orders deportation.\nThere's another category, things that affect the validity of that, that\nmerge into the final order.\n### Justice Jackson:\nunderstand.\nYou -- you keep going to Nasrallah. But, in Mata, I thought the Court\nmade clear that the INA's grant of jurisdiction over final orders of\nremoval encompasses review of decisions refusing to reopen or\nreconsider such orders.\n### Anthony A. Yang:\nThat's true.\n### Justice Jackson:\nHere, we have a decision refusing to reconsider or reopen. Nasrallah did\nnot involve a decision refusing to reconsider or reopen.\nSo why doesn't Mata's determination that those kinds of decisions\n### Anthony A. Yang:\nBecause Mata recognizes that reopening and reconsideration can be\nsubject to review.\nIt doesn't say everything.\nSo, for instance, take an alien who's a -- a -- a soccer fan and says: I\nwant -- I move for reconsideration.\nI want you to include in your opinion the statement I'm as good of a\nsoccer player as Lionel Messi.",
+      "questions": []
+    },
+    {
+      "conversation_id": 47,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nI don't think you should trivialize this case, Mr. Yang.",
+      "questions": []
+    },
+    {
+      "conversation_id": 48,
+      "dialogue": "Justice Jackson\n### Anthony A. Yang:\nNo, no, no, no, because it doesn't affect the final order of removal.",
+      "questions": []
+    },
+    {
+      "conversation_id": 49,
+      "dialogue": "Justice Kagan",
+      "questions": []
+    },
+    {
+      "conversation_id": 50,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nBut, Mr. Yang, Mata says that there are certain categories of orders,\nthose that go to reopening and remove -- reconsideration that do count\nas final orders of removal.\nThat seems to me to be a simple, clear line that judges can apply when\nwe determine whether or not we have jurisdiction, and it's one that\nmakes sense.\nYou want us to drill down.\nOnly certain finals -- only certain orders of reopening or\nreconsideration count.\n### Anthony A. Yang:\nIt's hard to avoid the \"final order of removal\" language because that's\nwhere the only jurisdictional grant is.\n### Justice Jackson:\nI'm not avoiding it. I'm saying Mata interpreted it.\n### Justice Jackson:\nMata interpreted \"final orders of removal\" to \"encompass review of\n### Justice Jackson:\nWhat I hear you saying is, yes, but only certain decisions that refuse to\nreopen or reconsider count, and you want us to look at the extent to\nwhich the person, in their applicatio n, made certain arguments. It\nseems like a very technical way to go about this when we have a case\nthat already interprets motions -- or --or decisions that encompass\nreview of refusing to reopen or reconsider as final orders of removal for\nthis purpose.\n### Anthony A. Yang:\nMata did not say that every motion to reopen and every motion to\nreconsider, regardless of what it concerns, is subject to the jurisdictional\nprovision.\nAnd our point is most --most are included.\n### Justice Jackson:\nBut why -- why wouldn't it be? Why wouldn't it be? We -- we are\n### Anthony A. Yang:\nMm-hmm.\n### Justice Jackson:\nWe're not saying whether or not his claim is meritorious, whether or not\nwhen it was talking about jurisdiction be that the final order of removal\nand any subsequent attempts to get the court to revisit or get the\nagency to revisit through a motion for reopening or a motion for\nreconsideration all fits in the umbrella of things that the court would\nreview?\n### Anthony A. Yang:\nBecause, when the issue concerns a matter as collateral as this and, in\n### Justice Jackson:\nIt's not collateral because it relates to the final order of removal in the\nway that Mata indicated.\n### Anthony A. Yang:\nAnd, in addition, where you have judicial review elsewhere, Congress\nwould have thought that those collateral consequences could be\npursued but in a different judicial forum in a different way.\nIt's not unusual here, when --we're talking about removal proc\needings, where it doesn't affect the order of removal in any way. It really\ndoesn't.\nThis is all collateral. This order of removal is unchanged. There's not a\nword on that page in, what is it, 42 and 43a that would change. Nothing.\nThey say it would change.\nBut, like, how are you going to change it? Notice: If you fail to voluntary\ndepart, the following will happen.\nThat's right, nothing's changing there.",
+      "questions": []
+    },
+    {
+      "conversation_id": 51,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nWell, but the meaning of that provision has changed.\nI mean -- and that provision is in the overall order of removal.\nthe conclusion as to remov ability.\nBut, in fact, it has --it makes reference to other matters, including\nvoluntary departure.\nAnd the meaning of the voluntary departure provision, how it's\nimplemented, how it operates on the ground, completely changes\ndepending on whose view of timeliness one adopts.\n### Anthony A. Yang:\nThe order doesn't change. It's n o different than a sentence, a criminal\nsentence.\nIf the criminal sentence says: We're going to impose supervised release,\nand if you commit a federal crime while on supervised release, it's a\nviolation.\nThat judgment doesn't say you've committed another federal crime.\nYou've got to wait for a separate order about whether or not you\nviolated the terms of supervised release. That's the same here.\nThis is simply saying: If the following happens, these are consequences.\nThe -- the separate order that really addresses whether they happened\nis the motion to reopen, which they're not challenging, and a motion for\nreconsideration, which they are.\nAnd that's the only thing they're challenging, and it doesn't affect the\nfinal order of removal.\nI think it's also important to just note the consequences or the penalty\nthat's imposed by c(d) of a monetary sanction or ineligibility for certain\nrelief, like cancellation and adjustment of status, only applies if the\nnoncitizen voluntarily fails to depart in the time period specified.\nAnd the Board has interpreted that provision in a case called Zmijewska.\nIt's 21 I&N Decision 89.\nAnd the court --the Board said: You do not voluntarily fail to depart if,\nthrough no fault of your own, you're unaware of the grant of voluntary\ndeparture or you're physically unable to depart.\nSo my point by this discursion is to explain that whether or not the\nnoncitizen is subject to these penalties is a separate inquiry.",
+      "questions": []
+    },
+    {
+      "conversation_id": 52,
+      "dialogue": "Justice Barrett\n### Anthony A. Yang:\nSure.\n### Justice Barrett:\nSo you didn't make this argument in the Tenth Circuit.\nHave you -- has the government made this in any court?\n### Anthony A. Yang:\nThis is the -- this is a very rare case, rarely arises, so we've not made it.\nAnd it's also an argument that builds from Nasrallah, which is very\nrecent too.\nSo the combination of the two, this is the first time that we made it in\nthis case, first in the very --in a very summary way and now more\nthoroughly here.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 53,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nCan we -- this was not the question we granted cert on.\n### Anthony A. Yang:\nJurisdiction, you're saying?\n### Justice Kavanaugh:\nCorrect, jurisdiction.\n### Anthony A. Yang:\nYeah.\nYeah.\n### Justice Kavanaugh:\nAnd if it were easy, then I can see just resolving it.\n### Anthony A. Yang:\nYeah.\n### Justice Kavanaugh:\nBut the questions reveal that maybe it's not so easy.\n### Anthony A. Yang:\nYeah.\n### Justice Kavanaugh:\nIn that circumstance, is the prudent thing to do to -- to vacate and send\nit back so that the Tenth Circuit can consider the jurisdictional issue in\nthe first instance? To",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 54,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\n's question, it hasn't really -- and\nJustice Sotomayor's earlier, it hasn't really percolated this kind of jurisdi\nctional question, so I'm just trying to figure out what's sensible for us to\n### Anthony A. Yang:\nYeah.\nWe would not object to that.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 55,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nRight.\n### Justice Kavanaugh:\nunforeseen.\n### Anthony A. Yang:\nAnd we don't object to that.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 1/10",
+      "complexity_score": 1
+    },
+    {
+      "conversation_id": 56,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\n### Anthony A. Yang:\nThank you.\n### Chief Justice Roberts:\nJustice Thomas, anything further?",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 1/10",
+      "complexity_score": 1
+    },
+    {
+      "conversation_id": 57,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nthis --this situation in this case now. Would you explain what you mean\nby that?\n### Anthony A. Yang:\nSo our position in Nasrallah was that all rulings in a removal proceeding\nwere within the ambit of the term \"final order of removal.\" And we were\ndoing that because there were exclusions of review of final orders of\nremoval.\nAnd the court rejected that argument. The court said: The term \"final\norder of removal\" in 1252 is something more limited, relying on the\nstatutory definition.\nIt is, one, things that find -- rulings that find the citizen --noncitizen\ndeportable or order deportation.\nThose are -- that's it. Now, in addition, Nasrallah says that things that\naffect the validity of the final order will merge in the final order.\nAnd we would like to extend that to some other things too.\nWe think that if you raise an issue together with, under (b)(9), the zipper\nclause helps you, because it says you can raise it in judicial review of a\nfinal order of removal.\nBut you still have to have a final order of removal you're seeking review\nAnd we think things like withholding of removal, where it affects how\nyou implement the final order of removal, even though it doesn't affect\nthe validity of the final order of removal, that's close enough because\nwe need to know how to implement the final order.\nThat is part of judicial review of the final order of removal under the\nzipper clause.\nSo those are the things that we think get covered, but all of them point\nback to some -- a final order of removal, and the reason is, is because\nthe jurisdictional provision in 1252(a)(1) only grants jurisdiction over\nreview of a final order of removal.\nThat's it.",
+      "questions": []
+    },
+    {
+      "conversation_id": 58,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Alito, anything further?",
+      "questions": []
+    },
+    {
+      "conversation_id": 59,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\n?\nI'd like to go to agency practice.\n### Anthony A. Yang:\nMm-hmm.\n### Justice Sotomayor:\nJustice Gorsuch was right that, most of the time, the agency comes in to\ndefend its practices.\nIn this very case, the immigration judge told Petitioner that he had the\nextra two days.\nIt -- the summary of the March 5th oral ruling says Respondent's\napplication for voluntary departure was granted until May 6th.\nThat's 62 days from March 5th.\nI understand from the amicus brief filed here that that was a consistent\npractice by immigration judges.\n### Anthony A. Yang:\nI'm not sure that's correct, but I don't want to interrupt.\n### Justice Sotomayor:\nBut some did.\n### Anthony A. Yang:\nSome.\n### Justice Sotomayor:\nOkay.\n### Anthony A. Yang:\nAnd -- and it's binding precedent in the Ninth Circuit.\n### Justice Sotomayor:\nAnd when did the agency correct that filing?\n### Anthony A. Yang:\nExcuse me?\n### Justice Sotomayor:\nWhen did the BIA issue an actual ruling that said they were wrong?\n### Anthony A. Yang:\nWell, it hasn't yet.\nIn 2007, the BIA's decision in Meza-Vallejos, which is the Ninth Circuit\nprecedential decision on the other side of this split, went the way we\nsaid.\nwith Petitioner, although it's --it's not quite the same position, but\nbottom line is basically the same.\nThen, in this case, we address it again.\n### Justice Sotomayor:\nThank you, Mr. Yang.",
+      "questions": []
+    },
+    {
+      "conversation_id": 60,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Kagan? Justice Gorsuch, anything?",
+      "questions": []
+    },
+    {
+      "conversation_id": 61,
+      "dialogue": "Justice Kavanaugh\n### Anthony A. Yang:\nMm-hmm.\n### Anthony A. Yang:\nMm-hmm.\n### Anthony A. Yang:\nMm-hmm.\n### Justice Kavanaugh:\nperspective could ensue, and what language would you want us to\ninclude in the opinion so that it does not have those kinds of ripple\neffects?\n### Anthony A. Yang:\nWell, it -- it's a little hard to know.\nIt will depend on how the Court writes the opinion.\n### Justice Kavanaugh:\nMaybe this just reinforces my prior question that we shouldn't be doing\nthis, but assume we are doing this.\n### Anthony A. Yang:\nYeah.\n### Justice Kavanaugh:\nAnd assume you lose.\n### Anthony A. Yang:\nYeah.\n### Anthony A. Yang:\nYeah.\n### Justice Kavanaugh:\nforeseen that you can tell us now don't do that.\n### Anthony A. Yang:\nTotally understand.\nSo I think you would restate the Nasrallah.\nStart with Nasrallah, right? You can seek review of a final order of\nremoval that is -- finds the citizen deportable, orders deportation.\nTwo, you can seek review of rulings that merge into the final order, and\nthe reason they merge is because they affect the validity of the final\norder of removal.\nAnd I think you can also say that you can review things together with the\nfinal order of removal under the zipper clause, (b)(9), but, again, you\nstill need to explain how there's a final order of removal being reviewed.\nAnd then you can go even further and say that rulings that affect how to\nimplement the final order, even if it doesn't reflect -- affect the validity\nof the final order -- so, for instance, can you remove to this country?\nQuintessential question about withholding or CAT relief, right? Can you\nreviewed in and of themselves because they're close enough to a final\norder.\nNow, after you've said all that, because we don't want to carve out these\nWe -- we came to the conclusion that, well, when you --that's pretty\ngenerous, but there's still this category of things that just doesn't have\na relevant relationship to a final order of removal.\nHere, where you're seeking to change some language, an opinion with\ncollateral consequences, I'm not sure how you then square the circle and\nsay: And that somehow fits into those categories.\nBut you'd have to try to do that in some way, I think.\n### Justice Kavanaugh:\nThank you.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 62,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Barrett?",
+      "questions": []
+    },
+    {
+      "conversation_id": 63,
+      "dialogue": "Justice Jackson",
+      "questions": []
+    },
+    {
+      "conversation_id": 64,
+      "dialogue": "Justice Kavanaugh\n### Anthony A. Yang:\nMm-hmm.",
+      "questions": []
+    },
+    {
+      "conversation_id": 65,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nquestions that the government thinks the court should not be able to,\nright?\n### Anthony A. Yang:\nI guess it depends on what the court says because we're not just talking\nabout this case.\n### Justice Jackson:\nRight.\n### Anthony A. Yang:\nYeah.\n### Justice Jackson:\nAnd it just seems to me that you'd be in a situation in which there would\n### Anthony A. Yang:\nMm-hmm.\n### Justice Jackson:\nwould consider under circumstances in which the government thinks\nyou shouldn't be -- the court should not be able to do so.\n### Anthony A. Yang:\nYeah.\nI think the consequences really will flow from how the Court decides\nwhat judicial review of a final order of removal is in light of Nasrallah.\n### Justice Jackson:\nThank you.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 66,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nRebuttal, Mr. Cedrone?\n### Gerard J. Cedrone:\nThank you, Your Honor. Let me say a few words about jurisdiction and\nthen a few words about the merits.\nOn jurisdiction, the question of whether there's going to be a blast\nradius from this decision, the government explains at page 18 of its brief\nthat it sees the jurisdictional question in this case as turning on two\nidiosyncratic features of this case.\nWhat the government has tried to do is construct a view of jurisdiction\nthat disposes of this case and no other.\nFor the reasons we've explained, that view of jurisdiction is wrong.\nThe Court doesn't have to do anything unprecedented to recognize as\nmuch.\nIt can start with the text of the statute, which covers a final order of\nremoval.\nOn the government's view, a final order of removal is just the piece of\nthe order that says you are removable to this country.\nI don't know where that comes from.\nin this case is the government's view, which appeared for the first time\nin a brief in opposition and has continued to evolve, including at the\nlectern here today.\nI heard Mr. Yang say for the first time that there's a voluntariness test\nthat needs to be adjudicated, and he cited a BIA case that I don't believe\nwas in his brief.\nThe reason for that is this is a rule that's crafted to dispose of this case.\nThe Court doesn't have to do anything different from what it's already\nsaid in previous cases to recognize jurisdiction.\nI also heard Mr. Yang say on -- on jurisdiction that jurisdiction is\navailable in a case where the question turns on how the removal order is\nimplemented.\nI don't know how to credibly explain to a client that the one -- the\n$3,000 fine you get slapped with as you're removed from the country\nand the 10-year bar on return is not part of how the removal order is\nimplemented.\nSo I think you can even rely on Mr. Yang's words here today to recognize\nthat there is jurisdiction.\nTurning to the merits, the government's main argument is that there's\nprimary conduct and statutes and regulations governing filings. I also\ndon't know where that comes from.\nIf you start with the regulation, Section 1001.1, it says it applies to any\naction.\nThe government tries to read that in a way that it only applies to\nregulatory deadlines and not statutory deadlines.\nWhat the government fails to grapple with is that many statutory\ndeadlines -- excuse me, many regulatory deadlines simply parrot\nstatutory deadlines in Title 8 of the Code of Federal Regulations and in\nplenty of other regulatory schemes outside of immigration.\nWe cite examples at page 42 of our brief where other agencies have\nadopted this same traditional principle.\nSo, at the end of the day, I think the question is, what would somebody\npicking up this statute in 1996 have made of it? That person would have\nhad the immigration regulation we've been talking about.\nThey would have been -- they would have had Rule 6(a), which both this\nCourt and the BIA have looked to to understand how deadlines work not\nonly where the rule directly applies but also in other cases.\nThat person would have had precedent from this Court applying this\ntraditional rule. That --that --that person would have had the common\nlaw principle that has applied even before that.\nAnd there is nothing cutting in the other direction, nothing that that\nperson would have looked to in 1996 to think that there was a different\ndefinition, a different time calculation rule that applied to this statute\nand this statute only.\nWe ask the Court to reverse.\n\n### Chief Justice Roberts:\nThank you, counsel.\nThe case is submitted.",
+      "questions": []
+    }
+  ],
+  "generation_stats": {
+    "total_conversations": 66,
+    "conversations_with_questions": 8,
+    "conversations_without_questions": 58,
+    "processed_conversations": 66,
+    "questions_generated": 40,
+    "skipped_for_low_complexity": 20,
+    "coverage_rate": "12.1%",
+    "methodology": "Extract key phrases from justice statements and create multiple choice questions with extremely deceptive distractors"
+  },
+  "answer_distribution": {
+    "counts": {
+      "A": 11,
+      "B": 11,
+      "C": 4,
+      "D": 14
+    },
+    "percentages": {
+      "A": 27.500000000000004,
+      "B": 27.500000000000004,
+      "C": 10.0,
+      "D": 35.0
+    },
+    "total_questions": 40
+  }
+}

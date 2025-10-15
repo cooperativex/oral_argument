@@ -1,0 +1,1335 @@
+{
+  "source_file": "Riley v. Bondi _ Oyez.md",
+  "description": "MODERATELY CHALLENGING predict-next Justice question generation with balanced legal distractors",
+  "methodology": "Two-step process: (1) Generate 10 related legal alternatives, (2) Select 3 balanced distractors for 70-80% target accuracy",
+  "difficulty_level": "MODERATE - Targets law students and legal professionals (70-80% accuracy)",
+  "distractor_approach": "Balanced mix: related but different, clearly different, and obviously wrong alternatives",
+  "context_mode": "with_previous_contexts",
+  "use_previous_contexts": true,
+  "background": "Riley entered the U.S. on a tourist visa in 1995. In 2006, he was indicted and later convicted of marijuana distribution and firearm charges, receiving a 25-year sentence. After being granted compassionate release in January 2021, immigration authorities took him into custody and ordered his removal due to his aggravated felony conviction. Though Riley expressed fear of returning to Jamaica, leading to various proceedings regarding potential persecution and torture claims, he ultimately was only eligible for deferral of removal under the Convention Against Torture (CAT). While an immigration judge initially granted this relief, the Board of Immigration Appeals reversed the decision in May 2022 and ordered Riley’s removal to Jamaica. Riley petitioned for review, and his case was temporarily held pending the resolution of Martinez v. Garland. In Martinez, the U.S. Court Appeals for the Fourth Circuit held that an order denying CAT relief is not a final order of removal for purposes of § 1252(a)(1). Relying on Martinez, the Fourth Circuit dismissed Riley’s appeal for lack of jurisdiction.",
+  "conversations": [
+    {
+      "conversation_id": 1,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nWe'll hear argument next in Case 23-1270, Riley versus Bondi.\nMr. Bradley.\n### Keith Bradley:\nMr. Chief Justice, and may it please the Court: A sensible scheme of\njudicial review would provide a right to review on a petition properly\nfiled, particularly on matters of life and death where errors left\nuncorrected are so contrary to the fundamental policies of the United\nStates.\nBut it also would not have the courts routinely intrude while the agency\nis still doing its work.\nWhen the agency is deliberating where a non-citizen can be sent in light\nof an objection duly raised in the ordinary processes, that work is\nongoing.\nAmicus's proposal would mean that a non-citizen like Petitioner is\nallowed to seek a Court's decision on withholding issues that the agency\nhas barely begun to assess.\nThe INA does not suggest that Congress intended that surprising result.\nInstead, the statute is consistent with common sense.\nRegarding jurisdiction, Santos-Zacaria already explained that Stone\nwas not a holding on that point.\nThe Court should adhere to what it said there.\nAnd, certainly, 1252(b)(1) does not rank as jurisdictional under the\nmodern rubric.\nI welcome the Court's questions.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 2,
+      "target_dialogue": "## Justice Thomas\n### Justice Thomas:\nDid Petitioner seek a review of the order -- removal order?\n### Keith Bradley:\nWe are seeking -- we are not seeking review of his removability.\nWe are seeking review of the CAT decision, Your Honor.\n### Justice Thomas:\nBut the -- the only jurisdiction we have is over the removal order.\n### Keith Bradley:\nI -- I think that's -- I -- I would -- I would question that premise, Your\nHonor.\n### Justice Thomas:\nOr a final order. Excuse me, a final order.\n### Keith Bradley:\nThe --the Court -- the statute allows the Court to conduct review\nwithin 30 days of a final order from removal, but it also clearly says the\nCourt has jurisdiction to review a CAT order as the Court explained in\nNasrallah already.\n### Justice Thomas:\nHave we ever said that you could do that independent of the final order?\n### Keith Bradley:\nI -- not independent in the sense -- and that is exactly the problem,\nYour Honor.\nI think that the sensible approach is to wait until the agency has\nconcluded all of its work, and then you have one petition that\nencompasses removability, the order of removal, and the CAT questions\nthat are at issue.\n### Justice Thomas:\nDoes the CAT question then convert the -- the final order into a broader\nfinal order by attaching itself to that?\n### Keith Bradley:\nI think what Nasrallah teaches us, like -- certainly, is that it does not\nconvert the -- a CAT order that says -- that -- that denies CAT relief is\nnot converting the final order into something else, except from the\ntiming of it and what gets decided is affecting the finality, because as we\nexplained in the brief, and I believe the government agrees, where you\ncan be sent is something that remains to be decided.\nThe -- the removal order under the government's regulations has to tell\nyou where you're going to be sent.\nYou have an opportunity to object right --right then.\nIf the process results in that being -- that -- that where not working,\nthen they are going to tell you where else.\nAnd then you might proceed into another.\nSo -- so it does not affect the removability.\n### Justice Thomas:\nSo do you have -- what's your best textual hook for that?\n### Keith Bradley:\nI'm sorry, for -- for which, hook for what?\n### Justice Thomas:\nFor your --for your argument that the CAT order has to be -- it can\nexpand the time limit of the final order.\n### Keith Bradley:\nSo it -- it turns on what \"final\" means, Your Honor.\nAnd the -- the statute, we submit, obviously it explains what makes\nsomething final in certain circumstances. And aside from that, it's a\nword that this Court has interpreted in many contexts to mean that the\nagency's decision-making is full and complete on all issues, that the\nagency has disassociated itself from the decision-making process.\nThat's the word \"final.\"",
+      "justice_name": "Justice Thomas",
+      "total_justice_questions": 4,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Thomas most likely ask next?",
+          "options": {
+            "A": "Have we addressed the implications of the CAT order on the removal process?",
+            "B": "How does jurisdiction apply specifically to cases involving asylum seekers?",
+            "C": "Is it possible to seek review of the removal order before a final decision?",
+            "D": "Have we ever said that you could do that independent of the final order?"
+          },
+          "answer": "D",
+          "target_justice": "Justice Thomas",
+          "debug_info": {
+            "correct_answer": "Have we ever said that you could do that independent of the final order?",
+            "fake_questions": [
+              "Have we addressed the implications of the CAT order on the removal process?",
+              "How does jurisdiction apply specifically to cases involving asylum seekers?",
+              "Is it possible to seek review of the removal order before a final decision?"
+            ],
+            "all_generated_alternatives": [
+              "Have we addressed the implications of the CAT order on the removal process?",
+              "What precedents exist regarding the review of final orders in removal cases?",
+              "Is there a timeline for when we examine the jurisdiction over final orders?",
+              "How does jurisdiction apply specifically to cases involving asylum seekers?",
+              "Can we challenge the removal order without addressing the underlying findings?",
+              "What options do we have for reviewing procedural errors in this case?",
+              "Have we established whether CAT findings can be challenged separately?",
+              "What are the grounds for appealing a decision made on the merits?",
+              "Is it possible to seek review of the removal order before a final decision?",
+              "What standard applies when assessing the validity of removal orders generally?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 4
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 0
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Thomas most likely ask next?",
+          "options": {
+            "A": "Does the CAT question only address issues related to the underlying removal order?",
+            "B": "Can the jurisdiction over removal orders influence the determination of the CAT decision?",
+            "C": "Does the CAT question then convert the -- the final order into a broader\nfinal order by attaching itself to that?",
+            "D": "What implications arise from separating the review of the CAT decision from the removal order?"
+          },
+          "answer": "C",
+          "target_justice": "Justice Thomas",
+          "debug_info": {
+            "correct_answer": "Does the CAT question then convert the -- the final order into a broader\nfinal order by attaching itself to that?",
+            "fake_questions": [
+              "Can the jurisdiction over removal orders influence the determination of the CAT decision?",
+              "What implications arise from separating the review of the CAT decision from the removal order?",
+              "Does the CAT question only address issues related to the underlying removal order?"
+            ],
+            "all_generated_alternatives": [
+              "Can the jurisdiction over removal orders influence the determination of the CAT decision?",
+              "How does the final agency order impact the overall review process for immigration cases?",
+              "Does the CAT question only address issues related to the underlying removal order?",
+              "Is it possible for the Court to issue an interim ruling while reviewing both CAT and removal orders?",
+              "What implications arise from separating the review of the CAT decision from the removal order?",
+              "Could evaluating the removal order clarify the context for the CAT questions that have been raised?",
+              "How does the finality of the removal order affect the legal arguments presented by both parties?",
+              "What happens if the CAT decision is not addressed during the review of the removal order?",
+              "Are there specific statutory provisions that govern the relationship between the CAT questions and removal?",
+              "What role does the standard of evidence play in the Court's review of removal orders?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 4
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 0
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Thomas most likely ask next?",
+          "options": {
+            "A": "What implications does the agency's decision have on removability?",
+            "B": "So do you have -- what's your best textual hook for that?",
+            "C": "What statutory authority supports your argument regarding the final order?",
+            "D": "What evidentiary challenges might arise with the removal order?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Thomas",
+          "debug_info": {
+            "correct_answer": "So do you have -- what's your best textual hook for that?",
+            "fake_questions": [
+              "What statutory authority supports your argument regarding the final order?",
+              "What implications does the agency's decision have on removability?",
+              "What evidentiary challenges might arise with the removal order?"
+            ],
+            "all_generated_alternatives": [
+              "What statutory authority supports your argument regarding the final order?",
+              "Can you summarize the factual basis for your entire case at this point?",
+              "What precedents can we rely on to challenge the CAT order effectively?",
+              "How does the standard for judicial review relate to your claims?",
+              "What evidentiary challenges might arise with the removal order?",
+              "How do appellate procedures influence the timing of this review?",
+              "What implications does the agency's decision have on removability?",
+              "How should we interpret the legislative intent behind this statute?",
+              "What are the broader implications of this decision for future cases?",
+              "Can you clarify which facts support your interpretation of the law?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 4,
+            "total_questions_in_conversation": 4
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 0
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 3,
+      "target_dialogue": "## Justice Sotomayor\n### Justice Sotomayor:\nSo one definition in the statute, at least the courts on amicus's side\nargued -- or concede that the one issue that defines finality is when the\nBoard concludes its work, correct?\n### Keith Bradley:\nWhen the Board concludes its work, that -- that -- that is correct.\n### Justice Sotomayor:\nOkay.\n### Keith Bradley:\nThat's right.\n### Keith Bradley:\nAbsolutely, correct.\n### Justice Sotomayor:\nBecause it will change -- the final order says you're --you are\nremovable, you're going to X country.\nAnd the CAT order will say no, make it Y country.\nSo there is an amendment.\n### Keith Bradley:\nThere -- there -- there is -- there is an amendment, that's right.\n### Justice Sotomayor:\nSo this is almost like a conviction and a sentence, meaning the\nconviction is final in a court -- in a district court, until you appeal it, and\nthe -- but you wait for the sentence for the appeal because you want the\ncourt to finish with everything at once.\n### Keith Bradley:\nI -- I think you have it exactly right, that --that analogy.\nAnd Nasrallah was familiar with that analogy, of course.\n### Justice Sotomayor:\nThat's the one it gave.\n### Justice Sotomayor:\nAll right.\nNow, Congress does use the word \"administrative\" in a different\nprovision, the detention provision.\n### Keith Bradley:\nCorrect.\n### Justice Sotomayor:\n1252.\nSo there they said when an order is administratively filed, meaning\nwhen the agency has finished on this particular question.\nBut it uses a different word, final order of removal, here.\nThat difference, how does it play into your argument?\n### Keith Bradley:\nThat difference, I think, is -- is good support for us in that\n\"administratively final,\" presumably the \"administratively\" means\nsomething.\nIt points us to that moment is a different moment from the moment\nwhen the -- when the order is final for purposes of judicial review.\nTherefore, we would expect -- not necessarily in every case -- but we\nwould expect that, conceptually, administratively different \"final\" is\ndifferent from \"final.\" And so that point, that Guzman Chavez pointed\nout, when detention can begin because one issue in the case has been\nresolved is different from the case point when everything is finished,\nwhen the agency has fully finished with its work.\nThat's final for judicial review.\n### Justice Sotomayor:\nThank you.",
+      "justice_name": "Justice Sotomayor",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Sotomayor most likely ask next?",
+          "options": {
+            "A": "1252.\nSo there they said when an order is administratively filed, meaning\nwhen the agency has finished on this particular question.\nBut it uses a different word, final order of removal, here.\nThat difference, how does it play into your argument?",
+            "B": "How do statutes addressing asylum applications interplay with orders of removal and CAT findings in terms of finality?",
+            "C": "What legal significance does the term 'administrative closure' hold in relation to final orders of removal and subsequent challenges?",
+            "D": "How does the statutory definition of 'final order' differ from that of 'administrative order' in the context of removal proceedings?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Sotomayor",
+          "debug_info": {
+            "correct_answer": "1252.\nSo there they said when an order is administratively filed, meaning\nwhen the agency has finished on this particular question.\nBut it uses a different word, final order of removal, here.\nThat difference, how does it play into your argument?",
+            "fake_questions": [
+              "How does the statutory definition of 'final order' differ from that of 'administrative order' in the context of removal proceedings?",
+              "How do statutes addressing asylum applications interplay with orders of removal and CAT findings in terms of finality?",
+              "What legal significance does the term 'administrative closure' hold in relation to final orders of removal and subsequent challenges?"
+            ],
+            "all_generated_alternatives": [
+              "How does the statutory definition of 'final order' differ from that of 'administrative order' in the context of removal proceedings?",
+              "In terms of judicial review, how does the timing of filing an appeal affect the grounds for appealing a CAT decision?",
+              "What legal significance does the term 'administrative closure' hold in relation to final orders of removal and subsequent challenges?",
+              "How might the procedural requirements for filing a CAT petition differ from those for appealing a removal order based on the Board's findings?",
+              "What implications does the inclusion of a 'final order of removal' have for challenges related to alternative country designations?",
+              "How do statutes addressing asylum applications interplay with orders of removal and CAT findings in terms of finality?",
+              "What precedents exist regarding the interpretation of the term 'administrative' as it pertains to removal orders under different contexts?",
+              "How can a person’s eligibility for withholding of removal impact the classification of orders as final or non-final?",
+              "In what ways might a previous conviction influence the interpretation of 'final order' in immigration proceedings?",
+              "What are the implications of the Supreme Court's interpretation of 'alien status' on the enforceability of final removal orders?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 1
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 4,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nJust on the 30-day deadline, do you understand our position to be that\nwe're never going to find jurisdictional bar again? (Laughter.)\n### Keith Bradley:\nCertainly not.\nI -- I think that the re are --there may well be one out there.\nI have not canvassed the U.S. Code. But the -- the Court has been -- has\ntime bar is jurisdictional. And there's nothing here --more here than\nthe others that have not been jurisdictional.\n### Chief Justice Roberts:\nWell, I mean, there is the fact that they applied equitable tolling in the\nprior --the -- the -- the Stone case and said equitable tolling was not\navailable, which sounds like something you would say if you're dealing\nwith a jurisdictional provision.\nIt referenced our limitations on certiorari and time to appeal, which\neverybody agrees are jurisdictional, I guess until the next case comes up,\nbut at least now everybody agrees that they're -- they're jurisdictional.\nI mean, is it really a magic words case, that the statute has to say \"and\nthis is jurisdictional\"?\n### Keith Bradley:\nIf I -- so I'm going to take that in two parts, if I could.\n### Chief Justice Roberts:\nYou can.\n### Keith Bradley:\nFirst thing is about whether this is a magic words case.\nI think if you look at everything in 1252 and the entire context, there are\nmany, many clues that this particular deadline is not jurisdictional.\nThey said jurisdiction when they meant it and they did not in (b)(1).\nIn addition, they removed particular wording that was in the pre-1996\nIRA that gave a specific point in time that is less clear under the\namendment, so there are -- there are these textual clues. But the\nsecond thing is to go back to your observations about Stone, whether\nthe equitable tolling could be available is in -- Stone's an excellent\nexample of something that mentioned that in passing and made no\ndifference to the case.\nNo one asked for equitable toll.\nWhat was asked for was a concept of non-finality that is just as available\nfor jurisdictional as for non-jurisdictional deadlines.",
+      "justice_name": "Chief Justice Roberts",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Chief Justice Roberts most likely ask next?",
+          "options": {
+            "A": "Can you explain how the distinctions between jurisdictional and non-jurisdictional time limits influence appeals in federal cases, specifically under 28 U.S.C. § 2254?",
+            "B": "Well, I mean, there is the fact that they applied equitable tolling in the\nprior --the -- the -- the Stone case and said equitable tolling was not\navailable, which sounds like something you would say if you're dealing\nwith a jurisdictional provision.\nIt referenced our limitations on certiorari and time to appeal, which\neverybody agrees are jurisdictional, I guess until the next case comes up,\nbut at least now everybody agrees that they're -- they're jurisdictional.\nI mean, is it really a magic words case, that the statute has to say \"and\nthis is jurisdictional\"?",
+            "C": "In considering the implications of equitable tolling, how does the precedent set in the Stone case interact with the general principles of statutory interpretation we apply to jurisdictional provisions?",
+            "D": "How does the concept of waiver apply in the context of time limits for appeals, especially in light of the Court’s previous rulings on jurisdictional provisions?"
+          },
+          "answer": "B",
+          "target_justice": "Chief Justice Roberts",
+          "debug_info": {
+            "correct_answer": "Well, I mean, there is the fact that they applied equitable tolling in the\nprior --the -- the -- the Stone case and said equitable tolling was not\navailable, which sounds like something you would say if you're dealing\nwith a jurisdictional provision.\nIt referenced our limitations on certiorari and time to appeal, which\neverybody agrees are jurisdictional, I guess until the next case comes up,\nbut at least now everybody agrees that they're -- they're jurisdictional.\nI mean, is it really a magic words case, that the statute has to say \"and\nthis is jurisdictional\"?",
+            "fake_questions": [
+              "In considering the implications of equitable tolling, how does the precedent set in the Stone case interact with the general principles of statutory interpretation we apply to jurisdictional provisions?",
+              "Can you explain how the distinctions between jurisdictional and non-jurisdictional time limits influence appeals in federal cases, specifically under 28 U.S.C. § 2254?",
+              "How does the concept of waiver apply in the context of time limits for appeals, especially in light of the Court’s previous rulings on jurisdictional provisions?"
+            ],
+            "all_generated_alternatives": [
+              "In considering the implications of equitable tolling, how does the precedent set in the Stone case interact with the general principles of statutory interpretation we apply to jurisdictional provisions?",
+              "How has the Supreme Court’s interpretation of jurisdiction impacted the ability of parties to appeal under the statute, particularly in relation to time-sensitive limitations and their definitions?",
+              "What criteria do we use to determine whether a statute outlines jurisdictional limits explicitly, and how does that affect subsequent interpretations or challenges in different cases?",
+              "Can you explain how the distinctions between jurisdictional and non-jurisdictional time limits influence appeals in federal cases, specifically under 28 U.S.C. § 2254?",
+              "What are the key elements that courts consider when deciding if a time limit for appeal should be treated as jurisdictional or merely a claim-processing rule?",
+              "How does the concept of waiver apply in the context of time limits for appeals, especially in light of the Court’s previous rulings on jurisdictional provisions?",
+              "What precedents exist surrounding the discussions of jurisdictional versus non-jurisdictional statutes, and how might they influence the outcome of future cases?",
+              "How might the application of equitable tolling require a reevaluation of the finality of decisions within administrative contexts, based on recent case law?",
+              "Could you clarify how the discussions about jurisdiction might differ if we were considering state law versus federal law in similar time-sensitive contexts?",
+              "In what way does the Court’s focus on the language of the statute affect the understanding and enforcement of deadlines in immigration cases, as opposed to other civil matters?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 2
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 5,
+      "target_dialogue": "## Justice Sotomayor\n### Justice Sotomayor:\nMandatory claim processing, which are non-jurisdictional, you can't\nequitably toll either, correct?\n### Keith Bradley:\nAlso true.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 6,
+      "target_dialogue": "## Justice Gorsuch\n### Justice Gorsuch:\nCounsel, I -- I just want to explore whether there's any daylight\nbetween your --your position and the government's position here.\nAnd one area that I wondered about was whether you think the CAT\norder itself is a final order of removal.\nPages 47, 48 of your brief kind of venture into that territory; whereas\nthe government would say: No, the final order of removal is at 1228\nFARRA, but it doesn't become final until after the CAT resolution.\nSo which is it?\n### Keith Bradley:\nSo I would say that there is a millimeter of deadline that will not matter.\nSo let me explain that.\nWe agree that the FARRA is an order of removal.\nWe agree with the government that that order of removal became final\nupon the conclusion of all of the administrative proceedings, when\neverything related -- relating to it was.\nIt -- it seems to us also that the Board's order was also an order of\nremoval that was, of course, final at the same time but you don't need\n### Justice Gorsuch:\nThat worries me with Nasrallah a little bit, if we were to say the CAT\norder is a final order of removal.\nThat seems to me to run head long into Nasrallah, but the government's\ntheory doesn't.\n### Keith Bradley:\nThe government's theory does not, I agree with you.\nAnd we share that theory as well.\nWe think that the FARRA was an order of removal that became final\nupon the completion of the proceedings.\n### Justice Gorsuch:\nIs there any other daylight between you and the government in this\ncase?\n### Keith Bradley:\nI can't think of any. Oh, actually, sorry, one more, which is that also not\nreally before the Court, which is that we think that the 30-day deadline\nis not -- is -- we agree that it's non-jurisdictional.\nWe think it's not mandatory either, but that --no -- no one is asking\nthe Court to decide that particular question.",
+      "justice_name": "Justice Gorsuch",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Gorsuch most likely ask next?",
+          "options": {
+            "A": "How does this case reflect on established removal procedures in immigration law?",
+            "B": "Is there any other daylight between you and the government in this\ncase?",
+            "C": "What are the potential consequences of the CAT order on removal jurisdiction?",
+            "D": "How does the CAT standard relate to this jurisdictional analysis?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Gorsuch",
+          "debug_info": {
+            "correct_answer": "Is there any other daylight between you and the government in this\ncase?",
+            "fake_questions": [
+              "How does the CAT standard relate to this jurisdictional analysis?",
+              "How does this case reflect on established removal procedures in immigration law?",
+              "What are the potential consequences of the CAT order on removal jurisdiction?"
+            ],
+            "all_generated_alternatives": [
+              "What specific grounds do you assert against the government's removal order?",
+              "How does the CAT standard relate to this jurisdictional analysis?",
+              "Is there a difference in finality between FARRA and CAT orders?",
+              "What is the government's position regarding the CAT order's effect?",
+              "How does this case reflect on established removal procedures in immigration law?",
+              "Can you clarify your stance on administrative versus judicial finality?",
+              "What implications does the CAT order hold for judicial review in this case?",
+              "Is the Board’s decision cited in your appeal process relevant here?",
+              "What was the timing of the agency's final decision in this case?",
+              "What are the potential consequences of the CAT order on removal jurisdiction?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 3
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 7,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\nGoing back to Justice Thomas's question about textual basis for your\nposition, are you relying at all on the zipper clause, 1252(b)(9)?\n### Keith Bradley:\nYes.\nWe --we certainly are because that is a sign that what we and the\ngovernment are -- are asking for is the sensible way to proceed.\nIt is very clear that Congress intends for there to be judicial review of\nCAT claims.\nAnd the zipper clause is telling you that everything should come up in\none petition.\nAnd how is that to be done? That is to be done by interpreting final to\nmean what -- when the agency is fully concluded with its process.\n### Justice Jackson:\nAnd you're getting your proposition that there is supposed to be judicial\nreview of CAT claims from 1252(a)(4)?\n### Keith Bradley:\nCorrect, which, of course, at least we read Nasrallah to have looked at\nthat provision and --and concluded that Congress did, indeed, intend\njudicial review of CAT claims.",
+      "justice_name": "Justice Jackson",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Jackson most likely ask next?",
+          "options": {
+            "A": "And you're getting your proposition that there is supposed to be judicial\nreview of CAT claims from 1252(a)(4)?",
+            "B": "How does equitable tolling apply to the deadlines established in immigration review under the statute?",
+            "C": "In what ways does the standard for judicial review of asylum claims differ from that of CAT claims?",
+            "D": "How does the zipper clause, 1252(b)(9), support your argument regarding judicial review in removal cases?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Jackson",
+          "debug_info": {
+            "correct_answer": "And you're getting your proposition that there is supposed to be judicial\nreview of CAT claims from 1252(a)(4)?",
+            "fake_questions": [
+              "How does the zipper clause, 1252(b)(9), support your argument regarding judicial review in removal cases?",
+              "In what ways does the standard for judicial review of asylum claims differ from that of CAT claims?",
+              "How does equitable tolling apply to the deadlines established in immigration review under the statute?"
+            ],
+            "all_generated_alternatives": [
+              "How does the zipper clause, 1252(b)(9), support your argument regarding judicial review in removal cases?",
+              "Are there specific procedural hurdles you must address before bringing judicial review for CAT claims?",
+              "What prior cases establish the framework for reviewing final removability decisions under this statute?",
+              "Can you clarify which legal standards govern the appeals process for administrative reviews as per section 1252?",
+              "How does the definition of finality impact the timing of judicial review for CAT claims in deportation cases?",
+              "In what ways does the standard for judicial review of asylum claims differ from that of CAT claims?",
+              "Could you explain how other provisions in the INA influence the judicial review of CAT orders?",
+              "What evidence do you have that Congress intended for a streamlined review process for CAT claims?",
+              "How does equitable tolling apply to the deadlines established in immigration review under the statute?",
+              "What are the implications of the jurisdictional bar on challenging CAT decisions in light of 1252(a)(4)?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 4
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 8,
+      "target_dialogue": "## Justice Alito\n### Justice Alito:\nYou've referred to common sense and a sensible way way to proceed. Do\nyou think that's a characteristic that can be found in our recent related\nimmigration decisions?\n### Keith Bradley:\nI'd rather not comment on that, if I could avoid it. (Laughter.)\n### Justice Alito:\nWell, let me ask you\n### Keith Bradley:\nBut the red light is on. But common sense is always the goal, I think,\nYour Honor.",
+      "justice_name": "Justice Alito",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Alito most likely ask next?",
+          "options": {
+            "A": "How does this impact future cases?",
+            "B": "Well, let me ask you",
+            "C": "What were the facts presented earlier?",
+            "D": "What are the implications for removability?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Alito",
+          "debug_info": {
+            "correct_answer": "Well, let me ask you",
+            "fake_questions": [
+              "What are the implications for removability?",
+              "How does this impact future cases?",
+              "What were the facts presented earlier?"
+            ],
+            "all_generated_alternatives": [
+              "Can you clarify your position?",
+              "What is the legal basis here?",
+              "How does this relate to precedent?",
+              "What are the implications for removability?",
+              "How is the standard of review applied?",
+              "What issues remain to be resolved?",
+              "What specific law is being interpreted?",
+              "How does this impact future cases?",
+              "What are the potential outcomes here?",
+              "What were the facts presented earlier?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 5
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 9,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Thomas? Anything further?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 10,
+      "target_dialogue": "## Justice Alito\n### Justice Alito:\n?\nI see the red light won't save you from this, my other question. Why\ndon't we just say it's a magic words test? You know, unless Congress\nsays it's jurisdictional, then it's not jurisdictional.\nThese cases are endlessly interesting and they fill up our docket, but I\ndon't know what --what statutory provision that doesn't have the\nmagic words will ever be held to be jurisdictional? Can you think of a\npossibility?\n### Keith Bradley:\nWell, we know three, of course, Your Honor ---\n### Justice Alito:\nThey have historical -- they have a historical pedigree.\n### Keith Bradley:\nExactly.\nI cannot speculate to how Congress might write a statute that would do\nthat, but I would --I would reiterate this particular one, given the\nstructure of the statute and the way the jurisdictional is used elsewhere\nin the statute, this deadline is -- is a straightforward one to conclude\nit's not jurisdictional.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 11,
+      "target_dialogue": "## Justice Sotomayor\n### Justice Sotomayor:\nThis statute -- oh, I'm sorry.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 12,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nNo, you're up.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 13,
+      "target_dialogue": "## Justice Sotomayor\n### Justice Sotomayor:\nThis statute is as clear as you can be.\n### Keith Bradley:\nYeah.\n### Justice Sotomayor:\nSome provisions say there's no jurisdiction.\n### Keith Bradley:\nExactly.\n### Justice Sotomayor:\nThis one doesn't.\n### Keith Bradley:\nCorrect, exactly.\n### Justice Sotomayor:\nAnd if Congress needed education, it certainly has enough opinions that\nsay: Just say it's jurisdictional, and tell us that no other further relief can\nbe given.\nCorrect?\n### Keith Bradley:\nAgreed.\n### Justice Sotomayor:\nAll right.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 14,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Kagan? Justice Gorsuch?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 15,
+      "target_dialogue": "## Justice Kavanaugh\n### Justice Kavanaugh:\n? Justice Barrett?\nJustice Jackson? Thank you, counsel. Mr. McDowell.\n### Ephraim McDowell:\nThank you Mr. Chief just and may it please the Court: On the first\nquestion presented, the 30-day filing deadline in Section 1252(b)(1) is\nnot jurisdictional.\nThat provision fails this Court's clear statement test, and Stone is not a\nbinding jurisdictional ruling.\nOn the second question, the petition here was timely because it was\nfiled within 30 days of the Board's CAT order.\nIn Section 1252(a)(4), Congress provided for judicial review of CAT\nclaims, and Nasrallah confirms that courts may review CAT orders\ntogether with removal orders.\nIt follows that a CAT order becomes final at the same time as a removal\norder so that challenges to both orders can be raised together in the\nsame petition for review.\nUnder amicus's position, many CAT claims would be unreviewable, but\nwhen Congress wanted to preclude judicial review in the INA, it did so\nexpressly.\nIt is unlikely that Congress would have precluded review of many claims\nindirectly by way of a generic 30 -day filing deadline.\nI welcome the Court's questions.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 16,
+      "target_dialogue": "## Justice Thomas\n### Justice Thomas:\nCan you give us an example of -- of a -- an instance in which a claim,\nclaim B can be considered with --or appeal B can be considered with\nappeal A, but appeal B actually expands the time limit for appeal A?\n### Ephraim McDowell:\nI think the best analogy is the one that",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 17,
+      "target_dialogue": "## Justice Sotomayor\n### Justice Sotomayor:\npointed to,\nwhich is that a conviction cannot be appealed until after the sentence,\neven though the sentence doesn't affect the validity of the conviction or\nmerge into the conviction.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 18,
+      "target_dialogue": "## Justice Thomas\n### Justice Thomas:\nOkay.\nLet's try the civil context.\nCan you think of any other provision?\n### Ephraim McDowell:\nI suppose there the way it would work in a -- in a remedial scheme, a\nremedial decision as opposed to a liability decision, the -- the remedial\ndecision wouldn't affect the liability decision, but we would still under\nthe final judgment principle not allow an appeal of the liability ruling\nuntil after the remedial decision is done.\nAnd I think the same basic logic applies here, because as Nasrallah\npoints out, a CAT order does not affect the validity of a removal order,\nbut our position is that the removal order doesn't become final until the\nend of CAT proceedings because that's when the agency has finished its\nwork on the case and disassociated itself from the case, which is the\nbasic final judgment principle that always applies in judicial review in\nthe courts of appeals.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 19,
+      "target_dialogue": "## Justice Gorsuch\n### Justice Gorsuch:\nMr. McDowell, can you give us some examples of -- you say that\nadopting amicus's view would leave certain CAT orders unreviewable.\nCan you give us some examples?\n### Ephraim McDowell:\nSo I think under his position, I thin k the CAT order in this case would be\nunreviewable because Petitioner didn't file the petition for review\nwithin 30 days of the Section 1228 removal.\n### Justice Gorsuch:\nI think your friend, though, in this case would say, well, he could have\ndone.\n### Ephraim McDowell:\nSo our point is that if you're referring to the premature protective\npetition scheme idea, I think that that -- there are two potential legal\nproblems there.\nOne is the zipper clause, which contemplates a single petition for review\nat the end of the case; whereas the premature filing of a petition\nsupplemented by a later filing related to the CAT claim, I think, runs\ncounter to that idea. I also think that if the Court were to adopt amicus's\nreading of the statute, one potential upshot of that is that Congress\nintended to foreclose review of these claims. And if Congress wanted to\nforeclose review of these claims, we don't see how courts and litigants\ncould adopt a work-around scheme to get around that.\nBut obviously our front-line position is that Congress did want review of\nthese claims.\n### Justice Gorsuch:\nI think your friend on the other side would say: Well, they can file these\nprotective appeals and courts of appeals can hold onto them and -- and\nthen when the CAT order matures, you're good to go.\nWould courts of appeals have to keep those notices of appeal on their\ndocket? Could they --could they -- is there a risk they might dismiss\nthem? I'm just not sure -- I --I've not held a notice of appeal on my\ndocket as an appellate court judge on the Tenth Circuit for, what, a year,\ntwo years while the CAT order is ongoing.\n### Justice Gorsuch:\nI just don't know. I haven't encountered that.\n### Ephraim McDowell:\nI think this points up another problem with this idea, which is that I\ndon't actually think it's a particularly effective way of preserving\njudicial review because these procedures lie within the discretion of the\ncourts of appeals.\nAnd so some courts of appeals may deny a motion to hold a case in\nabeyance.\nSo I think we would end up with a patchwork system where some circuits\nare generally preserving review of these claims; others are not.\nAnd there might be even variation within circuits.\nWe also see some other practical problems with the system.\nOne is that it leads to a flood of meritless prophylactic petitions which\nreally aren't challenging the removal order itself.\nThey're just a placeholder for a later decision that may actually go in the\nalien's favor.\nThe second problem is that it creates a trap for the unwary because\nmany people in this system are unrepresented and won't know that\nthey have to file this sort of counterintuitive protective petition.\nAnd then, finally, it does create administrative burdens for the courts\nand for the government.\nAnd what we've seen in practice is that many of these protective\npetitions end up being abandoned at the end of the day because the\nperson gets withholding relief or because they just don't want to pursue\nthe petition.\nSo it really is just a waste of resources in many cases.",
+      "justice_name": "Justice Gorsuch",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Gorsuch most likely ask next?",
+          "options": {
+            "A": "What implications arise if a court were to decide that a premature appeal could disrupt the comprehensive review intended by Congress under the immigration statutes?",
+            "B": "I think your friend on the other side would say: Well, they can file these\nprotective appeals and courts of appeals can hold onto them and -- and\nthen when the CAT order matures, you're good to go.\nWould courts of appeals have to keep those notices of appeal on their\ndocket? Could they --could they -- is there a risk they might dismiss\nthem? I'm just not sure -- I --I've not held a notice of appeal on my\ndocket as an appellate court judge on the Tenth Circuit for, what, a year,\ntwo years while the CAT order is ongoing.",
+            "C": "In a similar case, how might courts differentiate between the administrative closure of a removal order and the substantive review of CAT claims?",
+            "D": "Given the timeline of appeal processes, how does the expiration of the 30-day period affect a petitioner's ability to challenge the CAT order, particularly if the removal order is still being debated?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Gorsuch",
+          "debug_info": {
+            "correct_answer": "I think your friend on the other side would say: Well, they can file these\nprotective appeals and courts of appeals can hold onto them and -- and\nthen when the CAT order matures, you're good to go.\nWould courts of appeals have to keep those notices of appeal on their\ndocket? Could they --could they -- is there a risk they might dismiss\nthem? I'm just not sure -- I --I've not held a notice of appeal on my\ndocket as an appellate court judge on the Tenth Circuit for, what, a year,\ntwo years while the CAT order is ongoing.",
+            "fake_questions": [
+              "Given the timeline of appeal processes, how does the expiration of the 30-day period affect a petitioner's ability to challenge the CAT order, particularly if the removal order is still being debated?",
+              "What implications arise if a court were to decide that a premature appeal could disrupt the comprehensive review intended by Congress under the immigration statutes?",
+              "In a similar case, how might courts differentiate between the administrative closure of a removal order and the substantive review of CAT claims?"
+            ],
+            "all_generated_alternatives": [
+              "Given the timeline of appeal processes, how does the expiration of the 30-day period affect a petitioner's ability to challenge the CAT order, particularly if the removal order is still being debated?",
+              "Could the protective notice of appeal filed by the petitioner create a situation where the appellate court has to determine the standing of the CAT order independently from the removal proceedings?",
+              "In terms of case management, how do appellate courts typically handle overlapping issues of removal and CAT claims, especially when one is pending resolution?",
+              "If a petitioner files their appeal prematurely, what are the procedural implications for their subsequent ability to bring the matter to appellate court once the CAT order is finally resolved?",
+              "How might the courts interpret the zipper clause in the context of maintaining jurisdiction over CAT claims, especially if they are intertwined with removal orders?",
+              "What implications arise if a court were to decide that a premature appeal could disrupt the comprehensive review intended by Congress under the immigration statutes?",
+              "How does the concept of 'finality' in immigration law affect the treatment of pending CAT claims in relation to removal orders during the appeal process?",
+              "What is the significance of the timing in filing notices of appeal with respect to jurisdictional barriers imposed by the immigration authority's determinations?",
+              "In a similar case, how might courts differentiate between the administrative closure of a removal order and the substantive review of CAT claims?",
+              "What legal principles govern the remand of a CAT order, and how does this interaction play out regarding the finality of different administrative decisions?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 6
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 20,
+      "target_dialogue": "## Justice Sotomayor\n### Justice Sotomayor:\nCould I speculate and say you're right, if we accept amicus's argument,\nbasically CAT orders won't be reviewable because -- in those places\nwhere the courts don't want to stay the appeal of a petition for removal.\nThat would happen for aggravated felons, and some people might say,\nwell, that's a good thing.\nCongress didn't want them to delay deportation any longer than\nnecessary.\nSo I could see some people saying. Don't worry about those guys.\nOkay? But doesn't the Board in a fairly significant number of regular\nasylum cases, regular petitions for removal where the person's not an\naggravated felon or someone else who's done something other than be\nhere illegally, doesn't the Board often split those decisions?\n### Ephraim McDowell:\nIt does, Justice Sotomayor.\n### Justice Sotomayor:\nSo it affirms the petition for removal.\n### Ephraim McDowell:\nYes.\n### Justice Sotomayor:\nBut it remands.\n### Ephraim McDowell:\nThat's correct.\n### Justice Sotomayor:\nFor the CAT claims.\nAnd under amici's position, those people who are not aggravated\nfelons, those people then are deprived totally of the zipper clause,\ncorrect?\n### Ephraim McDowell:\nThat's right.\nAnd if I could just make two points in response to this idea.\nThe first, as --as to your initial premise about aggravated felons, I do\nthink that if Congress wanted to preclude judicial review of claims, of\nCAT claims for aggravated felons, it would have said so expressly.\nThat's what it did in Section 1252(a)(2)(C) when it -- when it precluded\naggravated felons from raising factual challenges to removal orders.\nBut as to this mixed decision idea, which we raise on pages 38 to 39 of\nour opening brief, you have it exactly right.\nI think the upshot of amicus's reading of the statutory definition would\nbe that there would be no review of the agency's withholding decision\non remand.\nAnd, again, that would be in an ordinary removal case, outside of the\nexpedited removal context.\nJudge Murphy's concurrence in the Sixth Circuit decision that we cite\nflags this exact issue and says that this is a potential spillover\nconsequence of reading Nasrallah and the statutory definition quite\nbroadly, as amicus is doing here.",
+      "justice_name": "Justice Sotomayor",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Sotomayor most likely ask next?",
+          "options": {
+            "A": "Is the jurisdictional nature of the zipper clause contested differently in other immigration appeals?",
+            "B": "How may judicial interpretations of finality differ for various categories of immigration cases?",
+            "C": "For the CAT claims.\nAnd under amici's position, those people who are not aggravated\nfelons, those people then are deprived totally of the zipper clause,\ncorrect?",
+            "D": "How do CAT orders affect individuals with criminal convictions in terms of reviewability under the zipper clause?"
+          },
+          "answer": "C",
+          "target_justice": "Justice Sotomayor",
+          "debug_info": {
+            "correct_answer": "For the CAT claims.\nAnd under amici's position, those people who are not aggravated\nfelons, those people then are deprived totally of the zipper clause,\ncorrect?",
+            "fake_questions": [
+              "How do CAT orders affect individuals with criminal convictions in terms of reviewability under the zipper clause?",
+              "How may judicial interpretations of finality differ for various categories of immigration cases?",
+              "Is the jurisdictional nature of the zipper clause contested differently in other immigration appeals?"
+            ],
+            "all_generated_alternatives": [
+              "How do CAT orders affect individuals with criminal convictions in terms of reviewability under the zipper clause?",
+              "Could Congress's intent regarding expedited removal applicability impact judicial review of CAT claims differently?",
+              "In what scenarios do non-aggravated felons retain rights under the zipper clause for their CAT claims?",
+              "Are the procedural requirements for filing CAT claims distinct from those for appeals on removal orders?",
+              "What implications do non-judicial determinations have on the reviewability of CAT claims?",
+              "How may judicial interpretations of finality differ for various categories of immigration cases?",
+              "Does the zipper clause apply uniformly to all individuals seeking review of their removal orders?",
+              "What role does the concept of equitable tolling play in judicial review of CAT claims?",
+              "Under what circumstances are individuals eligible to appeal CAT decisions whilst removal petitions are pending?",
+              "Is the jurisdictional nature of the zipper clause contested differently in other immigration appeals?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 7
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 21,
+      "target_dialogue": "## Justice Kavanaugh\n### Justice Kavanaugh:\nOn the first point, you seem to be suggesting that there's some kind of\nclear statement rule before Congress would deprive judicial review of\nCAT claims.\nI'm just wondering about the origins of that or if that's what you're\nsaying.\n### Ephraim McDowell:\nI -- I didn't mean to be suggesting a -- a clear statement rule.\nIt's a structural point about the INA.\nIn the INA, throughout the statute, when Congress wanted to preclude\nreview of categories of claims, we see it over and over that it does so\nwith express language.\nAnd here amicus is not pointing to any express language precluding\nreview of CAT claims by aggravated felons.\nInstead, he's pointing to what is really just a generic 30-day filing\ndeadline as a way of arguing that Congress indirectly or implicitly\nprecluded judicial review of these claims.\nAnd I just think that, as a structural matter, that's hard to square with\nthe INA, its context and its structure.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 22,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\nAnd haven't we also said in Guerrero -Lasprilla that there's a\npresumption of judicial review, that, you know, we not foreclose the\npossibility of judicial review over agency action unless there's clear and\nconvincing evidence that Congress intended that result?\n### Ephraim McDowell:\nThat's right, Justice Jackson.\nWe don't think you actually need to get to the presumption in this case\nbecause we think the statutory structure and the context are\nsufficiently clear to show that Congress wanted review of these claims,\nparticularly Section 1252(a)(4), which is what I referenced in my\nintroduction.\nBut we don't deny that if the statute were truly ambiguous, that the\npresumption would apply here.\nWe just don't think you need to get to that here.\nAnd just to get back to the Section 1252(a)(4) point,",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 23,
+      "target_dialogue": "## Justice Thomas\n### Justice Thomas:\n,\nthat is express textual evidence that Congress wanted there to be\njudicial review of CAT claims.\nAnd I think it stands to reason -- and then we also have Nasrallah, which\nsays that CAT orders are reviewable together with removal orders.\nAnd so I think it really does stand to reason that a CAT order must\nbecome final at the same time as a removal order so that a person can\nconsolidate challenges to both orders into the same petition for review,\nwhich is what the zipper clause contemplates.\nAnother way of seeing the same point is that it's unlikely that Congress\nwould have given express textual evidence that CAT claims are\nreviewable but at the same time written a deadline so short as to render\nmany of those claims unreviewable.\nNormally, Congress doesn't give with the one hand and then take with\nthe other in that sort of manner.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 24,
+      "target_dialogue": "## Justice Alito\n### Justice Alito:\nUnder your position, is it the case that an order that is final is rendered\nnon-final by the filing of the subsequent application?\n### Ephraim McDowell:\nNo, that's not our position.\nOur position is that when a person has a withholding-only claim, the\nSection 1228(b) removal order does not ever become final until the\nwithholding-only claim is resolved. It's not that it is final, then becomes\nnon-final.\nIt's that it never became final in the first instance until those\nproceedings are resolved.\n### Justice Alito:\nOkay.\nWhat is the time requirement for filing a withholding-only claim?\n### Ephraim McDowell:\nThe regulations contemplate that there -- that the claim is raised when\nwith the agency before the Section 1228(b) removal order is issued.\nAnd here it was --it was raised immediately after. So if there were a\nsituation where a person didn't raise it for 30 days after th e entry of the\nSection 1228(b) removal order, we would agree that at that point, the\norder would be final and the petition for review timeline would have run.\nBut here, and as -- as is usually the case under the regulations, these\nclaims are brought contemporaneously with the entry of the Section\n1228 removal order.\nThe problem is that the resolution of those claims takes much longer\nbecause these are often very fact -intensive claims, as opposed to a\nSection 1228(b) removal order, which has very little process because it's\nmeant to be expedited.\n### Justice Alito:\nAnd how long -- do you know, by any chance, how long on average it\ntakes to resolve CAT claims?\n### Ephraim McDowell:\nWe don't have exact numbers, but my sense is it usually takes several\nmonths if it's a real -- if it's a serious claim.\nIf it's a meritless claim, these can be resolved fairly quickly because the\nasylum officer will say that there's no negative -- or there's no\nreasonable fear.\nThen the immigration judge will sustain that.\nAnd both of those officers have to make those decisions within a 10-day\nspan.\nSo they can sometimes be resolved relatively quickly.\nBut here, when it's a serious claim, here the IJ actually found that he was\nentitled to CAT -- to CAT relief, and then that was reversed by the BIA.\nWhen it's a serious claim like that, it could sometimes take several\nmonths to even over a year.\nThe dissent in Guzman Chavez pointed to some instances where they\ntook multiple years, I believe.\n### Justice Alito:\nSo as between the two -- in light of that, as between these two options,\nwhich one is preferable and why? The first would be the requirement\nthat a prophylactic petition for review be filed, and the second would be\nyour position that there's no need to do anything until after the CAT\nclaim is resolved.\nDo you think that your -- that there's a risk that your position would\nlead to greater delay?\n### Ephraim McDowell:\nI don't think it would lead to greater delay because people are going to\nhave incentives to bring these withholding-only claims no matter what\nbecause they can always bring the claim before the agency, and the\nremoval order will be stayed pendency --pending the agency's\nresolution of the claim.\nSo these claims are going to be brought either way if there's a plausible\nreason to bring them.\nand I'm setting aside the protective scheme which I've already\ndiscussed -- but the delay here would be the time needed for the court\nof appeals to review the withholding -only determination. I also want to\njust point out, in terms -- in terms of the -- any public safety concerns\nabout giving this additional time or additional process to aggravated\nfelons, it's important to bear in mind that they can be detained\nthroughout the entirety of the agency proceedings, as well as\nsubsequent judicial review proceedings.\nAnd this Court affirmed that power in Guzman Chavez.",
+      "justice_name": "Justice Alito",
+      "total_justice_questions": 4,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Alito most likely ask next?",
+          "options": {
+            "A": "Okay.\nWhat is the time requirement for filing a withholding-only claim?",
+            "B": "What is the filing process for a CAT claim?",
+            "C": "What timeframe is allowed for submitting a removal application?",
+            "D": "What is the effect of administrative delays on filing claims?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Alito",
+          "debug_info": {
+            "correct_answer": "Okay.\nWhat is the time requirement for filing a withholding-only claim?",
+            "fake_questions": [
+              "What is the filing process for a CAT claim?",
+              "What timeframe is allowed for submitting a removal application?",
+              "What is the effect of administrative delays on filing claims?"
+            ],
+            "all_generated_alternatives": [
+              "What legal standard governs the resolution of withholding claims?",
+              "How do appeal timelines differ for final removal orders?",
+              "What is the filing process for a CAT claim?",
+              "What timeframe is allowed for submitting a removal application?",
+              "Which entities are involved in adjudicating withholding claims?",
+              "How does the jurisdiction of appellate courts play a role?",
+              "What legal arguments are available for challenging removal orders?",
+              "What statutory definitions apply to final removal decisions?",
+              "When can a removal order be contested in court?",
+              "What is the effect of administrative delays on filing claims?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 4
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 8
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Alito most likely ask next?",
+          "options": {
+            "A": "How often do CAT claims result in a stay of removal during the appeal process?",
+            "B": "What factors affect the length of proceedings in immigration court for CAT claims?",
+            "C": "And how long -- do you know, by any chance, how long on average it\ntakes to resolve CAT claims?",
+            "D": "How does the average timeline for CAT claims compare to that of asylum petitions?"
+          },
+          "answer": "C",
+          "target_justice": "Justice Alito",
+          "debug_info": {
+            "correct_answer": "And how long -- do you know, by any chance, how long on average it\ntakes to resolve CAT claims?",
+            "fake_questions": [
+              "What factors affect the length of proceedings in immigration court for CAT claims?",
+              "How does the average timeline for CAT claims compare to that of asylum petitions?",
+              "How often do CAT claims result in a stay of removal during the appeal process?"
+            ],
+            "all_generated_alternatives": [
+              "What factors affect the length of proceedings in immigration court for CAT claims?",
+              "How long is the standard deadline for filing an appeal against a Section 1228(b) removal order?",
+              "Can you explain the different standards of review applied to CAT claims versus removal orders?",
+              "What are the procedural steps involved in resolving a CAT claim once it is filed?",
+              "How does the average timeline for CAT claims compare to that of asylum petitions?",
+              "What is the significance of the agency's final decision in determining the timeline for appeal?",
+              "How long does it usually take to finalize a removal order under Section 1228(b)?",
+              "Are there any statutory limits on how long the agency can take to resolve CAT claims?",
+              "How often do CAT claims result in a stay of removal during the appeal process?",
+              "What is the typical processing time for initial applications for withholding of removal?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 4
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 8
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Alito most likely ask next?",
+          "options": {
+            "A": "So as between the two -- in light of that, as between these two options,\nwhich one is preferable and why? The first would be the requirement\nthat a prophylactic petition for review be filed, and the second would be\nyour position that there's no need to do anything until after the CAT\nclaim is resolved.\nDo you think that your -- that there's a risk that your position would\nlead to greater delay?",
+            "B": "In scenarios where multiple claims are present, why might it be more beneficial to separate the review processes for removal and CAT claims?",
+            "C": "Would adopting an early prophylactic petition requirement improve the clarity of the process for all parties involved in cases stemming from CAT denials?",
+            "D": "Considering the timeline for resolving a CAT claim, do you believe that a single appeal encompassing both the removal order and the CAT claim would result in a more efficient process overall?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Alito",
+          "debug_info": {
+            "correct_answer": "So as between the two -- in light of that, as between these two options,\nwhich one is preferable and why? The first would be the requirement\nthat a prophylactic petition for review be filed, and the second would be\nyour position that there's no need to do anything until after the CAT\nclaim is resolved.\nDo you think that your -- that there's a risk that your position would\nlead to greater delay?",
+            "fake_questions": [
+              "Considering the timeline for resolving a CAT claim, do you believe that a single appeal encompassing both the removal order and the CAT claim would result in a more efficient process overall?",
+              "In scenarios where multiple claims are present, why might it be more beneficial to separate the review processes for removal and CAT claims?",
+              "Would adopting an early prophylactic petition requirement improve the clarity of the process for all parties involved in cases stemming from CAT denials?"
+            ],
+            "all_generated_alternatives": [
+              "Considering the timeline for resolving a CAT claim, do you believe that a single appeal encompassing both the removal order and the CAT claim would result in a more efficient process overall?",
+              "What implications would arise if Congress mandated filing separate petitions for CAT claims preceding the appeal of a removal order?",
+              "Is it feasible that adopting a single comprehensive review process for both removal and CAT claims would inadvertently lead to more procedural complications?",
+              "If the timing for CAT claims could be expedited, how might that impact the need for prophylactic petitions in removal cases?",
+              "In terms of administrative efficiency, how does your argument regarding withholding claims compare to the necessity of filing timely petitions for review?",
+              "Could you elaborate on potential advantages of having distinct timelines for filing claims versus your position that everything should be unified after CAT resolution?",
+              "Would adopting an early prophylactic petition requirement improve the clarity of the process for all parties involved in cases stemming from CAT denials?",
+              "What are the standard judicial review mechanisms for immigration cases that do not involve withholding-only claims, and how do they differ from your position?",
+              "If the agency were to change its regulations regarding the CAT order process, how would that impact your argument concerning the finality of removal orders?",
+              "In scenarios where multiple claims are present, why might it be more beneficial to separate the review processes for removal and CAT claims?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 4,
+            "total_questions_in_conversation": 4
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 8
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 25,
+      "target_dialogue": "## Justice Kagan\n### Justice Kagan:\nSo just as a matter of government practice, when you have the order of\nremoval but the CAT proceedings have not yet been concluded, what\ndoes the government feel itself free to do with the alien?\n### Ephraim McDowell:\nSo we -- the removal order would be stayed as to the designated\ncountry of removal.\nSo we would not be able to remove the person to that country.\nThere is this issue of third-country removal.\nAnd in that circumstance, I --I want to first point out that under Title 8,\nDHS does not pursue third -party -- third-country removal while the\nwithholding-only proceedings are ongoing.\n### Justice Kagan:\nSo let me --let me make sure I understand that.\n### Ephraim McDowell:\nThat's right.\n### Justice Kagan:\ndoesn't have a CAT --CAT claim, but, in fact, the U.S. government does\nnot exercise that right?\n### Ephraim McDowell:\nUnder Title 8 we --we do not do that as a matter of practice.\nWe do think we have the legal authority to do that, with the following\ncaveat: We would have to give the person notice of the third country and\ngive them the opportunity to raise a reasonable fear of torture or\npersecution in that third country.\nIf they raise that reasonable fear, the withholding-only proceedings\nwould simply continue.\nThey would just focus on the new country, rather than the original one.\n### Justice Kagan:\nBut you don't have the legal power to remove the person to the country\nfor which there is a pending CAT claim?\n### Ephraim McDowell:\nThat's exactly right. The regulate --the regulations prohibit that. And\nthat's another reason why we think that -- that confirms that the\nremoval order doesn't actually become final until the end of\nwithholding-only proceedings. The withholding-only proceedings\naffect the implementation of the removal order for that very reason.\nIf a person is granted CAT protection, that means that the person cannot\nbe removed to the designated country of removal.",
+      "justice_name": "Justice Kagan",
+      "total_justice_questions": 3,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Kagan most likely ask next?",
+          "options": {
+            "A": "What rights does an alien have regarding reporting their case to the appropriate authorities?",
+            "B": "doesn't have a CAT --CAT claim, but, in fact, the U.S. government does\nnot exercise that right?",
+            "C": "Does the government have limitations on the removal of aliens with pending claims?",
+            "D": "How does the government handle cases where there is a pending application for asylum?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Kagan",
+          "debug_info": {
+            "correct_answer": "doesn't have a CAT --CAT claim, but, in fact, the U.S. government does\nnot exercise that right?",
+            "fake_questions": [
+              "Does the government have limitations on the removal of aliens with pending claims?",
+              "How does the government handle cases where there is a pending application for asylum?",
+              "What rights does an alien have regarding reporting their case to the appropriate authorities?"
+            ],
+            "all_generated_alternatives": [
+              "What procedural steps must an alien take to challenge their removal order in court?",
+              "Does the government have the discretion to delay an alien's removal for any reason?",
+              "What rights does an alien have regarding reporting their case to the appropriate authorities?",
+              "How does the government handle cases where there is a pending application for asylum?",
+              "How can an alien argue against an expedited removal order in this scenario?",
+              "Does the government have limitations on the removal of aliens with pending claims?",
+              "What timelines govern the judicial review for CAT claims and their relation to removal orders?",
+              "How does the absence of a CAT claim affect the government's obligations under immigration law?",
+              "Are third-country removals permitted while a CAT claim is being reviewed?",
+              "What are the implications of a CAT claim on an alien's eligibility for other forms of relief?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 9
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Kagan most likely ask next?",
+          "options": {
+            "A": "But you don't have the legal power to remove the person to the country\nfor which there is a pending CAT claim?",
+            "B": "Can the U.S. government initiate removal proceedings while CAT claims are being reviewed?",
+            "C": "Does the legal authority to remove an individual vary once a CAT claim is filed?",
+            "D": "How does the Fifth Amendment influence the execution of removal proceedings?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Kagan",
+          "debug_info": {
+            "correct_answer": "But you don't have the legal power to remove the person to the country\nfor which there is a pending CAT claim?",
+            "fake_questions": [
+              "Can the U.S. government initiate removal proceedings while CAT claims are being reviewed?",
+              "Does the legal authority to remove an individual vary once a CAT claim is filed?",
+              "How does the Fifth Amendment influence the execution of removal proceedings?"
+            ],
+            "all_generated_alternatives": [
+              "Is the government allowed to detain an individual while their CAT claim is still pending?",
+              "What criteria must be met for a CAT claim to be valid in immigration proceedings?",
+              "Can the U.S. government initiate removal proceedings while CAT claims are being reviewed?",
+              "Does the legal authority to remove an individual vary once a CAT claim is filed?",
+              "Are there additional steps entailed in a CAT claim process when a removal order exists?",
+              "What legal principles govern the review of CAT claims within immigration law?",
+              "Could a pending CAT claim affect the outcome of a concurrent removal order?",
+              "How does the Fifth Amendment influence the execution of removal proceedings?",
+              "What timeline is set for resolving CAT claims compared to removal orders?",
+              "Would third-country removals be permissible while a CAT claim is under consideration?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 9
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 26,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nJustice Thomas, anything further?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 27,
+      "target_dialogue": "## Justice Thomas\n### Justice Thomas:\nWould the party have to request consolidation with the removal order\nproceedings?\n### Justice Thomas:\nYeah.\n### Ephraim McDowell:\nnot become final until the end of the CAT proceedings.\nOnly after the CAT proceedings conclude would the person be able to file\nthe petition for review.\nIt would be exactly the way it works in -- in --in ordinary litigation,\nwhere the appeal is filed after the entirety of the district court\nproceedings have come to a conclusion.\nThat's what we're proposing here.\n### Justice Thomas:\nSo how would that work in -- in -- in -- in this case? You -- you have a\nremoval order that -- that's being appealed, right? A final order?\n### Ephraim McDowell:\nSo --so in this case, the Petitioner brought his petition for review after\nthe CAT order was issued.\n### Justice Thomas:\nYeah.\n### Ephraim McDowell:\nAnd we are saying that that was okay because the order of removal did\nnot become final until the end of the CAT proceedings.\nSo his petition here was timely because it was within 30 days of the CAT\norder. And the CAT order was what rendered the removal order final.",
+      "justice_name": "Justice Thomas",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Thomas most likely ask next?",
+          "options": {
+            "A": "Are appeals of removal orders automatically stayed when a CAT claim is pending? If so, how is that determined?",
+            "B": "What are the implications of appealing the removal order versus appealing the subsequent CAT decision in this particular case?",
+            "C": "So how would that work in -- in -- in -- in this case? You -- you have a\nremoval order that -- that's being appealed, right? A final order?",
+            "D": "How might the outcome differ if the removal order was not final? Would that affect your ability to appeal?"
+          },
+          "answer": "C",
+          "target_justice": "Justice Thomas",
+          "debug_info": {
+            "correct_answer": "So how would that work in -- in -- in -- in this case? You -- you have a\nremoval order that -- that's being appealed, right? A final order?",
+            "fake_questions": [
+              "What are the implications of appealing the removal order versus appealing the subsequent CAT decision in this particular case?",
+              "How might the outcome differ if the removal order was not final? Would that affect your ability to appeal?",
+              "Are appeals of removal orders automatically stayed when a CAT claim is pending? If so, how is that determined?"
+            ],
+            "all_generated_alternatives": [
+              "What are the implications of appealing the removal order versus appealing the subsequent CAT decision in this particular case?",
+              "In a situation where a removal order is contested, what procedural requirements must a petitioner follow to ensure judicial review?",
+              "How might the outcome differ if the removal order was not final? Would that affect your ability to appeal?",
+              "Can you explain how this appeal interacts with the principle of judicial review in immigration cases?",
+              "How would the finality of a CAT decision influence the timing and process of appealing the removal order under review?",
+              "What legal principles govern the ability to consolidate appeals from multiple immigration decisions?",
+              "What would happen if the removal order was contested at the same time as the initial application for CAT relief?",
+              "How does the Court determine jurisdiction over petitions related to removal orders and CAT claims?",
+              "Are appeals of removal orders automatically stayed when a CAT claim is pending? If so, how is that determined?",
+              "What is the significance of the zipper clause in determining the process for appealing classic immigration decisions?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 10
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 28,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Alito, anything?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 29,
+      "target_dialogue": "## Justice Sotomayor\n### Justice Sotomayor:\nIn this case, if we were to hold that the 3 0-day deadline is not\njurisdictional --not jurisdictionally waiveable, and if we disagree with\nyou and accept the amicus's second position that a final order of\nremoval is final when it's issued, regardless of the CAT, will the\ngovernment honor their commitment to waive the deadline for Mr.\n### Ephraim McDowell:\nYes, we would.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 30,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Kagan? Justice Gorsuch?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 31,
+      "target_dialogue": "## Justice Barrett\n### Justice Barrett:\n? Justice Jackson? Thank\nyou, counsel. Mr. Hammer.\n### Stephen J. Hammer:\nMr. Chief Justice and may it please the Court: Congress has barred courts\nfrom reviewing claims under the Convention Against Torture except on\na petition for review of a final order of removal.\nUnder Section 1252(b)(1) such a petition must be filed not later than 30\ndays after the date of the final order of removal.\nThe Fourth Circuit correctly held that Mr. Riley's failure to comply with\nthat deadline meant it was jurisdictionally barred from reviewing his\npetition.\nThe Fourth Circuit rightly recognized that the filing deadline is\njurisdictional.\nThis Court already held as much in Stone, which is a jurisdictional\nprecedent in both reasoning and result. And Santos-Zacaria, which was\nfocused on the INA's separate exhaustion provision, didn't disturb the\ndeadline's jurisdictional status.\nThe Fourth Circuit also correctly held that Mr. Riley's petition was\nuntimely.\nThe only order of removal in this case is the final administrative removal\norder.\nSection 1228(b), the INA's statutory definition of a final order of\nremoval, and Section 1231 all confirm that a final administrative\nremoval order is, as its name indicates, final when issued.\nAnd as this Court explained in Guzman Chavez, the finality of the order\nof removal does not depend in any way on the outcome of the\nwithholding-only proceedings.\nBecause Mr. Riley failed to file his petition for review within 30 days of\nhis final order of removal, the Fourth Circuit correctly dismissed it as\nuntimely.\nI welcome the Court's questions.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 32,
+      "target_dialogue": "## Justice Thomas\n### Justice Thomas:\nHow do you respond to the arguments that have been made this\nmorning that the --that this expands the time for the removal order?\n### Stephen J. Hammer:\nI think that the statutory deadline requires filing the order -- filing the\npetition for review within 30 days of the final order of removal.\nAnd I think statutory text and context make clear that a final\nadministrative removal order is final when it is issued.\n### Justice Thomas:\nSo what do you make of the argument that --you know, I asked the\nother side whether or not -- what textual basis they had for this.\nAnd, of course, their --I don't think there's much, but would you\naddress that?\n### Stephen J. Hammer:\nYour Honor, the only textual basis that this Court has recognized for\njudicial review of a CAT claim comes from filing the petition for review of\na final order of removal, in compliance with the requirements of 1252.\nNasrallah explained that that allows the Court to review a CAT claim\nalongside a final order of removal.\nBut if an alien does not file a petition for review within 30 days of the\nfinal order of removal, the Court does not --is not able to review the CAT\nclaim.",
+      "justice_name": "Justice Thomas",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Thomas most likely ask next?",
+          "options": {
+            "A": "What role does equitable tolling play in extending deadlines for challenging removal orders as opposed to CAT claims?",
+            "B": "Can you provide a textual foundation for the government's assertion regarding the jurisdictional limits of this removal order's appeal process?",
+            "C": "How does the statutory framework address the timeline for challenging a removal order versus appealing a CAT decision?",
+            "D": "So what do you make of the argument that --you know, I asked the\nother side whether or not -- what textual basis they had for this.\nAnd, of course, their --I don't think there's much, but would you\naddress that?"
+          },
+          "answer": "D",
+          "target_justice": "Justice Thomas",
+          "debug_info": {
+            "correct_answer": "So what do you make of the argument that --you know, I asked the\nother side whether or not -- what textual basis they had for this.\nAnd, of course, their --I don't think there's much, but would you\naddress that?",
+            "fake_questions": [
+              "Can you provide a textual foundation for the government's assertion regarding the jurisdictional limits of this removal order's appeal process?",
+              "How does the statutory framework address the timeline for challenging a removal order versus appealing a CAT decision?",
+              "What role does equitable tolling play in extending deadlines for challenging removal orders as opposed to CAT claims?"
+            ],
+            "all_generated_alternatives": [
+              "Can you provide a textual foundation for the government's assertion regarding the jurisdictional limits of this removal order's appeal process?",
+              "What are your thoughts on how the standard for judicial review impacts the timing of a petition for relief under these circumstances?",
+              "Can you clarify the difference between the finality of a removal order and the implications of a pending CAT claim?",
+              "How does the statutory framework address the timeline for challenging a removal order versus appealing a CAT decision?",
+              "What is your opinion on the procedural requirements for appealing a removal order, especially concerning the involvement of the Board?",
+              "Could you explain how the legal definitions surrounding final orders influence the appeals process in this case?",
+              "In terms of statutory interpretation, how significant is the difference between an administrative final order and a final judicial order in this context?",
+              "What role does equitable tolling play in extending deadlines for challenging removal orders as opposed to CAT claims?",
+              "How do the procedural protections for due process affect the viability of judicial review in these removal order cases?",
+              "What are the implications of your argument for the jurisdictional constraints typically applied to removal petitions in immigration cases?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 11
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 33,
+      "target_dialogue": "## Justice Kagan\n### Justice Kagan:\nWell, you seem to be assuming that there is a final order of removal, but\nmaybe it's not final until the CAT claim has been resolved.\nIn other words, what this order of removal is saying -- it has, sort of, two\nparts: First, you're removable; and, second, we're going to remove you\nto country X.\nAnd that second part, which is within, you know, you're removable to\ncountry X, that's provisional.\nIt's -- it's only country X if you fail on your CAT claim.\nSo there's --there's sort of, like, nothing final about a significant aspect\nof this order.\n### Stephen J. Hammer:\nSo I disagree, Your Honor.\nNasralla h made clear that CAT relief doesn't affect the validity of the\norder of removal and does not disturb the final order of removal.\nAnd Guzman Chavez repeated all of that by making clear that\nwithholding-only does not affect the finality of an order of removal.\nAnd with respect to what the final order of removal here actually says, I\nwould direct the Court to page 8 of the Joint Appendix, which says that\nMr. Riley was ordered removed to Jamaica or any alternate country\nproscribed by Section 1231.\nSo there wasn't any need -- there wouldn't be any need for\namendment.\nThe alternate countries are already list -- already there, provided by the\nfinal administrative removal order, Your Honor.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 34,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\nI don't understand your distinguishing Santos -Zacaria.\nIt seems to me that if Sto ne's jurisdictional language was binding in the\nway that you claim, that it would have governed the outcome in that\ncase as well. Because both of them are in the same provision related to\njudicial review.\nSo can you just help me to parse them in the way that you have done?\n### Stephen J. Hammer:\nYes, Your Honor.\nI think Stone is a jurisdictional holding as to the filing deadline that it\nactually considered.\nI take Santos-Zacaria -- Zacaria to be responding to the government's\nargument in that case that the entirety of the INA's judicial review\nprovision, everything in Section 1252, was jurisdictional.\nAnd Santos -Zacaria's comments were in reflection to that. But it was\nnot --I don't take any of the comments in Santos -Zacaria to be saying\nthat Stone was not jurisdictional in any respect, even with regard to the\nfiling deadline that it did consider.\nIf Santos-Zacaria had been saying that, it would not have needed to go\non with that paragraph to point out that Stone did not address the\nexhaustion provision that was at issue in Santos-Zacaria.\n### Justice Jackson:\nWell, true -- it's true that Santos -Zacaria came up in a particular\ncontext, but it was responding to the assertion that Stone established\nthe jurisdictional nature of this.\nAnd I thought Santos -Zacaria pointed out that Stone was a drive -by\njurisdictional holding, it was pre-Arbaugh, it really didn't do the -- the\nwork that was necessary to establish a binding holding related to the\njurisdictional provision.\n### Stephen J. Hammer:\nSo, Your Honor, I don't understand either of the comments in Santos -\nZacaria to be saying Stone was not jurisdictional with respect to the\nfiling deadline. You have the \"did not attend to\" comment in Santos-\nZacaria.\nI understand that t o be a --a reference to not applying Arbaugh's clear\nstatement rule.\nYou have the \"was not central\" comment, and I think that is a reflection\nof the government's argument in Santos -Zacaria about the entirety of\n### Justice Jackson:\nAll right.\nWell, play out the counterfactual.\nIf you're right that Santos-Zacaria was not talking about the\njurisdictional nature of the provision that Stone was looking at, where\ndoes that leave Santos -Zacaria?\n### Stephen J. Hammer:\nWell, Your Honor, I think it could be a reflection on the entirety of the\ngovernment's argument in that case that the entirety of the INA's\njudicial review provision far beyond the filing deadline was not\njurisdictional.\nBut even if I'm wrong about those comments and those comments were\nmeant to say that Stone was not jurisdictional in any respect, even with\nregard to the filing deadline that it did consider, I don't think that was a\nnecessary to the result in Santos -Zacaria. Santos-Zacaria was focused\nonly on the separate exhaustion provision that was not at issue in Stone.\nAnd I think I would take the lesson from this Court's decision in Thryv to\nbe that when the issue is what this Court held in a prior decision, this\nCourt should look to that prior decision and not a subsequent opinion\ninterpreting it.",
+      "justice_name": "Justice Jackson",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Jackson most likely ask next?",
+          "options": {
+            "A": "All right.\nWell, play out the counterfactual.\nIf you're right that Santos-Zacaria was not talking about the\njurisdictional nature of the provision that Stone was looking at, where\ndoes that leave Santos -Zacaria?",
+            "B": "What does the legacy of Stone imply for the treatment of jurisdictional language in future INA cases by the courts?",
+            "C": "If the argument about Stone's jurisdictional nature is correct, how does it impact the precedent set by prior cases regarding judicial review under the INA?",
+            "D": "If we assume Santos-Zacaria did establish limits on jurisdiction, how would that conflict with the established precedents of the INA as understood in Stone?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Jackson",
+          "debug_info": {
+            "correct_answer": "All right.\nWell, play out the counterfactual.\nIf you're right that Santos-Zacaria was not talking about the\njurisdictional nature of the provision that Stone was looking at, where\ndoes that leave Santos -Zacaria?",
+            "fake_questions": [
+              "If the argument about Stone's jurisdictional nature is correct, how does it impact the precedent set by prior cases regarding judicial review under the INA?",
+              "What does the legacy of Stone imply for the treatment of jurisdictional language in future INA cases by the courts?",
+              "If we assume Santos-Zacaria did establish limits on jurisdiction, how would that conflict with the established precedents of the INA as understood in Stone?"
+            ],
+            "all_generated_alternatives": [
+              "If the argument about Stone's jurisdictional nature is correct, how does it impact the precedent set by prior cases regarding judicial review under the INA?",
+              "Considering the implications of Santos-Zacaria, what can we conclude about the court's interpretation of jurisdictional issues in subsequent cases?",
+              "If we assume Santos-Zacaria did establish limits on jurisdiction, how would that conflict with the established precedents of the INA as understood in Stone?",
+              "What alternative interpretations exist regarding the jurisdictional elements discussed in both Stone and Santos-Zacaria that could guide this court's ruling?",
+              "Given the context of Santos-Zacaria, could this case suggest that Stone's findings may need re-evaluation in light of current judicial standards?",
+              "What does the legacy of Stone imply for the treatment of jurisdictional language in future INA cases by the courts?",
+              "How do the findings in Santos-Zacaria challenge the assumptions typically made about the jurisdictional aspects of prior immigration statutes?",
+              "If Santos-Zacaria's interpretation is correct, how does it create tension with the principles outlined in Stone concerning other jurisdictional claims?",
+              "If we consider the jurisdictional nuances discussed in Stone, how might that inform the outcome of related INA claims moving forward?",
+              "What role does statutory interpretation play in understanding the relationship between the jurisdictional findings in Stone and the analysis in Santos-Zacaria?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 12
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 35,
+      "target_dialogue": "## Justice Barrett\n### Justice Barrett:\nMr. Hammer, can you think of another situation in which judicial review\nis precluded just by virtue of the way the fast-track --or the two-track\nsystem works? In other words, we're not looking at a situation -- I\nmean, putting aside the zipper clause, but we're not looking at a\nsituation where Congress has said in -- expressly that in this situation\nwhere you have fast-track removal, judicial review is precluded.\nIt's simply by operation of the fact that the removal order is going to\nhave to be executed before the withholding claim gets all the way\nthrough.\nIs there another situation like that?\n### Stephen J. Hammer:\nSo two responses, Your Honor.\nFirst, I don't think judicial review of orders concluding withholding-only\nproceedings is precluded by the Fourth Circuit's reading. The parties\nhave identified various ways by which aliens could obtain review of\nthose orders.\n### Justice Barrett:\nSo let's -- if -- if those aren't, let's -- in this hypothetical, just assume\nthose are off the table.\n### Stephen J. Hammer:\nYes, Your Honor.\nIf those are off the table, if those are not valid, then I think this is a\nunique form of judicial review.\nI'm not aware of another one that is like this.\nIt allows CAT claims to be reviewed but only if you file a petition for\nreview of a final order of removal.\nSo I'm not aware of an -- an analogy to it, but I don't think it would be\nsurprising, if Congress meant to restrict judicial review, that it would do\nit for these particular classes of aliens, aliens who have been convicted\nof felon -- felonies and illegal reentrance.\nThat would not be a surprising class, given Congress's interest in\nexpediting the removal of those aliens.\n### Justice Barrett:\nIs that consistent with the presumption of judicial review?\n### Stephen J. Hammer:\nSo, again, front -line position is that I think there are means available to\nget judicial review.\nSetting that aside, I don't think the presumption -- I don't think the\nCourt needs to resort to the presumption, given the plain meaning of\nthe filing deadline.\n### Justice Barrett:\nWould you say, then, that your argument, maybe not hinges, but is\nhelped significantly by the available of these alternate routes?\n### Stephen J. Hammer:\nI think it is helped, but I don't -- I think it's helped, I don't think the\npresumption needs to be raised at all because I don't think the text is\nambiguous with respect to what the meaning of a final -- \"final order of\nremoval\" is, Your Honor.",
+      "justice_name": "Justice Barrett",
+      "total_justice_questions": 3,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Barrett most likely ask next?",
+          "options": {
+            "A": "Can courts review expedited removal orders effectively?",
+            "B": "Is that consistent with the presumption of judicial review?",
+            "C": "Does this align with statutory interpretation principles?",
+            "D": "What implications does this have for deportation procedures?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Barrett",
+          "debug_info": {
+            "correct_answer": "Is that consistent with the presumption of judicial review?",
+            "fake_questions": [
+              "Does this align with statutory interpretation principles?",
+              "What implications does this have for deportation procedures?",
+              "Can courts review expedited removal orders effectively?"
+            ],
+            "all_generated_alternatives": [
+              "Does this align with statutory interpretation principles?",
+              "What does due process require in withholding claims?",
+              "Can courts review expedited removal orders effectively?",
+              "How does finality affect judicial review of orders?",
+              "What procedural protections exist for expedited removal?",
+              "Is there a statutory basis for this judicial review?",
+              "What additional requirements are needed for judicial review?",
+              "How does this apply to administrative agency decisions?",
+              "What implications does this have for deportation procedures?",
+              "Is judicial review always available in immigration cases?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 13
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Barrett most likely ask next?",
+          "options": {
+            "A": "How would your argument change without the consideration of administrative procedures in this context?",
+            "B": "How do alternative routes influence the final decision in cases concerning expedited removal orders?",
+            "C": "What impact does the zipper clause have on your argument regarding judicial review in this case?",
+            "D": "Would you say, then, that your argument, maybe not hinges, but is\nhelped significantly by the available of these alternate routes?"
+          },
+          "answer": "D",
+          "target_justice": "Justice Barrett",
+          "debug_info": {
+            "correct_answer": "Would you say, then, that your argument, maybe not hinges, but is\nhelped significantly by the available of these alternate routes?",
+            "fake_questions": [
+              "How do alternative routes influence the final decision in cases concerning expedited removal orders?",
+              "What impact does the zipper clause have on your argument regarding judicial review in this case?",
+              "How would your argument change without the consideration of administrative procedures in this context?"
+            ],
+            "all_generated_alternatives": [
+              "How do alternative routes influence the final decision in cases concerning expedited removal orders?",
+              "Would your argument stand even if these alternative routes were not available at all?",
+              "Does your analysis depend mainly on statutory interpretations rather than procedural alternatives?",
+              "What impact does the zipper clause have on your argument regarding judicial review in this case?",
+              "How might the court interpret alternatives if they conflict with statutory guidelines related to removal orders?",
+              "Do you believe that the presence of multiple stakeholders complicates your argument about judicial review routes?",
+              "How do you assess the significance of these alternatives in the broader context of immigration law?",
+              "To what extent does your argument's strength rely on the availability of alternative legal remedies?",
+              "What role does the judicial precedent play in shaping your argument about alternate routes?",
+              "How would your argument change without the consideration of administrative procedures in this context?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 13
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 36,
+      "target_dialogue": "## Justice Kagan\n### Justice Kagan:\nBut if your front -line position is that there is judicial review, even with\nrespect to these people who are in expedited proceedings, if that's your\nfront -line position, isn't it a quite odd way to write a statute to say, yes,\nyou get judicial review, but we're going to set up a 30 -day deadline\nwhich effectively precludes you from ever getting that judicial review?\n### Stephen J. Hammer:\nWell, I think it wouldn't preclude you from getting the judicial review if\nthese alternative means are available.\nIt would just require you to file the protective petition and hold it in\nabeyance, which the government represents has been done in the\nFourth Circuit since its decision.\nAnd I think this Court has been clear that administrative burden or\ncomplexity is not a reason to depart from the plain meaning of the\nstatute.\nBut I also think there was a good reason for Congress to do it this way.\nAnd I think this relates to the policy consequences of Mr. Riley's and the\ngovernment's position.\nSo Mr. Riley's and the government's position separates administrative\nfinality, on the one hand, from finality for purposes of judicial review, on\nthe other.\nAnd by doing so, they create a risk that aliens can be removed from the\ncountry to a third country during withholding-only proceedings\nwithout ever having the chance to go into court and get a stay.\nThat's a significant policy problem, and that's because, as everyone\nhere agrees, the final administrative removal order is administratively\nfinal as soon as it's issued.\nThat authorizes the government to remove the alien to a third country\nso long as the government provides notice of that and the alien doesn't\nhave a fear of persecution or torture in that country.\nBut as long as withholding-only proceedings are ongoing, according to\nMr. Riley and the government, there will not be a judicially final order,\nand so the alien won't be able to go into court and get a stay.\nThat's a particularly significant problem because there will be cases in\nwhich aliens both want to challenge the validity of their 1228(b) orders\nand seek withholding relief.\nAnd those aliens will be put to a difficult choice.\nThey will either need to forgo their withholding proceedings so that\nthey can immediately get judicial review and a stay of their 1228(b)\norders, or risk it, go into withholding proceedings knowing that there's\na chance they might be removed to a third country before ever having\nthe chance to go into court and get a stay.\nThat cannot happen on the Fourth Circuit's reading because the Fourth\nCircuit's reading marries administrative finality with finality for\npurposes of judicial review.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 37,
+      "target_dialogue": "## Justice Sotomayor\n### Justice Sotomayor:\nI am sorry.\nI thought that there was a stay for the petition for removal when a CAT\n### Stephen J. Hammer:\nThere is not, Your Honor. And the government explained that, that the\ngovernment believes itself and does in fact have the authority to a\n### Justice Sotomayor:\nTo a third country\n### Stephen J. Hammer:\nExactly.\n### Justice Sotomayor:\nan opportunity to file an amended CAT claim on the new designation.\nSo it's not an open-ended thing. And you answered",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 38,
+      "target_dialogue": "## Justice Barrett\n### Justice Barrett:\nby\nsaying it makes sense that aggravated felons and people who have come\nback illegally shouldn't have more -- have expanded appellate rights\nunder CAT.\nBut the government has conceded that people who haven't had either\nof those two situations, who have appealed to the Board and -- and are\nsubject to the zipper clause in terms of the 30-day period, the Board not\ninfrequently affirms the petition for removal and remands the petition\n### Stephen J. Hammer:\nYour Honor, I think that, generally in those cases, aliens would have the\nopportunity to do it, and that's because of the Board's particular\nremand policy.\nSo under a 1978 Board decision called Matter of Patel, when the Board\nremands a case, it's a general or plenary remand that allows",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 39,
+      "target_dialogue": "## Justice Sotomayor\n### Justice Sotomayor:\nBut not the petition for review if they've affirmed it.\n### Stephen J. Hammer:\nIt would allow for reconsideration of the removability decision by the IJ\nunless the Board expressly limits the remand to that withholding issue.\nSo to take your hypothetical, if the Board did expressly limit its remand\nto the withholding issue, then, yes, it's possible that scenario would\narise.\n### Justice Sotomayor:\nWell, that's how I saw it when I was on the circuit court, which is the\nboards would affirm the petition for review -- I'm sorry -- the final\norders of removal and remand just on the CAT claims.\nThey did it routinely.\n### Stephen J. Hammer:\nSo, yes, Your Honor, the Board has the option to expressly limit its\nremand to the withholding issue.\nI would just note that in these situations, aliens will also often be\nseeking asylum in addition to the withholding claim.\nAnd because asylum does go to the validity of the removal order, it\nwould forestall the finality of the removal order while the asylum claim\nwas being considered.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 40,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\nCan I go back to",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 41,
+      "target_dialogue": "## Justice Barrett\n### Justice Barrett:\n's question about the presumption? I\nguess I don't understand why the text of the statute is not ambiguous\nconcerning the meaning of \"final order\" in the expedited removal\ncontext.\nWhen you look at the definition, it -- both prongs of it are pegged to a\ndetermination by the Board of Immigration Appeals, which doesn't\nhappen in the expedited removal context. So why couldn't that be a\nbasis for determining that this was sufficiently ambiguous that the\npresumption kicks in?\n### Stephen J. Hammer:\nSo two points, Your Honor.\nFirst, we don't think the presumption comes up so long as these\nalternative means of getting judicial review are available, like the\nprotective petitions.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 42,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\nBut it's -- I'm sorry.\nIs that -- I thought the standard was whether the statute was\nambiguous, not whether there's some other way we could figure this\nout.\n### Stephen J. Hammer:\nWell, judicial review would be available if those alternative means -- if\nyou can file a protective petition, then judicial review would be\navailable.\nSo the presumption wouldn't help resolve anything. You'd get it either",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 43,
+      "target_dialogue": "## Justice Gorsuch\n### Justice Gorsuch:\nPresumption -- I think",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 44,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\n's point is the presumption of\nreviewability helps us interpret statutes, and if the statute's\nambiguous, then it kicks in and it has nothing to do with facts on the\nground.\nAnd you -- you can achieve -- skin the cat some other way.\nDo you want to respond to that?\n### Stephen J. Hammer:\nYes, Your Honor.\nThis Court has said that when --and this is Thunder Basin footnote 8:\n\"Because court of appeals review is available, this case does not\nimplicate the strong presumption that Congress did not mean to",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 45,
+      "target_dialogue": "## Justice Gorsuch\n### Justice Gorsuch:\nYeah, but if the -- the statute -- what do you say, though -- I mean, it\nseems to me 1101(a)(47), when it defines final order really is pegged to\nthe -- the Board's decision one way or the other.\nAnd here we have none.\n### Stephen J. Hammer:\nSo Your Honor, I acknowledge that Congress could have spoken more\n### Justice Gorsuch:\nWell, it could have spoken to this situation at all, right?\n### Stephen J. Hammer:\nWell, I think it could have spoken more directly.\nI'll acknowledge that, Your Honor.\nBut I think it's clear in light of Section 1228(b), which does speak\ndirectly to this situation in two critical places.\nSo Section 1228(b)(4)(F) calls an order entered under this -- under that\nsubsection a final order of removal, using exactly the same language\nthat Section 1252 does itself.\nAnd that's only confirmed by Section 1228(b)(3), which imposes a stay\nor a bar on the removal of the alien for 14 days from the date of issuance\nof that order and ordered that the alien has the opportunity to apply for\njudicial review, confirming that that order is final when it is issued.\n### Justice Gorsuch:\nIf we didn't have Stone, just to shift gears a little bit, would you read\n1252(b)(1) as jurisdictional?\n### Stephen J. Hammer:\nYour Honor, I acknowledge that the filing deadline likely would not\nsatisfy the clear statement test apart from Stone.\n### Justice Gorsuch:\nOkay.\n### Stephen J. Hammer:\nJust to mention that -- the definition a little bit more, Your Honor, I\nthink the best way to understand this, that is a statute-wide definition.\nIt applies by its terms to the entirety of the INA.\nSo it covers Section 1228(b).\nAnd I think the best way to read it is to reconcile it with 1228(b),\nparticularly in light of the history of the two provisions.\nThe predecessor to Section 1228(b) that originally dispensed with the\nneed for a hearing before an immigration judge was adopted in 1994.\nDOJ adopted regulations implementing it in 1995. They did away with\nthe need for any Board review.\nSo by the time Congress came to AEDPA in 1996 to add this definition, it\nalready had this part of the statute.\nIt already knew this statute called this \"a final order of deportation,\"\nand yet it adopted this definition.\nI think the best way to read it together with that is to reconcile it, to say\nthat Board -- the period for Board review expires immediately when no\nBoard review is allowed.\nBut if you disagree with me on that, I think Section 1228(b) itself\nanswers this question, and it's strongly supported by Section 1231 and\nwhat this Court said about administrative finality in Guzman Chavez.\n### Justice Gorsuch:\nWhat do you say about the possibility that some courts of appeals won't\nallow these protective appeals to sit on their books for years on end?\n### Stephen J. Hammer:\nYour Honor, I think this Court could provide guidance about the\nsituations in which those motions for abeyance should be granted.\nThe Court has done something similar in the habeas context in -- in\nRhines versus Weber, where it authorized a stay in abeyance procedure\nfor district courts so that habeas petitioners could go into district courts\nand exhaust their -- go into state court to exhaust their claims before\ncoming back.\nThis Court could authorize something like that. I don't think that's\nnecessary here, Your Honor, because I think the meaning of the filing\ndeadline is plain.\nBut the Court could provide guidance in that way.",
+      "justice_name": "Justice Gorsuch",
+      "total_justice_questions": 3,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Gorsuch most likely ask next?",
+          "options": {
+            "A": "If we didn't have Stone, just to shift gears a little bit, would you read\n1252(b)(1) as jurisdictional?",
+            "B": "Which legal principles dictate the standards for maintaining jurisdiction in immigration petitions?",
+            "C": "How would you interpret the implications of 1252(b)(1) without the guidance of Stone's previous rulings?",
+            "D": "Would the absence of Stone affect your interpretation of CAT claims under 1252?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Gorsuch",
+          "debug_info": {
+            "correct_answer": "If we didn't have Stone, just to shift gears a little bit, would you read\n1252(b)(1) as jurisdictional?",
+            "fake_questions": [
+              "How would you interpret the implications of 1252(b)(1) without the guidance of Stone's previous rulings?",
+              "Would the absence of Stone affect your interpretation of CAT claims under 1252?",
+              "Which legal principles dictate the standards for maintaining jurisdiction in immigration petitions?"
+            ],
+            "all_generated_alternatives": [
+              "How would you interpret the implications of 1252(b)(1) without the guidance of Stone's previous rulings?",
+              "What role does 1252(b)(1) play in relation to the exhaustion of administrative remedies?",
+              "Would the absence of Stone affect your interpretation of CAT claims under 1252?",
+              "In what ways could Stone’s impact on 1252(b)(1) be viewed through a procedural lens?",
+              "How does the definition of a final order intersect with jurisdictional assessments in other statutes?",
+              "What precedents support the jurisdictional nature of review deadlines in immigration cases?",
+              "Do you think that without Stone, the courts would have created different standards for finality?",
+              "How does the jurisdictional question of 1252(b)(1) relate to the separation of powers doctrine?",
+              "What statutory textual cues might influence your reading of 1252(b)(1) in absence of Stone?",
+              "Which legal principles dictate the standards for maintaining jurisdiction in immigration petitions?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 14
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Gorsuch most likely ask next?",
+          "options": {
+            "A": "Could the court enforce a mandatory stay on removal during pending CAT claims?",
+            "B": "What do you say about the possibility that some courts of appeals won't\nallow these protective appeals to sit on their books for years on end?",
+            "C": "How do different circuits handle the timing of protective appeals in immigration cases?",
+            "D": "Can a party appeal a decision on a CAT claim if they missed the 30-day filing window?"
+          },
+          "answer": "B",
+          "target_justice": "Justice Gorsuch",
+          "debug_info": {
+            "correct_answer": "What do you say about the possibility that some courts of appeals won't\nallow these protective appeals to sit on their books for years on end?",
+            "fake_questions": [
+              "How do different circuits handle the timing of protective appeals in immigration cases?",
+              "Could the court enforce a mandatory stay on removal during pending CAT claims?",
+              "Can a party appeal a decision on a CAT claim if they missed the 30-day filing window?"
+            ],
+            "all_generated_alternatives": [
+              "What implications does the timeline for filing a protective appeal have on the overall removal order process?",
+              "How do different circuits handle the timing of protective appeals in immigration cases?",
+              "What factors influence whether courts of appeals consolidate removal orders with CAT claims?",
+              "What is the impact of the zipper clause on the timeline for judicial reviews in immigration cases?",
+              "Could the court enforce a mandatory stay on removal during pending CAT claims?",
+              "What are the opportunities for an alien to raise arguments against their removal order in this context?",
+              "Can a party appeal a decision on a CAT claim if they missed the 30-day filing window?",
+              "How does equitable tolling apply to the deadlines for filing appeals in immigration cases?",
+              "How does the standard for finality differ between the removal order and the CAT claims?",
+              "What conditions must be met for a petition regarding a CAT claim to be considered timely?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 14
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 46,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nCounsel, you say that Stone's rejection of tolling indicates that it's a\ntrue jurisdictional holding.\nBut tolling can be unavailable in equitable proceedings as well, can't it,\nor when the deadlines are -- are equitable?\n### Stephen J. Hammer:\nYes, Your Honor.\nIt is true that some claim processing rules also foreclose tolling, but they\ndon't do it in the way that Stone did.\nSo this Court in Irwin held that non-jurisdictional statutory deadlines\nare presumptively amenable to equitable tolling.\nWe see nothing like a rebuttal in Stone of that presumption of equitable\ntolling.\nInstead, we see the automatic and reflexive connection of the Court's\nholding that the deadline is jurisdictional to the consequence that it\ndoesn't allow for equitable tolling.\nThat's the exact opposite of what happened in Beggerly, the Court that\nthis -- the case that this Court analyzed in Wilkins and said didn't count\nas a definitive jurisdictional precedent.\nIt had an extensive analysis of equitable tolling.\nAnd the Court said if it was a true jurisdictional deadline, it wouldn't\nhave needed that extensive analysis.\nAnd that's exactly what we have in Stone; a direct and immediate\nconnection between the conclusion that the deadline is jurisdictional\nand the consequence that it doesn't allow for equitable tolling.\n### Chief Justice Roberts:\nWell, you also argue that the citation of the cert deadline and the appeal\ndeadline is very, very significant here, but those seem to be quite\ndifferent in the sense that you're dealing with the vertical deadlines of\nquite some significance.\nAnd I wonder whether that is a particularly compelling analogy.\n### Stephen J. Hammer:\nYour Honor, I think it was the analogy that the court found compelling in\nStone.\nIt was the analogy that supported the Court's ultimate conclusion that\nthe deadline was jurisdictional and engaged in this extensive analysis,\ncomparing the deadline to file a notice of appeal from a final order of\ndeportation to the time to notice an appeal from a district court\njudgment, which as you point out this Court has recognized as\njurisdictional, both before and after Arbaugh.\nThe Court also compared the effect of the motion for reconsideration to\nthe effect of a Rule 60(b) motion, which doesn't strip the court of\nappeals of jurisdiction.\nAnd I think that --the force of that analogy is that it shows the court\nunderstood the filing deadline as a window of time at which the court of\nappeals could assert jurisdiction, regardless o f any motion for\nreconsideration, and after which it would could not assert jurisdiction\njust like in the notice of appeal context.\nI think all of that analysis supported what happens on pages 405 of\nStone and shows that the Court truly meant what it said when it said\nthat the deadline was jurisdictional.",
+      "justice_name": "Chief Justice Roberts",
+      "total_justice_questions": 2,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Chief Justice Roberts most likely ask next?",
+          "options": {
+            "A": "Could you clarify the implications of jurisdictional deadlines on equitable tolling in this case?",
+            "B": "Is the analogy between a cert deadline and an appeal deadline applicable in assessing statutory interpretation?",
+            "C": "How would the analysis change if we considered a federal district court's oral hearing schedule instead?",
+            "D": "Well, you also argue that the citation of the cert deadline and the appeal\ndeadline is very, very significant here, but those seem to be quite\ndifferent in the sense that you're dealing with the vertical deadlines of\nquite some significance.\nAnd I wonder whether that is a particularly compelling analogy."
+          },
+          "answer": "D",
+          "target_justice": "Chief Justice Roberts",
+          "debug_info": {
+            "correct_answer": "Well, you also argue that the citation of the cert deadline and the appeal\ndeadline is very, very significant here, but those seem to be quite\ndifferent in the sense that you're dealing with the vertical deadlines of\nquite some significance.\nAnd I wonder whether that is a particularly compelling analogy.",
+            "fake_questions": [
+              "Could you clarify the implications of jurisdictional deadlines on equitable tolling in this case?",
+              "Is the analogy between a cert deadline and an appeal deadline applicable in assessing statutory interpretation?",
+              "How would the analysis change if we considered a federal district court's oral hearing schedule instead?"
+            ],
+            "all_generated_alternatives": [
+              "Could you clarify the implications of jurisdictional deadlines on equitable tolling in this case?",
+              "What are the procedural differences between filing petitions for certiorari versus appeal in immigration cases?",
+              "How does the Supreme Court's decision on equitable tolling impact administrative processes in removal hearings?",
+              "Is the analogy between a cert deadline and an appeal deadline applicable in assessing statutory interpretation?",
+              "Can you explain how time limitations affect the scope of judicial review in immigration cases more generally?",
+              "What standard should the Court apply when interpreting the significance of procedural deadlines in administrative law?",
+              "How would the analysis change if we considered a federal district court's oral hearing schedule instead?",
+              "What jurisdictional principles govern the timeline for filing motions in higher appellate courts?",
+              "How does one assess the gravity of vertical versus horizontal deadlines in judicial review processes?",
+              "What impact do recent amendments to immigration law have on original and appellate filing deadlines?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 2
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 15
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 47,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\nBut just to underscore",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 48,
+      "target_dialogue": "## Justice Gorsuch\n### Justice Gorsuch:\n's point, under our modern\nyou're relying on the Stone precedent as the reason why we should hold\nthat it's jurisdictional here?\n### Stephen J. Hammer:\nI am relying on the Stone precedent, Your Honor.\nAnd I think this is exactly the situation in which statutory stare decisis\nhas its effect.\nAs this Court recognized in John R. Sand & Gravel, abiding by the Court's\nstatutory decision serves important system -wide reliance interests,\npromotes the overall stability and predictability of the law, and it's\nimportant -- particularly important here because just a year after\nStone, Congress and IIRIRA further restricted the availability of judicial\nreview.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 49,
+      "target_dialogue": "## Justice Jackson\n### Justice Jackson:\nAnd we can rely on Stone to reach the jurisdictional holding that you\nwould like us to reach, notwithstanding Santos -Zacaria's statement\nthat Stone -- in Stone, whether the provisions were jurisdictional were\nnot central to the case?\n### Stephen J. Hammer:\nYes, Your Honor.\nI don't understand that statement to be reflecting on Stone's analysis\nof the deadline.\nAnd to the extent I'm wrong about that, I don't think that was part of\nSantos-Zacharia's holding.\nI don't think it would bind this Court, just like in the Thryv case, Your\nHonor.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 1 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 50,
+      "target_dialogue": "## Justice Kagan\n### Justice Kagan:\nMr. Hammer, when I asked you before why we should think of the order\nof removal as final, given that it's distinctly non -final, distinctly\nprovisional as to an important aspect, which is where you're going to\nremove the person to, you countered to me, Nasrallah.\nIs there anything else that you would say about that question or is this\nlike you think, look, that's what Nasrallah forces you to do is to think of\nthat order as final, even though it's not final, as to where the person can\nbe removed to? Is there anything else other than Nasrallah?\n### Stephen J. Hammer:\nYes, Your Honor.\nI think it's a strong point that this order allows the removal, even while\nwithholding-only proceedings are ongoing of the alien to a third\ncountry. The order does not have to be amended.\n### Justice Kagan:\nWell, it does -- so it has settled the question of whether you can remove\nthe alien to, you know, any other country, but it has not settled the\nquestion as to whether you can remove this person to Jamaica here.\nSo that continues to be an up-for-grabs question. And as I understand\nthe government's argument, it's like as long as that's an up-for-grabs\nquestion, the order is not final. Now, you come back and you say\nNasrallah.\nSo I take the point.\nWe have to now go read Nasrallah and see what it said and what it didn't\nsay, but I'm not hearing anything else from you.\n### Stephen J. Hammer:\nYour Honor, no.\nI think the statutory text itself, so we talked about 1228(b) and the clear\nindications that that order is final when issued.\n1231 also confirms\n### Justice Kagan:\nYeah.\nI'm sorry. What in that tells you it's final as issued?\n### Stephen J. Hammer:\nIt's called the final order of removal.\n### Justice Kagan:\nMy question is what is a final order of removal?\n### Stephen J. Hammer:\nSo Section 1228(b)(3) indicates that you can seek judicial review within\n14 days of the issuance of the order, which would not be possible if\nwithholding-only proceedings suspended the finality of that order.\nSo I think that's a strong indication that it's final, but I would also point\nto Section 1231 and what this Court said about administrative finality in\nGuzman Chavez, because many of these arguments were also raised in\nGuzman Chavez, that indeterminacy as to the \"where\" question\nsuspended the finality of the removal order.\nAnd the Court rejected that for purposes of administrative finality in\nGuzman Chavez.\nI think there's a strong presumption that also governs finality in Section\n1252.\nAnd we can see evidence of that in the statutory text in Section 1252(b)\n(8)(A), which cross-references Section 1231 and uses the words \"a final\norder of removal\" to indicate the beginning of the removal period under\nSection 1231.\nSo Congress is using these two terms interchangeably.\nAnd for the reasons we discussed, it makes sense for them to do them so\nbecause administrative finality is the point at which the alien is then put\nat risk of being removed to a third country.\nIt doesn't make sense to have judicial --finality for purposes of judicial\nreview be suspended for some period of time, while the alien is at risk of\nbeing removed to a third country.\n### Justice Kagan:\nThank you.",
+      "justice_name": "Justice Kagan",
+      "total_justice_questions": 3,
+      "questions": [
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Kagan most likely ask next?",
+          "options": {
+            "A": "Yeah.\nI'm sorry. What in that tells you it's final as issued?",
+            "B": "What impact does jurisdiction have on this removal order's execution?",
+            "C": "What are the implications of a removal order being non-final?",
+            "D": "How does the NASRALLAH decision interpret the finality of orders?"
+          },
+          "answer": "A",
+          "target_justice": "Justice Kagan",
+          "debug_info": {
+            "correct_answer": "Yeah.\nI'm sorry. What in that tells you it's final as issued?",
+            "fake_questions": [
+              "How does the NASRALLAH decision interpret the finality of orders?",
+              "What impact does jurisdiction have on this removal order's execution?",
+              "What are the implications of a removal order being non-final?"
+            ],
+            "all_generated_alternatives": [
+              "What language distinguishes a final order from provisional orders?",
+              "How does the NASRALLAH decision interpret the finality of orders?",
+              "What procedural steps confirm the removal order's finality?",
+              "How does the statutory text address judicial review timelines?",
+              "What impact does jurisdiction have on this removal order's execution?",
+              "Is there a precedent that defines administrative orders as final?",
+              "How does the definition of finality affect the appeal process?",
+              "What statutory provisions address the timing of appeals for decisions?",
+              "Can the Court amend its final order after the original decision?",
+              "What are the implications of a removal order being non-final?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 2,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 16
+          }
+        },
+        {
+          "question": "Based on the previous court exchanges, what question will Justice Kagan most likely ask next?",
+          "options": {
+            "A": "What do 'final' and 'provisional' mean in immigration law?",
+            "B": "What are the terminologies used in CAT claims?",
+            "C": "How does jurisdiction apply to removal order appeals?",
+            "D": "My question is what is a final order of removal?"
+          },
+          "answer": "D",
+          "target_justice": "Justice Kagan",
+          "debug_info": {
+            "correct_answer": "My question is what is a final order of removal?",
+            "fake_questions": [
+              "How does jurisdiction apply to removal order appeals?",
+              "What do 'final' and 'provisional' mean in immigration law?",
+              "What are the terminologies used in CAT claims?"
+            ],
+            "all_generated_alternatives": [
+              "What are the grounds for challenging a removal order?",
+              "How does jurisdiction apply to removal order appeals?",
+              "What constitutes effective relief in removal order cases?",
+              "What do 'final' and 'provisional' mean in immigration law?",
+              "What factors establish the legality of the removal process?",
+              "What is the role of the Board of Immigration Appeals?",
+              "How does one file an appeal against a removal order?",
+              "What distinguishes an administrative decision from a judicial one?",
+              "What are the terminologies used in CAT claims?",
+              "How do different visa categories affect removal proceedings?"
+            ],
+            "selection_method": "balanced_distractors",
+            "question_index_in_conversation": 3,
+            "total_questions_in_conversation": 3
+          },
+          "context_info": {
+            "current_conversation_context": true,
+            "previous_conversations_count": 16
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 51,
+      "target_dialogue": "## Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Thomas? Justice Alito? Anything further,",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 52,
+      "target_dialogue": "## Justice Gorsuch\n### Justice Gorsuch:\n?\nJustice Kavanaugh?",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 53,
+      "target_dialogue": "## Justice Barrett\n### Justice Barrett:\n? Justice Jackson? Thank you,\ncounsel. Rebuttal Mr. Bradley, rebuttal?\n### Keith Bradley:\nThank you.\nA couple of observations, really three things I'd like to say.\nOne is on the question whether somebody can be removed to a third\ncountry, while the withholding proceedings are in process, I'd like to\npoint the Court to the regulation at our Appendix 29A in the petition\nthat says, \"such alien shall not be excluded, deported, or removed\nbefore a decision is rendered on his or her asylum application.\" And that\nterm is defined in the regulation to include the withholding claims. So it\nis, as the government and we have said, that while they have the\nstatutory authority to remove you to somewhere else, the actual\nadministrative process is that by their own regulations they cannot,\nunless they find another --they designate another country. This is\nactually 20A in the appendix, that they must designate the country of\nremoval and then give you another chance, if that's -- if it's a third\ncountry, you, like, might raise an objection as to that one.\nBy contrast, in the -- in the judicial process, of course, there is no\nautomatic stay. This was a change in IIRIRA.\nWe have a stay in this case, but that is within the discretion of the circuit\ncourts.\nI'd like to come back to 1228(b)(3). This is the provision that says that\nthere's a pause for 14 days.\nThat has a great deal of force in a case where there is no withholding\nclaim, but there's nothing about that provision that --that shows it was\nintended to ensure -- to cover every case.\nIt is a limited protection of limited benefit for certain circumstances.\nNot all of them.\nThird, I'd like to come back to this question of the protective petitions.\nIt is more than simply that the courts would have to hold them in\nabeyance.\nThe government is right about the volume, that you will have to petition\nin every case because you won't even know yet what the BIA's decision -\n- what the IJ's or BIA's decision will be and whether there will be\ngrounds to challenge it.\nIn addition, you will have to be filing a petition in response to which the\ngovernment is supposed to file the administrative record for a case that\nis still ongoing and you're still building the administrative record.\nSo the -- the headaches for doing this nationwide are contrary to any\nother judicial review scheme that I can think of.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    },
+    {
+      "conversation_id": 54,
+      "target_dialogue": "## Chief Justice Roberts\n\n### Chief Justice Roberts:\nThank you, counsel.\nMr. Hammer, this Court appointed you to brief and argue this case as an\namicus curiae in support of the judgment below.\nYou have ably discharged that responsibility , for which we are grateful.\nThe case is submitted.",
+      "questions": [],
+      "error": "Insufficient actual questions for prediction - only 0 real questions found after LLM filtering"
+    }
+  ],
+  "answer_distribution": {
+    "counts": {
+      "A": 8,
+      "B": 8,
+      "C": 4,
+      "D": 5
+    },
+    "percentages": {
+      "A": 32.0,
+      "B": 32.0,
+      "C": 16.0,
+      "D": 20.0
+    },
+    "total_questions": 25
+  }
+}

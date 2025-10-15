@@ -1,0 +1,1324 @@
+{
+  "source_file": "Stanley v. City of Sanford, Florida _ Oyez.md",
+  "background": "Karyn Stanley, a firefighter for the City of Sanford, Florida, retired due to Parkinson's disease in 2018 after serving for about 19 years. When she joined in 1999, the City's policy provided free health insurance until age 65 for employees retiring due to disability. However, in 2003, the City changed its plan, limiting the health insurance subsidy for disability retirees to 24 months post-retirement. Unaware of this change, Stanley filed suit in April 2020, shortly before her subsidy was set to expire, alleging violations of the Americans with Disabilities Act, Rehabilitation Act, Florida Civil Rights Act, Equal Protection Clause, and Florida Statutes section 112.0801. The district court dismissed or granted summary judgment on all claims in favor of the City, the U.S. Court of Appeals for the Eleventh Circuit affirmed, relying on (and reaffirming) binding precedent within that circuit that “a Title I plaintiff must ‘hold[ ] or desire[ ]’ an employment position with the defendant at the time of the defendant's allegedly wrongful act.”",
+  "conversations": [
+    {
+      "conversation_id": 1,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nDid the courts below decide your first point?\n### Deepak Gupta:\nThe Eleventh Circuit discussed this argument but did not reach it. The\nEleventh Circuit, erroneous in our -- erroneously in our view, believed\nthat the argument hadn't been properly presented because it appeared\nin an amicus brief by the United States.\nBut that brief by the United States was filed two days before Lieutenant\nStanley filed her opening brief, and her opening brief fully incorporated\nthat argument.\nIn fact, the first page of the brief was a statement of adoption, adoption\nAnd then Lieutenant Stanley referred to that in her summary of\nargument and argument. And it was a focus of the oral argument below.\n### Justice Thomas:\nDo courts normally adopt the -- the positions of amicus to fill in gaps in\nthe parties' briefs?\n### Deepak Gupta:\nNo, I think -- well, I think in the lower courts at least.\nAs we just saw in this Court, sometimes an amicus does play that role.\nBut, in the lower courts, conventionally, no.\nThe Eleventh Circuit was applying a rule that simply because something\nis presented as --in an amicus brie f doesn't mean the court has to reach\nBut this is a different scenario, as I just described, because the amicus\nbrief was filed first, the position was fully adopted in the opening brief,\nand it was discussed at oral argument.\nSo I think, under this Court's formulation of pressed or passed below, it\nwas pressed and it is available to this Court to reissue.\n### Justice Thomas:\nWhen you sought cert here, did you make that argument, or did you\nsimply point out the split between the circuits as to whether former\nemployees can bring an action under the ADA?\n### Deepak Gupta:\nYour Honor, this issue was ventilated in the cert papers.\nI think, if you look at the brief in opposition at page 30 through 31,\nthere's an extensive discussion of this.\nWe discussed it at pages 24 through 25 of the petition and also in the\ncertiorari reply at page 9.\nSo I think we understood the Court in granti ng the case to be -- to be\ngranting the case including that argument.\nAnd it is an answer to the question presented that would resolve at least\npart of the circuit split below.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"The Eleventh Circuit discussed this argument but did not reach it. The\nEleventh Circuit, erroneous in our -- erroneously in our view, believed\nthat the argument hadn't been properly presented because it appeared\nin an ____________________________________.\nBut that brief by the United States was filed two days before Lieutenant\nStanley filed her opening brief, and her opening brief fully incorporated\nthat argument.\nIn fact, the first page of the brief was a statement of adoption, adoption\nAnd then Lieutenant Stanley referred to that in her summary of\nargument and argument. And it was a focus of the oral argument below.\"",
+          "options": {
+            "A": "amicus argument presented by the City",
+            "B": "amicus memorandum filed by the Plaintiff",
+            "C": "amicus brief by the United States",
+            "D": "amicus brief submitted by the State"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "amicus brief by the United States",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 1,
+              "speaker": "Deepak Gupta",
+              "original_statement": "The Eleventh Circuit discussed this argument but did not reach it. The\nEleventh Circuit, erroneous in our -- erroneously in our view, believed\nthat the argument hadn't been properly presented because it appeared\nin an amicus brief by the United States.\nBut that brief by the United States was filed two days before Lieutenant\nStanley filed her opening brief, and her opening brief fully incorporated\nthat argument.\nIn fact, the first page of the brief was a statement of adoption, adoption\nAnd then Lieutenant Stanley referred to that in her summary of\nargument and argument. And it was a focus of the oral argument below."
+            },
+            "explanation": "This phrase highlights procedural aspects of litigation, specifically the role of amicus briefs in influencing court decisions and the importance of proper presentation of arguments."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"The Eleventh Circuit discussed this argument but did not reach it. The\nEleventh Circuit, erroneous in our -- erroneously in our view, believed\nthat the argument hadn't been properly presented because it appeared\nin an amicus brief by the United States.\nBut that brief by the United States was filed two days before Lieutenant\nStanley filed her opening brief, and her opening brief fully incorporated\nthat argument.\nIn fact, the first page of the brief was a __________________, adoption\nAnd then Lieutenant Stanley referred to that in her summary of\nargument and argument. And it was a focus of the oral argument below.\"",
+          "options": {
+            "A": "statement of rejection",
+            "B": "statement of clarification",
+            "C": "statement of adoption",
+            "D": "statement of approval"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "statement of adoption",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 1,
+              "speaker": "Deepak Gupta",
+              "original_statement": "The Eleventh Circuit discussed this argument but did not reach it. The\nEleventh Circuit, erroneous in our -- erroneously in our view, believed\nthat the argument hadn't been properly presented because it appeared\nin an amicus brief by the United States.\nBut that brief by the United States was filed two days before Lieutenant\nStanley filed her opening brief, and her opening brief fully incorporated\nthat argument.\nIn fact, the first page of the brief was a statement of adoption, adoption\nAnd then Lieutenant Stanley referred to that in her summary of\nargument and argument. And it was a focus of the oral argument below."
+            },
+            "explanation": "This phrase refers to a procedural mechanism where one party adopts the arguments of another, which is significant in understanding how legal arguments are presented and accepted in court."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"The Eleventh Circuit discussed this argument but did not reach it. The\nEleventh Circuit, erroneous in our -- erroneously in our view, believed\nthat the argument hadn't been properly presented because it appeared\nin an amicus brief by the United States.\nBut that brief by the United States was filed two days before Lieutenant\nStanley filed her opening brief, and her opening brief fully incorporated\nthat argument.\nIn fact, the first page of the brief was a statement of adoption, adoption\nAnd then Lieutenant Stanley referred to that in her summary of\nargument and argument. And it was a ____________________________________.\"",
+          "options": {
+            "A": "scope of the written argument presented",
+            "B": "scope of the oral argument presented",
+            "C": "focus of the oral argument below",
+            "D": "focus of the written argument above"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "focus of the oral argument below",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 1,
+              "speaker": "Deepak Gupta",
+              "original_statement": "The Eleventh Circuit discussed this argument but did not reach it. The\nEleventh Circuit, erroneous in our -- erroneously in our view, believed\nthat the argument hadn't been properly presented because it appeared\nin an amicus brief by the United States.\nBut that brief by the United States was filed two days before Lieutenant\nStanley filed her opening brief, and her opening brief fully incorporated\nthat argument.\nIn fact, the first page of the brief was a statement of adoption, adoption\nAnd then Lieutenant Stanley referred to that in her summary of\nargument and argument. And it was a focus of the oral argument below."
+            },
+            "explanation": "This phrase indicates the importance of specific arguments during oral proceedings, which is crucial for understanding how appellate courts evaluate cases."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"No, I think -- well, I think in the lower courts at least.\nAs we just saw in this Court, sometimes an amicus does play that role.\nBut, in the lower courts, conventionally, no.\nThe Eleventh Circuit was applying a rule that simply because something\nis presented as --in an amicus brie f doesn't mean the court has to reach\nBut this is a different scenario, as I just described, because the amicus\nbrief was filed first, the position was fully adopted in the opening brief,\nand it was discussed at oral argument.\nSo I think, under this Court's formulation of ________________________, it\nwas pressed and it is available to this Court to reissue.\"",
+          "options": {
+            "A": "pressed or passed above",
+            "B": "pressed or passed later",
+            "C": "pressed or passed beyond",
+            "D": "pressed or passed below"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "pressed or passed below",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 2,
+              "speaker": "Deepak Gupta",
+              "original_statement": "No, I think -- well, I think in the lower courts at least.\nAs we just saw in this Court, sometimes an amicus does play that role.\nBut, in the lower courts, conventionally, no.\nThe Eleventh Circuit was applying a rule that simply because something\nis presented as --in an amicus brie f doesn't mean the court has to reach\nBut this is a different scenario, as I just described, because the amicus\nbrief was filed first, the position was fully adopted in the opening brief,\nand it was discussed at oral argument.\nSo I think, under this Court's formulation of pressed or passed below, it\nwas pressed and it is available to this Court to reissue."
+            },
+            "explanation": "This procedural term refers to the preservation of issues for appeal, necessitating familiarity with appellate procedure and the significance of arguments made in lower courts."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Your Honor, this issue was ventilated in the ____________.\nI think, if you look at the brief in opposition at page 30 through 31,\nthere's an extensive discussion of this.\nWe discussed it at pages 24 through 25 of the petition and also in the\ncertiorari reply at page 9.\nSo I think we understood the Court in granti ng the case to be -- to be\ngranting the case including that argument.\nAnd it is an answer to the question presented that would resolve at least\npart of the circuit split below.\"",
+          "options": {
+            "A": "brief documents",
+            "B": "cert papers",
+            "C": "legal motions",
+            "D": "court filings"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "cert papers",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 3,
+              "speaker": "Deepak Gupta",
+              "original_statement": "Your Honor, this issue was ventilated in the cert papers.\nI think, if you look at the brief in opposition at page 30 through 31,\nthere's an extensive discussion of this.\nWe discussed it at pages 24 through 25 of the petition and also in the\ncertiorari reply at page 9.\nSo I think we understood the Court in granti ng the case to be -- to be\ngranting the case including that argument.\nAnd it is an answer to the question presented that would resolve at least\npart of the circuit split below."
+            },
+            "explanation": "Refers to the documents submitted for a writ of certiorari, which are crucial for understanding the legal issues the Supreme Court will consider."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Your Honor, this issue was ventilated in the cert papers.\nI think, if you look at the __________________ at page 30 through 31,\nthere's an extensive discussion of this.\nWe discussed it at pages 24 through 25 of the petition and also in the\ncertiorari reply at page 9.\nSo I think we understood the Court in granti ng the case to be -- to be\ngranting the case including that argument.\nAnd it is an answer to the question presented that would resolve at least\npart of the circuit split below.\"",
+          "options": {
+            "A": "brief in opposition",
+            "B": "brief for appellant",
+            "C": "brief in support",
+            "D": "brief for appellee"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "brief in opposition",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 3,
+              "speaker": "Deepak Gupta",
+              "original_statement": "Your Honor, this issue was ventilated in the cert papers.\nI think, if you look at the brief in opposition at page 30 through 31,\nthere's an extensive discussion of this.\nWe discussed it at pages 24 through 25 of the petition and also in the\ncertiorari reply at page 9.\nSo I think we understood the Court in granti ng the case to be -- to be\ngranting the case including that argument.\nAnd it is an answer to the question presented that would resolve at least\npart of the circuit split below."
+            },
+            "explanation": "A legal document filed by the respondent in a case, providing arguments against the petitioner's claims, essential for understanding procedural dynamics in appellate litigation."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Your Honor, this issue was ventilated in the cert papers.\nI think, if you look at the brief in opposition at page 30 through 31,\nthere's an ____________ of this.\nWe discussed it at pages 24 through 25 of the petition and also in the\ncertiorari reply at page 9.\nSo I think we understood the Court in granti ng the case to be -- to be\ngranting the case including that argument.\nAnd it is an answer to the question presented that would resolve at least\npart of the circuit split below.\"",
+          "options": {
+            "A": "extensive discussion",
+            "B": "extensive review",
+            "C": "extensive argument",
+            "D": "extensive analysis"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "extensive discussion",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 3,
+              "speaker": "Deepak Gupta",
+              "original_statement": "Your Honor, this issue was ventilated in the cert papers.\nI think, if you look at the brief in opposition at page 30 through 31,\nthere's an extensive discussion of this.\nWe discussed it at pages 24 through 25 of the petition and also in the\ncertiorari reply at page 9.\nSo I think we understood the Court in granti ng the case to be -- to be\ngranting the case including that argument.\nAnd it is an answer to the question presented that would resolve at least\npart of the circuit split below."
+            },
+            "explanation": "Indicates a thorough examination of legal issues within the briefs, highlighting the importance of detailed legal analysis in appellate advocacy."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Your Honor, this issue was ventilated in the cert papers.\nI think, if you look at the brief in opposition at page 30 through 31,\nthere's an extensive discussion of this.\nWe discussed it at pages 24 through 25 of the petition and also in the\ncertiorari reply at page 9.\nSo I think we understood the Court in granti ng the case to be -- to be\n__________________ including that argument.\nAnd it is an answer to the question presented that would resolve at least\npart of the circuit split below.\"",
+          "options": {
+            "A": "denying the motion",
+            "B": "rejecting the claim",
+            "C": "dismissing the appeal",
+            "D": "granting the case"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "granting the case",
+            "category": "procedure",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 3,
+              "speaker": "Deepak Gupta",
+              "original_statement": "Your Honor, this issue was ventilated in the cert papers.\nI think, if you look at the brief in opposition at page 30 through 31,\nthere's an extensive discussion of this.\nWe discussed it at pages 24 through 25 of the petition and also in the\ncertiorari reply at page 9.\nSo I think we understood the Court in granti ng the case to be -- to be\ngranting the case including that argument.\nAnd it is an answer to the question presented that would resolve at least\npart of the circuit split below."
+            },
+            "explanation": "Refers to the Supreme Court's decision to hear a case, which is a critical procedural step that affects the trajectory of legal arguments and outcomes."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Your Honor, this issue was ventilated in the cert papers.\nI think, if you look at the brief in opposition at page 30 through 31,\nthere's an extensive discussion of this.\nWe discussed it at pages 24 through 25 of the petition and also in the\ncertiorari reply at page 9.\nSo I think we understood the Court in granti ng the case to be -- to be\ngranting the case including that argument.\nAnd it is an answer to the question presented that would resolve at least\npart of the ____________ below.\"",
+          "options": {
+            "A": "circuit split",
+            "B": "circuit conflict",
+            "C": "district split",
+            "D": "circuit division"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "circuit split",
+            "category": "case_law",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 3,
+              "speaker": "Deepak Gupta",
+              "original_statement": "Your Honor, this issue was ventilated in the cert papers.\nI think, if you look at the brief in opposition at page 30 through 31,\nthere's an extensive discussion of this.\nWe discussed it at pages 24 through 25 of the petition and also in the\ncertiorari reply at page 9.\nSo I think we understood the Court in granti ng the case to be -- to be\ngranting the case including that argument.\nAnd it is an answer to the question presented that would resolve at least\npart of the circuit split below."
+            },
+            "explanation": "Describes a situation where different federal circuit courts have ruled differently on the same legal issue, highlighting the importance of uniformity in federal law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Your Honor, this issue was ventilated in the cert papers.\nI think, if you look at the brief in opposition at page 30 through 31,\nthere's an extensive discussion of this.\nWe discussed it at pages 24 through 25 of the petition and also in the\ncertiorari reply at page 9.\nSo I think we understood the Court in granti ng the case to be -- to be\ngranting the case including that argument.\nAnd it is an answer to the ____________ that would resolve at least\npart of the circuit split below.\"",
+          "options": {
+            "A": "question presented",
+            "B": "argument raised",
+            "C": "claim asserted",
+            "D": "issue presented"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "question presented",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 3,
+              "speaker": "Deepak Gupta",
+              "original_statement": "Your Honor, this issue was ventilated in the cert papers.\nI think, if you look at the brief in opposition at page 30 through 31,\nthere's an extensive discussion of this.\nWe discussed it at pages 24 through 25 of the petition and also in the\ncertiorari reply at page 9.\nSo I think we understood the Court in granti ng the case to be -- to be\ngranting the case including that argument.\nAnd it is an answer to the question presented that would resolve at least\npart of the circuit split below."
+            },
+            "explanation": "Refers to the specific legal issue that the Supreme Court is asked to resolve, which is fundamental to understanding the scope of the Court's review."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 2,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nCounsel, isn't -- oh.",
+      "questions": []
+    },
+    {
+      "conversation_id": 3,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nNo, go ahead.",
+      "questions": []
+    },
+    {
+      "conversation_id": 4,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nOkay.\nIsn't this a different scenario as well -- you said this was a different\nscenario in terms of the Eleventh Circuit's waiver argument -- because\nwe're talking about fundamentally a motion to dismiss and whether or\nnot Ms. Stanley plausibly alleged discrimination.\nAnd so I guess I'm a little confused by the Eleventh Circuit's waiver\nanalysis in that context.\nI don't know what they mean that she waived her ability to make this\nargument by not raising it before the district court, because the district\ncourt's task was just to determine whether or not she had plausibly\nalleged facts that would support a theory of discrimination under the\nADA, right?\n### Deepak Gupta:\nYeah, and I think that's another way that this Court can approach this\nissue which you often say, which is that as long as a party has preserved\na claim, the party can make legal arguments in support of that claim.\nAnd that's true in this Court even when the refinements happen here.\nBut, in this case, the -- the legal argument was presented to the court of\nappeals.\n### Justice Jackson:\nAnd they somehow suggested that -- that it was not available to her in\nthat way because she had not made that particular argument in support\n### Deepak Gupta:\nRight.\n### Deepak Gupta:\nYeah, and they -- and the -- and the rule that they invoked, as I -- as I\nsaid in my answer to",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Yeah, and I think that's another way that this Court can approach this\nissue which you often say, which is that as long as a party has preserved\na claim, the party can make __________________________________________.\nAnd that's true in this Court even when the refinements happen here.\nBut, in this case, the -- the legal argument was presented to the court of\nappeals.\"",
+          "options": {
+            "A": "legal assertions in favor of that argument",
+            "B": "legal theories in opposition to that claim",
+            "C": "legal arguments in support of that claim",
+            "D": "legal defenses against claims of that nature"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "legal arguments in support of that claim",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 7,
+            "context_info": {
+              "conversation_id": 4,
+              "statement_index": 1,
+              "speaker": "Deepak Gupta",
+              "original_statement": "Yeah, and I think that's another way that this Court can approach this\nissue which you often say, which is that as long as a party has preserved\na claim, the party can make legal arguments in support of that claim.\nAnd that's true in this Court even when the refinements happen here.\nBut, in this case, the -- the legal argument was presented to the court of\nappeals."
+            },
+            "explanation": "This phrase emphasizes the importance of the ability to present legal arguments in litigation, which is fundamental to the practice of law and the appellate process."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 5,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\n, was this rule that, you know, we\ndon't reach an argument simply because it's in the amicus brief.\nBut --but I think that doesn't accurately describe what happened here\nbecause Lieutenant Stanley was, in fact, pressing the argument.\nAnd --and, as I --I said, it was also, you know, fleshed out at the\ncertiorari stage.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 6,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nSo can you speak to the question of the facts here and whether or not\nshe has plausibly alleged discrimination, you know, while she was\nemployed?\n### Deepak Gupta:\nRight.\nSo, of course, complaints plead facts, not law.\nfor that --for that argument present in the complaint? And I think they\nare.\n### Justice Jackson:\nWhat are those ingredients?\n### Deepak Gupta:\nI'd first point you to paragraph 16 of the complaint, and there,\nLieutenant Stanley alleged that there came a point where she had no\nchoice but to retire while she was employed by the City of Sanford and\nshe was subject to the policy -- that's also at paragraph 26 -- she was\nsubject to this policy.\nAnd so the factual ingredients for the argument are there.\nShe was -- she was employed by the City.\nShe was able to do her job, but she recognized that she was inevitably\ngoing to have to retire because of a disability that had arose.\nAnd so all of those factual ingredients for the argument we're\npresenting here were there.\nThe argument is where --at least where, as here, someone is employed\nand is a qualified individual indisputably and they are subject to a policy\nthat affects their compensation and that they allege -- allege\ndiminishes their compensation, they are discriminated against.\nAnd that's not new.\nIn fact, the ADA was mapping onto an understanding from Title VII\nwhere suits like that had been brought by employees who were current\nemployees who were suing with respect to post -employment benefits.\nThere were several cases that reached this Court involving sex\nclassifications.\n### Justice Jackson:\nSo you're saying it's not post-employment discrimination just because\nit concerns benefits that would be given after her employment?\n### Deepak Gupta:\nExactly.\nAnd --and I think this Court repeatedly had recognized that in the Title\nVII context before the ADA's enactment.\nIf you look, for example, at the Hishon versus King & Spalding case, the\nCourt described the scenario where there are benefits that are paid out\nafter employment ends, but there is still a claim with respect to those\nbenefits while the employment is ongoing.\nAnd there were also, as I said, several cases involving pension benefits\nwhere that was the fact pattern.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"I'd first point you to paragraph 16 of the complaint, and there,\nLieutenant Stanley alleged that there came a point where she had no\nchoice but to retire while she was employed by the City of Sanford and\nshe was subject to the policy -- that's also at paragraph 26 -- she was\nsubject to this policy.\nAnd so the factual ingredients for the argument are there.\nShe was -- she was employed by the City.\nShe was able to do her job, but she recognized that she was inevitably\ngoing to have to retire because of a disability that had arose.\nAnd so all of those factual ingredients for the argument we're\npresenting here were there.\nThe argument is where --at least where, as here, someone is employed\nand is a __________________ and they are subject to a policy\nthat affects their compensation and that they allege -- allege\ndiminishes their compensation, they are discriminated against.\nAnd that's not new.\nIn fact, the ADA was mapping onto an understanding from Title VII\nwhere suits like that had been brought by employees who were current\nemployees who were suing with respect to post -employment benefits.\nThere were several cases that reached this Court involving sex\nclassifications.\"",
+          "options": {
+            "A": "qualified individual potentially",
+            "B": "qualified individual indisputably",
+            "C": "qualified individual arguably",
+            "D": "qualified employee indisputably"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "qualified individual indisputably",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 6,
+              "statement_index": 2,
+              "speaker": "Deepak Gupta",
+              "original_statement": "I'd first point you to paragraph 16 of the complaint, and there,\nLieutenant Stanley alleged that there came a point where she had no\nchoice but to retire while she was employed by the City of Sanford and\nshe was subject to the policy -- that's also at paragraph 26 -- she was\nsubject to this policy.\nAnd so the factual ingredients for the argument are there.\nShe was -- she was employed by the City.\nShe was able to do her job, but she recognized that she was inevitably\ngoing to have to retire because of a disability that had arose.\nAnd so all of those factual ingredients for the argument we're\npresenting here were there.\nThe argument is where --at least where, as here, someone is employed\nand is a qualified individual indisputably and they are subject to a policy\nthat affects their compensation and that they allege -- allege\ndiminishes their compensation, they are discriminated against.\nAnd that's not new.\nIn fact, the ADA was mapping onto an understanding from Title VII\nwhere suits like that had been brought by employees who were current\nemployees who were suing with respect to post -employment benefits.\nThere were several cases that reached this Court involving sex\nclassifications."
+            },
+            "explanation": "This phrase highlights the legal standard for determining who is protected under the ADA, emphasizing the necessity of being a 'qualified individual' in the context of discrimination claims."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"I'd first point you to paragraph 16 of the complaint, and there,\nLieutenant Stanley alleged that there came a point where she had no\nchoice but to retire while she was employed by the City of Sanford and\nshe was subject to the policy -- that's also at paragraph 26 -- she was\nsubject to this policy.\nAnd so the ______________________________ are there.\nShe was -- she was employed by the City.\nShe was able to do her job, but she recognized that she was inevitably\ngoing to have to retire because of a disability that had arose.\nAnd so all of those factual ingredients for the argument we're\npresenting here were there.\nThe argument is where --at least where, as here, someone is employed\nand is a qualified individual indisputably and they are subject to a policy\nthat affects their compensation and that they allege -- allege\ndiminishes their compensation, they are discriminated against.\nAnd that's not new.\nIn fact, the ADA was mapping onto an understanding from Title VII\nwhere suits like that had been brought by employees who were current\nemployees who were suing with respect to post -employment benefits.\nThere were several cases that reached this Court involving sex\nclassifications.\"",
+          "options": {
+            "A": "factual ingredients for the argument",
+            "B": "factual prerequisites for the argument",
+            "C": "factual components of the case",
+            "D": "factual elements of the claim"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "factual ingredients for the argument",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 6,
+              "statement_index": 2,
+              "speaker": "Deepak Gupta",
+              "original_statement": "I'd first point you to paragraph 16 of the complaint, and there,\nLieutenant Stanley alleged that there came a point where she had no\nchoice but to retire while she was employed by the City of Sanford and\nshe was subject to the policy -- that's also at paragraph 26 -- she was\nsubject to this policy.\nAnd so the factual ingredients for the argument are there.\nShe was -- she was employed by the City.\nShe was able to do her job, but she recognized that she was inevitably\ngoing to have to retire because of a disability that had arose.\nAnd so all of those factual ingredients for the argument we're\npresenting here were there.\nThe argument is where --at least where, as here, someone is employed\nand is a qualified individual indisputably and they are subject to a policy\nthat affects their compensation and that they allege -- allege\ndiminishes their compensation, they are discriminated against.\nAnd that's not new.\nIn fact, the ADA was mapping onto an understanding from Title VII\nwhere suits like that had been brought by employees who were current\nemployees who were suing with respect to post -employment benefits.\nThere were several cases that reached this Court involving sex\nclassifications."
+            },
+            "explanation": "This phrase refers to the essential elements required to establish a legal claim, underscoring the importance of factual sufficiency in legal arguments."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"I'd first point you to paragraph 16 of the complaint, and there,\nLieutenant Stanley alleged that there came a point where she had no\nchoice but to retire while she was employed by the City of Sanford and\nshe was subject to the policy -- that's also at paragraph 26 -- she was\nsubject to this policy.\nAnd so the factual ingredients for the argument are there.\nShe was -- she was employed by the City.\nShe was able to do her job, but she recognized that she was inevitably\ngoing to have to retire because of a disability that had arose.\nAnd so all of those factual ingredients for the argument we're\npresenting here were there.\nThe argument is where --at least where, as here, someone is employed\nand is a qualified individual indisputably and they are subject to a policy\nthat affects their compensation and that they allege -- allege\ndiminishes their compensation, they are discriminated against.\nAnd that's not new.\nIn fact, the ADA was __________________________________________\nwhere suits like that had been brought by employees who were current\nemployees who were suing with respect to post -employment benefits.\nThere were several cases that reached this Court involving sex\nclassifications.\"",
+          "options": {
+            "A": "mapping onto an analysis from Title VII",
+            "B": "mapping onto an interpretation from Title IX",
+            "C": "mapping onto an understanding from Title VII",
+            "D": "mapping onto an application under Title VII"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "mapping onto an understanding from Title VII",
+            "category": "case_law",
+            "difficulty": "hard",
+            "word_count": 7,
+            "context_info": {
+              "conversation_id": 6,
+              "statement_index": 2,
+              "speaker": "Deepak Gupta",
+              "original_statement": "I'd first point you to paragraph 16 of the complaint, and there,\nLieutenant Stanley alleged that there came a point where she had no\nchoice but to retire while she was employed by the City of Sanford and\nshe was subject to the policy -- that's also at paragraph 26 -- she was\nsubject to this policy.\nAnd so the factual ingredients for the argument are there.\nShe was -- she was employed by the City.\nShe was able to do her job, but she recognized that she was inevitably\ngoing to have to retire because of a disability that had arose.\nAnd so all of those factual ingredients for the argument we're\npresenting here were there.\nThe argument is where --at least where, as here, someone is employed\nand is a qualified individual indisputably and they are subject to a policy\nthat affects their compensation and that they allege -- allege\ndiminishes their compensation, they are discriminated against.\nAnd that's not new.\nIn fact, the ADA was mapping onto an understanding from Title VII\nwhere suits like that had been brought by employees who were current\nemployees who were suing with respect to post -employment benefits.\nThere were several cases that reached this Court involving sex\nclassifications."
+            },
+            "explanation": "This phrase connects the ADA's provisions to Title VII, illustrating the legal lineage and interpretative framework for discrimination claims, which is essential for understanding employment law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Exactly.\nAnd --and I think this Court repeatedly had recognized that in the Title\nVII context before the ADA's enactment.\nIf you look, for example, at the ____________________________________, the\nCourt described the scenario where there are benefits that are paid out\nafter employment ends, but there is still a claim with respect to those\nbenefits while the employment is ongoing.\nAnd there were also, as I said, several cases involving pension benefits\nwhere that was the fact pattern.\"",
+          "options": {
+            "A": "Hishon versus King & Spalding ruling",
+            "B": "Hishon against King & Spalding decision",
+            "C": "Hishon v. King & Spalding case",
+            "D": "Hishon versus King & Spalding case"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "Hishon versus King & Spalding case",
+            "category": "case_law",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 6,
+              "statement_index": 3,
+              "speaker": "Deepak Gupta",
+              "original_statement": "Exactly.\nAnd --and I think this Court repeatedly had recognized that in the Title\nVII context before the ADA's enactment.\nIf you look, for example, at the Hishon versus King & Spalding case, the\nCourt described the scenario where there are benefits that are paid out\nafter employment ends, but there is still a claim with respect to those\nbenefits while the employment is ongoing.\nAnd there were also, as I said, several cases involving pension benefits\nwhere that was the fact pattern."
+            },
+            "explanation": "This case serves as a precedent in employment discrimination law, necessitating familiarity with its implications for post-employment claims."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 7,
+      "dialogue": "Justice Alito\n### Justice Alito:\nMr. Gupta, I -- I think that all of what you said makes sense.\nThere was a period during her employment when she had a claim for\ndisability discrimination.\nThe period between the onset of her disability and her retirement, at\nleast toward the end of that period, she was aggrieve --I think it was\npredictable that she might face this situation after she retired and so\nthat she was aggrieved.\nAnd I think there was a sufficient injury -- a sufficient threat of injury in\nfact to give her Article III standing.\nBut that doesn't get you home because she didn't file on that claim\nwithin the prescribed time.\nSo what you need is the Lilly Lid -- Lilly Ledbetter Act to save you.\nAnd the outcome would depend on how you read the Lilly Ledbetter Act.\nIt could be read as sort of an extension of the statute of limitations\nwhich would allow her to file -- to pursue that claim at any point in the\nfuture when she is not getting the benefits to which she thinks she's\nentitled.\nThat's one way to read it.\nBut another way to read it, which does have support in the statutory\nlanguage, is that the Act does not extend to the statute of limitations.\nIt says that an unlawful employment practice occurs when an individual\nis affected by application of a discriminatory compensation decision or\nother practice.\nSo a new claim occurs every time in the future when she doesn't get the\nbenefits that she thinks she's entitled to.\nAnd if that is the -- if that is what it means, then don't you run into the\nsame statutory language problem that you have with respect to a\nchange in benefits that occurs after the end of employment? Because, if\nshe's bringing a new claim, she has to be an otherwise qualified\nindividual.\nAnd it's not that easy to fit her situation at t hat time into the statutory\nlanguage.\nSo that's what concerns me about your argument.\nAnd could you answer --could you say why that is not fatal to your\nposition?\n### Deepak Gupta:\nSure.\nSo I think I have at least three responses.\nFirst -- my first response is to answer the question without resort to the\nFair Pay Act.\nImagine the Fair Pay -- Pay Act hadn't been enacted.\nLieutenant Stanley's claim was subject to the 300 -day requirement to\nfile the claim, and she filed within 214 days of the retirement. So, even if\nyou are just, you know, focusing on that period before she retired, in\nthat period, she was indisputably a qualified individual. She was subject\nto the policy, all the things I said before.\nAnd so that would, I think, get you out of this -- this problem that\nyou've described.\n### Justice Alito:\nOh, all right.\n### Deepak Gupta:\nknow, it may come up in other cases.\nAnd -- and I think what the statute says is that the -- the unlawful\npractice occurs at three points: the adoption, when the person is subject\nto the policy, and then where the effects are felt.\nAnd Congress was specifically focused on claims with respect to\ncompensation and amended the ADA to make clear that -- that this\napplied to the ADA.\nAnd so I think that is Congress telling us that at this very kind of\nsituation where somebody is subject to the policy, that the -- the\nunlawful practice occurs there.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Sure.\nSo I think I have at least three responses.\nFirst -- my first response is to answer the question without resort to the\nFair Pay Act.\nImagine the Fair Pay -- Pay Act hadn't been enacted.\nLieutenant Stanley's claim was subject to the 300 -day requirement to\nfile the claim, and she filed within 214 days of the retirement. So, even if\nyou are just, you know, focusing on that period before she retired, in\nthat period, she was indisputably a ____________. She was subject\nto the policy, all the things I said before.\nAnd so that would, I think, get you out of this -- this problem that\nyou've described.\"",
+          "options": {
+            "A": "qualified individual",
+            "B": "qualified member",
+            "C": "qualified applicant",
+            "D": "qualified employee"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "qualified individual",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 7,
+              "statement_index": 1,
+              "speaker": "Deepak Gupta",
+              "original_statement": "Sure.\nSo I think I have at least three responses.\nFirst -- my first response is to answer the question without resort to the\nFair Pay Act.\nImagine the Fair Pay -- Pay Act hadn't been enacted.\nLieutenant Stanley's claim was subject to the 300 -day requirement to\nfile the claim, and she filed within 214 days of the retirement. So, even if\nyou are just, you know, focusing on that period before she retired, in\nthat period, she was indisputably a qualified individual. She was subject\nto the policy, all the things I said before.\nAnd so that would, I think, get you out of this -- this problem that\nyou've described."
+            },
+            "explanation": "This term is central to ADA claims, as it defines who is eligible to bring forth a discrimination lawsuit based on their qualifications and status at the time of the alleged discrimination."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"know, it may come up in other cases.\nAnd -- and I think what the statute says is that the -- the unlawful\npractice occurs at three points: the adoption, when the person is subject\nto the policy, and then where the effects are felt.\nAnd Congress was specifically focused on claims with respect to\ncompensation and amended the ADA to make clear that -- that this\napplied to the ADA.\nAnd so I think that is Congress telling us that at this very kind of\nsituation where somebody is ________________________, that the -- the\nunlawful practice occurs there.\"",
+          "options": {
+            "A": "subject to the policy",
+            "B": "subject to the ruling",
+            "C": "subject to the statute",
+            "D": "subject to the contract"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "subject to the policy",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 7,
+              "statement_index": 2,
+              "speaker": "Deepak Gupta",
+              "original_statement": "know, it may come up in other cases.\nAnd -- and I think what the statute says is that the -- the unlawful\npractice occurs at three points: the adoption, when the person is subject\nto the policy, and then where the effects are felt.\nAnd Congress was specifically focused on claims with respect to\ncompensation and amended the ADA to make clear that -- that this\napplied to the ADA.\nAnd so I think that is Congress telling us that at this very kind of\nsituation where somebody is subject to the policy, that the -- the\nunlawful practice occurs there."
+            },
+            "explanation": "This phrase highlights the critical moment when an individual is affected by a discriminatory policy, necessitating an understanding of the implications of being 'subject' to such policies under employment law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"know, it may come up in other cases.\nAnd -- and I think what the statute says is that the -- the unlawful\npractice occurs at three points: the adoption, when the person is subject\nto the policy, and then where the effects are felt.\nAnd Congress was specifically focused on claims with respect to\ncompensation and amended the ADA to make clear that -- that this\napplied to the ADA.\nAnd so I think that is ________________________ at this very kind of\nsituation where somebody is subject to the policy, that the -- the\nunlawful practice occurs there.\"",
+          "options": {
+            "A": "Congress advising us that",
+            "B": "Congress declaring us that",
+            "C": "Congress informing us regarding",
+            "D": "Congress telling us that"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "Congress telling us that",
+            "category": "constitutional",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 7,
+              "statement_index": 2,
+              "speaker": "Deepak Gupta",
+              "original_statement": "know, it may come up in other cases.\nAnd -- and I think what the statute says is that the -- the unlawful\npractice occurs at three points: the adoption, when the person is subject\nto the policy, and then where the effects are felt.\nAnd Congress was specifically focused on claims with respect to\ncompensation and amended the ADA to make clear that -- that this\napplied to the ADA.\nAnd so I think that is Congress telling us that at this very kind of\nsituation where somebody is subject to the policy, that the -- the\nunlawful practice occurs there."
+            },
+            "explanation": "This phrase underscores the importance of legislative intent in statutory interpretation, particularly in understanding how Congress communicates its objectives through enacted laws."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 8,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nCounsel, you say in your brief as part of your argument that if the\nretirees are not unable to perform, they are able to perform?\n### Deepak Gupta:\nYes.\n### Chief Justice Roberts:\nYou smile.\nI don't think that follows at all.\n### Deepak Gupta:\nIt's not the most intuitive thing, and, you know, I'll admit that when I\nfirst read the statute, that wasn't the first thing that jumped out.\nBut I do think --and we have lots of other ways to approach the\nproblem, from common usage and grammar and examples that we've\ngiven. But I do think, if you're just thinking about it in terms of formal\nlogic, you know, those are opposites.\nAnd -- and so the idea is, if you take a sentence and you negate the\n### Chief Justice Roberts:\nWell, no, I understand the -- the plain language.\n### Deepak Gupta:\nRight.\n### Chief Justice Roberts:\nbecause you're in a different factual context, you don't know whether\nthey're able or unable.\nSo you wouldn't choose one or the other.\n### Deepak Gupta:\nRight.\nI mean, another way to take a crack at this is just to say that it's a\nquestion that's sort of a non sequitur because what you have here is a\nsentence that has an embedded premise, right? The -- whoever drafted\nthis sentence was not -- was not very precisely speaking to the question\nof: Do you have to have this position at the time or not? They were sort\nof assuming that.\nAnd it says, you know, \"can perform the essential functions of the\nperson that such individual holds or desires.\" And then the question is:\nDo you have to hold or desire the position? And I think the best way\ngrammatically to understand that is that there are present-tense verbs.\nYou have to be able to perform the function.\nBut then the rest of the -- the part of the sentence after -- with the\nword \"that\" and after \"that,\" is a restrictive clause, modifying the\nposition.\nAnd so the thing you have to be able to perform is the essential\nfunctions of the job that you hold or desire to the extent that you hold or\ndesire a job.\n### Chief Justice Roberts:\nOkay.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Right.\nI mean, another way to take a crack at this is just to say that it's a\nquestion that's sort of a non sequitur because what you have here is a\nsentence that has an embedded premise, right? The -- whoever drafted\nthis sentence was not -- was not very precisely speaking to the question\nof: Do you have to have this position at the time or not? They were sort\nof assuming that.\nAnd it says, you know, \"can perform the essential functions of the\nperson that such individual holds or desires.\" And then the question is:\nDo you have to hold or desire the position? And I think the best way\ngrammatically to understand that is that there are present-tense verbs.\nYou have to be able to perform the function.\nBut then the rest of the -- the part of the sentence after -- with the\nword \"that\" and after \"that,\" is a ____________, modifying the\nposition.\nAnd so the thing you have to be able to perform is the essential\nfunctions of the job that you hold or desire to the extent that you hold or\ndesire a job.\"",
+          "options": {
+            "A": "restrictive condition",
+            "B": "restrictive clause",
+            "C": "restrictive provision",
+            "D": "restrictive standard"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "restrictive clause",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 8,
+              "statement_index": 2,
+              "speaker": "Deepak Gupta",
+              "original_statement": "Right.\nI mean, another way to take a crack at this is just to say that it's a\nquestion that's sort of a non sequitur because what you have here is a\nsentence that has an embedded premise, right? The -- whoever drafted\nthis sentence was not -- was not very precisely speaking to the question\nof: Do you have to have this position at the time or not? They were sort\nof assuming that.\nAnd it says, you know, \"can perform the essential functions of the\nperson that such individual holds or desires.\" And then the question is:\nDo you have to hold or desire the position? And I think the best way\ngrammatically to understand that is that there are present-tense verbs.\nYou have to be able to perform the function.\nBut then the rest of the -- the part of the sentence after -- with the\nword \"that\" and after \"that,\" is a restrictive clause, modifying the\nposition.\nAnd so the thing you have to be able to perform is the essential\nfunctions of the job that you hold or desire to the extent that you hold or\ndesire a job."
+            },
+            "explanation": "Understanding this grammatical term is essential for interpreting statutory language and legal documents accurately."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 9,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nCounsel, it's a bit -- lacks intuity to think that every retired person\nwho's not seeking a job or holding it is entitled to sue for disability,\nparticularly -- for example, let's give you that while they were\nemployed, they weren't entitled to disability benefits.\nAfter they retired, the company started giving it to retirees, to\nemployees and retirees, and then took it away.\nYour reading would permit them to sue still, correct?\n### Deepak Gupta:\nWell, I think they would -- that suit would fail. I -- I understand the\nintuition of the question, which is: Have we opened some, you know, big\ntrap door that expands the reach of the statute in -- in --in a way that\nwe should be worried about?\n### Justice Sotomayor:\nThat's exactly my question.\n### Deepak Gupta:\nAnd -- and, you know, I will note that the -- the other side hasn't\nidentified that category, nor did the amici, but I can -- I can see where t\nhat concern comes from.\nAnd I think one way to answer the question is to look at the\ndiscrimination rule and notice that it still requires that any claim be in\nregard to employee compensation or the terms, privileges, or\nconditions of employment.\nAnd that -- that's the same language in Title VII.\nSo Title VII makes unlawful a -- an act of discrimination with respect to\nthose same nouns.\nAnd we're not concerned in the Title VII context that there's some, you\nknow, trap door that opens up a large category of claims. And the reason\nwhy is you don't have a claim of that kind unless there is either a\nprospective employment relationship or some employment\nrelationship that is the locus of that discrimination.\nThe same thing is true with respect to the ADA.\nSo I don't think our argument opens up some broad category of claims.\nYou still have to have that --the discrimination has to concern the\nterms and conditions or compensation of employment.\n### Justice Sotomayor:\nI have one other question.\nThe SG, I believe, takes the position that an employer discriminates\nagainst a retiree as to employment benefits that she earned while she\nwas a qualified individual.\n### Deepak Gupta:\nRight.\n### Justice Sotomayor:\nWhy don't you -- why haven't you adopted that?\n### Deepak Gupta:\nWell, we do endorse the -- the SG's theory.\nThat's what we meant to do in our reply.\nAnd -- and, if that wasn't clear, I -- I, you know, endorse the -- the SG's\ntheory, and I think it is an alternative textual pathway that gets you to\nbasically the same result.\n### Justice Sotomayor:\nDoes that then take us to",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"And -- and, you know, I will note that the -- the other side hasn't\nidentified that category, nor did the amici, but I can -- I can see where t\nhat concern comes from.\nAnd I think one way to answer the question is to look at the\n____________ and notice that it still requires that any claim be in\nregard to employee compensation or the terms, privileges, or\nconditions of employment.\nAnd that -- that's the same language in Title VII.\nSo Title VII makes unlawful a -- an act of discrimination with respect to\nthose same nouns.\nAnd we're not concerned in the Title VII context that there's some, you\nknow, trap door that opens up a large category of claims. And the reason\nwhy is you don't have a claim of that kind unless there is either a\nprospective employment relationship or some employment\nrelationship that is the locus of that discrimination.\nThe same thing is true with respect to the ADA.\nSo I don't think our argument opens up some broad category of claims.\nYou still have to have that --the discrimination has to concern the\nterms and conditions or compensation of employment.\"",
+          "options": {
+            "A": "discrimination rule",
+            "B": "discrimination statute",
+            "C": "discrimination policy",
+            "D": "discrimination standard"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "discrimination rule",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 9,
+              "statement_index": 2,
+              "speaker": "Deepak Gupta",
+              "original_statement": "And -- and, you know, I will note that the -- the other side hasn't\nidentified that category, nor did the amici, but I can -- I can see where t\nhat concern comes from.\nAnd I think one way to answer the question is to look at the\ndiscrimination rule and notice that it still requires that any claim be in\nregard to employee compensation or the terms, privileges, or\nconditions of employment.\nAnd that -- that's the same language in Title VII.\nSo Title VII makes unlawful a -- an act of discrimination with respect to\nthose same nouns.\nAnd we're not concerned in the Title VII context that there's some, you\nknow, trap door that opens up a large category of claims. And the reason\nwhy is you don't have a claim of that kind unless there is either a\nprospective employment relationship or some employment\nrelationship that is the locus of that discrimination.\nThe same thing is true with respect to the ADA.\nSo I don't think our argument opens up some broad category of claims.\nYou still have to have that --the discrimination has to concern the\nterms and conditions or compensation of employment."
+            },
+            "explanation": "This phrase refers to the legal standard that governs claims of discrimination, requiring a nuanced understanding of how discrimination is defined and applied in employment law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"And -- and, you know, I will note that the -- the other side hasn't\nidentified that category, nor did the amici, but I can -- I can see where t\nhat concern comes from.\nAnd I think one way to answer the question is to look at the\ndiscrimination rule and notice that it still requires that any claim be in\nregard to employee compensation or the terms, privileges, or\nconditions of employment.\nAnd that -- that's the same language in Title VII.\nSo Title VII makes unlawful a -- an act of discrimination with respect to\nthose same nouns.\nAnd we're not concerned in the Title VII context that there's some, you\nknow, trap door that opens up a large category of claims. And the reason\nwhy is you don't have a claim of that kind unless there is either a\n__________________ or some employment\nrelationship that is the locus of that discrimination.\nThe same thing is true with respect to the ADA.\nSo I don't think our argument opens up some broad category of claims.\nYou still have to have that --the discrimination has to concern the\nterms and conditions or compensation of employment.\"",
+          "options": {
+            "A": "prospective employment agreement",
+            "B": "prospective employment relationship",
+            "C": "prospective employment status",
+            "D": "prospective employment benefits"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "prospective employment relationship",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 9,
+              "statement_index": 2,
+              "speaker": "Deepak Gupta",
+              "original_statement": "And -- and, you know, I will note that the -- the other side hasn't\nidentified that category, nor did the amici, but I can -- I can see where t\nhat concern comes from.\nAnd I think one way to answer the question is to look at the\ndiscrimination rule and notice that it still requires that any claim be in\nregard to employee compensation or the terms, privileges, or\nconditions of employment.\nAnd that -- that's the same language in Title VII.\nSo Title VII makes unlawful a -- an act of discrimination with respect to\nthose same nouns.\nAnd we're not concerned in the Title VII context that there's some, you\nknow, trap door that opens up a large category of claims. And the reason\nwhy is you don't have a claim of that kind unless there is either a\nprospective employment relationship or some employment\nrelationship that is the locus of that discrimination.\nThe same thing is true with respect to the ADA.\nSo I don't think our argument opens up some broad category of claims.\nYou still have to have that --the discrimination has to concern the\nterms and conditions or compensation of employment."
+            },
+            "explanation": "This term requires an understanding of the legal implications of employment relationships and how they relate to claims of discrimination, particularly in the context of future employment."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"And -- and, you know, I will note that the -- the other side hasn't\nidentified that category, nor did the amici, but I can -- I can see where t\nhat concern comes from.\nAnd I think one way to answer the question is to look at the\ndiscrimination rule and notice that it still requires that any claim be in\nregard to employee compensation or the terms, privileges, or\nconditions of employment.\nAnd that -- that's the same language in Title VII.\nSo Title VII makes unlawful a -- an act of discrimination with respect to\nthose same nouns.\nAnd we're not concerned in the Title VII context that there's some, you\nknow, trap door that opens up a large category of claims. And the reason\nwhy is you don't have a claim of that kind unless there is either a\nprospective employment relationship or some employment\nrelationship that is the ________________________.\nThe same thing is true with respect to the ADA.\nSo I don't think our argument opens up some broad category of claims.\nYou still have to have that --the discrimination has to concern the\nterms and conditions or compensation of employment.\"",
+          "options": {
+            "A": "basis of that discrimination",
+            "B": "scope of that discrimination",
+            "C": "locus of that discrimination",
+            "D": "focus of that discrimination"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "locus of that discrimination",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 9,
+              "statement_index": 2,
+              "speaker": "Deepak Gupta",
+              "original_statement": "And -- and, you know, I will note that the -- the other side hasn't\nidentified that category, nor did the amici, but I can -- I can see where t\nhat concern comes from.\nAnd I think one way to answer the question is to look at the\ndiscrimination rule and notice that it still requires that any claim be in\nregard to employee compensation or the terms, privileges, or\nconditions of employment.\nAnd that -- that's the same language in Title VII.\nSo Title VII makes unlawful a -- an act of discrimination with respect to\nthose same nouns.\nAnd we're not concerned in the Title VII context that there's some, you\nknow, trap door that opens up a large category of claims. And the reason\nwhy is you don't have a claim of that kind unless there is either a\nprospective employment relationship or some employment\nrelationship that is the locus of that discrimination.\nThe same thing is true with respect to the ADA.\nSo I don't think our argument opens up some broad category of claims.\nYou still have to have that --the discrimination has to concern the\nterms and conditions or compensation of employment."
+            },
+            "explanation": "This phrase highlights the importance of identifying the specific context or location where discrimination occurs, which is essential for establishing a legal claim."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 10,
+      "dialogue": "Justice Alito\n### Justice Alito:\n's question of if the discriminatory\neffect is felt after retirement? If someone didn't have Parkinson's or a\ncondition before retirement, while they were still performing, would\nthat then lead us to\n### Justice Alito:\n's question?\n### Deepak Gupta:\nIt -- it could.\nNot in this case for the reasons I was discussing with\n### Justice Alito:\n, but, in\nother cases, yes.\nAnd I think there are a number of -- if I may complete?",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 11,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nSure.\nYeah. Please do.\n### Deepak Gupta:\nThere are a number of hypothetical scenarios that I think the Court\nshould be concerned about, for example, somebody who runs into a\nburning building and is instantly rendered unqualified or somebody\nwho develops a disability later.\nAnd those -- those cases would be captured by the Solicitor General's\nalternative theory and also by our part two arguments but not by the\nnarrow theory.\n### Chief Justice Roberts:\nThank you. Justice Thomas?",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 12,
+      "dialogue": "Justice Alito\n### Justice Alito:\n?\nI am interested in what the implications of adopting -- what the\nconsequences of adopting your argument would be.\nAnd this is what I --I would really appreciate some enlightenment on\nthis because I assume that you're more --you're familiar with how this\nhas worked out in those circuits that have adopted something like your\nargument or how it might work out nationwide in the future.\nIn the great many -- in my -- in --in a prior life, I saw a lot of ADA cases\nand they almost always concerned the question of reasonable\naccommodation.\nAnd I'm hard-pressed to see how the reasonable accommodation\nconcept can be applied to retirement benefits or -- and the facts of this\ncase highlight it.\nSo I know we're -- the validity of your theory of -- of --you know, that\nthere was a violation is not before us.\nBut what -- what would be your -- how would a court go about -- what\nis the discrimination here? Is it the disparate treatment between\nemployees who work 25 years and then retire and those who work a\nshorter period of time and retire on disability? Is that it? Or does it have\nsomething to do with the change in the -- in the scheme?\n### Deepak Gupta:\nOkay.\nSo let me -- there are two questions in there.\nLet me take both of them.\nSo I quite agree that the reasonable accommodation concept is not\nreally going to do much work in this scenario, and one way you know\nthat is, if you look at the construction provision, (b)(5), when it's\ndescribing the reasonable accommodation requirement, it actually adds\non this language.\nIt says \"qualified individual who is an applicant or employee.\" And so I\nthink that is how Congress cabined the provision just to applicants or\nemployees.\n### Justice Alito:\nYeah.\n### Justice Alito:\nI don't see how it could work.\nSo, if it's --which is it? Is it the change, or is it the current status?\n### Deepak Gupta:\nI think it's both.\nIt is an ongoing discrimination.\nLet me -- so, first of all, I'd just emphasize that neither of the courts\nbelow aggressed -- addressed the actual merits of the -- of the\ndiscrimination claim.\n### Justice Alito:\nNo, I --I understand that.\n### Justice Alito:\nI'm just -- I'm just trying to understand h ow this would work -- how\n### Deepak Gupta:\nRight.\n### Justice Alito:\nSo you have a situation where your client says -- let's just take the\nongoing status.\nYour client says that I'm being -- I -- I -- I'm a victim of discrimination\nbased on disability because I should be treated the same way as\nsomebody who worked 25 years.\nHow is a court supposed to determine whether this distinction between\nsomebody w ho works 25 years and somebody who works a shorter\nperiod and retires based on disability is unlawful? What is the test for\ndetermining that?\n### Deepak Gupta:\nYeah.\nI mean, I think it will --it will turn a lot on the claim.\nLet me try to describe what I think is going on here, which is that before\nthis policy was put into place, the City was treating three groups of\npeople as equally deserving of the subsidy, so people who had\ncompleted 25 years of service, people who had completed a combined\nyear -- 25 years of service when taking into account military service and\nother firefighting positions, and then people who retired with -- with a\ndisability.\nThat's the third category.\nAnd when faced with a budget shortfall, the City chose to only exclude\nthat third group, people with disabilities, from the subsidy despite the\nabsence of any evidence that it would ameliorate the shortfall.\nSo the City singled out people with disabilities solely because of their\ndisabilities.\nAnd, in fact, we know that the City has told a disabled retiree who did\nhave 25 years of service that he still could not have the subsidy because\nhe had, after 25 years, become disabled.\nSo what -- what we would, I think, want the opportunity to do on\nremand is to show that the City treated Lieutenant Stanley differently\nbecause of her disability.\nIf she weren't disabled, she would have made it to 25 years and gotten\nthe subsidy.\nAnd if the City didn't singled out --single out disabled people, she\nwould have gotten the subsidy.\nOf course, the City will have the opportunity on remand to show why\nwe're wrong and --in their view.\nAnd whether you think the underlying claim is doomed to fail or\ndestined to succeed, the -- the question presented is the same.\nAnd I do think these are difficult claims to succeed on.\n### Justice Alito:\nWell, you've said -- you've said a lot.\nAnd I -- I -- I'm not asking -- I -- I -- I'm not talking about the validity\nof this particular claim.\nI just don't know how this is going to be approached.\nWhen you have --you have structured retirem ent benefits, distinctions\nare going to be made.\n### Deepak Gupta:\nRight.\n### Justice Alito:\nSo part of what you said seems to me -- seems to be that the City just\nhad irrational bias against people with a disability, okay? That would be\none -- one argument that might be made.\nAnother part of what you seem to have said is that they didn't really\nhave a -- an economy --a valid economy rationale.\nBy not extending the benefits to people who retire with disability, they\nreally weren't going to save any money.\nBut suppose there's no evidence of -- of bias and, presumably, they will\nsave some money and they say, look, we need to cut -- we needed to cut\nback, so we cut -- this is where we cut back and we have a reason for it.\nThe reason is that we want to reward people who work for us for 25\nyears.\nHow -- how is a court going to approach this kind of issue?\n### Justice Alito:\nBecause, if you take out the reasonable accommodation question, I just\ndon't know how this is going to be -- how it's going to be approached by\ncourts in the future.\n### Deepak Gupta:\nWell, Justice Alito, you mentioned, you know, a structured benefit plan\nand the ability to make sort of actuarial sorts of decisions.\nAnd Congress actually did focus on this precise problem when it drafted\nthe ADA, and it included a safe harbor provision.\nThat's Section 12201(c).\nAnd that immunizes plan sponsors, plan administrators, insurance\ncompanies, from these kinds of risk-based decisions.\nAnd, in fact, your opinion in the Ford case, your concurring opinion in\none of these decisions comprising the circuit split, mentioned that safe\nharbor.\nAnd I think that actually, to the extent that the amici on the other side\nare hypothesizing a flood of claims, the reason you haven't seen that in\nthe Second and Third Circuits is because that safe harbor provision takes\ncare of and immunizes defendants from -- from the large, you know,\nmajority of those kinds of claims.\n### Justice Alito:\nAll right.\nThank you. That's helpful.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Okay.\nSo let me -- there are two questions in there.\nLet me take both of them.\nSo I quite agree that the __________________ is not\nreally going to do much work in this scenario, and one way you know\nthat is, if you look at the construction provision, (b)(5), when it's\ndescribing the reasonable accommodation requirement, it actually adds\non this language.\nIt says \"qualified individual who is an applicant or employee.\" And so I\nthink that is how Congress cabined the provision just to applicants or\nemployees.\"",
+          "options": {
+            "A": "reasonable accommodation doctrine",
+            "B": "reasonable accommodation concept",
+            "C": "reasonable adjustment principle",
+            "D": "reasonable modification standard"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "reasonable accommodation concept",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 12,
+              "statement_index": 1,
+              "speaker": "Deepak Gupta",
+              "original_statement": "Okay.\nSo let me -- there are two questions in there.\nLet me take both of them.\nSo I quite agree that the reasonable accommodation concept is not\nreally going to do much work in this scenario, and one way you know\nthat is, if you look at the construction provision, (b)(5), when it's\ndescribing the reasonable accommodation requirement, it actually adds\non this language.\nIt says \"qualified individual who is an applicant or employee.\" And so I\nthink that is how Congress cabined the provision just to applicants or\nemployees."
+            },
+            "explanation": "This phrase refers to a fundamental principle under the ADA that requires employers to make adjustments to the work environment for qualified individuals with disabilities, necessitating a nuanced understanding of its application and limitations."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Okay.\nSo let me -- there are two questions in there.\nLet me take both of them.\nSo I quite agree that the reasonable accommodation concept is not\nreally going to do much work in this scenario, and one way you know\nthat is, if you look at the construction provision, (b)(5), when it's\ndescribing the reasonable accommodation requirement, it actually adds\non this language.\nIt says \"________________________________________________.\" And so I\nthink that is how Congress cabined the provision just to applicants or\nemployees.\"",
+          "options": {
+            "A": "qualified individual who is an employee or applicant",
+            "B": "qualified individual who is an applicant or employee",
+            "C": "qualified individual who is an employee or contractor",
+            "D": "qualified individual who is an applicant or contractor"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "qualified individual who is an applicant or employee",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 8,
+            "context_info": {
+              "conversation_id": 12,
+              "statement_index": 1,
+              "speaker": "Deepak Gupta",
+              "original_statement": "Okay.\nSo let me -- there are two questions in there.\nLet me take both of them.\nSo I quite agree that the reasonable accommodation concept is not\nreally going to do much work in this scenario, and one way you know\nthat is, if you look at the construction provision, (b)(5), when it's\ndescribing the reasonable accommodation requirement, it actually adds\non this language.\nIt says \"qualified individual who is an applicant or employee.\" And so I\nthink that is how Congress cabined the provision just to applicants or\nemployees."
+            },
+            "explanation": "This statutory language is critical in defining the scope of protections under the ADA, emphasizing the distinction between applicants and current employees, which is essential for understanding eligibility for reasonable accommodations."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Okay.\nSo let me -- there are two questions in there.\nLet me take both of them.\nSo I quite agree that the reasonable accommodation concept is not\nreally going to do much work in this scenario, and one way you know\nthat is, if you look at the construction provision, (b)(5), when it's\ndescribing the reasonable accommodation requirement, it actually adds\non this language.\nIt says \"qualified individual who is an applicant or employee.\" And so I\nthink that is how Congress __________________ just to applicants or\nemployees.\"",
+          "options": {
+            "A": "cabined the exception",
+            "B": "cabined the statute",
+            "C": "cabined the clause",
+            "D": "cabined the provision"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "cabined the provision",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 12,
+              "statement_index": 1,
+              "speaker": "Deepak Gupta",
+              "original_statement": "Okay.\nSo let me -- there are two questions in there.\nLet me take both of them.\nSo I quite agree that the reasonable accommodation concept is not\nreally going to do much work in this scenario, and one way you know\nthat is, if you look at the construction provision, (b)(5), when it's\ndescribing the reasonable accommodation requirement, it actually adds\non this language.\nIt says \"qualified individual who is an applicant or employee.\" And so I\nthink that is how Congress cabined the provision just to applicants or\nemployees."
+            },
+            "explanation": "This phrase indicates the legislative intent to limit the application of a legal provision, requiring a sophisticated understanding of statutory interpretation and the implications of legislative language."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Yeah.\nI mean, I think it will --it will turn a lot on the claim.\nLet me try to describe what I think is going on here, which is that before\nthis policy was put into place, the City was treating three groups of\npeople as equally deserving of the subsidy, so people who had\ncompleted 25 years of service, people who had completed a combined\nyear -- 25 years of service when taking into account military service and\nother firefighting positions, and then people who retired with -- with a\ndisability.\nThat's the third category.\nAnd when faced with a budget shortfall, the City chose to only exclude\nthat third group, people with disabilities, from the subsidy despite the\nabsence of any evidence that it would ameliorate the shortfall.\nSo the City ______________________________ solely because of their\ndisabilities.\nAnd, in fact, we know that the City has told a disabled retiree who did\nhave 25 years of service that he still could not have the subsidy because\nhe had, after 25 years, become disabled.\nSo what -- what we would, I think, want the opportunity to do on\nremand is to show that the City treated Lieutenant Stanley differently\nbecause of her disability.\nIf she weren't disabled, she would have made it to 25 years and gotten\nthe subsidy.\nAnd if the City didn't singled out --single out disabled people, she\nwould have gotten the subsidy.\nOf course, the City will have the opportunity on remand to show why\nwe're wrong and --in their view.\nAnd whether you think the underlying claim is doomed to fail or\ndestined to succeed, the -- the question presented is the same.\nAnd I do think these are difficult claims to succeed on.\"",
+          "options": {
+            "A": "singled out individuals with disabilities",
+            "B": "singled out people with disabilities",
+            "C": "singled out persons with disabilities",
+            "D": "singled out employees with disabilities"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "singled out people with disabilities",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 12,
+              "statement_index": 3,
+              "speaker": "Deepak Gupta",
+              "original_statement": "Yeah.\nI mean, I think it will --it will turn a lot on the claim.\nLet me try to describe what I think is going on here, which is that before\nthis policy was put into place, the City was treating three groups of\npeople as equally deserving of the subsidy, so people who had\ncompleted 25 years of service, people who had completed a combined\nyear -- 25 years of service when taking into account military service and\nother firefighting positions, and then people who retired with -- with a\ndisability.\nThat's the third category.\nAnd when faced with a budget shortfall, the City chose to only exclude\nthat third group, people with disabilities, from the subsidy despite the\nabsence of any evidence that it would ameliorate the shortfall.\nSo the City singled out people with disabilities solely because of their\ndisabilities.\nAnd, in fact, we know that the City has told a disabled retiree who did\nhave 25 years of service that he still could not have the subsidy because\nhe had, after 25 years, become disabled.\nSo what -- what we would, I think, want the opportunity to do on\nremand is to show that the City treated Lieutenant Stanley differently\nbecause of her disability.\nIf she weren't disabled, she would have made it to 25 years and gotten\nthe subsidy.\nAnd if the City didn't singled out --single out disabled people, she\nwould have gotten the subsidy.\nOf course, the City will have the opportunity on remand to show why\nwe're wrong and --in their view.\nAnd whether you think the underlying claim is doomed to fail or\ndestined to succeed, the -- the question presented is the same.\nAnd I do think these are difficult claims to succeed on."
+            },
+            "explanation": "This phrase highlights the discriminatory practice of targeting individuals based on disability, which is central to understanding discrimination claims under the ADA."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Yeah.\nI mean, I think it will --it will turn a lot on the claim.\nLet me try to describe what I think is going on here, which is that before\nthis policy was put into place, the City was treating three groups of\npeople as equally deserving of the subsidy, so people who had\ncompleted 25 years of service, people who had completed a combined\nyear -- 25 years of service when taking into account military service and\nother firefighting positions, and then people who retired with -- with a\ndisability.\nThat's the third category.\nAnd when faced with a budget shortfall, the City chose to only exclude\nthat third group, people with disabilities, from the subsidy despite the\nabsence of any evidence that it would __________________.\nSo the City singled out people with disabilities solely because of their\ndisabilities.\nAnd, in fact, we know that the City has told a disabled retiree who did\nhave 25 years of service that he still could not have the subsidy because\nhe had, after 25 years, become disabled.\nSo what -- what we would, I think, want the opportunity to do on\nremand is to show that the City treated Lieutenant Stanley differently\nbecause of her disability.\nIf she weren't disabled, she would have made it to 25 years and gotten\nthe subsidy.\nAnd if the City didn't singled out --single out disabled people, she\nwould have gotten the subsidy.\nOf course, the City will have the opportunity on remand to show why\nwe're wrong and --in their view.\nAnd whether you think the underlying claim is doomed to fail or\ndestined to succeed, the -- the question presented is the same.\nAnd I do think these are difficult claims to succeed on.\"",
+          "options": {
+            "A": "ameliorate the shortfall",
+            "B": "alleviate the deficit",
+            "C": "mitigate the excess",
+            "D": "remedy the imbalance"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "ameliorate the shortfall",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 12,
+              "statement_index": 3,
+              "speaker": "Deepak Gupta",
+              "original_statement": "Yeah.\nI mean, I think it will --it will turn a lot on the claim.\nLet me try to describe what I think is going on here, which is that before\nthis policy was put into place, the City was treating three groups of\npeople as equally deserving of the subsidy, so people who had\ncompleted 25 years of service, people who had completed a combined\nyear -- 25 years of service when taking into account military service and\nother firefighting positions, and then people who retired with -- with a\ndisability.\nThat's the third category.\nAnd when faced with a budget shortfall, the City chose to only exclude\nthat third group, people with disabilities, from the subsidy despite the\nabsence of any evidence that it would ameliorate the shortfall.\nSo the City singled out people with disabilities solely because of their\ndisabilities.\nAnd, in fact, we know that the City has told a disabled retiree who did\nhave 25 years of service that he still could not have the subsidy because\nhe had, after 25 years, become disabled.\nSo what -- what we would, I think, want the opportunity to do on\nremand is to show that the City treated Lieutenant Stanley differently\nbecause of her disability.\nIf she weren't disabled, she would have made it to 25 years and gotten\nthe subsidy.\nAnd if the City didn't singled out --single out disabled people, she\nwould have gotten the subsidy.\nOf course, the City will have the opportunity on remand to show why\nwe're wrong and --in their view.\nAnd whether you think the underlying claim is doomed to fail or\ndestined to succeed, the -- the question presented is the same.\nAnd I do think these are difficult claims to succeed on."
+            },
+            "explanation": "This phrase involves the rationale behind budgetary decisions and their implications for discrimination claims, requiring an understanding of economic and legal principles."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Yeah.\nI mean, I think it will --it will turn a lot on the claim.\nLet me try to describe what I think is going on here, which is that before\nthis policy was put into place, the City was treating three groups of\npeople as equally deserving of the subsidy, so people who had\ncompleted 25 years of service, people who had completed a combined\nyear -- 25 years of service when taking into account military service and\nother firefighting positions, and then people who retired with -- with a\ndisability.\nThat's the third category.\nAnd when faced with a budget shortfall, the City chose to only exclude\nthat third group, people with disabilities, from the subsidy despite the\nabsence of any evidence that it would ameliorate the shortfall.\nSo the City singled out people with disabilities solely because of their\ndisabilities.\nAnd, in fact, we know that the City has told a disabled retiree who did\nhave 25 years of service that he still could not have the subsidy because\nhe had, after 25 years, become disabled.\nSo what -- what we would, I think, want the opportunity to do on\nremand is to show that the City treated Lieutenant Stanley differently\nbecause of her disability.\nIf she weren't disabled, she would have made it to 25 years and gotten\nthe subsidy.\nAnd if the City didn't singled out --single out disabled people, she\nwould have gotten the subsidy.\nOf course, the City will have the opportunity on remand to show why\nwe're wrong and --in their view.\nAnd whether you think the underlying claim is doomed to fail or\ndestined to succeed, the -- the question presented is the same.\nAnd I do think these are ______________________________.\"",
+          "options": {
+            "A": "difficult claims to succeed on",
+            "B": "difficult claims to establish validity",
+            "C": "difficult claims to assert successfully",
+            "D": "difficult claims to prevail on"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "difficult claims to succeed on",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 12,
+              "statement_index": 3,
+              "speaker": "Deepak Gupta",
+              "original_statement": "Yeah.\nI mean, I think it will --it will turn a lot on the claim.\nLet me try to describe what I think is going on here, which is that before\nthis policy was put into place, the City was treating three groups of\npeople as equally deserving of the subsidy, so people who had\ncompleted 25 years of service, people who had completed a combined\nyear -- 25 years of service when taking into account military service and\nother firefighting positions, and then people who retired with -- with a\ndisability.\nThat's the third category.\nAnd when faced with a budget shortfall, the City chose to only exclude\nthat third group, people with disabilities, from the subsidy despite the\nabsence of any evidence that it would ameliorate the shortfall.\nSo the City singled out people with disabilities solely because of their\ndisabilities.\nAnd, in fact, we know that the City has told a disabled retiree who did\nhave 25 years of service that he still could not have the subsidy because\nhe had, after 25 years, become disabled.\nSo what -- what we would, I think, want the opportunity to do on\nremand is to show that the City treated Lieutenant Stanley differently\nbecause of her disability.\nIf she weren't disabled, she would have made it to 25 years and gotten\nthe subsidy.\nAnd if the City didn't singled out --single out disabled people, she\nwould have gotten the subsidy.\nOf course, the City will have the opportunity on remand to show why\nwe're wrong and --in their view.\nAnd whether you think the underlying claim is doomed to fail or\ndestined to succeed, the -- the question presented is the same.\nAnd I do think these are difficult claims to succeed on."
+            },
+            "explanation": "This phrase reflects the inherent challenges in proving discrimination claims, which necessitates a deep understanding of legal standards and burdens of proof."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, Justice Alito, you mentioned, you know, a structured benefit plan\nand the ability to make sort of actuarial sorts of decisions.\nAnd Congress actually did focus on this precise problem when it drafted\nthe ADA, and it included a __________________.\nThat's Section 12201(c).\nAnd that immunizes plan sponsors, plan administrators, insurance\ncompanies, from these kinds of risk-based decisions.\nAnd, in fact, your opinion in the Ford case, your concurring opinion in\none of these decisions comprising the circuit split, mentioned that safe\nharbor.\nAnd I think that actually, to the extent that the amici on the other side\nare hypothesizing a flood of claims, the reason you haven't seen that in\nthe Second and Third Circuits is because that safe harbor provision takes\ncare of and immunizes defendants from -- from the large, you know,\nmajority of those kinds of claims.\"",
+          "options": {
+            "A": "safe harbor rule",
+            "B": "safe harbor standard",
+            "C": "safe harbor clause",
+            "D": "safe harbor provision"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "safe harbor provision",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 12,
+              "statement_index": 4,
+              "speaker": "Deepak Gupta",
+              "original_statement": "Well, Justice Alito, you mentioned, you know, a structured benefit plan\nand the ability to make sort of actuarial sorts of decisions.\nAnd Congress actually did focus on this precise problem when it drafted\nthe ADA, and it included a safe harbor provision.\nThat's Section 12201(c).\nAnd that immunizes plan sponsors, plan administrators, insurance\ncompanies, from these kinds of risk-based decisions.\nAnd, in fact, your opinion in the Ford case, your concurring opinion in\none of these decisions comprising the circuit split, mentioned that safe\nharbor.\nAnd I think that actually, to the extent that the amici on the other side\nare hypothesizing a flood of claims, the reason you haven't seen that in\nthe Second and Third Circuits is because that safe harbor provision takes\ncare of and immunizes defendants from -- from the large, you know,\nmajority of those kinds of claims."
+            },
+            "explanation": "The safe harbor provision under Section 12201(c) of the ADA provides specific protections for plan sponsors and administrators, which is crucial for understanding the limitations of liability in discrimination claims."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, Justice Alito, you mentioned, you know, a structured benefit plan\nand the ability to make sort of actuarial sorts of decisions.\nAnd Congress actually did focus on this precise problem when it drafted\nthe ADA, and it included a safe harbor provision.\nThat's Section 12201(c).\nAnd that __________________, plan administrators, insurance\ncompanies, from these kinds of risk-based decisions.\nAnd, in fact, your opinion in the Ford case, your concurring opinion in\none of these decisions comprising the circuit split, mentioned that safe\nharbor.\nAnd I think that actually, to the extent that the amici on the other side\nare hypothesizing a flood of claims, the reason you haven't seen that in\nthe Second and Third Circuits is because that safe harbor provision takes\ncare of and immunizes defendants from -- from the large, you know,\nmajority of those kinds of claims.\"",
+          "options": {
+            "A": "immunizes plan sponsors",
+            "B": "protects plan beneficiaries",
+            "C": "exempts plan administrators",
+            "D": "shields plan participants"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "immunizes plan sponsors",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 12,
+              "statement_index": 4,
+              "speaker": "Deepak Gupta",
+              "original_statement": "Well, Justice Alito, you mentioned, you know, a structured benefit plan\nand the ability to make sort of actuarial sorts of decisions.\nAnd Congress actually did focus on this precise problem when it drafted\nthe ADA, and it included a safe harbor provision.\nThat's Section 12201(c).\nAnd that immunizes plan sponsors, plan administrators, insurance\ncompanies, from these kinds of risk-based decisions.\nAnd, in fact, your opinion in the Ford case, your concurring opinion in\none of these decisions comprising the circuit split, mentioned that safe\nharbor.\nAnd I think that actually, to the extent that the amici on the other side\nare hypothesizing a flood of claims, the reason you haven't seen that in\nthe Second and Third Circuits is because that safe harbor provision takes\ncare of and immunizes defendants from -- from the large, you know,\nmajority of those kinds of claims."
+            },
+            "explanation": "This phrase highlights the legal protection afforded to plan sponsors under the ADA, indicating a nuanced understanding of how statutory provisions can shield entities from liability."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, Justice Alito, you mentioned, you know, a structured benefit plan\nand the ability to make sort of actuarial sorts of decisions.\nAnd Congress actually did focus on this precise problem when it drafted\nthe ADA, and it included a safe harbor provision.\nThat's Section 12201(c).\nAnd that immunizes plan sponsors, plan administrators, insurance\ncompanies, from these kinds of ____________.\nAnd, in fact, your opinion in the Ford case, your concurring opinion in\none of these decisions comprising the circuit split, mentioned that safe\nharbor.\nAnd I think that actually, to the extent that the amici on the other side\nare hypothesizing a flood of claims, the reason you haven't seen that in\nthe Second and Third Circuits is because that safe harbor provision takes\ncare of and immunizes defendants from -- from the large, you know,\nmajority of those kinds of claims.\"",
+          "options": {
+            "A": "risk-averse choices",
+            "B": "risk-based decisions",
+            "C": "risk-related determinations",
+            "D": "risk-sensitive actions"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "risk-based decisions",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 12,
+              "statement_index": 4,
+              "speaker": "Deepak Gupta",
+              "original_statement": "Well, Justice Alito, you mentioned, you know, a structured benefit plan\nand the ability to make sort of actuarial sorts of decisions.\nAnd Congress actually did focus on this precise problem when it drafted\nthe ADA, and it included a safe harbor provision.\nThat's Section 12201(c).\nAnd that immunizes plan sponsors, plan administrators, insurance\ncompanies, from these kinds of risk-based decisions.\nAnd, in fact, your opinion in the Ford case, your concurring opinion in\none of these decisions comprising the circuit split, mentioned that safe\nharbor.\nAnd I think that actually, to the extent that the amici on the other side\nare hypothesizing a flood of claims, the reason you haven't seen that in\nthe Second and Third Circuits is because that safe harbor provision takes\ncare of and immunizes defendants from -- from the large, you know,\nmajority of those kinds of claims."
+            },
+            "explanation": "Understanding the implications of risk-based decisions in the context of discrimination law is essential for analyzing how the ADA interacts with employment practices."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, Justice Alito, you mentioned, you know, a __________________\nand the ability to make sort of actuarial sorts of decisions.\nAnd Congress actually did focus on this precise problem when it drafted\nthe ADA, and it included a safe harbor provision.\nThat's Section 12201(c).\nAnd that immunizes plan sponsors, plan administrators, insurance\ncompanies, from these kinds of risk-based decisions.\nAnd, in fact, your opinion in the Ford case, your concurring opinion in\none of these decisions comprising the circuit split, mentioned that safe\nharbor.\nAnd I think that actually, to the extent that the amici on the other side\nare hypothesizing a flood of claims, the reason you haven't seen that in\nthe Second and Third Circuits is because that safe harbor provision takes\ncare of and immunizes defendants from -- from the large, you know,\nmajority of those kinds of claims.\"",
+          "options": {
+            "A": "structured pension plan",
+            "B": "structured compensation plan",
+            "C": "structured benefit scheme",
+            "D": "structured benefit plan"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "structured benefit plan",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 12,
+              "statement_index": 4,
+              "speaker": "Deepak Gupta",
+              "original_statement": "Well, Justice Alito, you mentioned, you know, a structured benefit plan\nand the ability to make sort of actuarial sorts of decisions.\nAnd Congress actually did focus on this precise problem when it drafted\nthe ADA, and it included a safe harbor provision.\nThat's Section 12201(c).\nAnd that immunizes plan sponsors, plan administrators, insurance\ncompanies, from these kinds of risk-based decisions.\nAnd, in fact, your opinion in the Ford case, your concurring opinion in\none of these decisions comprising the circuit split, mentioned that safe\nharbor.\nAnd I think that actually, to the extent that the amici on the other side\nare hypothesizing a flood of claims, the reason you haven't seen that in\nthe Second and Third Circuits is because that safe harbor provision takes\ncare of and immunizes defendants from -- from the large, you know,\nmajority of those kinds of claims."
+            },
+            "explanation": "This term refers to the specific design of employee benefit plans, which is critical for understanding how such plans must comply with anti-discrimination laws."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, Justice Alito, you mentioned, you know, a structured benefit plan\nand the ability to make sort of actuarial sorts of decisions.\nAnd Congress actually did focus on this precise problem when it drafted\nthe ADA, and it included a safe harbor provision.\nThat's Section 12201(c).\nAnd that immunizes plan sponsors, plan administrators, insurance\ncompanies, from these kinds of risk-based decisions.\nAnd, in fact, your opinion in the Ford case, your concurring opinion in\none of these decisions comprising the circuit split, mentioned that safe\nharbor.\nAnd I think that actually, to the extent that the amici on the other side\nare hypothesizing a __________________, the reason you haven't seen that in\nthe Second and Third Circuits is because that safe harbor provision takes\ncare of and immunizes defendants from -- from the large, you know,\nmajority of those kinds of claims.\"",
+          "options": {
+            "A": "flood of claims",
+            "B": "flood of lawsuits",
+            "C": "flood of motions",
+            "D": "flood of appeals"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "flood of claims",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 12,
+              "statement_index": 4,
+              "speaker": "Deepak Gupta",
+              "original_statement": "Well, Justice Alito, you mentioned, you know, a structured benefit plan\nand the ability to make sort of actuarial sorts of decisions.\nAnd Congress actually did focus on this precise problem when it drafted\nthe ADA, and it included a safe harbor provision.\nThat's Section 12201(c).\nAnd that immunizes plan sponsors, plan administrators, insurance\ncompanies, from these kinds of risk-based decisions.\nAnd, in fact, your opinion in the Ford case, your concurring opinion in\none of these decisions comprising the circuit split, mentioned that safe\nharbor.\nAnd I think that actually, to the extent that the amici on the other side\nare hypothesizing a flood of claims, the reason you haven't seen that in\nthe Second and Third Circuits is because that safe harbor provision takes\ncare of and immunizes defendants from -- from the large, you know,\nmajority of those kinds of claims."
+            },
+            "explanation": "This phrase addresses concerns regarding the potential for excessive litigation under the ADA, which is a significant consideration in legal discussions about the scope of protections."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 13,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Sotomayor?",
+      "questions": []
+    },
+    {
+      "conversation_id": 14,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nThe other side argues that the ADA is only about bringing workers into\nthe workforce and keeping them there.\nIt seems to me that part of the ADA's goal is to encourage people with\ndisability to go into the workforce, and that includes how much benefits\nthey're going to get, right?\n### Deepak Gupta:\nExactly, yeah.\n### Justice Sotomayor:\nAnd -- and to the extent that people with disabilities, whether before\nthey enter the workforce or they retire, if the health insurance plan or\nthe benefit they thought they had isn't there, or they're afraid it won't\nbe there, that will be -- disincentivize them from going into the\nworkforce, correct?\n### Deepak Gupta:\nCorrect.\n### Justice Sotomayor:\nAll right.\nNow the other side argues that there are a whole plethora of remedies\nbesides this one, besides the ADA, to vindicate retirees' rights.\n### Deepak Gupta:\nSure.\n### Justice Sotomayor:\nADA has different -- different damages scope, I'm not sure that they\nwould qualify, that retirees would qualify for many of these alternatives\nthat they raise.\nIs that correct?\n### Deepak Gupta:\nYeah.\nI think that's right.\nI mean, the other sources of la w are not a substitute, and, certainly,\nthey're not trained directly on discrimination on the basis of disability.\nSo my friends on the other side mentioned contract law.\nIf you just take Florida contract law, which would apply here, there\nwould be no claim.\nPublic employers can change their plans prospectively at any time\nbefore the benefits are paid out.\n### Justice Sotomayor:\nSo the on ly thing that permits them or stops them from discriminating\n### Deepak Gupta:\nI think the ADA is the principal tool, and it is the -- the tool that\nCongress chose.\n### Justice Sotomayor:\nAll right.\nGo through the others.\n### Deepak Gupta:\nAnd -- and then the other candidate they mention is ERISA.\nSo I'll mention that, you know, first of all, when the ADA was enacted in\n1990, there was no possibility that ERISA would reach this scenario.\nERISA also doesn't apply to public employers, like the one here, at all.\nAnd under ERISA, private employers can -- can generally terminate or\namend retirement plans so long as they --they don't reduce or\neliminate accrued benefits, the same thing as under contract law.\nSo the problem here that the ADA is trying to reach is a different one,\nmaybe you could think of it as a less good promise to people who had a\nprotected characteristic.\nAnd if --and if an employer did that on the basis of race or religion or\nsex, of course, there would be a claim, and Congress wanted to have\nparallel coverage for disability as well.\n### Justice Sotomayor:\nThe third they mentioned was the Social Security Act or Medicare Act,\n### Deepak Gupta:\nThey would not apply.\n### Deepak Gupta:\nRight.\n### Justice Sotomayor:\nThank you, counsel.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"And -- and then the other candidate they mention is ERISA.\nSo I'll mention that, you know, first of all, when the ADA was enacted in\n1990, there was no possibility that ERISA would reach this scenario.\nERISA also doesn't apply to public employers, like the one here, at all.\nAnd under ERISA, private employers can -- can generally terminate or\namend retirement plans so long as they --they don't reduce or\neliminate accrued benefits, the same thing as under contract law.\nSo the problem here that the ADA is trying to reach is a different one,\nmaybe you could think of it as a less good promise to people who had a\nprotected characteristic.\nAnd if --and if an employer did that on the basis of race or religion or\nsex, of course, there would be a claim, and Congress wanted to have\n________________________ as well.\"",
+          "options": {
+            "A": "parallel benefits for disability",
+            "B": "parallel coverage for disability",
+            "C": "parallel protections for disability",
+            "D": "parallel provisions for disability"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "parallel coverage for disability",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 14,
+              "statement_index": 3,
+              "speaker": "Deepak Gupta",
+              "original_statement": "And -- and then the other candidate they mention is ERISA.\nSo I'll mention that, you know, first of all, when the ADA was enacted in\n1990, there was no possibility that ERISA would reach this scenario.\nERISA also doesn't apply to public employers, like the one here, at all.\nAnd under ERISA, private employers can -- can generally terminate or\namend retirement plans so long as they --they don't reduce or\neliminate accrued benefits, the same thing as under contract law.\nSo the problem here that the ADA is trying to reach is a different one,\nmaybe you could think of it as a less good promise to people who had a\nprotected characteristic.\nAnd if --and if an employer did that on the basis of race or religion or\nsex, of course, there would be a claim, and Congress wanted to have\nparallel coverage for disability as well."
+            },
+            "explanation": "This phrase indicates the legislative goal of ensuring that protections for individuals with disabilities are equivalent to those for other protected characteristics, requiring knowledge of civil rights law."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 15,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Kagan? Justice Gorsuch, anything?",
+      "questions": []
+    },
+    {
+      "conversation_id": 16,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\n? Justice\nBarrett? Justice Jackson?",
+      "questions": []
+    },
+    {
+      "conversation_id": 17,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nSo is the linchpin of this really just focusing on when the discrimination\noccurred and you say that there are sufficient facts and it should not\nhave been dismissed because this doesn't necessarily involve just post-\nemployment discrimination?\n### Deepak Gupta:\nYeah.\nI think that's right.\nI mean, I think there are three points in time that --that matter at least:\nwhen you have to be able to perform the essential functions; when the\ndiscrimination must occur to be actionable; and then when you can sue.\nAnd what we're saying is, at least on the facts of this case, where the\ndiscrimination as we've been discussing did, indeed, occur when she\nwas able to perform the functions of her job as a firefighter, then the\nquestion is when you can sue.\nAnd if you answer the --the question on the narrow ground, what you\nwould be resolving is you'd be saying you can sue even if, at the point\nthat you sue, you're --you're no longer in the job.\nAnd if you do that, that would be resolving a chunk of the circuit split\nas the court of appeals recognized at page 17A of the -- of the decision\nbelow.\n### Justice Jackson:\nThank you.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Yeah.\nI think that's right.\nI mean, I think there are three points in time that --that matter at least:\nwhen you have to be able to perform the ____________; when the\ndiscrimination must occur to be actionable; and then when you can sue.\nAnd what we're saying is, at least on the facts of this case, where the\ndiscrimination as we've been discussing did, indeed, occur when she\nwas able to perform the functions of her job as a firefighter, then the\nquestion is when you can sue.\nAnd if you answer the --the question on the narrow ground, what you\nwould be resolving is you'd be saying you can sue even if, at the point\nthat you sue, you're --you're no longer in the job.\nAnd if you do that, that would be resolving a chunk of the circuit split\nas the court of appeals recognized at page 17A of the -- of the decision\nbelow.\"",
+          "options": {
+            "A": "critical tasks",
+            "B": "essential functions",
+            "C": "fundamental duties",
+            "D": "core responsibilities"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "essential functions",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 17,
+              "statement_index": 1,
+              "speaker": "Deepak Gupta",
+              "original_statement": "Yeah.\nI think that's right.\nI mean, I think there are three points in time that --that matter at least:\nwhen you have to be able to perform the essential functions; when the\ndiscrimination must occur to be actionable; and then when you can sue.\nAnd what we're saying is, at least on the facts of this case, where the\ndiscrimination as we've been discussing did, indeed, occur when she\nwas able to perform the functions of her job as a firefighter, then the\nquestion is when you can sue.\nAnd if you answer the --the question on the narrow ground, what you\nwould be resolving is you'd be saying you can sue even if, at the point\nthat you sue, you're --you're no longer in the job.\nAnd if you do that, that would be resolving a chunk of the circuit split\nas the court of appeals recognized at page 17A of the -- of the decision\nbelow."
+            },
+            "explanation": "This phrase refers to the fundamental duties of a job that an employee must be able to perform, which is crucial in determining whether discrimination under the ADA is actionable."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 18,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\n### Deepak Gupta:\nThank you.\n### Chief Justice Roberts:\nMr. Liu.\n### Frederick Liu:\nThank you, Mr. Chief Justice, and may it please the Court: The only\nquestion presented is whether Stanley has alleged discrimination\nagainst the qualified individual under the ADA.\nThe answer to that question is yes.\nWe agree with Stanley that the most straightforward path to that\nconclusion lies in the period after she was diagnosed with Parkinson's\ndisease but before she retired.\nIn that period, Stanley was a qualified individual with a disability.\nAnd there's no dispute that if the alleged discrimination occurred while\nStanley was both qualified and disabled, the alleged discrimination was\nagainst a qualified individual.\nThe Court can, and should, decide this case on that narrow basis, but, in\ndoing so, it shouldn't foreclose the possibility of relief in other cases\ninvolving plaintiffs who were not both qualified and disabled when the\ndisability discrimination occurred.\nWe believe the ADA also protects the benefits those plaintiffs earned as\nqualified individuals, but, because the alleged discrimination here\noccurred while Stanley was both qualified and disabled, this Court need\nnot address any broader arguments to vacate the decision below.\nI welcome the Court's questions.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Thank you, Mr. Chief Justice, and may it please the Court: The only\nquestion presented is whether Stanley has alleged discrimination\nagainst the ______________________________.\nThe answer to that question is yes.\nWe agree with Stanley that the most straightforward path to that\nconclusion lies in the period after she was diagnosed with Parkinson's\ndisease but before she retired.\nIn that period, Stanley was a qualified individual with a disability.\nAnd there's no dispute that if the alleged discrimination occurred while\nStanley was both qualified and disabled, the alleged discrimination was\nagainst a qualified individual.\nThe Court can, and should, decide this case on that narrow basis, but, in\ndoing so, it shouldn't foreclose the possibility of relief in other cases\ninvolving plaintiffs who were not both qualified and disabled when the\ndisability discrimination occurred.\nWe believe the ADA also protects the benefits those plaintiffs earned as\nqualified individuals, but, because the alleged discrimination here\noccurred while Stanley was both qualified and disabled, this Court need\nnot address any broader arguments to vacate the decision below.\nI welcome the Court's questions.\"",
+          "options": {
+            "A": "qualified individual under the ADA",
+            "B": "qualified individual under federal law",
+            "C": "qualified employee under the ADA",
+            "D": "qualified worker under the ADA"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "qualified individual under the ADA",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 18,
+              "statement_index": 1,
+              "speaker": "Frederick Liu",
+              "original_statement": "Thank you, Mr. Chief Justice, and may it please the Court: The only\nquestion presented is whether Stanley has alleged discrimination\nagainst the qualified individual under the ADA.\nThe answer to that question is yes.\nWe agree with Stanley that the most straightforward path to that\nconclusion lies in the period after she was diagnosed with Parkinson's\ndisease but before she retired.\nIn that period, Stanley was a qualified individual with a disability.\nAnd there's no dispute that if the alleged discrimination occurred while\nStanley was both qualified and disabled, the alleged discrimination was\nagainst a qualified individual.\nThe Court can, and should, decide this case on that narrow basis, but, in\ndoing so, it shouldn't foreclose the possibility of relief in other cases\ninvolving plaintiffs who were not both qualified and disabled when the\ndisability discrimination occurred.\nWe believe the ADA also protects the benefits those plaintiffs earned as\nqualified individuals, but, because the alleged discrimination here\noccurred while Stanley was both qualified and disabled, this Court need\nnot address any broader arguments to vacate the decision below.\nI welcome the Court's questions."
+            },
+            "explanation": "This phrase encapsulates a critical definition under the Americans with Disabilities Act, requiring an understanding of who qualifies for protections against discrimination."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 19,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nWhere did Petitioner make those arguments in the district court and in\nthe court of appeals?\n### Frederick Liu:\nYeah.\nSo, in the district court, we think this --this argument is supported in\nparagraph 16 of the complaint. That paragraph of the complaint alleges\nthat she became disabled before she retired and also alleges that she\ncontinued to work until she retired. We think it's a plausible inference\nfrom that paragraph that she was a qualified individual with a disability\nat some point before she retired.\nIn the court of appeals, I would look at Romanette 8 and page 10 of her\nopening brief, pages 4 to 13 of her reply brief, and I would listen to the\nfirst five minutes of the oral argument below, in which Stanley herself\ndescribed the path I'm identifying here as \"the narrowest path to a\ndecision in her favor.\" And then, in this Court, I would -- I would cite the\nsame pages my friend cited in the petition, particularly pages 7, 11, 24,\nand 25. I would note that the City argued forfeiture in its brief in\nopposition.\nPresumably, this Court considered and rejected that forfeiture\ncontention as a basis for denying review and for good reason, because\nthis Court has said time and again that once a party has preserved an\nissue for this Court's consideration, that party can make any argument\nin support of that issue.\nAnd the issue here is whether Stanley satisfies the qualified individual\nrequirement.\nI want to emphasize why we think it's a good idea to decide this case\nnarrowly.\nFirst, we think it answers the question presented.\nSecond, we do think it would go a long way to resolving the circuit split.\nThat's identified at page 17A of the petition appendix.\nAnd the split implicates two decisions from the Sixth Circuit and the\nNinth Circuit, the McKnight decision and the Weyer decision, which\nboth held that former employees categorically cannot sue to enforce\nTitle I.\nAnd so, if this Court were to hold that at least someone in Stanley's\ncircumstances can sue even though she was a former employee when\nshe brought the suit, that would resolve that question that's divided the\ncircuits.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Yeah.\nSo, in the district court, we think this --this argument is supported in\nparagraph 16 of the complaint. That paragraph of the complaint alleges\nthat she became disabled before she retired and also alleges that she\ncontinued to work until she retired. We think it's a plausible inference\nfrom that paragraph that she was a ______________________________\nat some point before she retired.\nIn the court of appeals, I would look at Romanette 8 and page 10 of her\nopening brief, pages 4 to 13 of her reply brief, and I would listen to the\nfirst five minutes of the oral argument below, in which Stanley herself\ndescribed the path I'm identifying here as \"the narrowest path to a\ndecision in her favor.\" And then, in this Court, I would -- I would cite the\nsame pages my friend cited in the petition, particularly pages 7, 11, 24,\nand 25. I would note that the City argued forfeiture in its brief in\nopposition.\nPresumably, this Court considered and rejected that forfeiture\ncontention as a basis for denying review and for good reason, because\nthis Court has said time and again that once a party has preserved an\nissue for this Court's consideration, that party can make any argument\nin support of that issue.\nAnd the issue here is whether Stanley satisfies the qualified individual\nrequirement.\nI want to emphasize why we think it's a good idea to decide this case\nnarrowly.\nFirst, we think it answers the question presented.\nSecond, we do think it would go a long way to resolving the circuit split.\nThat's identified at page 17A of the petition appendix.\nAnd the split implicates two decisions from the Sixth Circuit and the\nNinth Circuit, the McKnight decision and the Weyer decision, which\nboth held that former employees categorically cannot sue to enforce\nTitle I.\nAnd so, if this Court were to hold that at least someone in Stanley's\ncircumstances can sue even though she was a former employee when\nshe brought the suit, that would resolve that question that's divided the\ncircuits.\"",
+          "options": {
+            "A": "qualified individual without a disability",
+            "B": "qualified employee with a disability",
+            "C": "qualified individual for employment benefits",
+            "D": "qualified individual with a disability"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "qualified individual with a disability",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 19,
+              "statement_index": 1,
+              "speaker": "Frederick Liu",
+              "original_statement": "Yeah.\nSo, in the district court, we think this --this argument is supported in\nparagraph 16 of the complaint. That paragraph of the complaint alleges\nthat she became disabled before she retired and also alleges that she\ncontinued to work until she retired. We think it's a plausible inference\nfrom that paragraph that she was a qualified individual with a disability\nat some point before she retired.\nIn the court of appeals, I would look at Romanette 8 and page 10 of her\nopening brief, pages 4 to 13 of her reply brief, and I would listen to the\nfirst five minutes of the oral argument below, in which Stanley herself\ndescribed the path I'm identifying here as \"the narrowest path to a\ndecision in her favor.\" And then, in this Court, I would -- I would cite the\nsame pages my friend cited in the petition, particularly pages 7, 11, 24,\nand 25. I would note that the City argued forfeiture in its brief in\nopposition.\nPresumably, this Court considered and rejected that forfeiture\ncontention as a basis for denying review and for good reason, because\nthis Court has said time and again that once a party has preserved an\nissue for this Court's consideration, that party can make any argument\nin support of that issue.\nAnd the issue here is whether Stanley satisfies the qualified individual\nrequirement.\nI want to emphasize why we think it's a good idea to decide this case\nnarrowly.\nFirst, we think it answers the question presented.\nSecond, we do think it would go a long way to resolving the circuit split.\nThat's identified at page 17A of the petition appendix.\nAnd the split implicates two decisions from the Sixth Circuit and the\nNinth Circuit, the McKnight decision and the Weyer decision, which\nboth held that former employees categorically cannot sue to enforce\nTitle I.\nAnd so, if this Court were to hold that at least someone in Stanley's\ncircumstances can sue even though she was a former employee when\nshe brought the suit, that would resolve that question that's divided the\ncircuits."
+            },
+            "explanation": "This phrase is significant as it pertains to the definition under the ADA, which is crucial for determining eligibility for protections against discrimination."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 20,
+      "dialogue": "Justice Alito\n### Justice Alito:\nCould she sue if she had not filed within 300 days?\n### Frederick Liu:\nI do, Justice Alito, I -- I have the same two responses my friend did.\nI think it's unnecessary to reach that -- that interpretation of the Fair\nPay Act because there are 86 days in the 300 -day limitation period that\nfall during the period after she was diagnosed but before she was\ndisabled, and those may well be days that support her claim here.\nBut, to get to the inte rpretation of the Fair Pay Act, we understand the\nFair Pay Act as saying that you can identify a discriminatory decision\nthat falls outside the limitations period, that is, a decision that satisfies\nall the elements of discrimination under 12112(a). And so long as you can\npoint to effects from that decision that do fall within the limitation\nperiod, then you can challenge that decision.\nWe -- we understand that to be the force of the Fair Pay Act in a context\nlike this.\n### Justice Alito:\nI don't want to take up too much time, but I am interested in the last\nquestions -- the last series of questions I asked Mr. Gupta.\nSo, in this case -- because I want to understand where this leads.\nIn -- in this case, Lieutenant Stanley is actually treated more favorably\nthan someone who retires after 20 years without a -- for a reason other\nthan disability.\nShe is treated less favorably than someone who retires after working for\n25 years.\nSo how is a court -- put aside -- there's no question of -- of bias, and\nthe -- the -- the employer puts that -- puts forward information that\nthis is based on cost saving and incentivizing working until 25.\nHow is a --what is the test for determining whether something like that\nis valid or not? The reasonable accommodation concept would work in\nthe employment context, but it doesn't work here.\nSo what's the answer?\n### Frederick Liu:\nYeah, I don't think this is a reasonable accommodation claim.\nI don't think Stanley has ever brought a reasonable accommodation\nclaim.\n### Justice Alito:\nOkay.\nIt's not reasonable accommodation.\n### Frederick Liu:\nRight.\n### Justice Alito:\nSo how do you determine whether this kind of a structure is -- is\ndiscriminatory?\n### Frederick Liu:\nSo we understand this to be a disparate treatment claim, and we\nunderstand that the right way to go about analyzing a disparate\ntreatment claim is to ask how a similarly situated person without\ndisabilities would be treated.\nAnd, as you know, the United States hasn't taken a position on this\nissue, but I -- I understand the parties to have staked out two different\nways of identifying the relevant similarly situated comparator.\nI think, if you ask Petitioner, what they would say is: What you do is you\nsubtract disability from the equation and you see what would have\nhappened then.\nAnd, in their view, if you subtract disability from the equation, their\nclient, Stanley, would have worked more than 25 years and, thus, been\neligible for benefits until she was 65.\nNow the City responds and says: Well, when you subtract disability from\nthe equation, that's all you subtract out, and you hold the terms of\nservice constant at 20 years.\nThey -- they would say that -- that Petitioner is changing two\nvariables, not only the -- the disability but also the terms of service.\nAnd so the City says: A similarly situated person with only 20 years of\nservice and no disability wouldn't have gotten benefits in this case, so\nStanley should lose. I think that's the form of the disparate treatment\nanalysis that should occur in the courts below.\nBut, as my friend pointed out, neither court analyzed the issue.\nIt doesn't affect this Court's consideration of the qualified individual",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Yeah, I don't think this is a __________________.\nI don't think Stanley has ever brought a reasonable accommodation\nclaim.\"",
+          "options": {
+            "A": "reasonable accommodation request",
+            "B": "reasonable accommodation standard",
+            "C": "reasonable accommodation claim",
+            "D": "reasonable accommodation defense"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "reasonable accommodation claim",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 20,
+              "statement_index": 2,
+              "speaker": "Frederick Liu",
+              "original_statement": "Yeah, I don't think this is a reasonable accommodation claim.\nI don't think Stanley has ever brought a reasonable accommodation\nclaim."
+            },
+            "explanation": "This phrase refers to a legal concept under the Americans with Disabilities Act (ADA) that requires employers to make adjustments or modifications to a job or work environment that enable a qualified individual with a disability to perform essential job functions."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"So we understand this to be a __________________, and we\nunderstand that the right way to go about analyzing a disparate\ntreatment claim is to ask how a similarly situated person without\ndisabilities would be treated.\nAnd, as you know, the United States hasn't taken a position on this\nissue, but I -- I understand the parties to have staked out two different\nways of identifying the relevant similarly situated comparator.\nI think, if you ask Petitioner, what they would say is: What you do is you\nsubtract disability from the equation and you see what would have\nhappened then.\nAnd, in their view, if you subtract disability from the equation, their\nclient, Stanley, would have worked more than 25 years and, thus, been\neligible for benefits until she was 65.\nNow the City responds and says: Well, when you subtract disability from\nthe equation, that's all you subtract out, and you hold the terms of\nservice constant at 20 years.\nThey -- they would say that -- that Petitioner is changing two\nvariables, not only the -- the disability but also the terms of service.\nAnd so the City says: A similarly situated person with only 20 years of\nservice and no disability wouldn't have gotten benefits in this case, so\nStanley should lose. I think that's the form of the disparate treatment\nanalysis that should occur in the courts below.\nBut, as my friend pointed out, neither court analyzed the issue.\nIt doesn't affect this Court's consideration of the qualified individual\"",
+          "options": {
+            "A": "disparate classification claim",
+            "B": "disparate benefit claim",
+            "C": "disparate treatment claim",
+            "D": "disparate impact claim"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "disparate treatment claim",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 20,
+              "statement_index": 3,
+              "speaker": "Frederick Liu",
+              "original_statement": "So we understand this to be a disparate treatment claim, and we\nunderstand that the right way to go about analyzing a disparate\ntreatment claim is to ask how a similarly situated person without\ndisabilities would be treated.\nAnd, as you know, the United States hasn't taken a position on this\nissue, but I -- I understand the parties to have staked out two different\nways of identifying the relevant similarly situated comparator.\nI think, if you ask Petitioner, what they would say is: What you do is you\nsubtract disability from the equation and you see what would have\nhappened then.\nAnd, in their view, if you subtract disability from the equation, their\nclient, Stanley, would have worked more than 25 years and, thus, been\neligible for benefits until she was 65.\nNow the City responds and says: Well, when you subtract disability from\nthe equation, that's all you subtract out, and you hold the terms of\nservice constant at 20 years.\nThey -- they would say that -- that Petitioner is changing two\nvariables, not only the -- the disability but also the terms of service.\nAnd so the City says: A similarly situated person with only 20 years of\nservice and no disability wouldn't have gotten benefits in this case, so\nStanley should lose. I think that's the form of the disparate treatment\nanalysis that should occur in the courts below.\nBut, as my friend pointed out, neither court analyzed the issue.\nIt doesn't affect this Court's consideration of the qualified individual"
+            },
+            "explanation": "This phrase refers to a legal theory under the ADA that requires proving that an individual with a disability was treated less favorably than a similarly situated individual without a disability, necessitating a nuanced understanding of discrimination law."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 21,
+      "dialogue": "Justice Kagan",
+      "questions": []
+    },
+    {
+      "conversation_id": 22,
+      "dialogue": "Justice Alito\n### Justice Alito:\nI'm sorry.",
+      "questions": []
+    },
+    {
+      "conversation_id": 23,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nNo, go ahead.",
+      "questions": []
+    },
+    {
+      "conversation_id": 24,
+      "dialogue": "Justice Alito\n### Justice Alito:\nI mean, it -- it --it affects at least my thinking because I want to know\nwhere we're going with this.\n### Frederick Liu:\nRight.\nAnd I -- I don't think where we're going -- because --because we do\nnot have a judgment on the ultimate merits of the disability claim, it is\nnot the case that where we're going is that cities can't do exactly what\nthe City did here.\nI don't want to give that impression.\nI -- I think, for purposes of this case, this Court can assume that this\npolicy did discriminate on the basis of disability.\nAnd so, instead of treating some class of people with disabilities more\nfavorably, I would just ask this Court to assume that it cut the benefits of\npeople with disabilities and left them worse off.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 25,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nDo you see many claims like this under other discrimination laws? Why\nor why not?\n### Frederick Liu:\nYeah, we -- we do.\nI mean, this Court has seen cases about post-retirement benefits in the\nTitle VII context.\nThere have been cases that have come to this Court about sex and race\ndiscrimination in post-retirement benefits.\nAnd I think that's one of the anomalies of the City's position, is that\nwhereas Congress was trying to bridge the gap between the legal\nremedies available for people with disabilities vis-- vis people who are\ndiscriminated based on race or sex or other things in Title VII, the --the\nCity's approach would broaden that gap.\n### Justice Kagan:\nAnd is the way -- again, you haven't taken a position on a lot of this, but\nis the fundamental way you understand these claims to work the same\nacross discrimination statutes? You know, usually -- often, as Justice\nAlito points out, the ADA is kind of different. Would it be just the same\nhere?\n### Frederick Liu:\nI think, in --in terms of a disparate treatment claim, it would be the\nsame.\nI think it's an open question that we haven't addressed in our brief\nwould -- would provide a different kind of preferential treatment to\npeople with disabilities in this context.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Yeah, we -- we do.\nI mean, this Court has seen cases about ____________ in the\nTitle VII context.\nThere have been cases that have come to this Court about sex and race\ndiscrimination in post-retirement benefits.\nAnd I think that's one of the anomalies of the City's position, is that\nwhereas Congress was trying to bridge the gap between the legal\nremedies available for people with disabilities vis-- vis people who are\ndiscriminated based on race or sex or other things in Title VII, the --the\nCity's approach would broaden that gap.\"",
+          "options": {
+            "A": "post-retirement benefits",
+            "B": "retirement compensations",
+            "C": "post-employment earnings",
+            "D": "pre-employment benefits"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "post-retirement benefits",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 25,
+              "statement_index": 1,
+              "speaker": "Frederick Liu",
+              "original_statement": "Yeah, we -- we do.\nI mean, this Court has seen cases about post-retirement benefits in the\nTitle VII context.\nThere have been cases that have come to this Court about sex and race\ndiscrimination in post-retirement benefits.\nAnd I think that's one of the anomalies of the City's position, is that\nwhereas Congress was trying to bridge the gap between the legal\nremedies available for people with disabilities vis-- vis people who are\ndiscriminated based on race or sex or other things in Title VII, the --the\nCity's approach would broaden that gap."
+            },
+            "explanation": "This phrase refers to benefits provided to employees after they have retired, which can be subject to discrimination claims under various statutes, including the ADA and Title VII."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 26,
+      "dialogue": "Justice Alito\n### Justice Alito:\nIt's --it's not the same because, in a Title VII case based on race, sex,\npeople of different races, they're -- are they treated differently? People\nof different sexes, are they treated differently? Under the ADA, that's\nnot what you ask in most cases because they -- because what the\nplaintiff wants is not exactly equal treatment. That's the whole point.\nThe plaintiff wants a reasonable accommodation.\nIf you take away -- so if you're --if what you're saying is that -- so I\n### Frederick Liu:\nI think the main difference between the ADA and Title VII is that -- I'm\nsorry, yes, the ADA and Title VII is that the ADA offers plaintiffs a\nreasonable -- may I finish, Mr. Chief Justice?",
+      "questions": []
+    },
+    {
+      "conversation_id": 27,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nSure.\n### Frederick Liu:\nOffers plaintiffs a reasonable accommodation claim, but under both\nstatutes, plaintiffs can bring disparate treatment claims.\nAnd to just give an example of -- of -- of --of some disparate\ntreatment that could happen here, imagine if there were policies, every\nbenefits, except people with disabilities.\nI think that's a clear disparate treatment problem.\n### Chief Justice Roberts:\nThank you. Justice Thomas? Anything further,",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 28,
+      "dialogue": "Justice Alito\n### Justice Alito:\n? Justice\nSotomayor?",
+      "questions": []
+    },
+    {
+      "conversation_id": 29,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nIf I'm understanding your response right, there are various kinds of\nclaims under the ADA.\nReasonable accommodation is one, but there's also disparate\ntreatment.\n### Frederick Liu:\nCorrect.\n### Justice Sotomayor:\nAnd this is what's being claimed here.\nDo you think that this is a slightly different case also because they had\nbeen extending a benefit that they then took away?\n### Frederick Liu:\nI think that goes to a animus -based claim.\nI think, if Petitioner could show that the decision to reduce benefits was\nmade out of animus, then that might allow them to satisfy the elements\nof a disparate treatment claim even without pointing to the sort of\nformal disparate --the formal comparator analysis.\n### Frederick Liu:\nYeah.\n### Justice Sotomayor:\nAnd he mentioned one defense is that it's based on at risk factors, which\nare a different thing, correct? Or service?\n### Frederick Liu:\nRight.\nThere is also a safe harbor in Section 12112(c) that provides a safe harbor\nfor certain insurance underwriting plans.\n### Justice Sotomayor:\nAll right.\nDo you have a different answer than Mr. Gupta as to the questions of\nwhy the other statutes that are pointed to by the other side are not\neffective remedies or substitutes for the ADA?\n### Frederick Liu:\nI don't have a different answer.\nI would just boil it down to this, which is those other sources of law may\nwell be useful in enforcing promises that an employer makes.\nBut the problem here, the alleged problem here, is that the employer\nmade one promise to people without disabilities and a different, worse\npromise to people with disabilities.\nAnd simply enforcing that other less good promise isn't going to\nremedy the alleged discrimination in the complaint.\n### Justice Sotomayor:\nThank you, counsel.",
+      "questions": []
+    },
+    {
+      "conversation_id": 30,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Kagan?",
+      "questions": []
+    },
+    {
+      "conversation_id": 31,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nSo, Mr. Liu, I'm -- I just want to make sure that I understand what you\nwould like us to do.\n### Frederick Liu:\nYeah.\n### Justice Kagan:\nAnd, as I understand it, it's because Ms. Stanley was employed, was\non --on that basis and, you say, you know, you -- she sued within the\n300 days, and --and --and the consequence of that is that we never\nhave to reach this qualified individual provision.\nIs that --is that correct?\n### Justice Kagan:\nAt that point.\nRight.\n### Justice Kagan:\nSo we never have to figure out what the qualified individual provision\n### Frederick Liu:\nRight.\n### Frederick Liu:\nExactly.\n### Justice Kagan:\nforfeited.\nI mean, it's at least true that the courts below did not address these.\nAnd I'm not sure that we had it in our minds when we took the case that\nthis was the issue.\nSo what, if anything, would you say to that?\n### Frederick Liu:\nI would say that the -- the issue defined at the right level -- and I'm\ndefining it as the text of the statute defines it -- is whether there was\ndiscrimination against a qualified individual.\nI do understand the Court to have granted cert on that question.\nThen it's just a matter of the fact that these arguments, while they were\npressed below not only by us but --but by Stanley, weren't addressed\nbelow.\nBut I've always understood that pressed or passed -upon requirement\nto -- to apply to issues and not arguments but also to be phrased in the\ninjunctive such that if you did want to apply that test to the precise\narguments here, it would be satisfied because these arguments were\npressed below.\n### Justice Kagan:\nThank you.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 32,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Gorsuch?",
+      "questions": []
+    },
+    {
+      "conversation_id": 33,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\n?\nWell, I thought we were deciding whether the Eleventh Circuit's\nunderstanding of the law was correct given the arguments that it\nconsidered.\nIs that not what we -- you don't think that's what we should do?\n### Frederick Liu:\nI think the Eleventh Circuit found various ways to reject the arguments\nthat go to the overarching issue.\nSome of those ways of rejecting those arguments did involve addressing\nthose arguments on the merits, and others involved determining that\nthey were forfeited.\nBut I think all of that is before this Court.\n### Justice Kavanaugh:\nOkay.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 34,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Barrett?",
+      "questions": []
+    },
+    {
+      "conversation_id": 35,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\n?\nSo I -- I just wanted to clarify the conversation that you had with Justice\nAlito about whether the elements of disparate treatment have been\nplausibly alleged here.\nThat --you don't consider that to be within the question presented in\nthis case?\n### Frederick Liu:\nWe do not.\n### Justice Jackson:\nSo it's more like whether or not she -- her status as a former employee\nprecludes her from making this claim? I mean, I thought at the bottom\nof all of this we're talking about a motion to dismiss in which the City\nclaimed that she was not allowed to go forward because she was a\nformer employee.\n### Frederick Liu:\nCorrect.\n### Justice Jackson:\nAnd you're saying she is because there's evidence that she was\ndiscriminated against, evidence, not -- it hasn't -- whether it's proven\nor not, evidence that she was discriminated against during the period of\nher employment, and that should be enough to allow for her case to go\nforward?\n### Frederick Liu:\nThat should be enough.\nWe think even if she couldn't have pointed to that existence of\ndiscrimination while she was employed that she would still have a claim,\nlike many others do in other situations, where they cannot point to a\nprecise moment in time in which they were both qualified and disabled.\nBut I'll acknowledge that those are trickier issues, and this Court's usual\npractice is not to decide issues more broadly than it needs to.\n### Justice Jackson:\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 36,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nMs. Conner.\n### Jessica C. Conner:\nMr. Chief Justice, and may it please the Court: Title I of the ADA prohibits\nemployers from discriminating on the basis of disability only against an\nindividual who can perform the job she holds or desires, present tense.\nThis Court has explained in Robinson that use of present tense verbs is\nan unambiguous temporal qualifier limiting a statute to reach to current\nemployees only. Therefore, the Eleventh Circuit correctly held that\nbecause Stanley cannot establish that the City committed any\ndiscriminatory acts against her while she could perform the essential\nfunctions of a job that she held or desired to hold, her Title I claim fails.\nIndeed, the City's 24-month rule on its face is applicable only to\nunqualified individuals who retire because they are unable to perform\ntheir jobs.\nHowever, Petitioner argues that the City subjected her to its polic y\nwhen she was a qualified individual during her employment.\nBut a qualified individual is not subject to a policy that only applies to\nunqualified individuals, just like a man is not subject to a policy that\napplies only to women, and a non-disabled employee is not subject to a\npolicy that only applies to disabled employees.\nThis proposition is so well-established that the Petitioner did not plead\nthat the City's policy discriminated against her as a qualified individual.\nInstead, the district court, at 26a, held that her Title I claim failed\nbecause her complaint alleged that the discrimination did not occur\nuntil plaintiff was no longer able to perform the essential functions of\nher job. This ruling should not be controversial.\nEveryone agrees, for example, that an employer does not violate Title I\nwhen it fires an employee who can no longer perform the essential\nfunctions of their job.\nThe outcome should be no different here simply because retirees or\npost-employment benefits are involved.\nThis Court should affirm.\nI welcome the Court's questions.",
+      "questions": []
+    },
+    {
+      "conversation_id": 37,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nWould you spend a bit of time on what you think we granted cert on and\nwhat was decided below and what was not decided below?\n### Jessica C. Conner:\nYes, Your Honor.\nThe -- the Court certainly, I would assume, granted cert to hear the\nquestion that is actually splitting the circuit courts, and that question is\nsolely whether or not discrimination occurring totally and entirely post-\nemployment against an unqualified individual is actionable under Title\nAnd, additionally, this Court could consider w hether or not\ndiscrimination occurring during employment is actionable.\nBut the problem here is that the Eleventh Circuit never said that\nemployees who are qualified during their employment, who are subject\nto discrimination regarding post-employment benefits cannot sue.\nIt did not say that.\nIt just said that the Petitioner disclaimed that argument, that she did\nnot raise the argument that anything happened to her during her\nemployment that was actionable.\nAnd the Eleventh Circuit also did not say that an employee must be\nqualified at the time of a lawsuit.\nThe Eleventh Circuit said only that an employee must be qualified at the\ntime of the discriminatory act, but, because she alleged and also argued\nthat she -- that the discrimination only occurred post -employment,\nwhen she was totally disabled and unable to perform the essential\nfunctions of her job, that she alleged discrimination against an",
+      "questions": []
+    },
+    {
+      "conversation_id": 38,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nWell, I take your point, Ms. Conner, that the Eleventh Circuit did not\naddress this, but Mr. Gupta and Mr. Liu have suggested that Ms. Stanley\ndid point it out on various occasions, that she was not somebody who it\nwas -- it was all post-retirement, but, in fact, that there were a couple\nof years of her employment where she had the exact same claim.\nAnd it seems a little bit odd to decide this bigger, broader question that\nyou would like us to decide when, as to this particular per -- person, it's\nacademic.\n### Jessica C. Conner:\nJustice Kagan, I heard my friends point to paragraph 16 of her complaint\nas where they claim she alleged discrimination during employment, but\nparagraph 16 actually does not contain any allegations.",
+      "questions": []
+    },
+    {
+      "conversation_id": 39,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nWhere is that?",
+      "questions": []
+    },
+    {
+      "conversation_id": 40,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nI mean, I guess another way of stating the question is we would be\ndeciding the question as if there were a set of facts that are not true.\n### Justice Kagan:\nI mean, she was employed.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 41,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nDo you dispute that she was disabled before she retired? Do you dispute\nthat?\n### Jessica C. Conner:\nNo, we do -- we do not dispute that she was disabled, but we dispute\nthat any discrimination occurred while she was a disabled --a qualified\nindividual with a disability because she took -- she became completely\nunqualified, meaning unable to perform the essential functions of her\njob, and then she took a disability retirement, and then the City applied\nits 24-month rule to her. So the only time that the alleged\ndiscrimination occurred was when she was an unqualified individual\n### Justice Jackson:\ndiscrimination because it seems to me that you're saying that if a\nperson becomes disabled while they are still employed, to the extent\nthat the policy has not yet been applied, the policy concerning the\nretirement benefits, because they're still employed, they can't sue\nabout it.\nAnd then, when they retire and the policy is applied, they can't sue\nabout it because they become unqualified at that point in your view.\nSo how do you ever challenge discrimination concerning a policy that\nrelates to retirement benefits and disability?\n### Jessica C. Conner:\nJustice Jackson, neither the City nor the Eleventh Circuit said that a\nqualified individual could never sue over discrimination in post -\nemployment benefits.\nThe Eleventh Circuit, in fact, acknowledged that that is a possible\nscenario.\n### Justice Jackson:\nCan --can you help me understand why the qualified individual\ndesignation in the statute has anything to do with this? My --my\ninstinct is sort of closer to",
+      "questions": []
+    },
+    {
+      "conversation_id": 42,
+      "dialogue": "Justice Alito\n### Justice Alito:\n's in terms of qualified individual\ncoming up in the reasonable accommodations context.\nThis is not that context.\nSo I don't even understand the work that it is doing with respect to\nsetting some sort of temporal limit as to whether or not this person can\nsue for retirement benefits.\nSo I -- I didn't -- yeah.\n### Jessica C. Conner:\nBecause --it's because the language in the anti-discrimination\nprovision expressly draws a line as to who it's protecting.\nIt says no employer shall discriminate against a person who can perform\nthe job they hold or desire.\nAnd no other person is protected that you can only --you're only\nprohibited from discriminating against a person who presently holds a\njob that they desire.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 43,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nOkay.\nAnd she says, at the time that I held the job, I became disabled and that\npolicy applied to me.\nIt -- I was subject to it in that period of time.\nSo, as Justice Kagan says, why would we pretend as though that is not a\nfact in the case, not here, and decide this on a broader question that\nrelates to people who did not hold the job during the time that they\nwere qualified?\n### Jessica C. Conner:\nBecause the policy that she describes, that she claims is discriminatory\nand she describes in her complaint, on its face only applies to a person\nwho becomes completely unable to perform their job and is, therefore,\nunqualified.\nSo it would be the same if the City had a policy that said, if you become\ncompletely unqualified and unable to perform the essential functions of\nyour job, we will terminate your employment.\nAnd that is perfectly --that is not unlawful under the ADA.\nBut what she's claiming is, if you wrote down something that is lawful,\nthat is not controversial at all, that if you become unable to perform\nyour job, we can terminate you because you're no longer a qualified\nindividual, but she's saying, I could sue to prevent you from doing\nsomething to an unqualified individual that the ADA does not prohibit.\nShe -- she's claiming that the 24-month rule only applies to a disability\nretiree.\nAnd a disability retiree is not just somebody with a disability.\nIt is defined as somebody who is -- who is permanently and completely\nunable to do the job.\nThat's why she was awarded a disability retirement, because she\nbecame an unqualified individual.\nAnd only those who take the disability retirement -- if she had been non\n-disabled and retired with the 20 years that -- that she had served, she\nwould have received no subsidy, health insurance subsidy, whatsoever.\nThe City made an exception because of her disability, out of compassion,\nthat even though everybody else who only serves for 20 years only\nreceives -- receives no health insurance subsidy, out of compassion, for\nthose who retire because they are completely disabled and unable to do\nthe job, we will give 24 months of the health insurance subsidy.\n### Justice Jackson:\nSo I understand that argument, but that --doesn't that just go to the\nmerits of her disability claim? Is she stating -- this is",
+      "questions": []
+    },
+    {
+      "conversation_id": 44,
+      "dialogue": "Justice Alito\n### Justice Alito:\n's\npoint -- a claim for disability --or, excuse me, of -- for discrimination.\nYou -- you've raised the objection, an objection that has something to\ndo with the fact that she's post-retirement, and that's what's\nconfusing to me.\n### Jessica C. Conner:\nIt's because, when she was post-retirement, she was an unqualified\nindividual.\nShe was totally disabled and unable to perform the essential functions\nof her job, which takes you outside of the protections of Title I because\nTitle I only prohibits discrimination against a person who can perform a\njob they presently hold or desire.\nSo someone who neither holds a job, desires a job, and is completely",
+      "questions": []
+    },
+    {
+      "conversation_id": 45,
+      "dialogue": "Justice Jackson\n### Jessica C. Conner:\nTitle VII does not use the phrase \"qualified individuals.\" It refers broadly\nto the -- to individuals or employees, which is why, in Robinson, this\nCourt said that under Title VII, the --the use of the word \"employees\" in\nthe anti-discrimination provision of Title VII was ambiguous because\n\"employee\" was defined as a person employed, past tense. And that\ncould be ambiguous, is employed or was employed.\nAnd so, under Title VII, which does not refer to qualified individuals,\nthere was an ambiguity in the use of the word \"employees.\" But that is\nwhy Congress did not simply amend Title VII to add disability as a\nprotected trait because disability is very different, in the ADA structure,\nis very different from Title VII.\nThey share the same remedies, but they do not share the same\nsubstantive provisions.",
+      "questions": []
+    },
+    {
+      "conversation_id": 46,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nCounsel, as I'm hearing your answer to",
+      "questions": []
+    },
+    {
+      "conversation_id": 47,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\n, you are taking\nthe far extreme position that the SG is not but that at least two circuits\nhave that a retiree has no entitlement because, at the moment they're\nretired, they lose -- they're no longer qualified, correct?\n### Jessica C. Conner:\nIt's --it's because, at the time of the discriminatory act that they allege,\nthey're no longer qualified.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 48,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nI'm not sure. That's because you're saying that at the moment that the\npolicy is changed, regardless of when it's changed, they're no longer\nqualified?\n### Jessica C. Conner:\nIt's, depending upon what a particular plaintiff alleges, if they're relying\n### Justice Sotomayor:\nMm-hmm.\n### Justice Sotomayor:\nParkinson's two years before she retired, that she would be entitled to\nsue?\n### Jessica C. Conner:\nIf she alleged that the City had a policy that said, if you get Parkinson's -\n-if you have Parkinson's disease, we're not going to pay you a pension,\nshe would have been subject to that policy during her employment as\n### Justice Sotomayor:\nbasically saying, if you're retired, you're not entitled to anything, even if\nyou had been made this promise during your time of employment,\nbecause you're saying the promise here she relies on, and it's specified\nin her paragraph 19, was if --we will pay you equally to people who work\n25 years or to people whose 25 years encompasses service in the\nmilitary or in other governments.\nAnd she's saying, in whatever year it was, 2010, we're going to change\nthat policy.\n### Jessica C. Conner:\nIf she's relying on the discriminatory -- as the alleged discriminatory\nact when we changed the policy in 2003, she would not have been a\n### Justice Sotomayor:\nParkinson's.\n### Jessica C. Conner:\nIn -- in 2018, she certainly had a disability.\n### Justice Sotomayor:\nWhy? She worked two years not being qualified?",
+      "questions": []
+    },
+    {
+      "conversation_id": 49,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nWhy was she not a qualified individual in 2018?\n### Jessica C. Conner:\nBecause that's --well, in November of 2018 is when she took her\nretirement because she became an unqualified individual, meaning\nsomebody totally disabled.\n### Justice Jackson:\nWas she qualified at the point at which she got the Parkinson's, 2016?\n### Jessica C. Conner:\nShe would have been a qualified individual at that time, but the policy\ndid not apply to qualified individuals with disabilities.\nThe policy would only be applied to somebody who became unqualified,\nbecause you have to take a disability retirement, which means you are\nunable to perform the essential functions of your job.\nAt that point, the 24-month subsidy policy would apply to her, and\nshe's no longer qualified at the time the 24-month rule was applied to\nher. And that's no different from an employer terminating the\nemployment of somebody. They have a disability, but then they become\ntotally disabled.\nYou can terminate their employment because they're unqualified at\nthat point.\nAnd there's nothing controversial about that.\nShe's -- it's only made controversial because it's --for some reason,\nthey're arguing for an exception to the plain language just for retirees.\nBut there should be no exception. The -- the language contains no\nexception.\nIt is -- there is a very clear line drawn by Congress to protect only those\nwho can perform the jobs they hold or desire.\nAnd, again, it's about when the discrimination occurs.\nNobody is arguing, and the Eleventh Circuit certainly did not hold, that\nshe was required to be a qualified individual at the time of her lawsuit.\nShe was required to allege that at the time she was discriminated\nagainst, she was a qualified individual with a disability.\nAnd she is not able to allege, did not allege, and, in fact, disclaimed any",
+      "questions": []
+    },
+    {
+      "conversation_id": 50,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nyear period where she is a qualified individual, right? She has\nParkinson's, but she's able to hold a job.\nAnd you don't dispute that.\n### Jessica C. Conner:\nCorrect.\n### Justice Kagan:\nAnd she's a qualified individual when the City adopts its policy. That's\n### Jessica C. Conner:\nYes.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 51,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nretirement benefits.\nYou don't dispute that?\n### Jessica C. Conner:\nNo, no, she would not be a qualified individual when she's earning the\nretirement benefit.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 52,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nEarning as opposed to receiving them, right? Like, you know, an\nemployee earns retirement benefits by doing the job.\n### Jessica C. Conner:\nWe would only dispute as a factual matter that she earned these\nbenefits because she did not satisfy the criteria to earn them, which was\n25 years of service.\n### Justice Kagan:\nI mean, she's just -- I guess what I -- maybe that answered my\nquestion.\nI'm not sure.\nI mean, all I was suggesting was that she's a qualified individual doing\nthe job, just like other people are qualified individuals doing the job,\nsuch that she's putting herself in line for a package of retirement\nbenefits, correct?\n### Jessica C. Conner:\nYes.\n### Justice Kagan:\nAnd -- and the City has passed this policy at the time that she's a\nqualified individual.\nBut you're saying that because the policy addresses the retirement\nperiod, all of a sudden, then she's not a qualified individual?\n### Jessica C. Conner:\nOur argument is just slightly more nuanced.\nIt's the fact that this particular policy only applies to unqualified\nindividuals.\nSo what she's saying is discriminatory is the fact that she only received\nthe health insurance subsidy for 24 months after she retired and those\nwho had 25 years of service read the -- received the health insurance\nsubsidy to age 65.\n### Justice Kagan:\nSo you're not saying that any retirement policy only applies to\nunqualified individuals.\nYou're saying this particular retirement policy only applies to\nunqualified individuals.\nAnd -- and -- I'm sorry for being dense, but tell me why.\n### Jessica C. Conner:\nSo this policy, what she's complaining about is that she only received 24\nmonths of the subsidy instead of receiving it to age 65 like 25 -year\nretirees receive.\nSo she's -- she's arguing that when we applied the 24 -month rule to\nher and stopped paying at 24 months, that was the discriminatory act.\nAnd that was when she was unqualified. And the policy -- the 24-\nmonth rule only applies to disability retirees.\nAnd that has a very specific meaning.\nA -- a disability retiree is not just somebody who has a disability and\nretires.\nA disability retire -- retirement is awarded to people who become\ncompletely unable to perform the essential functions of their job, and\nbecause of that reason, they take a disability retirement.\nThey retire early.\nSo the 24-month subsidy policy only applies to those totally disabled.\nAnd it would -- they would only become subject to it once they become\ntotally disabled and accept a disability retirement, which is what she\ndid.\nIf she had not taken a disability retirement, if she had continued to work\nfor 25 years, she would have received the full subsidy despite having a\ndisability.\nSo the policy was only applied to her, the 24-month rule, because she\nretired early with a disability that rendered her an unqualified\nindividual, and then the City applied the 24-month rule to her.",
+      "questions": []
+    },
+    {
+      "conversation_id": 53,
+      "dialogue": "Justice Alito\n### Justice Alito:\nWell, let's say six months before she retired, she says: Look, I've got\nParkinson's.\nIt's getting progressivel y worse.\nI can still do the job now, but I can see that I'm not going to be able to do\nthe job for very much longer, and I look ahead to what's going to happen\nafter I retire, and I'm going to be subjected to this retirement structure\nthat gives me only 24 months, and I think that's discriminatory.\nPutting aside the question of whether that's a valid claim under the\nADA, why could she not sue at that point?\n### Jessica C. Conner:\nBecause she would be seeking to enjoin conduct that is not unlawful\nunder the ADA, because she would be seeking the employer to not do\nsomething to an unqualified individual which it otherwise would not be\nprohibited by the ADA from doing.\nIt might be prohibited under another statute.\n### Justice Alito:\nWell, she claims it's doing some -- she's qualified at that point, and\nshe's claimed -- she claims it's doing something to her at that point.\nSo is she not aggrieved? Does she not have Article III standing because\nthere's a -- an imminent threat of what she claims is unlawful conduct\nin the future?\n### Jessica C. Conner:\nIt would be no different if she knew that her disease would render her\ntotally disabled and she wanted to enjoin the City from terminating her\nemployment before it did so, when, of course, under Title I, employers\nare allowed to terminate employees the moment they become\nunqualified and they can't do the job with or without a reasonable\naccommodation.\nShe would be seeking to enjoin the City from doing something that is\nnot unlawful under the ADA.\nIt might be an equal protection violation.\nIt might be a breach of contract. It might be all of these other things, but\nit would not be a violation of Title I of the ADA.",
+      "questions": []
+    },
+    {
+      "conversation_id": 54,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nWell, given her allegations, do you think she has a facially valid breach-\nof-contract claim?\n### Jessica C. Conner:\nAbsolutely not.\nShe -- her -- the -- there is no breach of contract because the policy\nwas changed in 2003, 15 years before she retired.\nAnd, under Florida law, governmental employees are permitted to\nchange retirement policies before the rights under them vest.\nSo, if we had changed --we would not have been allowed to change it\nafter she retired.\nShe would have had a vested right. But 15 years before she retired, we\nchanged the policy to not treat her worse but to treat her slightly less\npreferentially than she was already receiving.\nBefore the policy change, disability retirees, even if they retired with\nfive or 10 years, were given the same health insurance subsidy as people\nwho worked for 25 years.\nSo they were receiving preferential treatment over similarly situated\nnon -disabled employees who had the same amount of years.\nAnd then the City changed it to start treating disability retirees more\nequally with everyone else and said you -- now you also have to work 25\nyears to get the full subsidy, but, out of compassion, because you were\nforced to retire due to a disability, we will give you 24 months of the\nsubsidy, whereas we would otherwise give you nothing if you were a non\n-disabled person. And, uncoincidentally, 24 months is exactly how long\nit takes for a totally disabled person to then become Medicare -eligible\nand get Medicare insurance.\nSo the City bridged that gap between when a disability retiree retires",
+      "questions": []
+    },
+    {
+      "conversation_id": 55,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nyears, someone in this position gets the health insurance benefits that\nyou're giving them for the two years in the interim, correct? Or it's\nsimilar.\n### Justice Kavanaugh:\nI mean, I don't know how Medicare matches up with your health\ninsurance benefits.\n### Jessica C. Conner:\nSo a person like the Petitioner who -- who alleges they are totally\n### Justice Kavanaugh:\nOr admitted.\n### Jessica C. Conner:\nAnd the Medicare Act says, once you become eligible for Social Security\ndisability because you're permanently disabled, you then become\neligible for Medicare Parts A and B.\nSo that bridges that gap.\n### Justice Kavanaugh:\nI'm sorry to interrupt.\nI think you were saying the City did that precisely to bridge that gap so\nthat someone who's totally disabled is not left without health insurance\n### Jessica C. Conner:\nMm -hmm.\n### Justice Kavanaugh:\nsomeone's not left without health insurance in that two years.\n### Jessica C. Conner:\nRight.\nBecause, if a non-disabled person were in Petitioner's shoes and retired\nwith only 20 years, they would receive absolutely no health insurance\nsubsidy.\nAnd they also, because they're not disabled or totally disabled, would\nnot be Medicare -eligible if they weren't 65.\nSo the City continued to treat its disability retirees with preferential\ntreatment over non-disabled employees who were similarly situated\nwith an equivalent amount of years of service.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 56,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nThe problem with this argument in my mind is who bears the cost.\nYou're saying the public fisc should bear the cost because, in two years,\nMedicare will pay what we used to pay, correct? Because, under the\nMedicare Act, they don't --they exhaust private remedies first, and\nthen the public fisc pays?\n### Jessica C. Conner:\nWell, there is no requirement that any employer provide health\ninsurance subsidies.\n### Justice Sotomayor:\nThat we're putting aside.\nThat's the nature of the claim here, which is you promised me you\nwould.\nAnd assuming that were true, which I know you fight on every level, but\nassuming you made an explicit promise, I'm going to pay you this\namount of money, and then took it away so the public fisc could pick it\nup, that's what you're doing, is you're saying we're -- this is just always\n### Jessica C. Conner:\nright, she would have a very clear breach -of-contract claim and the City\nwould be liable.\n### Justice Sotomayor:\nMy -- my -- you're -- you're not -- you're trying to avoid my question.\n### Jessica C. Conner:\nMaybe I'm not understanding it.\nI'm sorry, Your Honor.\n### Justice Sotomayor:\nbut somebody has to pay, right?\n### Jessica C. Conner:\nCertainly.\nShe would have a variety of remedies.\n### Justice Sotomayor:\nYou hope.\n### Justice Sotomayor:\nYou hope.",
+      "questions": []
+    },
+    {
+      "conversation_id": 57,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nIsn't your argument just basically that this isn't discriminatory, when\nwe took the case to say assuming there was an allegation of\ndiscrimination, when did that occur from the standpoint of whether or\nnot she can maintain this action? That's the thing.\nI'm -- I'm worried that we're getting sidetracked into the merits of\nwhether she was actually discriminated against, whether this policy is a\ndiscriminatory policy, when, really, the question is just is her former\nstatus precluding her from continuing this action or has she alleged, you\nknow, right?\n### Jessica C. Conner:\nSo -- so, if we assume the City's policy is discriminatory, if we were --if\n### Justice Jackson:\nWhich I know you don't believe, but let's just start there.\n### Jessica C. Conner:\nRight.\n### Justice Jackson:\nOkay.\n### Justice Jackson:\nYes, yes.\n### Jessica C. Conner:\nduring her employment as a qualified individual with a disability\nbecause the policy only applies to unqualified individuals, those who\nbecome totally disabled.\n### Justice Jackson:\nRight.\nBut you're saying it applies to people -- they become totally disabled\nand they're --they're unqualified because they can't work anymore.\nSo you're essentially saying that if it's about retirement benefits and\nyou no longer are working and you're complaining about that, you're\nunqualified and, therefore, can't bring this action, right?\n### Jessica C. Conner:\nRight, but I think there could be a scenario where a qualified individual\nwith a disability could sue with regard to discrimination in post -\nemployment benefits if they meet the criteria.\n### Justice Jackson:\nThe criteria of their working?\n### Justice Jackson:\nThen they're no longer a former employee.\n### Jessica C. Conner:\nknow, so that's why I was saying that a policy that applies only to\nwomen, a man cannot sue.\nHe cannot say that I am subject to a policy that discriminates against\nwomen.\n### Justice Jackson:\nBut why are you saying that this policy does not apply to or it only\napplies to unqualified -- I -- when -- when you say that, I hear you're\nsaying it only applies to people who are still in the job or who aren't in\n### Jessica C. Conner:\nBecause a qualified individual is also some --is somebody who can\nperform a job they hold.\nSo you also have to be able to perform it.\nBut, if you are totally disabled and cannot perform the essential\nfunctions of the job and that's why you retire, you are not a qualified\nindividual because you cannot perform a job that you hold or desire. An",
+      "questions": []
+    },
+    {
+      "conversation_id": 58,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nI think what -- what --what",
+      "questions": []
+    },
+    {
+      "conversation_id": 59,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nwas suggesting and maybe\nwhat I was suggesting not so clearly before was that all retirees are not\nretirees because, whether or not they could perform the job, they don't\nwant to perform the job.\nThey've retired.\nSo any retiree is going to be not a qualified individual at the time that\nthey're a retiree.\nSo that would -- so that would suggest that what you're saying is\nthere's just no such thing as being able to sue in the time when I still am\nworking about a retirement benefit that's going to kick in when I'm no\nlonger working.\n### Jessica C. Conner:\nSo I think there is a scenario where a qualified individual with a disability\ncould be -- could be subjected to a discriminatory policy regarding\npost-employment benefits.\nSo, if, while she was working, while the Petitioner was working and\ndeveloped a disability, the City had a policy that said, if you develop a\ndisability, we will not pay you a pension, and she was qualified at the\ntime that we adopted that policy, she would be subject to a policy that\nsays no disabled person gets a pension because she has a disability.\nAnd now she is subject to that policy now as a qualified individual.\nThe difference is our policy is not no disabled person gets a pension.\nIt's a policy that applies only to people who become unable to do the job\nbecause they're totally disabled.\nBut, if she -- if it really truly were discriminatory in that it said, even if\nyou get a disability, we're not -- and you work for 25 years, we're not\ngoing to give it to you, then she could have sued over that.",
+      "questions": []
+    },
+    {
+      "conversation_id": 60,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nJustice Thomas? I'm sorry, anything further?",
+      "questions": []
+    },
+    {
+      "conversation_id": 61,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nThis might be more merits, but I'm interested on who would pay, the\nquestion on Medicare.\nIt's the federal public as opposed to if it's the City, it's the -- either the\nCity's taxpayers or the -- maybe the State of Florida.\nI don't know how that works, but it's one set of the public versus\nanother set of the public.\n### Jessica C. Conner:\nThat's correct, Your Honor.\n### Justice Kavanaugh:\nYeah.\nThanks.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 62,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Barrett?",
+      "questions": []
+    },
+    {
+      "conversation_id": 63,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\n? Thank you, counsel. Rebuttal, Mr.\n### Deepak Gupta:\nThank you.\nJust a few quick points. Fist, I don't think you heard a --a persuasive\nanswer to why the Court shouldn't resolve this case on the narrow\ntheory.\nAnd I think we agree with the United States that's the most\nstraightforward way to do -- to do it.\nAnd I think the colloquy with Justice Kagan and -- and",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 64,
+      "dialogue": "Justice Alito\n### Justice Alito:\nshows that it's --it's the case that it's indisputable that she was a\nqualified individual subject to an allegedly discriminatory policy that\nreduced her -- her compensation.\nThe ADA allows her to challenge that policy even after she leaves the\njob.\nAnd that answers the question and resolves at least a chunk of the\ncircuit split.\nBut the second point I want to make is I think, while the case can be\nresolved on that narrow ground, I do want to urge the Court in its\nopinion to be careful not to foreclose other scenarios that the City's\nreading would permit, particularly given the City's failure to identify\nany plausible reason why Congress would have wanted to draw this\narbitrary line.\nA firefighter who becomes disabled saving people from a burning\nbuilding could be discriminated against the next month.\nA retired firefighter who develops a respiratory condition from years of\nsmoke exposure could lose health coverage.\nAnd an employer could deny privileges that are extended to all other\nformer employees, such as use of the company cafeteria or the\nattendance at a company retreat, based solely on disability -based\nanimus. And the third and final point I want to make is just on the\nbroader question.\nThe City's position creates fundamental anomalies that Congress\ncouldn't have intended.\nThe City concedes that the ADA protects retirement benefits but offers\nno coherent account of how that protection could be vindicated, as I\nthink the -- the questions with",
+      "questions": []
+    },
+    {
+      "conversation_id": 65,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nshowed.\nThe City's extreme position creates perverse incentives for employers\nto hide discrimination until after retirement, and it would transform\nclearly unlawful discrimination into perfectly lawful conduct based\nsolely on timing even though Congress expressly protected these\nbenefits and included a safe harbor provision to address legitimate cost\nconcerns.\nFor race or religion, we would never tolerate a regime under which\nunlawful discrimination suddenly becomes lawful a minute later.\nThe City can't explain why Congress would have created such an\narbitrary line for disability discrimination alone.\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 66,
+      "dialogue": "Chief Justice Roberts\n\n### Chief Justice Roberts:\nThank you, counsel.\nThe case is submitted.",
+      "questions": []
+    }
+  ],
+  "generation_stats": {
+    "total_conversations": 66,
+    "conversations_with_questions": 13,
+    "conversations_without_questions": 53,
+    "processed_conversations": 66,
+    "questions_generated": 40,
+    "skipped_for_low_complexity": 15,
+    "coverage_rate": "19.7%",
+    "methodology": "Extract key phrases from advocate statements and create multiple choice questions with extremely deceptive distractors"
+  },
+  "answer_distribution": {
+    "counts": {
+      "A": 14,
+      "B": 10,
+      "C": 8,
+      "D": 8
+    },
+    "percentages": {
+      "A": 35.0,
+      "B": 25.0,
+      "C": 20.0,
+      "D": 20.0
+    },
+    "total_questions": 40
+  }
+}

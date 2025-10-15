@@ -1,0 +1,1216 @@
+{
+  "source_file": "Bondi v. VanDerStok _ Oyez.md",
+  "background": "Chief Justice Roberts\n### Chief Justice Roberts:\nWe will hear argument first this morning in Case 23-852, Garland versus\nVanDerStok.\nGeneral Prelogar.\n### Elizabeth B. Prelogar:\nMr. Chief Justice, and may it please the Court: The Gun Control Act\nimposes straightforward but essential requirements. Firearms sellers\nand manufacturers must mark their products with serial numbers,\nmaintain sales records, and conduct background checks. The industry\nhas followed those conditions without difficulty for more than half a\ncentury, and those basic requirements are crucial to solving gun crimes\nand keeping guns out of the hands of minors, felons, and domestic\nabusers.\nBut, in recent years, companies like the Respondents here have tried to\ncircumvent those requirements.\nThey've begun selling firearms as easy -to-assemble kits and frames\nand receivers that require minimal work to be made functional.\nThey've advertised the products, in their words, as \"ridiculously easy to\nassemble and dummy-proof\" and touted that you can go from opening\nthe mail to have a fully functional gun in as little as 15 minutes, no serial\nnumber, background check, or records required.\nThose untraceable guns are attractive to people who can't lawfully\npurchase them or who plan to use them in crimes.\nAs a result, our nation has seen an explosion in crimes committed with\nghost guns.\nIn the face of that public safety crisis, ATF promulgated this rule to\nunderscore two points about the Gun Control Act's plain text.\nFirst, a weapon parts kit that can readily be converted to function as a\ngun with common tools, often in under an hour, is a covered firearm.\nSecond, a product is a frame or receiver under the Act even if the buyer\nmust drill a few holes or remove a few superfluous pieces of plastic to\nmake it functional.\nBoth of those points are consistent with how ATF has interpreted and\nimplemented the Act across five decades and 11 different presidential\nadministrations. Respondents now seek a sea change in the Act's scope.\nThey claim that if a firearm isn't a hundred percent functional, if it's\nmissing just one hole that could be drilled in seconds and immediately\nassembled into a working gun, that product can be sold to anyone online\nwith no background check, no records, and no serial number.\nThat contradicts the Act's plain text, and it also contradicts common\nsense.\nThis Court should make clear that the Act regulates these products as\nwhat they are, firearms and frames and receivers of firearms.\nI welcome the Court's questions.",
+  "conversations": [
+    {
+      "conversation_id": 1,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nDoes this new regulation cover all of Chapter 44?\n### Elizabeth B. Prelogar:\nYes.\nSo I think that the understanding of a firearm reflected in the Final Rule\ndoes reflect the --the 922(a)(1)(iii) definition.\n### Justice Thomas:\nWould it -- would this --would it also apply under 924?\n### Elizabeth B. Prelogar:\nYes.\nAnd so I think that that also incorporates, though,\n### Justice Thomas:\n, the\nmens rea requirements that are under 924, which I think guards against\nsome of the concerns that Respondents have raised in this case that\nmanufacturers could unintentionally be swept up by these restrictions.\nFor example, 924(a)(1)(D) requires a showing of willfulness with respect\nto selling products without a serial number or without a license.\nYou make a lot of the fact that -- that you've been -- this has been\nregulated for half a century.\nBut it wasn't regulated in this way for half a century.\nWhat was the -- the original reg, the previous reg?\n### Elizabeth B. Prelogar:\nThe previous reg defined a frame or receiver with respect to particular\ncomponents that were housed in that primary structure.\nBut, Justice Thomas, I agree that this rule reflects any fundamental\nchange in approach because, under that p rior reg, ATF consistently\nrecognized that even when that frame or receiver, the -- the primary\nstructural component, wasn't yet fully finished or complete, still it\nwould qualify as a firearm, looking at the same factors that are listed in\nthe rule, things like how much time is it going to take to make it\nfunctional? Do you need special equipment? Do you need to buy parts,\nand are they readily available? Do you need special skill? So all along,\nfrom 1968 on, the agency has consistently focused on this same issue of\nhow quickly you can make that frame or receiver operational as part of a\nworking gun.\nAnd the only change in the rule -- and I want to openly acknowledge\nthis as the rule does --is that ATF is now taking account of jigs or\ntemplates, which are a form of tool that quickly speed up the process of\nmaking a frame or receiver functional because they show you exactly\nwhere you have to drill in that weapon, so there's no trial and error or\nguesswork.\nBut, as ATF explained in the Final Rule, that wasn't a change in statutory\ninterpretation.\nIt was just a recognition that jigs serve precisely the same function as\nsomething like indexing, stamping the frame or receiver to show you\nwhere you have to drill. So it goes directly to the question that the\nagency has asked all along, namely, how quickly, easily, and efficiently\ncan this process be completed.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \", the\n__________________ that are under 924, which I think guards against\nsome of the concerns that Respondents have raised in this case that\nmanufacturers could unintentionally be swept up by these restrictions.\nFor example, 924(a)(1)(D) requires a showing of willfulness with respect\nto selling products without a serial number or without a license.\nYou make a lot of the fact that -- that you've been -- this has been\nregulated for half a century.\nBut it wasn't regulated in this way for half a century.\nWhat was the -- the original reg, the previous reg?\"",
+          "options": {
+            "A": "mens rea definitions",
+            "B": "mens rea elements",
+            "C": "mens rea standards",
+            "D": "mens rea requirements"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "mens rea requirements",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 1,
+              "speaker": "Justice Thomas",
+              "original_statement": ", the\nmens rea requirements that are under 924, which I think guards against\nsome of the concerns that Respondents have raised in this case that\nmanufacturers could unintentionally be swept up by these restrictions.\nFor example, 924(a)(1)(D) requires a showing of willfulness with respect\nto selling products without a serial number or without a license.\nYou make a lot of the fact that -- that you've been -- this has been\nregulated for half a century.\nBut it wasn't regulated in this way for half a century.\nWhat was the -- the original reg, the previous reg?"
+            },
+            "explanation": "This phrase highlights the necessity of a mental state in criminal law, particularly in relation to statutory interpretation and the implications for manufacturers under 924."
+          }
+        },
+        {
+          "question": "Fill in the blank: \", the\nmens rea requirements that are under 924, which I think guards against\nsome of the concerns that Respondents have raised in this case that\nmanufacturers could unintentionally be swept up by these restrictions.\nFor example, ______ requires a showing of willfulness with respect\nto selling products without a serial number or without a license.\nYou make a lot of the fact that -- that you've been -- this has been\nregulated for half a century.\nBut it wasn't regulated in this way for half a century.\nWhat was the -- the original reg, the previous reg?\"",
+          "options": {
+            "A": "924(a)(1)(B)",
+            "B": "924(a)(1)(E)",
+            "C": "924(a)(1)(C)",
+            "D": "924(a)(1)(D)"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "924(a)(1)(D)",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 1,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 1,
+              "speaker": "Justice Thomas",
+              "original_statement": ", the\nmens rea requirements that are under 924, which I think guards against\nsome of the concerns that Respondents have raised in this case that\nmanufacturers could unintentionally be swept up by these restrictions.\nFor example, 924(a)(1)(D) requires a showing of willfulness with respect\nto selling products without a serial number or without a license.\nYou make a lot of the fact that -- that you've been -- this has been\nregulated for half a century.\nBut it wasn't regulated in this way for half a century.\nWhat was the -- the original reg, the previous reg?"
+            },
+            "explanation": "This specific citation refers to a provision of the law that outlines the willfulness requirement, testing knowledge of statutory frameworks and their implications in legal arguments."
+          }
+        },
+        {
+          "question": "Fill in the blank: \", the\nmens rea requirements that are under 924, which I think guards against\nsome of the concerns that Respondents have raised in this case that\nmanufacturers could unintentionally be swept up by these restrictions.\nFor example, 924(a)(1)(D) requires a __________________ with respect\nto selling products without a serial number or without a license.\nYou make a lot of the fact that -- that you've been -- this has been\nregulated for half a century.\nBut it wasn't regulated in this way for half a century.\nWhat was the -- the original reg, the previous reg?\"",
+          "options": {
+            "A": "proof of recklessness",
+            "B": "establishment of negligence",
+            "C": "demonstration of intent",
+            "D": "showing of willfulness"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "showing of willfulness",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 1,
+              "speaker": "Justice Thomas",
+              "original_statement": ", the\nmens rea requirements that are under 924, which I think guards against\nsome of the concerns that Respondents have raised in this case that\nmanufacturers could unintentionally be swept up by these restrictions.\nFor example, 924(a)(1)(D) requires a showing of willfulness with respect\nto selling products without a serial number or without a license.\nYou make a lot of the fact that -- that you've been -- this has been\nregulated for half a century.\nBut it wasn't regulated in this way for half a century.\nWhat was the -- the original reg, the previous reg?"
+            },
+            "explanation": "This phrase probes the understanding of intent in legal standards, particularly in the context of regulatory compliance and criminal liability."
+          }
+        },
+        {
+          "question": "Fill in the blank: \", the\nmens rea requirements that are under 924, which I think guards against\nsome of the concerns that Respondents have raised in this case that\nmanufacturers could unintentionally be swept up by these restrictions.\nFor example, 924(a)(1)(D) requires a showing of willfulness with respect\nto selling products without a serial number or without a license.\nYou make a lot of the fact that -- that you've been -- this has been\n______________________________.\nBut it wasn't regulated in this way for half a century.\nWhat was the -- the original reg, the previous reg?\"",
+          "options": {
+            "A": "unregulated for less than years",
+            "B": "restricted for over five years",
+            "C": "regulated for half a century",
+            "D": "regulated for more than decades"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "regulated for half a century",
+            "category": "other",
+            "difficulty": "medium",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 1,
+              "speaker": "Justice Thomas",
+              "original_statement": ", the\nmens rea requirements that are under 924, which I think guards against\nsome of the concerns that Respondents have raised in this case that\nmanufacturers could unintentionally be swept up by these restrictions.\nFor example, 924(a)(1)(D) requires a showing of willfulness with respect\nto selling products without a serial number or without a license.\nYou make a lot of the fact that -- that you've been -- this has been\nregulated for half a century.\nBut it wasn't regulated in this way for half a century.\nWhat was the -- the original reg, the previous reg?"
+            },
+            "explanation": "This phrase invites examination of the historical context of regulation, challenging students to consider the evolution of legal standards over time."
+          }
+        },
+        {
+          "question": "Fill in the blank: \", the\nmens rea requirements that are under 924, which I think guards against\nsome of the concerns that Respondents have raised in this case that\nmanufacturers could unintentionally be swept up by these restrictions.\nFor example, 924(a)(1)(D) requires a showing of willfulness with respect\nto selling products without a serial number or without a license.\nYou make a lot of the fact that -- that you've been -- this has been\nregulated for half a century.\nBut it wasn't regulated in this way for half a century.\nWhat was the -- the ______________________________?\"",
+          "options": {
+            "A": "final reg, the revised reg",
+            "B": "current reg, the updated reg",
+            "C": "original reg, the previous reg",
+            "D": "new reg, the latest reg"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "original reg, the previous reg",
+            "category": "other",
+            "difficulty": "medium",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 1,
+              "speaker": "Justice Thomas",
+              "original_statement": ", the\nmens rea requirements that are under 924, which I think guards against\nsome of the concerns that Respondents have raised in this case that\nmanufacturers could unintentionally be swept up by these restrictions.\nFor example, 924(a)(1)(D) requires a showing of willfulness with respect\nto selling products without a serial number or without a license.\nYou make a lot of the fact that -- that you've been -- this has been\nregulated for half a century.\nBut it wasn't regulated in this way for half a century.\nWhat was the -- the original reg, the previous reg?"
+            },
+            "explanation": "This phrase raises questions about the historical regulatory framework and its changes, testing knowledge of administrative law and regulatory history."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 2,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nYeah, General, I'm looking at agency letters stretching back as -- as far\nback as 1978, and each of them basically used the same language that\nthe current regulation is using.\nThe agency letter in '78 said it evaluated an -- an item on whether it\nhad reached a stage of manufacture such that it might be readily\nconverted to functional condition, correct? That's what you're tal king\nabout?\n### Elizabeth B. Prelogar:\nExactly right.\nAnd I think that that refutes Respondents' suggestion here that ATF has\nsomehow been applying a different standard over the 50-year history\nof the Gun Control Act.\nInstead, ATF has always looked at whether the item has reached a\ncritical stage of manufacture by reference to what work remains to be\ndone to make it functional.\nSo it's not like these are entirely separate and distinct contexts.\nAs the 1978 classification letter you referenced makes clear, the only\nway to measure whether something has reached a critical stage of\nmanufacture is to look at how close it is to the final product and what\nsteps you need to take to turn that into a functional frame or receiver.\n### Justice Sotomayor:\nGeneral, I want to know what our standard of review here is, because I\ncan imagine a frame or receiver that is just a block of metal that -- not\nreadily convertible.\nI can also imagine some part kits that require such tremendous amount\nof work that it doesn't qualify as readily convertible.\nSo, if I can point to one item that wouldn't qualify, would --could be\nswept up potentially by your --by the new regulation, is that enough to\ndefeat a facial challenge? Is it enough, or is that always an as-applied\nchallenge?\n### Elizabeth B. Prelogar:\nThat is definitely not enough to defeat a facial challenge.\nSo there is no particular product before the Court in this case.\nRespondents have chosen to sue in this facial pre-enforcement posture,\nand what that means is that the only question the Court should be\nasking in this case is whether there is anything on the face of the rule\nthat is contradicted by the statutory text.\nIn other words, whether the standards that ATF set forth in the rule are\nthemselves contradicted by the statute and, therefore, foreclosed by\nthe statute.\nAnd they can't make that showing here. It's certainly true that they try\nto suggest, and your question touches on the idea, that there might be\nparticular marginal products out there that could test the bounds of\nwhether something is readily convertible, but the Court doesn't need to\nconsider those kinds of products in this case because that can all be\nadjudicated on an as-applied basis going forw ard.\n### Justice Sotomayor:\nYou -- you use the Reno --you use the I -- our statement in INS versus\nNCIR, which basically tracks what you're just saying.\nBut, in Reno versu s Flores, we used a different standard and said that a\nrespondent, to prevail, must establish that no set of circumstances\nexists under which the regulation would be valid.\nYou didn't go that route.\n### Justice Sotomayor:\nI agree.\n### Elizabeth B. Prelogar:\nBut we think even under the INS standard that we cite in our brief, it's\nvery clear that there's nothing on the face of the Gun Control Act that\n### Justice Sotomayor:\nsome applications that are impermissible, those possible applications\ncannot render the rule facially invalid so long as the rule has a \"plainly\nlegitimate sweep.\"\n### Elizabeth B. Prelogar:\nYes, and I think that that standard is equally satisfied as well here.\nYou pointed to the hypothetical possibility of marginal cases where a\nproduct would take a lot of time to put together, but I want to\nemphasize the core of the conduct that this Act regulates, which were\nthe ghost gun kits and partially complete frames or receivers that were\nflooding the market leading up to promulgation of this rule. Those are\nissues or -- or products where the readily convertible determination\nwas not hard at all because the products were specifically designed and\nmarketed to individuals who could put them together with no\nspecialized skill, often in under an hour, with common hand tools.\nAnd so I acknowledge the point that maybe there could be other\nhypothetical applications of the rule that could test the bounds with\nrespect to certain factors, but I think that under any conceivable\nstandard for adjudicating this facial challenge, Respondents haven't\ncome anywhere close to satisfying their burden to show that the statute\nsquarely forecloses the standards in the rule.\n### Justice Sotomayor:\nThank you.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Yeah, General, I'm looking at agency letters stretching back as -- as far\nback as 1978, and each of them basically used the same language that\nthe current regulation is using.\nThe agency letter in '78 said it evaluated an -- an item on whether it\nhad reached a __________________ such that it might be readily\nconverted to functional condition, correct? That's what you're tal king\nabout?\"",
+          "options": {
+            "A": "state of manufacture",
+            "B": "stage of assembly",
+            "C": "stage of manufacture",
+            "D": "stage of production"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "stage of manufacture",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 1,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "Yeah, General, I'm looking at agency letters stretching back as -- as far\nback as 1978, and each of them basically used the same language that\nthe current regulation is using.\nThe agency letter in '78 said it evaluated an -- an item on whether it\nhad reached a stage of manufacture such that it might be readily\nconverted to functional condition, correct? That's what you're tal king\nabout?"
+            },
+            "explanation": "This phrase reveals the judicial inquiry into the specific criteria used to determine when an item qualifies as a regulated firearm under the Gun Control Act."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Yeah, General, I'm looking at agency letters stretching back as -- as far\nback as 1978, and each of them basically used the same language that\nthe ____________ is using.\nThe agency letter in '78 said it evaluated an -- an item on whether it\nhad reached a stage of manufacture such that it might be readily\nconverted to functional condition, correct? That's what you're tal king\nabout?\"",
+          "options": {
+            "A": "prevailing law",
+            "B": "active legislation",
+            "C": "current regulation",
+            "D": "existing statute"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "current regulation",
+            "category": "statute",
+            "difficulty": "medium",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 1,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "Yeah, General, I'm looking at agency letters stretching back as -- as far\nback as 1978, and each of them basically used the same language that\nthe current regulation is using.\nThe agency letter in '78 said it evaluated an -- an item on whether it\nhad reached a stage of manufacture such that it might be readily\nconverted to functional condition, correct? That's what you're tal king\nabout?"
+            },
+            "explanation": "This phrase references the existing legal framework that governs the classification of firearms, prompting analysis of how regulations have evolved over time."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"General, I want to know what our __________________ here is, because I\ncan imagine a frame or receiver that is just a block of metal that -- not\nreadily convertible.\nI can also imagine some part kits that require such tremendous amount\nof work that it doesn't qualify as readily convertible.\nSo, if I can point to one item that wouldn't qualify, would --could be\nswept up potentially by your --by the new regulation, is that enough to\ndefeat a facial challenge? Is it enough, or is that always an as-applied\nchallenge?\"",
+          "options": {
+            "A": "standard of proof",
+            "B": "standard of liability",
+            "C": "standard of review",
+            "D": "standard of care"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "standard of review",
+            "category": "judicial_test",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 2,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "General, I want to know what our standard of review here is, because I\ncan imagine a frame or receiver that is just a block of metal that -- not\nreadily convertible.\nI can also imagine some part kits that require such tremendous amount\nof work that it doesn't qualify as readily convertible.\nSo, if I can point to one item that wouldn't qualify, would --could be\nswept up potentially by your --by the new regulation, is that enough to\ndefeat a facial challenge? Is it enough, or is that always an as-applied\nchallenge?"
+            },
+            "explanation": "This phrase reveals the judicial inquiry into the appropriate level of scrutiny that should be applied to the regulation in question, which is crucial for understanding how courts evaluate legislative actions."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"General, I want to know what our standard of review here is, because I\ncan imagine a frame or receiver that is just a block of metal that -- not\nreadily convertible.\nI can also imagine some part kits that require such tremendous amount\nof work that it doesn't qualify as readily convertible.\nSo, if I can point to one item that wouldn't qualify, would --could be\nswept up potentially by your --by the new regulation, is that enough to\ndefeat a ____________? Is it enough, or is that always an as-applied\nchallenge?\"",
+          "options": {
+            "A": "facial challenge",
+            "B": "procedural objection",
+            "C": "factual challenge",
+            "D": "statutory claim"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "facial challenge",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 2,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "General, I want to know what our standard of review here is, because I\ncan imagine a frame or receiver that is just a block of metal that -- not\nreadily convertible.\nI can also imagine some part kits that require such tremendous amount\nof work that it doesn't qualify as readily convertible.\nSo, if I can point to one item that wouldn't qualify, would --could be\nswept up potentially by your --by the new regulation, is that enough to\ndefeat a facial challenge? Is it enough, or is that always an as-applied\nchallenge?"
+            },
+            "explanation": "This term refers to a legal challenge that argues a law is unconstitutional on its face, which requires a nuanced understanding of constitutional law and the implications of such challenges."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"General, I want to know what our standard of review here is, because I\ncan imagine a frame or receiver that is just a block of metal that -- not\n____________.\nI can also imagine some part kits that require such tremendous amount\nof work that it doesn't qualify as readily convertible.\nSo, if I can point to one item that wouldn't qualify, would --could be\nswept up potentially by your --by the new regulation, is that enough to\ndefeat a facial challenge? Is it enough, or is that always an as-applied\nchallenge?\"",
+          "options": {
+            "A": "readily convertible",
+            "B": "readily accessible",
+            "C": "readily available",
+            "D": "readily functional"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "readily convertible",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 2,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "General, I want to know what our standard of review here is, because I\ncan imagine a frame or receiver that is just a block of metal that -- not\nreadily convertible.\nI can also imagine some part kits that require such tremendous amount\nof work that it doesn't qualify as readily convertible.\nSo, if I can point to one item that wouldn't qualify, would --could be\nswept up potentially by your --by the new regulation, is that enough to\ndefeat a facial challenge? Is it enough, or is that always an as-applied\nchallenge?"
+            },
+            "explanation": "This term is critical in assessing the definition of firearms under the Gun Control Act, requiring knowledge of statutory interpretation and the implications of what constitutes a firearm."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"You -- you use the Reno --you use the I -- our statement in INS versus\nNCIR, which basically tracks what you're just saying.\nBut, in Reno versu s Flores, we used a ____________ and said that a\nrespondent, to prevail, must establish that no set of circumstances\nexists under which the regulation would be valid.\nYou didn't go that route.\"",
+          "options": {
+            "A": "distinct standard",
+            "B": "different standard",
+            "C": "differing criteria",
+            "D": "divergent measure"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "different standard",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 3,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "You -- you use the Reno --you use the I -- our statement in INS versus\nNCIR, which basically tracks what you're just saying.\nBut, in Reno versu s Flores, we used a different standard and said that a\nrespondent, to prevail, must establish that no set of circumstances\nexists under which the regulation would be valid.\nYou didn't go that route."
+            },
+            "explanation": "This phrase indicates a shift in legal standards between cases, prompting an understanding of how varying judicial interpretations can affect the outcome of similar legal arguments."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"You -- you use the Reno --you use the I -- our statement in INS versus\nNCIR, which basically ______________________________.\nBut, in Reno versu s Flores, we used a different standard and said that a\nrespondent, to prevail, must establish that no set of circumstances\nexists under which the regulation would be valid.\nYou didn't go that route.\"",
+          "options": {
+            "A": "tracks what you're legally stating",
+            "B": "tracks what you're just saying",
+            "C": "tracks what you're previously claiming",
+            "D": "tracks what you're now asserting"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "tracks what you're just saying",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 3,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "You -- you use the Reno --you use the I -- our statement in INS versus\nNCIR, which basically tracks what you're just saying.\nBut, in Reno versu s Flores, we used a different standard and said that a\nrespondent, to prevail, must establish that no set of circumstances\nexists under which the regulation would be valid.\nYou didn't go that route."
+            },
+            "explanation": "This phrase suggests a connection between the current argument and previous case law, emphasizing the importance of precedent and judicial reasoning in legal discourse."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"You -- you use the Reno --you use the I -- our statement in INS versus\nNCIR, which basically tracks what you're just saying.\nBut, in Reno versu s Flores, we used a different standard and said that a\n______________________________ that no set of circumstances\nexists under which the regulation would be valid.\nYou didn't go that route.\"",
+          "options": {
+            "A": "respondent, to prevail, must establish",
+            "B": "respondent, to argue, must establish",
+            "C": "respondent, to win, must prove",
+            "D": "respondent, to succeed, must demonstrate"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "respondent, to prevail, must establish",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 3,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "You -- you use the Reno --you use the I -- our statement in INS versus\nNCIR, which basically tracks what you're just saying.\nBut, in Reno versu s Flores, we used a different standard and said that a\nrespondent, to prevail, must establish that no set of circumstances\nexists under which the regulation would be valid.\nYou didn't go that route."
+            },
+            "explanation": "This phrase outlines the burden of proof placed on the respondent in legal proceedings, which is crucial for understanding the dynamics of legal arguments and the expectations of parties in litigation."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"some applications that are impermissible, those possible applications\ncannot render the rule ____________ so long as the rule has a \"plainly\nlegitimate sweep.\"\"",
+          "options": {
+            "A": "facially legitimate",
+            "B": "facially invalid",
+            "C": "facially insufficient",
+            "D": "facially ambiguous"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "facially invalid",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 2,
+              "statement_index": 4,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "some applications that are impermissible, those possible applications\ncannot render the rule facially invalid so long as the rule has a \"plainly\nlegitimate sweep.\""
+            },
+            "explanation": "Understanding what constitutes a 'facially invalid' rule requires knowledge of constitutional law and the standards for evaluating the validity of legislative actions."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 3,
+      "dialogue": "Justice Alito\n### Justice Alito:\nWhat is the meaning of the term \"weapon\" in 921(a)(3)(A)?\n### Justice Alito:\nCan you give me a definition?\n### Elizabeth B. Prelogar:\nSure.\nSo that's an undefined term, and we think it therefore carries its plain\ndictionary definition as an -- instrument of offensive or defensive\ncombat.\nBut nothing in Congress's use of the term \"weapon\" suggests that it\nhas to presently be functional as an instrument of combat in order to\nqualify.\nAnd, in fact, I would say the rest of the -- the statutory provision makes\nclear that the weapon might well have to undergo a conversion in order\nto operate as a gun.\n### Elizabeth B. Prelogar:\nThere's an express\n### Justice Alito:\nmust be a weapon?\n### Elizabeth B. Prelogar:\nThat's right.\nWe certainly don't dispute that it has to be an instrument of combat\ndesigned and intended to be used in this way.\nAnd Congress made clear in the statut ory history that the reason it used\nthat term is because there are objects out there, toys and tools, that\nhave a well-known non-weapon use but that actually do expel\nprojectiles through the action of an explosive.\nA -- a cap gun is an example of this. It -- it expels bird shot, and so,\ntherefore, it would fit within the functional definition.\nBut it's not a weapon because it's not an instrument of combat or\nintended to be used in that way.\n### Justice Alito:\nBut is it -- is it the case that components that can easily be converted\ninto something constitute that thing before they are converted as a\nmatter of ordinary usage?\n### Elizabeth B. Prelogar:\nI think that as a matter of ordinary usage, we're not suggesting that any\nstatutory reference to one thing includes separate and distinct things\nthat can be readily converted.\n### Justice Alito:\nWell, no, I --I want to stick with the definition of \"weapon\" for just a\nsecond.\n### Elizabeth B. Prelogar:\nOh, sure.\n### Justice Alito:\nI'm going to show you. Here's a --here's a blank pad, and here's a pen,\nall right? Is this a grocery list?\n### Elizabeth B. Prelogar:\nI don't think that that's a grocery list, but the reason for that is because\nthere are a lot of things you could use those products for to create\nsomething other than a grocery list.\n### Justice Alito:\nAll right.\nIf I show\n### Justice Alito:\nham, some chopped-up pepper, and onions, is that a western omelet?\n### Elizabeth B. Prelogar:\nNo, because, again, those items have well-known other uses to become\nsomething other than an omelet.\nThe key difference here is that these weapon parts kits are designed and\nintended to be used as instruments of combat, and they have no other\nconceivable use.\nAnd I think the further evidence comes from the fact that Respondents\nthemselves agree that a disassembled gun qualifies as a weapon. So this\nis on page 37 of the Anderson brief.\n### Justice Alito:\nOkay.\nSo that's helpful.\nSo your definition is a -- a -- a group of components that are -- can\nreadily be -- converted into something and have no other use. They\nmust have no other use in order to constitute that thing?\n### Elizabeth B. Prelogar:\nIn the circumstance\n### Justice Alito:\nIn that situation, they already constitute that thing?\n### Elizabeth B. Prelogar:\nI think that you can recognize that something is a weapon even if it's\n### Justice Alito:\nNo, I think that certainly is true from the face of the statute because it\nhas to be --it's sufficient if it's capable of being converted into --into\nsomething that can expel a projectile.\nAll right.\nThank you.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"But is it -- is it the case that ____________________________________\ninto something constitute that thing before they are converted as a\nmatter of ordinary usage?\"",
+          "options": {
+            "A": "parts that can readily be assembled",
+            "B": "components that cannot be easily altered",
+            "C": "components that can easily be converted",
+            "D": "items that can quickly be modified"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "components that can easily be converted",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 1,
+              "speaker": "Justice Alito",
+              "original_statement": "But is it -- is it the case that components that can easily be converted\ninto something constitute that thing before they are converted as a\nmatter of ordinary usage?"
+            },
+            "explanation": "This phrase challenges the understanding of how legal definitions can encompass items based on their potential use, requiring knowledge of statutory interpretation."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"But is it -- is it the case that components that can easily be converted\ninto something __________________________________________ as a\nmatter of ordinary usage?\"",
+          "options": {
+            "A": "constitute that item before it is modified",
+            "B": "constitute that product before it is assembled",
+            "C": "constitute that thing before they are converted",
+            "D": "constitute that object before it is completed"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "constitute that thing before they are converted",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 7,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 1,
+              "speaker": "Justice Alito",
+              "original_statement": "But is it -- is it the case that components that can easily be converted\ninto something constitute that thing before they are converted as a\nmatter of ordinary usage?"
+            },
+            "explanation": "This phrase probes the judicial reasoning regarding the timing and conditions under which an item is classified under the law, necessitating familiarity with legal standards of classification."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"But is it -- is it the case that components that can easily be converted\ninto something constitute that thing before they are converted as a\nmatter of ____________?\"",
+          "options": {
+            "A": "ordinary usage",
+            "B": "usual interpretation",
+            "C": "average application",
+            "D": "common practice"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "ordinary usage",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 1,
+              "speaker": "Justice Alito",
+              "original_statement": "But is it -- is it the case that components that can easily be converted\ninto something constitute that thing before they are converted as a\nmatter of ordinary usage?"
+            },
+            "explanation": "This phrase invites examination of how common understanding influences legal definitions, requiring insight into the principles of statutory construction."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"I'm going to show you. Here's a --here's a blank pad, and here's a pen,\nall right? ______________________________\"",
+          "options": {
+            "A": "Is this a product catalog?",
+            "B": "Is this a grocery list?",
+            "C": "Is this a firearms inventory?",
+            "D": "Is this a legal checklist?"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "Is this a grocery list?",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 3,
+              "speaker": "Justice Alito",
+              "original_statement": "I'm going to show you. Here's a --here's a blank pad, and here's a pen,\nall right? Is this a grocery list?"
+            },
+            "explanation": "This phrase challenges the respondent to consider the nature and classification of items, prompting a deeper inquiry into the legal definitions and standards that may apply in determining the nature of objects in legal contexts."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Okay.\nSo that's helpful.\nSo your definition is a -- a -- a group of components that are -- can\nreadily be -- converted into something and ________________________. They\nmust have no other use in order to constitute that thing?\"",
+          "options": {
+            "A": "have no lawful purpose",
+            "B": "have no practical application",
+            "C": "have no viable function",
+            "D": "have no other use"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "have no other use",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 4,
+              "speaker": "Justice Alito",
+              "original_statement": "Okay.\nSo that's helpful.\nSo your definition is a -- a -- a group of components that are -- can\nreadily be -- converted into something and have no other use. They\nmust have no other use in order to constitute that thing?"
+            },
+            "explanation": "This phrase challenges the understanding of legal definitions and the implications of a product's usability in determining its classification under statutory frameworks."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Okay.\nSo that's helpful.\nSo your definition is a -- a -- a group of components that are -- can\nreadily be -- converted into something and have no other use. They\nmust have no other use in order to __________________?\"",
+          "options": {
+            "A": "constitute this item",
+            "B": "constitute those products",
+            "C": "constitute such goods",
+            "D": "constitute that thing"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "constitute that thing",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 4,
+              "speaker": "Justice Alito",
+              "original_statement": "Okay.\nSo that's helpful.\nSo your definition is a -- a -- a group of components that are -- can\nreadily be -- converted into something and have no other use. They\nmust have no other use in order to constitute that thing?"
+            },
+            "explanation": "This phrase raises questions about the legal standards and definitions necessary for classifying components as firearms, which is crucial for interpreting the Gun Control Act."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"No, I think that certainly is true from ______________________________ because it\nhas to be --it's sufficient if it's capable of being converted into --into\nsomething that can expel a projectile.\nAll right.\nThank you.\"",
+          "options": {
+            "A": "the face of the statute",
+            "B": "the language of the statute",
+            "C": "the intent of the statute",
+            "D": "the text of the statute"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "the face of the statute",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 5,
+              "speaker": "Justice Alito",
+              "original_statement": "No, I think that certainly is true from the face of the statute because it\nhas to be --it's sufficient if it's capable of being converted into --into\nsomething that can expel a projectile.\nAll right.\nThank you."
+            },
+            "explanation": "This phrase indicates the importance of interpreting the statute based on its explicit language, a fundamental principle in statutory construction."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"No, I think that certainly is true from the face of the statute because it\nhas to be --it's sufficient if it's ________________________ into --into\nsomething that can expel a projectile.\nAll right.\nThank you.\"",
+          "options": {
+            "A": "capable of being assembled",
+            "B": "suitable for being modified",
+            "C": "designed for easy conversion",
+            "D": "capable of being converted"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "capable of being converted",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 5,
+              "speaker": "Justice Alito",
+              "original_statement": "No, I think that certainly is true from the face of the statute because it\nhas to be --it's sufficient if it's capable of being converted into --into\nsomething that can expel a projectile.\nAll right.\nThank you."
+            },
+            "explanation": "This phrase reflects the judicial inquiry into the functional capacity of an object, which is critical in determining its classification under the law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"No, I think that certainly is true from the face of the statute because it\nhas to be --it's sufficient if it's capable of being converted into --into\nsomething that can __________________.\nAll right.\nThank you.\"",
+          "options": {
+            "A": "expel the projectile",
+            "B": "expel an object",
+            "C": "expel a bullet",
+            "D": "expel a projectile"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "expel a projectile",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 5,
+              "speaker": "Justice Alito",
+              "original_statement": "No, I think that certainly is true from the face of the statute because it\nhas to be --it's sufficient if it's capable of being converted into --into\nsomething that can expel a projectile.\nAll right.\nThank you."
+            },
+            "explanation": "This phrase pertains to the legal definition of a firearm, which is essential for understanding the regulatory framework surrounding gun control."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"No, I think that certainly is true from the face of the statute because it\nhas to be --it's ________________________ of being converted into --into\nsomething that can expel a projectile.\nAll right.\nThank you.\"",
+          "options": {
+            "A": "sufficient unless it's incomplete",
+            "B": "sufficient if it's capable",
+            "C": "sufficient only if functional",
+            "D": "sufficient when it's operational"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "sufficient if it's capable",
+            "category": "judicial_test",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 3,
+              "statement_index": 5,
+              "speaker": "Justice Alito",
+              "original_statement": "No, I think that certainly is true from the face of the statute because it\nhas to be --it's sufficient if it's capable of being converted into --into\nsomething that can expel a projectile.\nAll right.\nThank you."
+            },
+            "explanation": "This phrase suggests a legal standard regarding the sufficiency of evidence or characteristics required for classification under the law."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 4,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nGeneral Prelogar, I just want to follow up on",
+      "questions": []
+    },
+    {
+      "conversation_id": 5,
+      "dialogue": "Justice Alito\n### Justice Alito:\n's question\nabout the omelet.\nWould your answer change if you ordered it from HelloFresh and you got\na kit, and it was like turkey chili, but all of the ingredients are in the kit?\n### Elizabeth B. Prelogar:\nYes.\nAnd I think that that presses on the --the more apt analogy here, which\nis that we are not suggesting that scattered components that might\nhave some entirely separate and distinct function could be aggregated\nand called a weapon in the absence of this kind of evidence that that is\ntheir intended purpose and function.\nBut, if you bought, you know, from Trader Joe's some omelet-making\nkit that had all of the ingredients to make the omelet and maybe\nincluded whatever you would need to start the fire in order to cook the\nomelet and had all of that objective indication that that's what's being\nmarketed and sold, we would recognize that for what it is.\nAnd it -- it doesn't stretch plain English to say, I bought omelets at the\nstore, if you bought all of the ingredients that were intended and\ndesigned to make them, especially under statutory language that refers\nto something like breakfast foods or things that can be readily\nconverted to make breakfast.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"'s question\nabout the omelet.\nWould your answer change if you ________________________ and you got\na kit, and it was like turkey chili, but all of the ingredients are in the kit?\"",
+          "options": {
+            "A": "delivered it from Instacart",
+            "B": "ordered it from Grubhub",
+            "C": "ordered it from HelloFresh",
+            "D": "received it from DoorDash"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "ordered it from HelloFresh",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 5,
+              "statement_index": 1,
+              "speaker": "Justice Alito",
+              "original_statement": "'s question\nabout the omelet.\nWould your answer change if you ordered it from HelloFresh and you got\na kit, and it was like turkey chili, but all of the ingredients are in the kit?"
+            },
+            "explanation": "This phrase introduces a hypothetical scenario that challenges the respondent to consider the implications of product assembly and consumer expectations in a legal context."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"'s question\nabout the omelet.\nWould your answer change if you ordered it from HelloFresh and you got\na kit, and it was like turkey chili, but ________________________________________________?\"",
+          "options": {
+            "A": "some of the ingredients are in the kit",
+            "B": "all of the parts are in the kit",
+            "C": "all of the ingredients are in the kit",
+            "D": "none of the components are in the kit"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "all of the ingredients are in the kit",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 8,
+            "context_info": {
+              "conversation_id": 5,
+              "statement_index": 1,
+              "speaker": "Justice Alito",
+              "original_statement": "'s question\nabout the omelet.\nWould your answer change if you ordered it from HelloFresh and you got\na kit, and it was like turkey chili, but all of the ingredients are in the kit?"
+            },
+            "explanation": "This phrase raises questions about the completeness and functionality of a product, prompting analysis of legal definitions and standards regarding what constitutes a functional item under the law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"'s question\nabout the omelet.\nWould your answer change if you ordered it from HelloFresh and you got\na kit, and it was __________________, but all of the ingredients are in the kit?\"",
+          "options": {
+            "A": "like turkey chili",
+            "B": "like turkey stew",
+            "C": "like beef chili",
+            "D": "like chicken chili"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "like turkey chili",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 5,
+              "statement_index": 1,
+              "speaker": "Justice Alito",
+              "original_statement": "'s question\nabout the omelet.\nWould your answer change if you ordered it from HelloFresh and you got\na kit, and it was like turkey chili, but all of the ingredients are in the kit?"
+            },
+            "explanation": "This phrase serves as a specific example within the hypothetical, prompting examination of how legal standards apply to varied products and the implications of categorization in law."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 6,
+      "dialogue": "Justice Kagan",
+      "questions": []
+    },
+    {
+      "conversation_id": 7,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nCan I -- oh.",
+      "questions": []
+    },
+    {
+      "conversation_id": 8,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nGo ahead.",
+      "questions": []
+    },
+    {
+      "conversation_id": 9,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nCan I ask you about the difference between the \"destructive device\"\nand \"machine gun\" definitions that also reference parts in the way that\nthis definition does not? I've just been thinking about, in 1968, in the\nGun Control Act, why Congress might have done that differently.\nAnd these ghost guns weren't around.\nThese kits are a more recent problem, which doesn't mean that the\nplain language doesn't cover the unintended consequence.\nBut, in 1968 -- and I don't know enough about the gun industry to know\nif this is right, which is why I want your take on this -- wasn't it the case\nthen, I think, that destructive devices like grenades or even machine\nguns were not things that you tended to buy whole because they were so\nheavily regulated and -- and even illegal to purchase that way as\nopposed to firearms? So they were generally purchased as components\nor things that were, you know, able to be converted or made -- like, it\nwould make sense to think about it in terms of parts? Am I thinking\nabout that correctly based on the industry at the time?\n### Elizabeth B. Prelogar:\nYes, you're exactly right about that relevant difference and how people\nwere ordinarily constructing things like destructive devices that weren't\nsold in these types of kits.\nAnd I think the important thing to recognize and what this question\npresses on is that Congress can use a variety of verbal formulations to\ncover similar types of conduct. Each of these other definitions that\nRespondents have pointed to that refer explicitly to parts were enacted\nat different times from the relevant definition of a \"firearm,\" and they\naddress different issues in the way that your question touched on.\nBut what Respondents are doing is ignoring the language of the statute\nthat Congress did use in 1968, and it expressly referred to things that\ncan be readily converted to function to expel a projectile through the\naction of an explosive.\nIt's hard for me to see how a weapon parts kit doesn't fit within that\nplain language because, quite literally, the kit is intended and designed\nto produce that functioning weapon in a very short amount of time by\npeople who don't know anything about guns and can do it with\nrelatively little skill.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Can I ask you about the difference between the \"destructive device\"\nand \"machine gun\" definitions that also reference parts in the way that\nthis definition does not? I've just been thinking about, in 1968, in the\nGun Control Act, why Congress might have done that differently.\nAnd these ghost guns weren't around.\nThese kits are a more recent problem, which doesn't mean that the\n__________________________________________.\nBut, in 1968 -- and I don't know enough about the gun industry to know\nif this is right, which is why I want your take on this -- wasn't it the case\nthen, I think, that destructive devices like grenades or even machine\nguns were not things that you tended to buy whole because they were so\nheavily regulated and -- and even illegal to purchase that way as\nopposed to firearms? So they were generally purchased as components\nor things that were, you know, able to be converted or made -- like, it\nwould make sense to think about it in terms of parts? Am I thinking\nabout that correctly based on the industry at the time?\"",
+          "options": {
+            "A": "plain language fails to clarify the intended meaning",
+            "B": "plain language doesn't cover the unintended consequence",
+            "C": "plain language does not limit the intended scope",
+            "D": "plain text doesn't address the intended outcome"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "plain language doesn't cover the unintended consequence",
+            "category": "judicial_test",
+            "difficulty": "hard",
+            "word_count": 7,
+            "context_info": {
+              "conversation_id": 9,
+              "statement_index": 1,
+              "speaker": "Justice Barrett",
+              "original_statement": "Can I ask you about the difference between the \"destructive device\"\nand \"machine gun\" definitions that also reference parts in the way that\nthis definition does not? I've just been thinking about, in 1968, in the\nGun Control Act, why Congress might have done that differently.\nAnd these ghost guns weren't around.\nThese kits are a more recent problem, which doesn't mean that the\nplain language doesn't cover the unintended consequence.\nBut, in 1968 -- and I don't know enough about the gun industry to know\nif this is right, which is why I want your take on this -- wasn't it the case\nthen, I think, that destructive devices like grenades or even machine\nguns were not things that you tended to buy whole because they were so\nheavily regulated and -- and even illegal to purchase that way as\nopposed to firearms? So they were generally purchased as components\nor things that were, you know, able to be converted or made -- like, it\nwould make sense to think about it in terms of parts? Am I thinking\nabout that correctly based on the industry at the time?"
+            },
+            "explanation": "This phrase probes the interpretation of statutory language and the implications of legislative intent versus practical outcomes, challenging students to consider how courts navigate ambiguities."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 10,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nGeneral, I understand your argument under (A) with respect to things\nthat could be readily converted, but there's also the argument under\n(B), frame or receiver, which doesn't include that kind of language that\nmight bring in artifact nouns more obviously.\nWhat -- what's your thought about that?\n### Elizabeth B. Prelogar:\nSo I do think there's language in (B) that gets us there, and it's the fact\nthat Congress referred to \"frame or receiver\" but didn't expressly\ndefine that term.\nIt's true that in subparagraph (A) Congress used the exact language\n\"readily converted,\" but that's because that's Congress's definition of\nthe term.\nAnd if it had defined it solely in terms of the functionality of a gun, you\nknow, if it had just said something that functions as a gun, that would be\nlimited to operational weapons.\nSo Congress had a really good reason to use the language there.\n### Justice Gorsuch:\nGot you.\nI follow all of that.\n### Elizabeth B. Prelogar:\nYeah.\n### Justice Gorsuch:\nNow moving on to (B), though.\n### Elizabeth B. Prelogar:\nSo moving on to (B), Congress didn't define the term, which means it\ncarries its plain and ordinary meaning. And we think that the ordinary\nmeaning of a noun like \"frame\" or \"receiver\" includes obj ects that are\nnearly complete but are missing just a few holes that need to be drilled.\n### Justice Gorsuch:\nNow we can't possibly think that every noun that Congress uses\neverywhere in the U.S. Code is used as an artifact noun that carries with\nit things like Justice Alito's pen and pencil as a grocery list, right? So\nthere's got to be a line that makes this on -- on your theory of the case\nwhy we should read that into (B) here but not everywhere in the U.S.\nCode.\nWhat -- what -- what -- what are your thoughts?\n### Elizabeth B. Prelogar:\nRight.\nSo I want to be very clear that we think that this is a matter of ordinary\nmeaning that you don't need it to be a hundred percent complete.\nAnd that -- I think that runs across the board.\nIf I mentioned a bicycle, but it was missing pedals, as we explain in our\nbrief, you would still recognize that for what it is, as a bicycle.\nThat's the first order question.\n### Elizabeth B. Prelogar:\nYeah.\n### Justice Gorsuch:\nand pen is a grocery list, you're on notice of that.\na more narrow approach?\n### Elizabeth B. Prelogar:\nYes.\nWe think the context and purpose of the statute strongly support\nunderstanding the term in this way.\nAnd the reason for that is because, throughout the federal firearms\nlaws, whenever Congress has itself expressly provided a definition, it\nhas included not only the fully complete and functional item but things\nthat are the item and can readily be made to function that way.\nSo I think that's Congress's own indication in this statute that it's trying\nto ensure coverage not only of things that have the functionality of a\nframe or receiver at the moment they're sold but frames or receivers\nthat can be readily converted to function with minimal steps.\n### Justice Gorsuch:\nWell, if you have something textual, I'd love for you to point me to that\nand also address --your friends on the other side I'm sure are going to\nmake something of this, that as recently as 2021, in a brief filed in the\nSouthern District of New York, the government represented that an\nunfinished frame or receiver does not meet the statutory definition of\n\"firearm.\"\n### Elizabeth B. Prelogar:\nSure.\nSo let me take those in turn.\nWith respect to text, what we have,\n### Justice Gorsuch:\n, is the term \"frame\nor receiver\" that's not defined, and the Court has many times\nrecognized it needs to interpret text and context.\nI think the anti -circumvention principle carries a lot of weight here\nbecause, if Respondents are right and just one undrilled hole is enough,\n### Justice Gorsuch:\nother destructive devices that don't have conventional frames and\nreceivers? Does that help you?\n### Elizabeth B. Prelogar:\nI think that that just goes to show that Congress was trying to broadly\ncover the scope of products that can qualify as firearms, and it certainly\nrefutes Respondents' suggestion here that every covered object under\nthe statutory definition needs to have a traditional frame or receiver.\n### Justice Gorsuch:\nYeah, that's why I'm wondering whether we can --whether, looking at\n### Elizabeth B. Prelogar:\nRight.\n### Justice Gorsuch:\ntextual way to -- to -- to --to narrow and focus on (B) without saying\nevery artifact noun in the U.S. Code carries this feature?\n### Elizabeth B. Prelogar:\nYes, I think you certainly could adopt that interpretation, and that\ncontextual surrounding evidence strongly supports our arguments in\nthis case.\n### Justice Gorsuch:\nYeah.\n### Justice Gorsuch:\nYeah.\n### Elizabeth B. Prelogar:\nI want to be really clear that I think Respondents are fundamentally\nmisreading that brief.\nThey suggest that the brief stood for the principle that ATF was arguing\nthat a frame or receiver has to be fully functional to qualify.\nBut, if you actually look at that brief, that's not what it says.\nIt walks through the statutory and regulatory history here and makes\nclear that repeatedly, over five decades, ATF has always looked at\nwhether a partially complete frame or receiver can be brought to\nfunctional condition quickly, easily, and efficiently.\nSo there is no dramatic break in the way that ATF has regulated\nthroughout the entirety of the statute's history.\n### Justice Gorsuch:\nWell, I'll look at that again.\nAnd then last question from me and I'm sorry to take up so much time.\nIn the regulation, it indicates that a frame or receiver --and I'm stuck on\n### Elizabeth B. Prelogar:\nMm-hmm.\n### Justice Gorsuch:\nNow I'm not sure what the difference between cut into pieces and\nshredding is, but perhaps you can enlighten me and help me there.\n### Elizabeth B. Prelogar:\nSo this refers to when you already have a fully complete and functional\nfirearm, what steps you would need to undertake to formally destroy\nthat firearm and exempt it from regulation.\n### Elizabeth B. Prelogar:\nSo, once you actually have already brought something within the\nregulatory scope of the statute, the -- the statute itself and the\nagency's regulations require that it be destroyed, which is a specialized\nterm in the firearms industry.\nI can tell you as a factual matter that the most common way that you\ndestroy a firearm is to torch-cut it in -- in -- with three specified cuts\n### Justice Gorsuch:\n478.12(c) and (e).\n### Elizabeth B. Prelogar:\nYes.\n### Justice Gorsuch:\nOkay? And it -- and it talks about partially complete, disassembled, or\nnonfunctional frame or receiver.\nThat's what we're talking about, not the firearm.\nAnd, again, maybe --maybe there's a line that I -- a through line, but I\ncouldn't find one between shredding and cutting into pieces.\nI would have thought that's pretty much the same thing.\n### Elizabeth B. Prelogar:\nSo that comes, as you mention, from 478.12(e), which I should note\nRespondents haven't challenged in this case.\nIt tees up a distinct statutory issue about what it takes to destroy a\nframe or receiver or a regulated object once you already have a firearm.\nThey aren't challenging that here. And the only thing that is before the\n### Justice Gorsuch:\nRight, but -- but it\n### Justice Gorsuch:\nNo, but it illuminates what is a sufficiently complete frame or receiver if\na complete frame or receiver is not a firearm.\nAnd the only way I can be sure that I don't have a fully complete or\nnearly complete or convertibly complete frame or receiver and therefore\na firearm is to shred it but not cut it into pieces.\n### Justice Gorsuch:\nYeah, that -- they\n### Justice Gorsuch:\nOkay.\nRight.\n### Elizabeth B. Prelogar:\nAs the regulation itself makes clear, you don't even get to the question\nof asking whether it's regularly -- readily converted into functional\nshape unless you have the clearly identifiable unfinished component\npart, so you have something that is already well along the way to being a\nframe or receiver, and that's when you would conduct the readily\nconverted inquiry. -- And there is nothing in the rule or in the agency's\npast practice to suggest that anything that isn't shredded or cut up or\nabsolutely destroyed is going to be considered a frame or receiver.\nThat would be entirely inconsistent with how the agency has\nimplemented\n### Justice Gorsuch:\nOkay.\nThank you.\n### Justice Gorsuch:\nThank you.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"General, I understand your argument under (A) with respect to things\nthat could be ____________, but there's also the argument under\n(B), frame or receiver, which doesn't include that kind of language that\nmight bring in artifact nouns more obviously.\nWhat -- what's your thought about that?\"",
+          "options": {
+            "A": "readily converted",
+            "B": "quickly assembled",
+            "C": "easily modified",
+            "D": "readily constructed"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "readily converted",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 10,
+              "statement_index": 1,
+              "speaker": "Justice Gorsuch",
+              "original_statement": "General, I understand your argument under (A) with respect to things\nthat could be readily converted, but there's also the argument under\n(B), frame or receiver, which doesn't include that kind of language that\nmight bring in artifact nouns more obviously.\nWhat -- what's your thought about that?"
+            },
+            "explanation": "This phrase challenges the understanding of how the law interprets the conversion of items into firearms, requiring knowledge of statutory definitions and judicial reasoning."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"General, I understand your argument under (A) with respect to things\nthat could be readily converted, but there's also the argument under\n(B), __________________, which doesn't include that kind of language that\nmight bring in artifact nouns more obviously.\nWhat -- what's your thought about that?\"",
+          "options": {
+            "A": "firearm or receiver",
+            "B": "firearm parts kit",
+            "C": "frame or receiver",
+            "D": "frame and receiver"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "frame or receiver",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 10,
+              "statement_index": 1,
+              "speaker": "Justice Gorsuch",
+              "original_statement": "General, I understand your argument under (A) with respect to things\nthat could be readily converted, but there's also the argument under\n(B), frame or receiver, which doesn't include that kind of language that\nmight bring in artifact nouns more obviously.\nWhat -- what's your thought about that?"
+            },
+            "explanation": "This term is central to the legal definition of firearms under the Gun Control Act, necessitating familiarity with statutory language and its implications."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"General, I understand your argument under (A) with respect to things\nthat could be readily converted, but there's also the argument under\n(B), frame or receiver, which doesn't include that kind of language that\nmight bring in ____________ more obviously.\nWhat -- what's your thought about that?\"",
+          "options": {
+            "A": "artifact items",
+            "B": "artifact nouns",
+            "C": "artifact objects",
+            "D": "artificial nouns"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "artifact nouns",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 10,
+              "statement_index": 1,
+              "speaker": "Justice Gorsuch",
+              "original_statement": "General, I understand your argument under (A) with respect to things\nthat could be readily converted, but there's also the argument under\n(B), frame or receiver, which doesn't include that kind of language that\nmight bring in artifact nouns more obviously.\nWhat -- what's your thought about that?"
+            },
+            "explanation": "This phrase raises questions about the specificity of legal language and how it applies to the classification of items under the law, testing comprehension of legal terminology."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"General, I understand your argument under (A) with respect to things\nthat could be readily converted, but there's also the argument under\n(B), frame or receiver, which ____________________________________ that\nmight bring in artifact nouns more obviously.\nWhat -- what's your thought about that?\"",
+          "options": {
+            "A": "doesn't encompass that type of language",
+            "B": "doesn't involve that specific kind of language",
+            "C": "doesn't include that kind of language",
+            "D": "doesn't permit that sort of language"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "doesn't include that kind of language",
+            "category": "judicial_test",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 10,
+              "statement_index": 1,
+              "speaker": "Justice Gorsuch",
+              "original_statement": "General, I understand your argument under (A) with respect to things\nthat could be readily converted, but there's also the argument under\n(B), frame or receiver, which doesn't include that kind of language that\nmight bring in artifact nouns more obviously.\nWhat -- what's your thought about that?"
+            },
+            "explanation": "This phrase prompts analysis of the interpretative methods used by courts to assess statutory language and its limitations, requiring a deep understanding of judicial reasoning."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Now we can't possibly think that every noun that Congress uses\neverywhere in the U.S. Code is used as an ____________ that carries with\nit things like Justice Alito's pen and pencil as a grocery list, right? So\nthere's got to be a line that makes this on -- on your theory of the case\nwhy we should read that into (B) here but not everywhere in the U.S.\nCode.\nWhat -- what -- what -- what are your thoughts?\"",
+          "options": {
+            "A": "artifact noun",
+            "B": "artifact item",
+            "C": "article document",
+            "D": "artifice object"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "artifact noun",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 10,
+              "statement_index": 2,
+              "speaker": "Justice Gorsuch",
+              "original_statement": "Now we can't possibly think that every noun that Congress uses\neverywhere in the U.S. Code is used as an artifact noun that carries with\nit things like Justice Alito's pen and pencil as a grocery list, right? So\nthere's got to be a line that makes this on -- on your theory of the case\nwhy we should read that into (B) here but not everywhere in the U.S.\nCode.\nWhat -- what -- what -- what are your thoughts?"
+            },
+            "explanation": "This phrase challenges the understanding of how specific terms are interpreted within statutory language, requiring knowledge of linguistic nuances in legal texts."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"and pen is a grocery list, you're on notice of that.\na __________________?\"",
+          "options": {
+            "A": "narrower legal framework",
+            "B": "more expansive view",
+            "C": "less broad standard",
+            "D": "more narrow approach"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "more narrow approach",
+            "category": "legal_concept",
+            "difficulty": "medium",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 10,
+              "statement_index": 3,
+              "speaker": "Justice Gorsuch",
+              "original_statement": "and pen is a grocery list, you're on notice of that.\na more narrow approach?"
+            },
+            "explanation": "This phrase challenges the understanding of judicial reasoning regarding the scope and application of legal standards, prompting consideration of how a narrower interpretation may affect statutory interpretation."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, if you have ____________, I'd love for you to point me to that\nand also address --your friends on the other side I'm sure are going to\nmake something of this, that as recently as 2021, in a brief filed in the\nSouthern District of New York, the government represented that an\nunfinished frame or receiver does not meet the statutory definition of\n\"firearm.\"\"",
+          "options": {
+            "A": "something contextual",
+            "B": "nothing textual",
+            "C": "anything textual",
+            "D": "something textual"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "something textual",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 10,
+              "statement_index": 4,
+              "speaker": "Justice Gorsuch",
+              "original_statement": "Well, if you have something textual, I'd love for you to point me to that\nand also address --your friends on the other side I'm sure are going to\nmake something of this, that as recently as 2021, in a brief filed in the\nSouthern District of New York, the government represented that an\nunfinished frame or receiver does not meet the statutory definition of\n\"firearm.\""
+            },
+            "explanation": "This phrase challenges the respondent to identify specific textual provisions in the statute that support their argument, highlighting the importance of textualism in judicial reasoning."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"No, but it illuminates what is a ______________________________ if\na complete frame or receiver is not a firearm.\nAnd the only way I can be sure that I don't have a fully complete or\nnearly complete or convertibly complete frame or receiver and therefore\na firearm is to shred it but not cut it into pieces.\"",
+          "options": {
+            "A": "adequately functional frame or receiver",
+            "B": "entirely assembled frame or receiver",
+            "C": "sufficiently complete frame or receiver",
+            "D": "legally compliant frame or receiver"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "sufficiently complete frame or receiver",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 10,
+              "statement_index": 10,
+              "speaker": "Justice Gorsuch",
+              "original_statement": "No, but it illuminates what is a sufficiently complete frame or receiver if\na complete frame or receiver is not a firearm.\nAnd the only way I can be sure that I don't have a fully complete or\nnearly complete or convertibly complete frame or receiver and therefore\na firearm is to shred it but not cut it into pieces."
+            },
+            "explanation": "This phrase challenges the understanding of what constitutes a complete firearm component under the law, probing the nuances of statutory interpretation."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 11,
+      "dialogue": "Justice Alito\n### Justice Alito:\nmust be included in order for it to be a firearm kit?\n### Elizabeth B. Prelogar:\nSo these kits always come with a frame or receiver.\nAnd I think that that's going to be a necessary part. That's usually the\npart that needs just a couple of holes drilled or pieces of plastic r\nemoved. And then the weapon parts kits generally come with the\nadditional components that will allow you to form a fully functioning\ngun.\nIf you're asking whether it would still qualify as a regulated weapon that\ncan be readily converted if it were missing other parts, you know, I think\nthat's a matter of degree and it presses on what it means to readily\nconvert.\nIt might be fact-specific, so if the part you're missing is something that\nis super-specialized and would be hard to track down or is going to cost\nyou a million dollars, that might not be readily converted.\nBut, if you have something that's missing a single pin that you might\neven have lying around the house, it probably will be.\nAgain, in this facial challenge, I don't think it's necessary for the Court\nto consider all of the possible permutations of how this could play out\nwith respect to different types of products.\nThe thing that you need to be asking is, did the agency reasonably\ndefine the term \"readily\"? And it did because it gave it its ordinary\ndefinition of a process that's quick, easy, and efficient.\nAnd then did the agency identify relevant factors? And I think it did with\nrespect to things like time, expertise, scope of work, and, as your\nquestion touched on, what parts you would need to actually make it\nfunctional.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Justice Alito\n### Justice Alito:\n________________________________________________________________________?\n### Elizabeth B. Prelogar:\nSo these kits always come with a frame or receiver.\nAnd I think that that's going to be a necessary part. That's usually the\npart that needs just a couple of holes drilled or pieces of plastic r\nemoved. And then the weapon parts kits generally come with the\nadditional components that will allow you to form a fully functioning\ngun.\nIf you're asking whether it would still qualify as a \"",
+          "options": {
+            "A": "must be excluded from consideration to qualify as a firearm assembly kit",
+            "B": "must be present for it to be recognized as a firearm kit",
+            "C": "must be included to ensure it is classified as a firearm assembly",
+            "D": "must be included in order for it to be a firearm kit"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "must be included in order for it to be a firearm kit",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 12,
+            "context_info": {
+              "conversation_id": 11,
+              "statement_index": 1,
+              "speaker": "Unknown Justice",
+              "original_statement": "Justice Alito\n### Justice Alito:\nmust be included in order for it to be a firearm kit?\n### Elizabeth B. Prelogar:\nSo these kits always come with a frame or receiver.\nAnd I think that that's going to be a necessary part. That's usually the\npart that needs just a couple of holes drilled or pieces of plastic r\nemoved. And then the weapon parts kits generally come with the\nadditional components that will allow you to form a fully functioning\ngun.\nIf you're asking whether it would still qualify as a "
+            },
+            "explanation": "This phrase probes the essential components required for classification under the Gun Control Act, challenging students to understand the statutory definitions and implications of firearm regulation."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 12,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nGeneral, we have a clue from the statute's use of a starter gun as an\nexample of something that's readily convertible.\nAs I understand it, to make a starter gun operable, you either have to\nreplace the bore, so you need a new bore part to do that, or you have to\ndrill out the existing bore on the starter gun and get a pin to make it\noperable, correct?\n### Elizabeth B. Prelogar:\nThat's right.\nSo the most commonly publicized example that I think was top of mind\nfor Congress, and it's one that's cited in the statutory history here, was\nthe example of a -- a gang member who bought the starter guns in bulk\nand then, you're exactly right, had to drill out the plugged barrel or else\ncut it off and rethread it and put in a new barrel.\nAnd often you also have to enlarge the barrel so that it can chamber\nconventional ammunition if it isn't already able to accept bullets.\n### Justice Sotomayor:\nSo we know that some incomplete items qualify under the statute's\ndefinition?\n### Elizabeth B. Prelogar:\nYes.\nAnd I think that also show -- I think shows, as the statutory text makes\nclear, that things that aren't presently functioning as guns but can be\nreadily converted to function are covered under subparagraph (A).\nThat was exactly what Congress was trying to accomplish, to ensure\nthat these things that are going to be used as instruments of combat\nand that can be completed to functional condition with minimal work\nwould come within the scope of the federal firearms laws.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"General, we have a clue from the statute's use of a starter gun as an\nexample of something that's ____________.\nAs I understand it, to make a starter gun operable, you either have to\nreplace the bore, so you need a new bore part to do that, or you have to\ndrill out the existing bore on the starter gun and get a pin to make it\noperable, correct?\"",
+          "options": {
+            "A": "readily convertible",
+            "B": "immediately functional",
+            "C": "readily available",
+            "D": "easily convertible"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "readily convertible",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 12,
+              "statement_index": 1,
+              "speaker": "Justice Sotomayor",
+              "original_statement": "General, we have a clue from the statute's use of a starter gun as an\nexample of something that's readily convertible.\nAs I understand it, to make a starter gun operable, you either have to\nreplace the bore, so you need a new bore part to do that, or you have to\ndrill out the existing bore on the starter gun and get a pin to make it\noperable, correct?"
+            },
+            "explanation": "This phrase challenges students to understand the legal standard for determining whether an item qualifies as a firearm under the Gun Control Act based on its potential for conversion."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 13,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nJustice Thomas, anything?",
+      "questions": []
+    },
+    {
+      "conversation_id": 14,
+      "dialogue": "Justice Alito\n### Justice Alito:\n?\nWere weapons parts kits common in 1968?\n### Elizabeth B. Prelogar:\nSo there have only been a couple of examples over the years that I'm\naware of reflected in the case law.\nWe cite the Stewart case and the Wick case.\nOne of those was kind of an Uzi-making kit.\nAnother one involved someone who was making it possible through kit\nform to construct a machine gun.\nIt wasn't particularly common then, and I can tell you the reason why.\nThe big development and the technological development that led to the\n### Justice Alito:\nRight.\n### Justice Alito:\nbut instead consist of parts taken from disassembled firearms that have\nbeen altered in a way to make them nonfunctional without some\nmodification?\n### Elizabeth B. Prelogar:\nI'm not aware of any commercial product right now that --that fits that\ndescription.\n### Justice Alito:\nOn what it means to be readily convertible, I -- I don't know whether\nit's possible to do something.\nThat's the statutory term, and I don't know whether it's possible to do\nsomething more precise than what ATF has done, but it would be\ninteresting if -- it would be helpful if you could perhaps explain a little\nbit more what that means.\nSo what level of expertise is taken into account? What collection of tools\nis taken into account? Can you provide an y sort of a time limit? How\nlong must it take? Some of us who are not -- who don't have a lot of\nmechanical ability have spent hours and hours and hours trying to\nassemble things that we've purchased.\n(Laughter.)\n### Elizabeth B. Prelogar:\nI'm with you on that one,\n### Justice Alito:\n, as someone who struggles with\nIKEA furniture.\nLet me do my best to try to be responsive to that question.\nAnd I think the thing to point to is the case law on this point because ATF\nwasn't just coming up with these factors out of nowhere.\nInstead, because this is the term that Congress used in the statute, we\nhave 50 years of judicial precedent further fleshing out the contours of\nwhen something can be readily converted.\nSo, as a general matter, what the courts and, therefore, what the agency\nhas said is that it is readily converted if someone -- if a novice, in a fairly\nquick amount of time, can easily and efficiently convert the weapon to\nfunction.\nYou asked about outside bounds like time limits.\nI can tell you that in the case law, the longest period of time that was\never deemed still r eadily convertible was eight hours.\nAnd the agency has not considered any product greater than eight hours\nto be readily convertible.\nSo, if that issue were squarely presented, a court might hold that\nsomething like a day's work or eight hours sets an outer bound.\nWith respect to things like skill or -- or parts availability, obviously,\nthat's going to be facts -- fact-and context-specific. And I think the\nimportant thing to recognize is that these are principles that were\nthemselves drawn from case law.\nAnd the agency, I think, can't be expected to do better than courts\nthemselves have done in trying to flesh out the qualitative standard\nthat Congress chose to use here.\nThank you.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"but instead consist of ______________________________ that have\nbeen altered in a way to make them nonfunctional without some\nmodification?\"",
+          "options": {
+            "A": "items derived from complete firearms",
+            "B": "parts taken from disassembled firearms",
+            "C": "pieces assembled from operational firearms",
+            "D": "components sourced from functional firearms"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "parts taken from disassembled firearms",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 14,
+              "statement_index": 1,
+              "speaker": "Justice Alito",
+              "original_statement": "but instead consist of parts taken from disassembled firearms that have\nbeen altered in a way to make them nonfunctional without some\nmodification?"
+            },
+            "explanation": "This phrase highlights the legal distinction between functional and nonfunctional firearm components, probing the interpretation of what constitutes a firearm under the law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"On what it means to be ____________, I -- I don't know whether\nit's possible to do something.\nThat's the statutory term, and I don't know whether it's possible to do\nsomething more precise than what ATF has done, but it would be\ninteresting if -- it would be helpful if you could perhaps explain a little\nbit more what that means.\nSo what level of expertise is taken into account? What collection of tools\nis taken into account? Can you provide an y sort of a time limit? How\nlong must it take? Some of us who are not -- who don't have a lot of\nmechanical ability have spent hours and hours and hours trying to\nassemble things that we've purchased.\n(Laughter.)\"",
+          "options": {
+            "A": "quickly functional",
+            "B": "readily convertible",
+            "C": "readily available",
+            "D": "easily convertible"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "readily convertible",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 14,
+              "statement_index": 2,
+              "speaker": "Justice Alito",
+              "original_statement": "On what it means to be readily convertible, I -- I don't know whether\nit's possible to do something.\nThat's the statutory term, and I don't know whether it's possible to do\nsomething more precise than what ATF has done, but it would be\ninteresting if -- it would be helpful if you could perhaps explain a little\nbit more what that means.\nSo what level of expertise is taken into account? What collection of tools\nis taken into account? Can you provide an y sort of a time limit? How\nlong must it take? Some of us who are not -- who don't have a lot of\nmechanical ability have spent hours and hours and hours trying to\nassemble things that we've purchased.\n(Laughter.)"
+            },
+            "explanation": "This phrase highlights the statutory term that is central to the interpretation of the Gun Control Act, requiring a nuanced understanding of how 'readily convertible' is defined and applied in legal contexts."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 15,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Sotomayor?",
+      "questions": []
+    },
+    {
+      "conversation_id": 16,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\n?\nOn parts kits first. In addition to the parts kit that's analogous to an\nIKEA table kit, Judge O'Connor below was concerned that that language\nwould include sort of any aggregation of gun parts.\nSo let's say, you know, a gunsmith just wanted to replenish inventory\nand got a big box of gun parts generally from a gun manufacturer.\nWould that count under the ATF regulation?\n### Elizabeth B. Prelogar:\nThe lower court fundamentally misunderstood how this Final Rule\noperates.\nIn the first place, it doesn't regulate something like a gunsmith at home\nwho's buying individual parts and seeking to aggregate them.\nThis is a regulation that only governs commercial manufacturers and\nsellers of firearms who are themselves constructing the -- the weapons\nand the kits and putting them on the market.\nSo these are just conditions o n commercial sale.\nAnd then, with respect to what the rule would cover, it's clear from the\n\"readily convertible\" analysis that you need to have a process that's\nfairly quick, easy, and efficient.\nAnd so it wouldn't sweep in things that have a lot of other uses and that\nwould require a lot of skill and expertise or time to track down the\nmissing parts to put together.\nAnd I want to emphasize again it's not like ATF was coming up with this\nrule without real-world experience about the kinds of market -- kinds\nof products that these fringe manufacturers were putting on the\nmarket.\nThese were kits that you could put together in under an hour.\nThey had all of the relevant components.\nYou would just need to do a little bit of finishing work.\nI actually had the experience of putting one of these kits together, and\nit's just like what the record shows.\nThere are usually only a couple of steps.\nThe first thing that most of the kits require is drilling t he holes.\nUsually, it's six holes, and you do it with a jig.\nSo you have the product there in the tool, and it removes all of the trial\nand error or guesswork.\nYou know exactly where to drill in seconds.\nThe second step is to remove the extra plastic blocking tabs.\nThat, again, doesn't require much work at all because you clip them off\nwith a pair of pliers or a box cutter.\nYou can file it down with a jig as a template using a metal nail file or\nusing a Dremel rotary tool that a lot of people, especially dog owners,\nown because it's helpful for trimming your dog's nails.\nAt that point, you have a fully functional frame or receiver, and you can\nquickly assemble it into a gun in no time at all.\nThat's how the products were marketed. That's how they were sold.\n### Justice Kagan:\nAnd turning to the frames or receivers, you made a point of saying that\nthis follows in a long line of regulation. But there --- there were\nchanges, right, that you -- that the new regulation is intended to\ncapture items sold with jigs and templates.\nIs there anything else that the new regulation was intended to capture\nthat was not captured under the old? And why did ATF make that\nchange?\n### Elizabeth B. Prelogar:\nNo, that is the only change.\nATF made that change and openly acknowledged and justified its\ndecision because it recognized that when you have a jig, which is this\ntool, as I mentioned, that removes all of the trial and error and really\ndoes make it dummy-proof, as the manufacturers have claimed, it goes\ndirectly to the question the agency has asked all along, which is: How\nquickly, easily, and efficiently can this thing be made to function? So it's\nno different in kind from indexing on the frame or receiver.\nIndexing is something that ATF has looked at from 1968 on. It's always\nrecognized that if you actually put a dimple in the frame or through the\nbody of the structural component, that's going to speed up the process.\nAnd jigs work exactly the same way.\n### Justice Kagan:\nAnd let me ask you a broader question if we step back a little bit.\nSometimes this Court looks at regulations and it says, you know, there's\nan old statute, and the old statute doesn't contemplate a new problem,\nand a new problem comes up, and Congress can't get its act together\nand deal with the old problem. And so the agency takes old statutory\nlanguage that doesn't really fit the problem but, you know, is vague\nenough or general enough or broad enough, you know, so that it can be\nkind of made to deal with the new problem.\nAnd -- and this Court has sometimes said: Well, that's --that's not\nright.\nThe new statute had nothing to do with -- the old statute had nothing\nto do with this new problem, and this is kind of, you know, the agency\njust taking over what is really Congress's business.\nIs -- is that a story line that the Respondents here can tell about this\nregulation?\n### Elizabeth B. Prelogar:\nI don't think there is any tenable way to characterize this regulation as -\n- as an attempt to change the meaning of the statute to confront a new\nproblem.\nFirst of all, this is an age-old problem.\nCongress, I think, rightly recognized that manufacturers might seek to\nevade these central requirements.\nThat's why anytime it's expressly defined a term, like in subparagraph\n(A), it's included concepts of whether an item can be readily made to\nfunction. We think the weapon parts kits are precisely described by that\nsubparagraph (A) description.\nI acknowledge in subparagraph (B) it's not a defined term, \"frame or\nreceiver.\" But there again, we think that Congress was simply tracking\nordinary meaning, which recognizes that if you have that principal\nstructural component of a handgun, that can be recognized as a frame or\nreceiver even if it's missing the single, final hole that you need to drill in\nthat.\nSo I think it would be wrong to suggest that the statutory language just\non its own terms doesn't cover this situation.\nAnd then, on top of that, we have context and purpose here.\nOn Respondents' theory of this statute, it would be incredibly easy for\nany gun manufacturer to avoid the regulation and the essential\nrequirements of serializing, background checks, and recordkeeping just\nby leaving one little part of the weapon or the frame or receiver\nunfinished.\nPlainly, that's not what Congress was intending.\nAnd I think it brings this case squarely within cases like Abramski,\nwhere, as you know,\n### Justice Kagan:\n, the --the Court recognized that if\nyou have an interpretation of the Gun Control Act that is going to allow\nthat entire circumvention and essentially nullify the Act's\nrequirements, the statute shouldn't properly be interpreted that way.\nThat was a close case. You maybe want this to be a stronger case than\nAbramski.\n### Elizabeth B. Prelogar:\nIt is a stronger case.\nAnd the circumvention here is even more profound because it wouldn't\njust be in the sales transactions with the straw purchaser.\nIt would effectively be all weapons going forward would not need to be\nserialized or sold with background checks and recordkeeping.\n### Justice Kagan:\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 17,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Gorsuch?",
+      "questions": []
+    },
+    {
+      "conversation_id": 18,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\n?\nYour statutory interpretation has force, but I had some concern at the\nstate stage, and I have some concern now about mens rea.\nAnd this is an agency regulation that broadens a criminal statute\nbeyond what it had been before.\nSo what about the seller, for example, who is truly not aware, truly not\naware that they are violating the law and gets criminally charged? What\nassurances can you give about mens rea, about the instructions to the\njury that the government would seek, and the like?\n### Elizabeth B. Prelogar:\nSo let me begin with the statutory mens rea standard that I think fully\naddresses this concern.\nThis is in 18 U.S.C. 924(a)(1)(D), and it requires willfulness.\nSo that means that if a -- a manufacturer isn't putting a serial number\non it because the manufacturer believes in good faith that this isn't a\nregulated product and the manufacturer doesn't know that it's\nviolating the law, it will not be criminally chargeable because the\ngovernment won't be able to prove that mens rea of willfulness.\nSo I think that's an important check against criminal prosecutions that\nmight be unwarranted.\n### Justice Kavanaugh:\nAnd does \"willfully\" apply to all potential prosecutions that we're\ntalking about in this case?\n### Elizabeth B. Prelogar:\nIt applies if there's no serial number on the weapon, and it applies if\nthere's -- if the weapon is being sold without a license.\nI believe that with respect to not conducting a background check, that's\nunder a different provision that requires knowledge.\nBut, of course, the kind of entry point for the weapon is whether or not it\nhas a serial number, and that happens at the point of manufacture.\n### Justice Kavanaugh:\nSo how would that work on the background check? I just want to make\nsure I'm not missing something there.\n### Elizabeth B. Prelogar:\nYeah.\nwho wants guidance about whether, with respect to particular type of\nproducts, it's necessary to do that background check, the -- the person\ncan seek a classification from ATF.\nThe manufacturers would be the ones to do this.\nAnd this is a way to get a pre-enforcement dispositive ruling from ATF\nas to whether that's deemed a regulated firearm.\nAnd in that circumstance, if you don't like the answer that ATF gives,\nyou have a right to judicial review that will be conducted under a de novo\nstandard about whether this is a covered product.\n### Justice Kavanaugh:\nBut, if you haven't done that, let's say you haven't done that, and you\n### Elizabeth B. Prelogar:\nRight.\n### Justice Kavanaugh:\nlaw, could you be charged under that provision?\n### Elizabeth B. Prelogar:\nAs a theoretical possibility, I think only with respect to background\nchecks, it's possible you could.\nI'm not aware of any prosecutions that look like this.\n### Justice Kavanaugh:\nIs that something the government would do?\n### Elizabeth B. Prelogar:\nI don't think the government would be likely to charge someone in that\nkind of situation.\nAnd it doesn't look anything like what was happening where the\nmanufacturers were themselves the sellers putting these products on\nthe market with explicit knowledge that it was being put into the hands\n### Justice Kavanaugh:\nOkay.\n### Elizabeth B. Prelogar:\nSo I guess the only other thing I would say is that we think that there is a\nlot of protection for manufacturers who are seeking to comply with the\nlaw in good faith.\nATF is not trying to hide the ball here. The point of the agency is not a\ngame of gotcha to try to criminally prosecute people.\nThere was a very serious public safety threat posed by the explosion in\nthe use of these gun -- these ghost guns in crimes, and so the whole\npoint of this regulation is simply to put the regulated industry on notice\nof how the statute applies in that discrete context and how it's always\napplied si nce the statute was enacted.\n### Justice Kavanaugh:\nAnd on that point, because you had a lot of classification letters that\nwere out there, this was to collect everything and put everyone, as you\nsay, on notice, adding a couple things, as you pointed out earlier,\ncorrect?\n### Elizabeth B. Prelogar:\nRight.\nAnd so I don't think that this is any vast expansion of the statute.\nWe just think this is ATF's long standing interpretation with the\n### Justice Kavanaugh:\nSome expansion. Some expansion.\n### Justice Kavanaugh:\nYeah.\n### Justice Kavanaugh:\nRight.\n### Elizabeth B. Prelogar:\nIt just changes the factors that are relevant under the statute when\nyou're conducting a \"readily\" analysis.\n### Justice Kavanaugh:\nOkay.\nThat's helpful.\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 19,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Barrett?",
+      "questions": []
+    },
+    {
+      "conversation_id": 20,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nI have a question about AR-15s.\nSo Judge Oldham expressed concern that because AR-15 receivers can\nbe readily converted into machine gun receivers, that this regulation on\nits face turns everyone who lawfully owns an AR-15 into a criminal.\n### Elizabeth B. Prelogar:\nThat is wrong.\nSo I want to be really clear about our interpretation of the statute.\nWe are not suggesting that a statutory reference to one thing includes\nall other separate and distinct things that might be readily converted\ninto the thing that's listed in the statute itself.\nSo the example we give in our reply brief is that a pair of pants is not\nregulated as a pair of shorts if you have a statute referring to shorts even\nthough the pants could be readily converted into shorts.\nThat's because pants are a distinct object in their own right and they\nhave a separate identity.\nAnd the rule itself incorporates this principle by requiring that the\nregulated object, before you even get to a \"readily\" analysis, has to be\nclearly identifiable as the unfinished component part of the regulated\nweapon.\nSo what that means is you would have to say this thing is a clearly\nunfinished component part o f a machine gun, a weapon that's designed\nto fire automatically more than one shot with a single function of the\ntrigger.\nBut you couldn't say that about an AR -15.\nThat is obviously something that's designed and intended to be used for\nsemi-automatic fire. And the fact that you might be able to undertake\ncertain drilling and machining operations to convert it into a machine\ngun doesn't mean that while it has this separate identity and is standing\nalone, it would be regulated as a machine gun.\nThe agency has never held otherwise. This again is the same\ninterpretation that the agency has had all along, and it has never\nsuggested that AR-15s, standing alone, are regulated machine guns.\n### Justice Barrett:\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 21,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Jackson?",
+      "questions": []
+    },
+    {
+      "conversation_id": 22,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nSo Justice Kagan talked about the problem of the agency potentially\ntaking over what is Congress's business, and I guess I'm worried about\nthe different concern, which is about the Court taking over what\nCongress may have intended for the agency to do in this situation.\nAnd so all of my questions -- the reason why I didn't really engage in\nthe other part of this is because all of my questions really for you stem\nfrom that concern.\nYou -- you've phrased the question presented in this case as whether\ncertain items, weapons, parts, and kits, or partially complete and\ndisassembled frames or receivers qualify as firearms within the\nmeaning of the statute.\nAnd I guess I'm concerned about this framing because it doesn't seem\nto account, in my view, for the actual claim that the challengers have\nmade here, which is that the ag ency has exceeded its statutory\nauthority.\nAnd so I'm trying to figure out how we're supposed to address what I\nthink is a distinct question about the scope of the agency's authority vis\nI mean, are we to conclude that an agency exceeds its statutory\nauthority whenever it fails to choose what we think is the best meaning\nof a statutory term? Is that how the -- the scope of the agency's\nauthority to promulgate a rule is supposed to be determined? We just\ncompare what the agency believes qualifies as a firearm with what we\nthink qualifies as a firearm, and if the agency has something in its\ndefinition that we wouldn't have put there, we say the agency has\nexceeded its authority? I think those seem not right to me as the way of\nfiguring out the question of exceeding the authority, and I think it can't\nbe assumed that the agency exceeds its authority whenever it interprets\na statutory term differently than we would such that all we have to do as\na part of this claim here today is just decide what we think a firearm is.\nCan you react to that?\n### Elizabeth B. Prelogar:\nSure.\nSo I think, as in any statutory interpretation case, the task of this Court\nis to determine what Congress intended and what it meant.\nAnd we think that we have clearly the best interpretation of the\nlanguage that Congress used, but the Court has said time and again that\nyou don't just look at text, you interpret that text in context.\n### Justice Jackson:\nRight.\n### Justice Jackson:\nbit, right? The term we are interpreting, I thought, was a category .\nCongress has said firearms, right, and frames and receivers, which it\ndefines, the firearms part of it, have to be treated in a certain way. And I\nthink, in order to implement this statute, the agency has to look at real -\nworld circumstances and determine what particular items fit into that\ncategory.\nI understood the delegation of this entire thing to an agency to be that\ntask. That's what the agency's supposed to be doing. We look at\nfirearm.\nWe look at the definition of the firearm, says the agency, and we look at\nthings in the world, and we say X, Y, Z, those are in that category.\nMy question is, when the challenge is X shouldn't have been in that\ncategory, does it exceed the agency's authority if the Court thinks, yeah,\nX shouldn't have been in that category? Just, you know -- I mean, the\nagency still has the authority, I think, and in Loper, Loper seemed to\nrecognize that Congress may have given the agency the authority to\nmake certain calls, right?\n### Justice Jackson:\nYes.\n### Elizabeth B. Prelogar:\nand some of these as-applied applications of the agency's\ndetermination of what fits within the definition.\n### Justice Jackson:\nOkay.\n### Elizabeth B. Prelogar:\nI do think that if the Court concluded that Congress, in drafting this\nstatute, had, for example, categorically precluded looking at time in\ndeciding whether something's readily convertible, then the agency\nwould be exceeding its authority because, of course, if Congress has said\n### Justice Jackson:\nRight.\n### Justice Jackson:\nRight.\n### Elizabeth B. Prelogar:\nWe are miles away from that kind of situation here because all of the\nfactors the agency listed on their face are consistent with the plain\nmeaning of what it is to readily prepare.\n### Justice Jackson:\nSo what you would have us do is not come up with our list of what items\nwe think should be in the firearm category, like we have to think about\nexactly each thing.\nIn this facial challenge, I think you're saying we need to do something\nmore like did the agency take into account the relevant factors for\nmaking the determination of what goes in this category?\n### Elizabeth B. Prelogar:\nThat's right, because you don't have any particular products in front of\nyou to examine in light of whether they would fit the definition or not.\nThe only relevant question in this case is the facial question of does this\nregulation conflict with anything in the Gun Control Act? And our\nanswer is no, we think that this follows from the plain text of the Gun\nControl Act and is consistent with judicial precedent interpreting that\nplain text.\nWith respect to any follow-on questions about particular products, that\ncould all be assessed as applied in light of their specific facts to make a\ndetermination about how the factors might cash out in an individual\ncase.\nBefore the front -line question of the agency's authority here, we think\neverything in the Final Rule is consistent with the statute Congress\nwrote.\n### Justice Jackson:\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 23,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nMr. Patterson.\n### Peter A. Patterson:\nMr. Chief Justice, and may it please the Court: This case turns on\ndecisions made by Congress in the Gun Control Act of 1968.\nFirst, Congress altered the common understanding of \"firearm\" to\ninclude other weapons that may readily be converted to firearms.\nSecond, in a departure from prior federal law, Congress decided to\nregulate only a single part of a firearm, the frame or receiver, and\nCongress did not alter the common understanding of a \"frame or\nreceiver.\" ATF has now exceeded its authority by operating outside of\nthe bounds set by Congress.\nOne, ATF has expanded the definition of \"frame or receiver\" to include\nitems that may readily be converted to a frame or receiver.\nAnd, two, ATF has expanded the definition of \"firearm\" to include\ncollections of parts that are not weapons and that do not include a frame\nor receiver.\nSome concern has been raised about circumvention, but, of course,\ncomplying with a statute is not circumventing it.\nAnd as this Court said in Abramski, which has already been referenced,\nCongress, in the Gun Control Act, did not seek to pursue its purposes of\ncontrolling access to firearms to the nth degree.\nAnd, notably, Congress did not regulate the secondary market for\nfirearms, and that secondary market is a much bigger source of firearms\nfor criminals than privately made firearms.\nThere also has been questions raised about the agency's prior practice.\nThere definitely has been a sea change by the agency here.\nThe agency projected that its rule would put 42 out of 43 unlicensed\nmanufacturers out of business.\nAnd what the agency said in the Syracuse litigation was they said: \"An\nunfinished frame or receiver does not meet the statutory definition of\n'firearm' simply because it can be designed to or can readily be\nconverted into a frame or receiver.\" That's the exact standard t hey've\nnow adopted. Instead, what they looked at was whether critical\nmachining operations had taken place.\nAnd, to be clear, we have no quarrel with that prior practice.\nWe have raised as alternatives, one, something has to be completely\nmachined, or, two, the critical machining operation test.\nAnd the -- the latter, we submit, is more consistent with the statutory\nlanguage and solves the machine gun problem because, if you say, in the\nmachine gun provision, a frame or receiver is also regulated, and if one\nhole is all that separates a semi-automatic receiver from a machine gun\nreceiver, it's hard to see how the \"readily\" standard would not also be\napplied there.\nI welcome the Court's questions.",
+      "questions": []
+    },
+    {
+      "conversation_id": 24,
+      "dialogue": "Justice Thomas\n### Peter A. Patterson:\nYes.\n### Justice Thomas:\nitem is capable or ready -- can readily become.\nAnd we've had much discussion here about \"readily\" this morning.\nIs that analysis or that approach -- does --does it make a difference as -\n- to your argument whether it is the 80 percent rule or the current\n\"readily become\" rule?\n### Peter A. Patterson:\nYes, I think it does and for at least three reasons.\nOne, we -- we submit it can't be \"readily\" because, when Congress\nwanted it to be \"readily,\" it put it in the statute in multiple\ncircumstances.\nTwo, it has a different practical impact, for example, in the machine gun\nframe example.\nSo, if it --if the standard is \"readily\" and the government gives as kind\nof the paradigmatic example of \"readily\" drilling one hole, well, if all\nyou have to do is drill one hole into a receiver to make it a machine gun\nreceiver, it's hard to see how that is not a machine gun receiver.\nAnd, three, the -- Congress said \"the frame or receiver.\" What Congress\ndid not include in this statute was parts that may be used to convert an\n### Peter A. Patterson:\nYes.\n### Peter A. Patterson:\nYes.\n### Justice Thomas:\nwhether it really matters.\n### Peter A. Patterson:\nYes, it does really matter.\nAnd just the 80 percent rule is kind of a colloquialism used in the\nindustry.\nWhat the governing standard was was called the critical machining\noperations test.\nAnd what the agency would do, based on what the definition of a frame\nor receiver is, the part that holds the essential firing and sealing\ncomponents of a firearm, would say: We're going to look at that part of\nthe firearm and see if critical machining operations have taken place.\nAnd then, as a crosscheck, there sometimes would be temporal\nconsiderations. This is what the agency said in the Syracuse litigation.\nTemporal considerations were tied to the degree of machining.\nIt was kind of like a lodestar crosscheck in a fees case.\nSo they would look at those temporal considerations.\nBut where the different -- where the difference would be made -- and\nwe can see this very clearly in the regulation that the AR-15 lowers, and\nthat is the same piece of metal can be considered a frame or receiver\ndepending on what is sold with it.\nUnder the old standard, you would look at the item itself, and that's\nwhat Congress did in the Act.\nThey said: Look at the item itself.\nIt did not say: Look at other things that may be used to convert that item\ninto a frame or receiver.\nAnd that's what the agency is now doing, for example, with looking at\nthe jigs because, really, what is being done is that jig is being regulated\nbecause the same piece of metal can either be a frame or receiver\ndepending on what is sold with it.",
+      "questions": []
+    },
+    {
+      "conversation_id": 25,
+      "dialogue": "Justice Jackson",
+      "questions": []
+    },
+    {
+      "conversation_id": 26,
+      "dialogue": "Chief Justice Roberts",
+      "questions": []
+    },
+    {
+      "conversation_id": 27,
+      "dialogue": "Justice Jackson\n### Peter A. Patterson:\n\"Readily convertible\" -- 63 is in the statute under part A.\n### Justice Jackson:\nOkay.\n### Peter A. Patterson:\nIt is not in the statute under part B.\nSo then you cannot --it would be very odd to say that, well, we're going\nto say \"readily convertible\" is a implicit in every term.\n### Justice Jackson:\nFor a frame and receiver.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 28,
+      "dialogue": "Justice Sotomayor",
+      "questions": []
+    },
+    {
+      "conversation_id": 29,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nBut does the 80 percent rule apply then to part A? I'm just trying to\nunderstand your answer to",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 30,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nwith respect to the 80\npercent rule.\n### Peter A. Patterson:\nYes.\nAnd, again, understanding that we're using 80 percent rule",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 31,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nYes.\nYes.\n### Peter A. Patterson:\nNo, that part -- applies to part B.\nThat is what the agency would look at to determine whether something\nhad become a frame or receiver.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 1/10",
+      "complexity_score": 1
+    },
+    {
+      "conversation_id": 32,
+      "dialogue": "Justice Sotomayor\n### Peter A. Patterson:\nYeah.\n### Justice Sotomayor:\nwhen something has become a finished product, you have to have a\nstandard to decide that.\nthat goes to manufacturing.\nThe SG is saying: Yes, that's just a silent way of saying, has the\nmanufacturing gone far enough to make this essentially a --a -- a\nframe or receiver? Can it be converted to be fully functional? That's\nwhat they're saying, that the two are doing exactly the same thing.\nYou prefer one because you want to sell frames without a serial number\nor -- or sell frames that you have to drill a hole in and say that's not\nregulated.\nThey're saying a hole is really not a critical component of the frame.\nEverything else is.\n### Justice Sotomayor:\nSo I --I -- I -- I'm having difficulty understanding, once you admit that\nsome sort of test is necessary, why this particular test exceeds their\n### Peter A. Patterson:\nYes.\n### Peter A. Patterson:\nUnderstood.\n### Justice Sotomayor:\nDo I have enough of a frame or receiver to call it a frame and receiver.\n### Peter A. Patterson:\nUnderstood.\nAnd to be clear, we provided the Court two alternatives.\nOne is that all of the machining operations have taken place.\nSo, if you were to say this was a sculptor, all the chiseling has been done,\neverything's been done, that this can now function as a frame or\nreceiver.\n### Justice Sotomayor:\ncompleted frame?\n### Peter A. Patterson:\nI --I think -- I don't think taking a tab off, if you could do it with your\n### Justice Sotomayor:\nAll right.\n### Justice Sotomayor:\nSo, if you have to drill a hole to attach it to something, that's not a\ncompleted frame?\n### Peter A. Patterson:\nWell, this is where the difference between the two alternatives that we\nhave given the Court comes in.\nUnder the first alternative, drilling a single hole would be what would\nmake it cross the line.\nAnd the government admits that sometimes drilling a single hole can be\nthe difference between a semi-automatic receiver and a machine gun\nreceiver.\nAnd a machine gun receiver is much more heavily regulated than a\nsemi-automatic receiver.\nSo the notion that just one hole separating something from another\nitem is somehow absurd is clearly not the case.\nBut the alternative we've given you is the critical machining operations\ntest, and that is different from the government's new test because, A,\nit's not conflicting with the statute by taking language from another\npart of the statute that's not there and putting it there and where the\ngovernment represented in the Syracuse litigation in 2021 we can't do\nthat.",
+      "questions": []
+    },
+    {
+      "conversation_id": 33,
+      "dialogue": "Justice Gorsuch\n### Peter A. Patterson:\nYes.",
+      "questions": []
+    },
+    {
+      "conversation_id": 34,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJust what would -- what is the purpose of selling a receiver without the\nholes drilled in it?\n### Peter A. Patterson:\nWell, the -- some individuals -- just like s ome individuals enjoy, like,\nworking on their car every weekend, some individuals want to construct\n### Chief Justice Roberts:\nWell, that would be --I'm sorry, go ahead.\n### Peter A. Patterson:\ndo that.\n### Chief Justice Roberts:\nWell, I mean, drilling a hole or two, I would think, doesn't give the same\nsort of reward that you get from working on your car on the weekends.\n### Peter A. Patterson:\nWell, I would encourage the Court to read the Vasquez brief.\nThis is not a easy thing necessarily to do and particularly the Press\nDemocrat article cited there, where the reporter engaged to show how\neasy this was and, in fact, showed that he couldn't actually do it.\nHe had to engage friends to help him complete this that were expert in\nfirearms.\nAnd the -- and even once you have a complete frame, it's not a trivial\nmatter to put that together.\nThere are small parts that have to be put in precise locations.\nAnd that reporter, he could not -- he couldn't put it together from the\ncompleted frame.\nSo it's not clear that it is a trivial -- it is clearly not a trivial proposition\nfor someone to do this.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 35,
+      "dialogue": "Justice Gorsuch",
+      "questions": []
+    },
+    {
+      "conversation_id": 36,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nunderstanding is, is that it's not terribly difficult for someone to do this,\nand it's certainly not terribly difficult to take the plastic piece out.\nThat's --is that part of the gunsmithing?\n### Peter A. Patterson:\nWell, the plastic rail -- the parts that are blocking the rails in the product\nthat's been highlighted, that has to be taken out.\nIt --it's recommended that you put it on a drill press vise and use a drill\npress with a specialized bit to take that away.\nAnd Polymer80 explicitly recommends against using against a -- using\na Dremel.\nThey say that could damage the product.\nAnd I know we don't have any particular product at issue here, but the\npoint is that with -- what Congress said is that we want to regulate the\nframe or receiver itself. And there's got to be some point, there's going\n### Peter A. Patterson:\nYes.\n### Peter A. Patterson:\nRight.\n### Chief Justice Roberts:\nthat gun, would he?\n### Peter A. Patterson:\nYou know, I --I don't know what that person would think, but I think he\nwould.\nIt's not a simple proposition.\nEven the individuals that the government cited that took 21 minutes to\nput something together wasn't counting the time for the person to\nacquire the tools, learn how to use the tools -- this person was a\nmechanic, so they knew how to do these things -- or the time to learn\nhow to m achine the object.\nThat person spent two hours watching instructional materials before\nstarting to put that item together.\nAnd even after that 21 minutes, the person had done it incorrectly and it\nneeded to be repaired.",
+      "questions": []
+    },
+    {
+      "conversation_id": 37,
+      "dialogue": "Justice Gorsuch\n### Peter A. Patterson:\nYes.\n### Peter A. Patterson:\nYes.\n### Justice Gorsuch:\nI -- I -- I -- I take that one position might be it has to be a complete\n### Justice Gorsuch:\nin (A).\n### Peter A. Patterson:\nRight.\n### Justice Gorsuch:\nAll right.\nI've got that argument.\nBut I think you've suggested that, no, we accept that there are\nincomplete frames or receivers that count.\nThis is indeed an artifact noun.\nAnd -- and, if that's true -- well, first of all, is that true?\n### Peter A. Patterson:\nWell, we've given our\n### Justice Gorsuch:\nDo you concede that?\n### Peter A. Patterson:\nOur primary argument is no, it's got to be complete, but we've given an\n### Justice Gorsuch:\nOkay.\n### Peter A. Patterson:\ncritical machining and not readily converted.\n### Justice Gorsuch:\nLet me --let me press on the first argument.\n### Peter A. Patterson:\nYes.\n### Justice Gorsuch:\nWhy wouldn't this be an artifact noun in this statute given (A), which\ndoes suggest incomplete things can count; (C), you know, mufflers and\nsilencers; (D), other destructive devices which don't have a traditional\nreceiver? I think the examples we've been given are umbrella guns and\npen guns and things like that.\nWhy wouldn't that be an indication that here, if not throughout the U.S.\nCode, Congress was using an artifact noun?\n### Peter A. Patterson:\nI would think the inference would be precisely the opposite because\nCongress put that language specifically into those neighboring statutes,\nwords like \"converted\" or words like \"collections of parts.\" So it would\nbe odd to say that in this particular place where Congress has taken\nspecial care to use that sort of language, when Congress wanted that\nlanguage to be applied to say, well, we're just going to infer that it also\napplies here, where Congress did not put that language.\nAnd I think it could -- again, as I've said, it could wreak havoc with the\nfirearm laws because there are a lot of things that can be readily\nconverted.\nA -- a traditional rifle can be converted to a short-barreled rifle in\nminutes with --with a hacksaw or by swapping in a shorter barrel.\nSo, if -- this concept, \"readily converted,\" Congress only put it into\nspecific places.\nAnd we can see in the machine gun provision Congress said \"readily\nrestored\" instead of \"readily converted.\" So we need to be very precise\nhere.\nAnd in -- and in terms of why we would pick critical machining\noperations instead of readily converted, if we're looking for evidence of\nmeaning, if we're not going to say it has to be completed, well, one\nevidence of meaning was what did ATF and the industry, working\ntogether over a period of years, arrive at? And what they arrived at was\nthis critical machining test because it does not pose these same\nproblems as readily converted would potentially with other provisions\nof the Code, and it also is more consistent with the statute by not\nimporting \"readily\" into a place where Congress chose not to put it.\n### Justice Gorsuch:\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 38,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nBut it doesn't appear in the statute.\nIt seems a little made up, right, the critical machining test? I mean, your\nand saying, okay, now it's a frame or receiver, but it wasn't before you\npulled the tape.\nBut the critical machining doesn't really come from the statute; it's just\nsort of a way of allowing for a de minimis exception, right?\n### Peter A. Patterson:\nWell, I wouldn't say that, Your Honor.\nAnd, first, we wouldn't -- even under our primary test, I think it's -- if\nit's a machine, so, you know, if you think of the sculptor when\neverything's been sculpted, if something is put on to protect it or\nsomething and it just has to be pulled off, I wouldn't call that\nmachining.\nSo I think it's -- once all the holes have been drilled, all the material has\nbeen removed that requires tools to remove, that would be our primary\ntest.\nBut then, under the secondary test, so it would come fr om the language\nof frame or receiver.\nAnd I think you would say, okay, this -- 75 is an artifact noun, but then\nwhat does that artifact noun mean? We have to still determine at what\npoint something is a frame or receiver.\nAnd we think the evidence of meaning of the agency and the others in\nthe industry who are very keenly interested in this question, working it\nout over a period of years and saying, okay, here is this test that we have\ncome up with, this critical machining test, it's much better attested",
+      "questions": []
+    },
+    {
+      "conversation_id": 39,
+      "dialogue": "Justice Jackson",
+      "questions": []
+    },
+    {
+      "conversation_id": 40,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nSo would yo u say that it's like the ordinary usage? Now everybody just\nunderstands based on long standing practice that this critical\nmachining test is the point at which the frame or receiver\n### Peter A. Patterson:\nCorrect.\nAnd it's not that we're deferring to that, but that's the best evidence we\nhave of what this means.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 41,
+      "dialogue": "Justice Alito\n### Justice Alito:\nIn -- in ordinary usage, an object that is created to perform a function\nmay still be called by the name that's attached to that object even if it is\nnot completely functional.\nIsn't that what this gets at?\n### Peter A. Patterson:\nI don't believe that this is what it gets at.\n### Justice Alito:\nWell, before you -- MR.\nPATTERSON: Oh.\nYes.\n### Peter A. Patterson:\nOkay.\n### Justice Alito:\nSuppose I see that my neighbor is restoring a classic car, and -- but he's\ntaken out the -- some critical parts, and then someone says, well, what\nis that? And I -- I might well say, well, that's a 1957 Thunderbird, even\nthough it -- you couldn't drive it and it would take some work to make it\ndo the thing that it was originally created to do.\nSo isn't that what --isn't that the essence of your backup argument?\nThe thing must still be such that one would call it a frame or receiver\neven if it is not fully ready to be functional as a -- as a frame or receiver\nat this time?\n### Peter A. Patterson:\nYes.\nYes.\nSo our primary argument is it would have to be, and so I think -- you\ncould think of the situation with the car and you ask your neighbor can I\nborrow your car, and you give him the car with the engine taken out,\nthey would probably say that's not a car.\nBut also the backup, yes, is that at some point, something is a car even if\n### Justice Alito:\nSo what exactly does this --does the critical manufacturing -- critical\nmachining test involve? What does that mean? Explain it to somebody\nwho -- you know, to a layperson.\n### Peter A. Patterson:\nYes.\nSo a frame or receiver is basically the part of a firearm that holds the\ncomponents that allow a firearm to function, so the firing mechanism,\nthe trigger and such, and the sealing component that makes sure that\nthe barrel is sealed off so that the round goes out of the barrel and the\nenergy from the explosion doesn't go elsewhere.\nSo what the critical machining operations test was is, okay, we're going\nto focus on the parts of the frame or receiver that either have the holes\ndrilled or material removed that are going to hold those parts, and we're\ngoing to see, have those operations been performed or been performed\nto some degree? And if they have, we're going to say that's a frame or\nreceiver.\nAnd what's important is that this solves the one hole in the AR-15 lower\nproblem because the critical machining operation for that machine gun\nreceiver would be drilling that final hole.\nSo, until that final hole is drilled or at least indexed, as the government\nhas indicated, that critical machining operation has not taken place.\nBut, if the question is \"readily,\" then it would be hard to see, well, how it\ncould be readily in this context and not readily in the machine gun\ncontext.",
+      "questions": []
+    },
+    {
+      "conversation_id": 42,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nSo you prevented the -- you presented the Court with the critical\nmachining alternative, and you say you have these two alternatives.\nThe agency has presented yet another way of going about this.\nDo you concede that under a facial challenge like the one that you've\nbrought, your task is actually to demonstrate that your alternatives are\nthe only permissible ones under the statute?\n### Peter A. Patterson:\nWell, I think it's -- under a rule of party presentation, we've presented\nthe Court with the alternatives that have occurred to anyone.\nSo I think these are the best alternatives that have occurred.\n### Justice Jackson:\nSo you see the question as what is the best alternative, and the Court is\njust supposed to say we have three options here, which one do we think\nthe best; the agency didn't pick the best, its rule is stricken?\n### Peter A. Patterson:\nWell -- well, I think we actually don't have that --I think our burden is\nto show that the agency's is wrong. Maybe we d on't have the right\ninterpretation, but if their interpretation is incorrect, then they're\nasking the wrong question.\n### Justice Jackson:\nBut by \"incorrect,\" you mean that they don't have the authority under\nthe statute to reach that, the -- it's -- it's inconsistent with the\nstatute?\n### Peter A. Patterson:\nCorrect.\nIf \"frame or receiver\" does not include items that may readily be\nconverted to frames or receivers, then this rule is beyond their\nauthority, regardless of what \"frame or receiver\" does mean.\nSo they've gone beyond their authority.\nAnd so, you know, we've prevent -- presented the Court with two\nalternatives that we think are better interpretations.\nBut the key point here is that the agency's interpretation is incorrect.\n### Justice Jackson:\nDo you believe that a weapon that has been disassembled -- a --a\nfirearm, a gun that was once fully operational, everyone would agree\nwas a firearm, it's disassembled, as sometimes happens, maybe even\nafter a crime, is that still a firearm or no, under your view?\n### Peter A. Patterson:\nYes.\n### Justice Jackson:\nOkay.\n### Peter A. Patterson:\nOh, then no.\n### Justice Jackson:\nIt's not.\n### Peter A. Patterson:\nIf you don't have the frame or receiver, then no, it's not a weapon.\n### Justice Jackson:\nOkay.\nSo all that matters really is (B), the frame or receiver?\n### Peter A. Patterson:\nWell, that is how the statute is structured.\nAnd part of that may be due to statutory history.\nSo before this statute, the definition was \"any weapon that is designed\nto expel a projectile by the action of an explosive in any part or parts of\n### Justice Jackson:\nWell, what's all that language doing in there if all that matters for the\npurpose of the definition is that it has a frame or receiver?\n### Peter A. Patterson:\nWell, I -- and -- and so what I was going to say, Your Honor, is that\nCongress was working from that background. And they said: Okay, we're\ngoing to alter the definition of (A) to include \"readily convertible\nweapons\"; and we were -- we're going to alter the definition of (B),\ninstead of including \"every part,\" to focus on a particular part, the\nframe or receiver.\nAnd it's the frame or receiver of any such weapon.\nSo it really could --so I think that explains, that's why it's structured\nthat way.\nIt's maybe not the most straightforwardly structured statute, but it\ncould be \"the frame or receiver of,\" and then insert (A), instead o f \"any\nsuch weapon.\" That's really how the statute is structured, a frame or",
+      "questions": []
+    },
+    {
+      "conversation_id": 43,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nI'm sorry, could you clarify for me what you mean? Assume that there's\nall the parts of a gun and -- a --a weapons kit with all the parts of the\ngun, but the receiver or the frame has a hole missing.\nSo that's the weapon parts kit.\n### Peter A. Patterson:\nRight.\nRight.\n### Peter A. Patterson:\nMm-hmm.\n### Peter A. Patterson:\nRight.\n### Justice Sotomayor:\ncovered under (A)?\n### Peter A. Patterson:\nI don't think -- I think whether it would be covered would turn on the\ninterpretation of (B).",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 44,
+      "dialogue": "Justice Jackson",
+      "questions": []
+    },
+    {
+      "conversation_id": 45,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nSo what you're -- you're taking out of (B) \"readily convertible,\" and\nalso taking it out of (A)?\n### Peter A. Patterson:\nNo, we're not taking it out of (A), because -- and it's because of what\n(A) was meant to cover.\nAnd that is the starter guns that practically were guns.\n### Justice Sotomayor:\nYou have no quarrel with the proposition that the agency can, within\nwhatever the statute limits it to do, to determine what makes a\ncompleted or nearly -- or --a -- a completed frame or receiver?\n### Peter A. Patterson:\nI'm not sure I understand the question.\nBut we have no quarrel, as the alternative with we've presented, with\nthe critical machining test and the hypothetical Your Honor presented\n### Justice Sotomayor:\nThank you, counsel.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 46,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nAnything further? Thank you, counsel. Rebuttal, General?\n### Elizabeth B. Prelogar:\nThank you.\nMr. Chief Justice, I want to begin with a question you asked about why\nmanufacturers would leave these holes undrilled. You said: What is the\npurpose? My friend responded that it's to create a kit that hobbyists can\nput together.\nI think that that's a questionable proposition given that if it only takes\n20 minutes, the hobbyist is probably not going to get his money's worth\nand won't actually have the experience of building a gun.\nBut I also think it's contradicted by the facts on the ground.\nBecause what the evidence shows is that these guns were being\npurchased and used in crime.\nThey were sold to be crime guns.\nThere was a 1,000 percent increase between 2017 and 2021 in the\nnumber of these guns that were recovered as part of criminal\ninvestigations.\nAnd it makes perfect sense, because the whole reason why you would\nwant to get your hands on one of these unserialized, untraceable\nfirearms is if you are a prohibited person or you want to use that gun in a\ncrime.\nAnd more fundamentally, if there is a market for these kits for\nhobbyists, they can be sold to hobbyists.\nYou just have to comply with the requirements of the Gun Control Act.\nSomeone who is lawfully allowed to possess a firearm and wants to build\nit can purchase that kit if they undergo a background check.\nAnd so if there is a market for these products, they can operate under\nthe statute.\nThe evidence shows that actually the market for ghost guns essentially\ncollapsed after this rule was permitted to go into effect, which I think\njust underscores what was evident all along: The reason why you want a\nghost gun is specifically because it's unserialized and can't be traced.\nOn the question of a frame or receiver,",
+      "questions": []
+    },
+    {
+      "conversation_id": 47,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nyou asked\nquestions about exactly what standard governs here.\nAnd I think it's helpful to break down the interpretive question into two\npoints. The first one is: This is an undefined term in the statute, does it\nrequire the weapon to be functional? We think the answer to that is no.\nIf you are missing a single hole, then you can clearly recognize that as an\nunfinished component part of a weapon, and it is readily convertible to\nfunction.\nAnd that fits within the plain dictionary definition of what a frame or\nreceiver is understood to be.\nNo different than a bicycle missing pedals or a tennis racket that is sold\nunstrung.\nWe have a picture of this on page 34 of our brief, what these frames and\nreceivers look like.\nAnd it's hard to know what else to call them because they look exactly\nlike the principal structural component of a gun.\nBut that just raises the follow-on question: Okay, if it doesn't have to be\nfunctional, exactly what standard should you use to measure when it is a\nframe or receiver regulated by the statute? And there are good reasons\nwhy ATF focused on whether it can be readily convertibl e. First, that's\nmost consistent with how Congress has approached this issue when it\nhas defined terms under the federal firearms laws. That's the standard\nthat Congress itself uses to mark the terrain of what products are\nregulated.\nSecond, there is a consistent agency practice here of applying that\n\"readily converted\" standard.\nMy friend, several times, tried to suggest that the 50-plus years of\nagency practice, instead, focused on whether it has reached a critical\nstage of manufacture.\nBut that's ignoring the actual elements cited in the classification\nletters.\nThey looked not just at what had been done to the gun, but what steps\nremained, how much time it would take to perform those functions,\nwhat equipment you would need to make that functional, what kind of\nskill you would need, and whether there are other parts.\nNone of those elements go to what has already been machined on that\nparticular frame or receiver.\nInstead, they are centrally relevant to whether it can be readily\nconverted to function, just as the agency has said all along.\nFor a third reason, that means that this is a standard that is familiar in\nthe law and familiar to industry.\nI think it's really notable here that we don't have the major gun\nmanufacturers suing us about this final rule. And the reason for that is\nbecause this \"readily converted\" standard is the one that has governed\ntheir conduct ever since the Gun Control Act was enacted.\nThat also means that there is a stable body of judicial precedent and\nagency practice to draw on here in further answering concerns about\nwhether particular types of products will be regulated.\nWhich I think Justice Kavanaugh also answered some of the concern\nabout how the regulated parties will know whether their conduct falls\nwithin the scope of the law.\nFinally, in thinking about Respondents' primary argument here, which\nis that a single undrilled hole is enough to exempt a product from\nregulation, I think the Court doesn't have to blind itself to the practical\nramifications of that rule.\nThe agency's interpretation reflected in this rule is the status quo.\nIt is how the law has been applied over 50 years.\nAnd if this Court now says that one undrilled hole is enough to exempt\nthese products from regulation, then that is going to be a sea change in\nhow the Gun Control Act is implemented.\nAt that point it can't serve out its function because all manufacturers\neverywhere could simply exempt their products from regulation\nthrough that simple expedient.\nAnd that means that going forward, all guns could become ghost guns.\nThis Court said 200 years ago in The Emily that you don't have to\ninterpret a statute to be self-defeating like that, if there is a plausible\nalternative construction.\nOur construction is not only plausible, it is the best reading of this\nstatute looking at text, context, purpose, and history.\nSo I would encourage the Court to say that and reverse the Fifth Circuit.",
+      "questions": []
+    },
+    {
+      "conversation_id": 48,
+      "dialogue": "Chief Justice Roberts\n\n### Chief Justice Roberts:\nThank you, General.\nCounsel, the case is submitted.",
+      "questions": []
+    }
+  ],
+  "generation_stats": {
+    "total_conversations": 48,
+    "conversations_with_questions": 9,
+    "conversations_without_questions": 39,
+    "processed_conversations": 48,
+    "questions_generated": 40,
+    "skipped_for_low_complexity": 8,
+    "coverage_rate": "18.8%",
+    "methodology": "Extract key phrases from justice statements and create multiple choice questions with extremely deceptive distractors"
+  },
+  "answer_distribution": {
+    "counts": {
+      "A": 9,
+      "B": 9,
+      "C": 12,
+      "D": 10
+    },
+    "percentages": {
+      "A": 22.5,
+      "B": 22.5,
+      "C": 30.0,
+      "D": 25.0
+    },
+    "total_questions": 40
+  }
+}

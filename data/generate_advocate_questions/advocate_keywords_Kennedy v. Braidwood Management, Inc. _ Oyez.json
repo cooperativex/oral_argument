@@ -1,0 +1,1449 @@
+{
+  "source_file": "Kennedy v. Braidwood Management, Inc. _ Oyez.md",
+  "background": "In 2010, Congress passed the Affordable Care Act (ACA), which requires private insurers to cover certain preventive-care services without cost sharing. Rather than defining these services directly, the ACA empowers three agencies within the Department of Health and Human Services to determine required services: the United States Preventive Services Task Force (Task Force), the Advisory Committee on Immunization Practices (ACIP), and the Health Resources and Services Administration (HRSA). The Task Force consists of sixteen volunteer experts serving four-year terms, ACIP has fifteen members selected by the HHS Secretary, and HRSA operates through offices and bureaus reporting to the HHS Secretary. Over the years, these agencies issued various preventive care recommendations, including ACIP’s 2007 recommendation for HPV vaccines, HRSA’s 2011 guidelines for contraceptive coverage, and the Task Force’s 2019 recommendation for HIV prevention drugs (PrEP). Four individuals and two Christian-based businesses in Texas challenged these requirements, arguing that mandatory coverage of these services violated their religious beliefs by making them “complicit in facilitating homosexual behavior, drug use, and sexual activity outside of marriage between one man and one woman.” The plaintiffs filed suit in 2020 against the federal government and various department secretaries, primarily arguing that the structure of these agencies violated the Appointments Clause of the Constitution. The district court ruled in their favor regarding the Task Force but rejected their challenges to ACIP and HRSA, and both parties appealed. The U.S. Court of Appeals for the Fifth Circuit held that the Task Force’s structure violated the Appointments Clause and upheld the injunction against enforcing its recommendations, but reversed the district court’s universal remedies and remanded for further consideration of whether HHS properly ratified ACIP and HRSA’s recommendations.",
+  "conversations": [
+    {
+      "conversation_id": 1,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nBefore we get to the constitutional problems, what's the statutory\nauthority to appoint the Task Force?\n### Hashim M. Mooppan:\nSo there are two sources of authority, Your Honor.\nThe first is that under the Reorganization Act, the Secretary has the\npower to exercise all functions and duties of the director, and the\ndirector, under 299, has the authority to convene the Task Force.\n### Justice Thomas:\nIsn't that an odd delegation? Normally, it would be the superior or the\nprincipal officer who would have the authority who would delegate it to\nsubordinates.\n### Hashim M. Mooppan:\nWell, it's not just a delegation, Your Honor.\nThe Reorganization Act was in place when 299 was enacted.\nAnd so, when Congress passed 299 and said that the director could\nconvene the Task Force, that meant that the Secretary could convene\nthe Task Force.\n### Justice Thomas:\nSo what --so the word --you're using the word \"convene?\"\n### Hashim M. Mooppan:\nYes, Your Honor.\n### Justice Thomas:\nWell, I think that normally connotes just calling a meeting or\nsomething.\nThe court was convened this morning.\nThe Chief didn't appoint any of us.\n### Hashim M. Mooppan:\nSo I agree, Your Honor, that \"convene\" doesn't necessarily connote\nappointment, but there's no other language in the statute that specifies\nwho will appoint these members, and in that -- in light of that,\n\"convene\" is most naturally read to mean convene and select the\npeople who will serve on -- on the board.\nAnd that's clearly true before nine -- before the ACA.\nBefore the ACA was enacted, it's clear that the Secretary and the\ndirector had the power to convene these -- to appoint these individuals.\n### Justice Thomas:\nBut appointment would not be an issue if they had no authority to\nrequire anything of --of others.\nIt's just advisory.\n### Hashim M. Mooppan:\nWell, not as a constitutional matter but as a statutory matter, and I took\nyour question to be, where is the statutory authority to do this? Before\nthe ACA, it had to be the case that the Secretary or the director had the\nauthority.\nIt would not be constitutional for the president to select and the Senate\nto confirm these individuals before the ACA because, before the ACA,\neveryone agrees they weren't officers.\nAnd the Senate has no constitutional power to have any role in the\nselection of a non-officer. So the only way to construe the statute\nbefore the ACA is that the Secretary and the director had the ability, and\nnothing about the ACA changed that.\n### Justice Thomas:\nCan you give me an example of another body that's selected this way\njust with using the operative term \"convene\" and that had been and\nthat the authority comes from --through a subordinate to the\nprincipal?\n### Hashim M. Mooppan:\nSo not off the top of my head, Your Honor, but, again, the -- as a\n### Justice Thomas:\nYeah.\n### Hashim M. Mooppan:\nanywhere in the code that says who will pick these people.\nSo the most natural way of reading a provision that says he shall\nconvene the Task Force is to also select the people who will serve on the\nTask Force.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"So there are two sources of authority, Your Honor.\nThe first is that under the Reorganization Act, the Secretary has the\n____________________________________________________________, and the\ndirector, under 299, has the authority to convene the Task Force.\"",
+          "options": {
+            "A": "authority to perform all responsibilities and obligations of the director",
+            "B": "power to execute all functions and responsibilities of the director",
+            "C": "ability to undertake all duties and tasks of the director",
+            "D": "power to exercise all functions and duties of the director"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "power to exercise all functions and duties of the director",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 10,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 1,
+              "speaker": "Hashim M. Mooppan",
+              "original_statement": "So there are two sources of authority, Your Honor.\nThe first is that under the Reorganization Act, the Secretary has the\npower to exercise all functions and duties of the director, and the\ndirector, under 299, has the authority to convene the Task Force."
+            },
+            "explanation": "This phrase pertains to the delegation of authority under statutory law, which is essential for understanding the hierarchy and responsibilities within governmental structures."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, not as a constitutional matter but as a statutory matter, and I took\nyour question to be, where is the ____________ to do this? Before\nthe ACA, it had to be the case that the Secretary or the director had the\nauthority.\nIt would not be constitutional for the president to select and the Senate\nto confirm these individuals before the ACA because, before the ACA,\neveryone agrees they weren't officers.\nAnd the Senate has no constitutional power to have any role in the\nselection of a non-officer. So the only way to construe the statute\nbefore the ACA is that the Secretary and the director had the ability, and\nnothing about the ACA changed that.\"",
+          "options": {
+            "A": "statutory power",
+            "B": "statutory control",
+            "C": "statutory mandate",
+            "D": "statutory authority"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "statutory authority",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 4,
+              "speaker": "Hashim M. Mooppan",
+              "original_statement": "Well, not as a constitutional matter but as a statutory matter, and I took\nyour question to be, where is the statutory authority to do this? Before\nthe ACA, it had to be the case that the Secretary or the director had the\nauthority.\nIt would not be constitutional for the president to select and the Senate\nto confirm these individuals before the ACA because, before the ACA,\neveryone agrees they weren't officers.\nAnd the Senate has no constitutional power to have any role in the\nselection of a non-officer. So the only way to construe the statute\nbefore the ACA is that the Secretary and the director had the ability, and\nnothing about the ACA changed that."
+            },
+            "explanation": "This phrase highlights the necessity of understanding the legal basis for actions taken under statutory law, which is crucial for interpreting the scope of authority granted by legislation."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, not as a constitutional matter but as a statutory matter, and I took\nyour question to be, where is the statutory authority to do this? Before\nthe ACA, it had to be the case that the Secretary or the director had the\nauthority.\nIt would not be constitutional for the president to select and the Senate\nto confirm these individuals before the ACA because, before the ACA,\neveryone agrees they weren't officers.\nAnd the Senate has no ____________ to have any role in the\nselection of a non-officer. So the only way to construe the statute\nbefore the ACA is that the Secretary and the director had the ability, and\nnothing about the ACA changed that.\"",
+          "options": {
+            "A": "federal mandate",
+            "B": "statutory power",
+            "C": "constitutional power",
+            "D": "constitutional authority"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "constitutional power",
+            "category": "constitutional",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 4,
+              "speaker": "Hashim M. Mooppan",
+              "original_statement": "Well, not as a constitutional matter but as a statutory matter, and I took\nyour question to be, where is the statutory authority to do this? Before\nthe ACA, it had to be the case that the Secretary or the director had the\nauthority.\nIt would not be constitutional for the president to select and the Senate\nto confirm these individuals before the ACA because, before the ACA,\neveryone agrees they weren't officers.\nAnd the Senate has no constitutional power to have any role in the\nselection of a non-officer. So the only way to construe the statute\nbefore the ACA is that the Secretary and the director had the ability, and\nnothing about the ACA changed that."
+            },
+            "explanation": "This phrase requires an understanding of the separation of powers and the limitations placed on different branches of government, particularly regarding appointments and confirmations."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, not as a constitutional matter but as a statutory matter, and I took\nyour question to be, where is the statutory authority to do this? Before\nthe ACA, it had to be the case that the Secretary or the director had the\nauthority.\nIt would not be constitutional for the president to select and the Senate\nto confirm these individuals before the ACA because, before the ACA,\neveryone agrees they weren't officers.\nAnd the Senate has no constitutional power to have any role in the\nselection of a ______. So the only way to construe the statute\nbefore the ACA is that the Secretary and the director had the ability, and\nnothing about the ACA changed that.\"",
+          "options": {
+            "A": "non-officer",
+            "B": "sub-officer",
+            "C": "non-agent",
+            "D": "co-officer"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "non-officer",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 1,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 4,
+              "speaker": "Hashim M. Mooppan",
+              "original_statement": "Well, not as a constitutional matter but as a statutory matter, and I took\nyour question to be, where is the statutory authority to do this? Before\nthe ACA, it had to be the case that the Secretary or the director had the\nauthority.\nIt would not be constitutional for the president to select and the Senate\nto confirm these individuals before the ACA because, before the ACA,\neveryone agrees they weren't officers.\nAnd the Senate has no constitutional power to have any role in the\nselection of a non-officer. So the only way to construe the statute\nbefore the ACA is that the Secretary and the director had the ability, and\nnothing about the ACA changed that."
+            },
+            "explanation": "This term necessitates a nuanced understanding of the distinction between officers and non-officers in the context of constitutional law and statutory interpretation."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, not as a constitutional matter but as a statutory matter, and I took\nyour question to be, where is the statutory authority to do this? Before\nthe ACA, it had to be the case that the Secretary or the director had the\nauthority.\nIt would not be constitutional for the president to select and the Senate\nto confirm these individuals before the ACA because, before the ACA,\neveryone agrees they weren't officers.\nAnd the Senate has no constitutional power to have any role in the\nselection of a non-officer. So the only way to __________________\nbefore the ACA is that the Secretary and the director had the ability, and\nnothing about the ACA changed that.\"",
+          "options": {
+            "A": "enforce the statute",
+            "B": "apply the statute",
+            "C": "construe the statute",
+            "D": "interpret the statute"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "construe the statute",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 1,
+              "statement_index": 4,
+              "speaker": "Hashim M. Mooppan",
+              "original_statement": "Well, not as a constitutional matter but as a statutory matter, and I took\nyour question to be, where is the statutory authority to do this? Before\nthe ACA, it had to be the case that the Secretary or the director had the\nauthority.\nIt would not be constitutional for the president to select and the Senate\nto confirm these individuals before the ACA because, before the ACA,\neveryone agrees they weren't officers.\nAnd the Senate has no constitutional power to have any role in the\nselection of a non-officer. So the only way to construe the statute\nbefore the ACA is that the Secretary and the director had the ability, and\nnothing about the ACA changed that."
+            },
+            "explanation": "This phrase emphasizes the importance of statutory interpretation and the legal principles involved in understanding legislative intent and application."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 2,
+      "dialogue": "Justice Sotomayor",
+      "questions": []
+    },
+    {
+      "conversation_id": 3,
+      "dialogue": "Chief Justice Roberts",
+      "questions": []
+    },
+    {
+      "conversation_id": 4,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nI'm sorry.",
+      "questions": []
+    },
+    {
+      "conversation_id": 5,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nWhat the Task Force does is fairly technical medically and scientifically.\nI mean, is the Secretary really supposed to the -- be in the position of\ngoing down the line and saying, yeah, I mean, I know you think we\nshould use this particular thing with this atomic structure and all that\nkind of stuff, but I've got a different view on that? Is that -- is that a\npertinent consideration in deciding whether they're adequately\nsupervised?\n### Hashim M. Mooppan:\nWell, Your Honor, the Secretary clearly has the authority to do so.\nWhether he chooses to exercise that authority or whether he instead\nchooses to defer to the expert judgment of the -- of the Task Force isn't\nrelevant to the constitutional question. As a constitutional matter and\nas a statutory matter, he has the authority to review their\nrecommendations, and that's the critical point for here.\nIn addition, though, to take a step back, it's not just that he has the\npower to review their recommendations.\nHe also has at-will removal power, which this Court has repeatedly said\nis a critical means of control.\nSo, even before you get to the question of, if they issue a\nrecommendation that they may or may not disagree with, is it going to\nget into the technical science of it, his mere ability to have at-will\nremoval power is a powerful means of control.\nAnd that's what this Court has recognized in cases like Edmond and Free\nEnterprise Fund.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Well, Your Honor, the Secretary clearly has the authority to do so.\nWhether he chooses to exercise that authority or whether he instead\nchooses to defer to the expert judgment of the -- of the Task Force isn't\nrelevant to the constitutional question. As a constitutional matter and\nas a statutory matter, he has the authority to review their\nrecommendations, and that's the critical point for here.\nIn addition, though, to take a step back, it's not just that he has the\npower to review their recommendations.\nHe also has at-will removal power, which this Court has repeatedly said\nis a ________________________.\nSo, even before you get to the question of, if they issue a\nrecommendation that they may or may not disagree with, is it going to\nget into the technical science of it, his mere ability to have at-will\nremoval power is a powerful means of control.\nAnd that's what this Court has recognized in cases like Edmond and Free\nEnterprise Fund.\"",
+          "options": {
+            "A": "essential methods of governance",
+            "B": "critical tools of oversight",
+            "C": "fundamental means of authority",
+            "D": "critical means of control"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "critical means of control",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 5,
+              "statement_index": 1,
+              "speaker": "Hashim M. Mooppan",
+              "original_statement": "Well, Your Honor, the Secretary clearly has the authority to do so.\nWhether he chooses to exercise that authority or whether he instead\nchooses to defer to the expert judgment of the -- of the Task Force isn't\nrelevant to the constitutional question. As a constitutional matter and\nas a statutory matter, he has the authority to review their\nrecommendations, and that's the critical point for here.\nIn addition, though, to take a step back, it's not just that he has the\npower to review their recommendations.\nHe also has at-will removal power, which this Court has repeatedly said\nis a critical means of control.\nSo, even before you get to the question of, if they issue a\nrecommendation that they may or may not disagree with, is it going to\nget into the technical science of it, his mere ability to have at-will\nremoval power is a powerful means of control.\nAnd that's what this Court has recognized in cases like Edmond and Free\nEnterprise Fund."
+            },
+            "explanation": "This phrase emphasizes the importance of certain powers, such as removal authority, in maintaining oversight and influence over subordinate entities, which is a key aspect of administrative law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, Your Honor, the Secretary clearly has the authority to do so.\nWhether he chooses to exercise that authority or whether he instead\nchooses to defer to the expert judgment of the -- of the Task Force isn't\nrelevant to the ____________. As a constitutional matter and\nas a statutory matter, he has the authority to review their\nrecommendations, and that's the critical point for here.\nIn addition, though, to take a step back, it's not just that he has the\npower to review their recommendations.\nHe also has at-will removal power, which this Court has repeatedly said\nis a critical means of control.\nSo, even before you get to the question of, if they issue a\nrecommendation that they may or may not disagree with, is it going to\nget into the technical science of it, his mere ability to have at-will\nremoval power is a powerful means of control.\nAnd that's what this Court has recognized in cases like Edmond and Free\nEnterprise Fund.\"",
+          "options": {
+            "A": "constitutional standard",
+            "B": "constitutional matter",
+            "C": "constitutional question",
+            "D": "constitutional issue"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "constitutional question",
+            "category": "constitutional",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 5,
+              "statement_index": 1,
+              "speaker": "Hashim M. Mooppan",
+              "original_statement": "Well, Your Honor, the Secretary clearly has the authority to do so.\nWhether he chooses to exercise that authority or whether he instead\nchooses to defer to the expert judgment of the -- of the Task Force isn't\nrelevant to the constitutional question. As a constitutional matter and\nas a statutory matter, he has the authority to review their\nrecommendations, and that's the critical point for here.\nIn addition, though, to take a step back, it's not just that he has the\npower to review their recommendations.\nHe also has at-will removal power, which this Court has repeatedly said\nis a critical means of control.\nSo, even before you get to the question of, if they issue a\nrecommendation that they may or may not disagree with, is it going to\nget into the technical science of it, his mere ability to have at-will\nremoval power is a powerful means of control.\nAnd that's what this Court has recognized in cases like Edmond and Free\nEnterprise Fund."
+            },
+            "explanation": "This phrase refers to issues that involve the interpretation of constitutional provisions, requiring a deep understanding of constitutional law and its implications on statutory authority."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, Your Honor, the Secretary clearly has the authority to do so.\nWhether he chooses to exercise that authority or whether he instead\nchooses to defer to the expert judgment of the -- of the Task Force isn't\nrelevant to the constitutional question. As a constitutional matter and\nas a statutory matter, he has the authority to review their\nrecommendations, and that's the critical point for here.\nIn addition, though, to take a step back, it's not just that he has the\npower to __________________.\nHe also has at-will removal power, which this Court has repeatedly said\nis a critical means of control.\nSo, even before you get to the question of, if they issue a\nrecommendation that they may or may not disagree with, is it going to\nget into the technical science of it, his mere ability to have at-will\nremoval power is a powerful means of control.\nAnd that's what this Court has recognized in cases like Edmond and Free\nEnterprise Fund.\"",
+          "options": {
+            "A": "evaluate their recommendations",
+            "B": "oversee their recommendations",
+            "C": "review their recommendations",
+            "D": "approve their recommendations"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "review their recommendations",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 5,
+              "statement_index": 1,
+              "speaker": "Hashim M. Mooppan",
+              "original_statement": "Well, Your Honor, the Secretary clearly has the authority to do so.\nWhether he chooses to exercise that authority or whether he instead\nchooses to defer to the expert judgment of the -- of the Task Force isn't\nrelevant to the constitutional question. As a constitutional matter and\nas a statutory matter, he has the authority to review their\nrecommendations, and that's the critical point for here.\nIn addition, though, to take a step back, it's not just that he has the\npower to review their recommendations.\nHe also has at-will removal power, which this Court has repeatedly said\nis a critical means of control.\nSo, even before you get to the question of, if they issue a\nrecommendation that they may or may not disagree with, is it going to\nget into the technical science of it, his mere ability to have at-will\nremoval power is a powerful means of control.\nAnd that's what this Court has recognized in cases like Edmond and Free\nEnterprise Fund."
+            },
+            "explanation": "This phrase pertains to the statutory authority of a supervising official to evaluate and potentially alter the decisions made by subordinate bodies, which is essential for understanding the dynamics of administrative oversight."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 6,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nMr. Mooppan, on that score, the removal-at-will argument that the\ngovernment makes hinges a lot on the assumption that the removal\npower comes with the appointment power and that because the\nSecretary has the power to appoint, he, therefore, has the power to\nremove.\nThe Fifth Circuit didn't address the antecedent question whether the\nSecretary, indeed, has the power to appoint.\nWhat do we do about that? Should we -- should we remand the case to -\n-to assess that in the first instance? Justice --as",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Justice Gorsuch\n### Justice Gorsuch:\nMr. Mooppan, on that score, the ____________ that the\ngovernment makes hinges a lot on the assumption that the removal\npower comes with the appointment power and that because the\nSecretary has the power to appoint, he, therefore, has the power to\nremove.\nThe Fifth Circuit didn't address the antecedent question whether the\nSecretary, indeed, has the power to appoint.\nWhat do we do about that? Should we -- should we remand the case to -\n-to assess t\"",
+          "options": {
+            "A": "removal-for-cause standard",
+            "B": "removal-without-justification rule",
+            "C": "removal-at-will argument",
+            "D": "removal-at-pleasure doctrine"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "removal-at-will argument",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 6,
+              "statement_index": 1,
+              "speaker": "Unknown",
+              "original_statement": "Justice Gorsuch\n### Justice Gorsuch:\nMr. Mooppan, on that score, the removal-at-will argument that the\ngovernment makes hinges a lot on the assumption that the removal\npower comes with the appointment power and that because the\nSecretary has the power to appoint, he, therefore, has the power to\nremove.\nThe Fifth Circuit didn't address the antecedent question whether the\nSecretary, indeed, has the power to appoint.\nWhat do we do about that? Should we -- should we remand the case to -\n-to assess t"
+            },
+            "explanation": "This phrase refers to the legal principle that allows an appointing authority to remove an officer without cause, which is significant in discussions of executive power and accountability."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Justice Gorsuch\n### Justice Gorsuch:\nMr. Mooppan, on that score, the removal-at-will argument that the\ngovernment makes hinges a lot on the assumption that the removal\npower comes with the appointment power and that because the\nSecretary has the power to appoint, he, therefore, has the power to\nremove.\nThe Fifth Circuit didn't address the ____________ whether the\nSecretary, indeed, has the power to appoint.\nWhat do we do about that? Should we -- should we remand the case to -\n-to assess t\"",
+          "options": {
+            "A": "antecedent question",
+            "B": "subsequent issue",
+            "C": "consequential query",
+            "D": "preliminary inquiry"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "antecedent question",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 6,
+              "statement_index": 1,
+              "speaker": "Unknown",
+              "original_statement": "Justice Gorsuch\n### Justice Gorsuch:\nMr. Mooppan, on that score, the removal-at-will argument that the\ngovernment makes hinges a lot on the assumption that the removal\npower comes with the appointment power and that because the\nSecretary has the power to appoint, he, therefore, has the power to\nremove.\nThe Fifth Circuit didn't address the antecedent question whether the\nSecretary, indeed, has the power to appoint.\nWhat do we do about that? Should we -- should we remand the case to -\n-to assess t"
+            },
+            "explanation": "This term refers to a preliminary issue that must be resolved before addressing the main legal question, highlighting the importance of procedural hierarchy in legal analysis."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Justice Gorsuch\n### Justice Gorsuch:\nMr. Mooppan, on that score, the removal-at-will argument that the\ngovernment makes hinges a lot on the assumption that the removal\npower comes with the appointment power and that because the\nSecretary has the power to appoint, he, therefore, has the power to\nremove.\nThe ________________________ the antecedent question whether the\nSecretary, indeed, has the power to appoint.\nWhat do we do about that? Should we -- should we remand the case to -\n-to assess t\"",
+          "options": {
+            "A": "Fifth Circuit rarely addressed",
+            "B": "Fifth Circuit did address",
+            "C": "Fifth Circuit didn't address",
+            "D": "Fifth Circuit couldn't address"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "Fifth Circuit didn't address",
+            "category": "case_law",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 6,
+              "statement_index": 1,
+              "speaker": "Unknown",
+              "original_statement": "Justice Gorsuch\n### Justice Gorsuch:\nMr. Mooppan, on that score, the removal-at-will argument that the\ngovernment makes hinges a lot on the assumption that the removal\npower comes with the appointment power and that because the\nSecretary has the power to appoint, he, therefore, has the power to\nremove.\nThe Fifth Circuit didn't address the antecedent question whether the\nSecretary, indeed, has the power to appoint.\nWhat do we do about that? Should we -- should we remand the case to -\n-to assess t"
+            },
+            "explanation": "This phrase indicates a procedural gap in appellate review, which is critical for understanding the implications of judicial decisions and the need for remand in legal proceedings."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 7,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\n's\nquestions point out, there seems to be some -- some reason to question\nthat.\n### Hashim M. Mooppan:\nWell, so I guess what I would say is the following: There is certainly no\nremoval restriction in the statute, so whoever it is who has the ability to",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 8,
+      "dialogue": "Justice Gorsuch\n### Hashim M. Mooppan:\nRight.\n### Hashim M. Mooppan:\nSo I take the point, Your Honor, but in terms of the question of is there\nremoval, at-will removal, there is at -will removal.\n### Justice Gorsuch:\nI understand that. But -- but you say the Secretary has that at-will\nremoval power.\nThat's a pretty critical premise of your argument, and it's an untested\n### Justice Gorsuch:\nAnd -- and, therefore, would you object to a remand for that,\nconsideration of that question?\n### Hashim M. Mooppan:\nWell, we think it is fully briefed here, and we think the Court is capable of\n### Justice Gorsuch:\nWell, you also cite Cutter and tell us, you know, we're not normally a\n### Hashim M. Mooppan:\nSo I won't object if this Court doesn't want to address that question, but\nwe do think the answer is quite clear.\nFor the reasons in my -- with my colloquy with",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 4/10",
+      "complexity_score": 4
+    },
+    {
+      "conversation_id": 9,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\n, I don't\nthink the statute could plausibly be construed to vest the appointment\nin the president and confer -- confirmation by Senate.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 10,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nI agree with that, but whether it appoint -- whether it -- whether it\nvests it in the director as opposed to the Secretary is --is an interesting\nquestion.\n### Hashim M. Mooppan:\nWell, but that's a very easy question because, if you agree with me it's at\n### Justice Gorsuch:\nI understand you think it's easy.\nCounsel always thinks it's easy.\n(Laughter.)\n### Justice Gorsuch:\nhe probably thinks it's easy too, just the other way.\n### Justice Gorsuch:\nAnd --and -- and no court's passed on the question.\nAnd so, again, I ask you: Do you have any objection if we were to remand\n### Hashim M. Mooppan:\nI -- we don't.\nBut, to be fair, I don't even hear Mr. Mitchell to disagree with what I'm\nabout to say, which is that the Reorganization Act of 1966 clearly vests\nthe Secretary with all the powers of the director.\nSo, if the director has the power, the Secretary has the power.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 11,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nAnd that includes, doesn't it, subdivision (b)(2), which transfers to the\nSecretary the power to make such provisions as she shall deem\nappropriate, authorizing the performance of any of the functions of the\ndirector?\n### Hashim M. Mooppan:\nThat's correct, Your Honor.\n### Justice Sotomayor:\nAnd so, if they have to convene something and no one else is appointing\nthem, then the director appoints them, right?\n### Hashim M. Mooppan:\nThat's right.\n### Justice Sotomayor:\nAnd removes them?\n### Hashim M. Mooppan:\nCorrect.\nAnd Mr. Mitchell's point about the Reorganization Act, what he focused\non is whether the Task Force is an advisory board.\nBut that's irrelevant to the question we're talking about right now\nbecause that's a question about whether the Task Force powers have\nbeen vested in the Secretary.\n### Justice Sotomayor:\nThat might be said -- be true of even us.\nWe're given law clerks to help us on some of the things we don't know\nanything about.\nThat's the nature of an agency, isn't it, that they hire experts to help the\ndecisionmakers come to a conclusion?\n### Hashim M. Mooppan:\nRight.\nThat was the essential reasoning and holding of Free Enterprise Fund, in\n### Justice Sotomayor:\nAll right.\n### Hashim M. Mooppan:\nSo, yes, you have bureaucrats who contribute their expertise, but,\nultimately, the final decision power is in a politically accountable head\nof an agency.\n### Justice Sotomayor:\nAnd -- and that word \"independent\" could mean that people on the\nTask Force have an obligation to give their independent opinion, but\nthat doesn't mean that the Secretary has to accept it, correct?\n### Hashim M. Mooppan:\nThat's exactly right. And I would point this Court to how this Court has\ndescribed administrative law judges in -- in Butz versus Economou.",
+      "questions": []
+    },
+    {
+      "conversation_id": 12,
+      "dialogue": "Justice Alito\n### Justice Alito:\nAnd that's an -- an incredibly strained interpretation of the term\n\"independent.\" Are you independent of the president?\n### Hashim M. Mooppan:\nNo, Your Honor.\n### Justice Alito:\nI mean, he's -- he is counting on you to exercise a degree of\nindependent judgment.\nBut, if somebody's removable at will, that person is not in any ordinary\nsense of the term \"independent.\"\n### Hashim M. Mooppan:\nWell, with all due respect, Your Honor, in Your Honor's opinion for the\nCourt in Collins, this Court held that there are many statutes that use\nthe phrase \"independent\" to describe an entity that is nevertheless not\nsubject to a removal.\n### Justice Alito:\nAll right.\nWell, maybe that's a little bit unfair.\nBut, I mean --maybe I was wrong in Collins.\nBut explain to me -- (Laughter.)\nYou know, explain to me how somebody can be independent and yet\nsubject to removable on the whim of the president.\n### Hashim M. Mooppan:\nSure.\nAs -- as Justice Sotomayor said, it's independent in the sense that they\nhave both the duty and the power to exercise their own best judgment.\nThat doesn't mean that once they've done so, they're free from\naccountability.\nIt just means that when they're making the decision, they have an\nobligation to exercise their best scientific judgment.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Sure.\nAs -- as Justice Sotomayor said, it's independent in the sense that they\nhave both the duty and the power to ______________________________.\nThat doesn't mean that once they've done so, they're free from\naccountability.\nIt just means that when they're making the decision, they have an\nobligation to exercise their best scientific judgment.\"",
+          "options": {
+            "A": "exercise the Task Force's discretion",
+            "B": "exercise the Secretary's own judgment",
+            "C": "exercise their own best judgment",
+            "D": "exercise their independent best judgment"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "exercise their own best judgment",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 12,
+              "statement_index": 2,
+              "speaker": "Hashim M. Mooppan",
+              "original_statement": "Sure.\nAs -- as Justice Sotomayor said, it's independent in the sense that they\nhave both the duty and the power to exercise their own best judgment.\nThat doesn't mean that once they've done so, they're free from\naccountability.\nIt just means that when they're making the decision, they have an\nobligation to exercise their best scientific judgment."
+            },
+            "explanation": "This phrase underscores the principle of discretion in administrative decision-making, which is critical for understanding the balance between independence and accountability in regulatory contexts."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 13,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nIs -- go ahead.",
+      "questions": []
+    },
+    {
+      "conversation_id": 14,
+      "dialogue": "Justice Alito\n### Justice Alito:\nWell, let's say they are removable at will, okay, and \"independent\"\nmeans something.\nIt's like a precatory directive.\nStill, if the Task Force rates something A or B, then that's it.\nAnd you try to get -- and -- and even if the members are removable at\nwill, the only way you can get around that is through a really -- some\nreally jerry-built arguments.\n### Hashim M. Mooppan:\nI don't think so, Your Honor.\nLet me give you the most straightforward of them.\nUnder the statute itself, no recommendation takes effect until the\nSecretary sets the minimum interval period.\n### Justice Alito:\nRight, right.\n### Hashim M. Mooppan:\nAnd the minimum interval period is at least one year.\n### Justice Alito:\nYeah.\n### Hashim M. Mooppan:\nSo one year is more than adequate time for the Secretary, if he doesn't\nagree with the recommendation, to direct the board to rescind it, the\nforce to rescind it and, if the Task Force doesn't rescind it, to replace\nthem with people who will.\nThat doesn't seem very jerry-built to me. In addition to that, the\nSecretary also has the power to create a pre-approval requirement.\nUnder 300gg-92, he has rulemaking power to implement the statute,\nand he can say: Before you issue any recommendations, submit it to me\nfor my approval, and if and only if I approve it can you issue it in the first\nplace.\n### Justice Alito:\nAnd if -- if -- if Congress really wanted these Task Force members to do\nthe bidding of the Secretary, isn't that an incredibly odd way to go about\nconferring that authority?\n### Hashim M. Mooppan:\nNo, because, critically, we are not saying that Congress wanted the Task\nForce to do the Secretary's bidding.\nWe agree that the Task -- the Secretary cannot tell the Task Force to\nmake a given recommendation.\nIf the Task Force doesn't want to make a recommendation, it doesn't\nhave to make a recommendation.\nOur point is simply that if the Task Force does make a recommendation,\nthe Secretary can block it.\nIt's --to use an analogy, it's like bicameralism.\nThe Senate can't force the House to pass a bill.\nBut, if the Senate doesn't also agree with the bill, it doesn't become a\nlaw.\n### Justice Alito:\nWell, under the argument that you just made, why can't the Secretary\ndemand that a particular recommendation be made using exactly the\nsame author ity that you just outlined? What am I missing? The\npresident says: I want you to make this recommendation, and if you\ndon't make this recommendation, I'm going to remove you and replace\nyou with somebody who will make the recommendation.\n### Hashim M. Mooppan:\nSo he can remove them, but we don't think he has the ability to force\nthe phrase \"independence\" and, more importantly, the phrase \"the\nrecommendations made shall be independent\" in 299b-4(a)(6), we do\nthink that that language does prevent that.\nAnd that makes perfect sense.\nIf you take a step back and think about the statutory scheme, Congress\nwas, as it often does, balancing competing objectives.\nOn the one hand, it wanted the benefits of an expert body. It wanted\nrecommendations that reflected their best scientific judgment.\nBut, on the other hand, it recognized that you need to have political\naccountability.\nAnd so the Secretary can block it, but -- and that solves the problem.\nIt means that no final decision could be made that binds the public\nunless the Secretary approves it.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"So one year is more than adequate time for the Secretary, if he doesn't\nagree with the recommendation, to direct the board to rescind it, the\nforce to rescind it and, if the Task Force doesn't rescind it, to replace\nthem with people who will.\nThat doesn't seem very jerry-built to me. In addition to that, the\nSecretary also has the power to create a ____________.\nUnder 300gg-92, he has rulemaking power to implement the statute,\nand he can say: Before you issue any recommendations, submit it to me\nfor my approval, and if and only if I approve it can you issue it in the first\nplace.\"",
+          "options": {
+            "A": "post-approval condition",
+            "B": "pre-approval requirement",
+            "C": "preliminary consent mandate",
+            "D": "final authorization stipulation"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "pre-approval requirement",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 14,
+              "statement_index": 2,
+              "speaker": "Hashim M. Mooppan",
+              "original_statement": "So one year is more than adequate time for the Secretary, if he doesn't\nagree with the recommendation, to direct the board to rescind it, the\nforce to rescind it and, if the Task Force doesn't rescind it, to replace\nthem with people who will.\nThat doesn't seem very jerry-built to me. In addition to that, the\nSecretary also has the power to create a pre-approval requirement.\nUnder 300gg-92, he has rulemaking power to implement the statute,\nand he can say: Before you issue any recommendations, submit it to me\nfor my approval, and if and only if I approve it can you issue it in the first\nplace."
+            },
+            "explanation": "This phrase indicates a procedural prerequisite that must be satisfied before an action can be taken, relevant in administrative law and regulatory compliance."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"So one year is more than adequate time for the Secretary, if he doesn't\nagree with the recommendation, to direct the board to rescind it, the\nforce to rescind it and, if the Task Force doesn't rescind it, to replace\nthem with people who will.\nThat doesn't seem very jerry-built to me. In addition to that, the\nSecretary also has the power to create a pre-approval requirement.\nUnder 300gg-92, he has ____________________________________,\nand he can say: Before you issue any recommendations, submit it to me\nfor my approval, and if and only if I approve it can you issue it in the first\nplace.\"",
+          "options": {
+            "A": "rulemaking authority to enforce the statute",
+            "B": "rulemaking power to implement the statute",
+            "C": "rulemaking power to amend the statute",
+            "D": "rulemaking discretion to interpret the statute"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "rulemaking power to implement the statute",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 14,
+              "statement_index": 2,
+              "speaker": "Hashim M. Mooppan",
+              "original_statement": "So one year is more than adequate time for the Secretary, if he doesn't\nagree with the recommendation, to direct the board to rescind it, the\nforce to rescind it and, if the Task Force doesn't rescind it, to replace\nthem with people who will.\nThat doesn't seem very jerry-built to me. In addition to that, the\nSecretary also has the power to create a pre-approval requirement.\nUnder 300gg-92, he has rulemaking power to implement the statute,\nand he can say: Before you issue any recommendations, submit it to me\nfor my approval, and if and only if I approve it can you issue it in the first\nplace."
+            },
+            "explanation": "This phrase refers to the authority granted to an administrative agency to create rules and regulations necessary to enforce a statute, highlighting the intersection of statutory interpretation and administrative authority."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"No, because, critically, we are not saying that Congress wanted the Task\nForce to do the Secretary's bidding.\nWe agree that the Task -- the Secretary cannot tell the Task Force to\nmake a given recommendation.\nIf the Task Force doesn't want to make a recommendation, it doesn't\nhave to make a recommendation.\nOur point is simply that if the Task Force does make a recommendation,\nthe Secretary can block it.\nIt's --to use an analogy, it's like ______.\nThe Senate can't force the House to pass a bill.\nBut, if the Senate doesn't also agree with the bill, it doesn't become a\nlaw.\"",
+          "options": {
+            "A": "bipartisanship",
+            "B": "bipartisan",
+            "C": "bicameral",
+            "D": "bicameralism"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "bicameralism",
+            "category": "constitutional",
+            "difficulty": "hard",
+            "word_count": 1,
+            "context_info": {
+              "conversation_id": 14,
+              "statement_index": 3,
+              "speaker": "Hashim M. Mooppan",
+              "original_statement": "No, because, critically, we are not saying that Congress wanted the Task\nForce to do the Secretary's bidding.\nWe agree that the Task -- the Secretary cannot tell the Task Force to\nmake a given recommendation.\nIf the Task Force doesn't want to make a recommendation, it doesn't\nhave to make a recommendation.\nOur point is simply that if the Task Force does make a recommendation,\nthe Secretary can block it.\nIt's --to use an analogy, it's like bicameralism.\nThe Senate can't force the House to pass a bill.\nBut, if the Senate doesn't also agree with the bill, it doesn't become a\nlaw."
+            },
+            "explanation": "This term refers to the legislative process requiring approval from both houses of Congress, which is fundamental to understanding the separation of powers and legislative authority."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"So he can remove them, but we don't think he has the ability to force\nthe phrase \"independence\" and, more importantly, the phrase \"the\nrecommendations made shall be independent\" in 299b-4(a)(6), we do\nthink that that language does prevent that.\nAnd that makes perfect sense.\nIf you take a step back and think about the statutory scheme, Congress\nwas, as it often does, __________________.\nOn the one hand, it wanted the benefits of an expert body. It wanted\nrecommendations that reflected their best scientific judgment.\nBut, on the other hand, it recognized that you need to have political\naccountability.\nAnd so the Secretary can block it, but -- and that solves the problem.\nIt means that no final decision could be made that binds the public\nunless the Secretary approves it.\"",
+          "options": {
+            "A": "balancing conflicting interests",
+            "B": "balancing competing interests",
+            "C": "balancing statutory mandates",
+            "D": "balancing competing objectives"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "balancing competing objectives",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 14,
+              "statement_index": 4,
+              "speaker": "Hashim M. Mooppan",
+              "original_statement": "So he can remove them, but we don't think he has the ability to force\nthe phrase \"independence\" and, more importantly, the phrase \"the\nrecommendations made shall be independent\" in 299b-4(a)(6), we do\nthink that that language does prevent that.\nAnd that makes perfect sense.\nIf you take a step back and think about the statutory scheme, Congress\nwas, as it often does, balancing competing objectives.\nOn the one hand, it wanted the benefits of an expert body. It wanted\nrecommendations that reflected their best scientific judgment.\nBut, on the other hand, it recognized that you need to have political\naccountability.\nAnd so the Secretary can block it, but -- and that solves the problem.\nIt means that no final decision could be made that binds the public\nunless the Secretary approves it."
+            },
+            "explanation": "This phrase reflects the complex legal principle of balancing interests, which is fundamental in statutory interpretation and administrative law."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 15,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nBut, Mr. Mooppan, doesn't that make it difficult for you in your\ninferiority argument? Because what if it's a big priority of the president\nto have these AIDS-prevention drugs available and the Task Force says\nno, not -- not going to do it? I mean, doesn't it seem then that that\ninsulates them, especially if -- you know,",
+      "questions": []
+    },
+    {
+      "conversation_id": 16,
+      "dialogue": "Justice Alito\n### Justice Alito:\nsaid, well, what if\nyou fire him and say: I'm going to appoint a Task Force who will approve\nthese as preventative care?\n### Hashim M. Mooppan:\nSo two points about that, Your Honor.\nThe first is I think this Court has already resolved that question in Free\nEnterprise Fund.\nSo, in Free Enterprise Fund, this Court held that once the PCAOB was\nmade removable at will by the Commission, they were inferior officers.\nEven though it was conceded there was no statutory authority",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"So two points about that, Your Honor.\nThe first is I think this Court has already resolved that question in Free\nEnterprise Fund.\nSo, in Free Enterprise Fund, this Court held that once the PCAOB was\nmade ____________________________________, they were inferior officers.\nEven though it was conceded there was no statutory authority\"",
+          "options": {
+            "A": "removable at will by the Commission",
+            "B": "removable at discretion by the Commission",
+            "C": "removable with cause by the Commission",
+            "D": "removable at will by the Director"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "removable at will by the Commission",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 16,
+              "statement_index": 1,
+              "speaker": "Hashim M. Mooppan",
+              "original_statement": "So two points about that, Your Honor.\nThe first is I think this Court has already resolved that question in Free\nEnterprise Fund.\nSo, in Free Enterprise Fund, this Court held that once the PCAOB was\nmade removable at will by the Commission, they were inferior officers.\nEven though it was conceded there was no statutory authority"
+            },
+            "explanation": "This phrase emphasizes the authority of a governing body to remove officials without cause, which is pivotal in discussions regarding the classification of officers and the structure of regulatory agencies."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 17,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nSo that's enough? Your position -- because it was a little bit difficult to\ntell in your brief.\nYou're saying that's enough? At-will removal is all that's required?\n### Hashim M. Mooppan:\nNo, that's not what I'm saying, Your Honor.\nWe have said that it's both the at -will removal power plus the powers of\nsupervision we've talked about.\nBut, critically, those are powers of supervision to block\nrecommendations.\nYour -- you asked me, well, what about forcing them to make a\nrecommendation? As to forcing them to make a recommendation, my -\n-our point is you don't need supervision in that respect.\nFree Enterprise Fund already holds that as long as they're removable at\nwill, the fact that you can't force them to take action is --does not make",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"No, that's not what I'm saying, Your Honor.\nWe have said that it's both the at -will removal power plus the powers of\nsupervision we've talked about.\nBut, critically, those are powers of supervision to block\nrecommendations.\nYour -- you asked me, well, what about forcing them to make a\nrecommendation? As to forcing them to make a recommendation, my -\n-our point is you don't need supervision in that respect.\n__________________ already holds that as long as they're removable at\nwill, the fact that you can't force them to take action is --does not make\"",
+          "options": {
+            "A": "Independent Enterprise Fund",
+            "B": "Enterprise Freedom Fund",
+            "C": "Free Enterprise Fund",
+            "D": "Free Market Fund"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "Free Enterprise Fund",
+            "category": "case_law",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 17,
+              "statement_index": 1,
+              "speaker": "Hashim M. Mooppan",
+              "original_statement": "No, that's not what I'm saying, Your Honor.\nWe have said that it's both the at -will removal power plus the powers of\nsupervision we've talked about.\nBut, critically, those are powers of supervision to block\nrecommendations.\nYour -- you asked me, well, what about forcing them to make a\nrecommendation? As to forcing them to make a recommendation, my -\n-our point is you don't need supervision in that respect.\nFree Enterprise Fund already holds that as long as they're removable at\nwill, the fact that you can't force them to take action is --does not make"
+            },
+            "explanation": "This refers to a significant Supreme Court case that addresses the constitutionality of certain removal powers and the implications for agency independence, making it essential for understanding the legal framework surrounding executive authority."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 18,
+      "dialogue": "Justice Kavanaugh",
+      "questions": []
+    },
+    {
+      "conversation_id": 19,
+      "dialogue": "Justice Kagan",
+      "questions": []
+    },
+    {
+      "conversation_id": 20,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nGo ahead.\n### Hashim M. Mooppan:\nI -- the last thing I was going to say, which I -- perhaps Justice\nKavanaugh was about to say, is you do still have at-will removal power\nin that context, and so, therefore, you do have some means of ensuring\nthe recommendation gets made.\nIt's just the means is replacing them if they won't do it, but you don't\nhave statutory authority to force them to start.\nAnd Free Enterprise Fund already blesses that arrangement.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 21,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nWell, why is it that in your brief and again here you're reluctant to say\nthat the removal power is sufficient?\n### Hashim M. Mooppan:\nWell, we just don't think your -- the Court needs to go that far.\nThis Court has always, in cases like Edmond and Free Enterprise Fund,\ntaken an incremental approach to how it determines the line between\ninferior and principal officers.\nAnd we think, in this case, where there's both at-will removal plus\nabundant means of back-end supervision, that's all this Court needs to\nAnd to be candid, I think there would be harder questions if, for\nexample, you had an officer who had the power to issue very important,\nvery broad-ranging decisions that had --took immediate effect,\ncouldn't be stopped on the back end, and the only means of supervision\nwas front-end removal. We haven't taken a position one way or the\nother on that, but I do think that that's a harder question, and that's\nwhy we don't think this Court needs to go there.\nBut that said, you don't have to go very much further than that on the\nfacts of this case because, here, it's --not only do you have at-will\nremoval, you have the critical difference that the recommendations\ndon't take effect immediately.\nThey don't take effect for at least a year, and within that year period,\nthe Secretary has ample time to ensure they never take effect.\nAnd so those two alone, we're perfectly comfortable saying that that's\nsufficient for inferior officers.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Well, we just don't think your -- the Court needs to go that far.\nThis Court has always, in cases like Edmond and Free Enterprise Fund,\ntaken an ____________ to how it determines the line between\ninferior and principal officers.\nAnd we think, in this case, where there's both at-will removal plus\nabundant means of back-end supervision, that's all this Court needs to\nAnd to be candid, I think there would be harder questions if, for\nexample, you had an officer who had the power to issue very important,\nvery broad-ranging decisions that had --took immediate effect,\ncouldn't be stopped on the back end, and the only means of supervision\nwas front-end removal. We haven't taken a position one way or the\nother on that, but I do think that that's a harder question, and that's\nwhy we don't think this Court needs to go there.\nBut that said, you don't have to go very much further than that on the\nfacts of this case because, here, it's --not only do you have at-will\nremoval, you have the critical difference that the recommendations\ndon't take effect immediately.\nThey don't take effect for at least a year, and within that year period,\nthe Secretary has ample time to ensure they never take effect.\nAnd so those two alone, we're perfectly comfortable saying that that's\nsufficient for inferior officers.\"",
+          "options": {
+            "A": "incremental standard",
+            "B": "incremental review",
+            "C": "incremental method",
+            "D": "incremental approach"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "incremental approach",
+            "category": "case_law",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 21,
+              "statement_index": 1,
+              "speaker": "Hashim M. Mooppan",
+              "original_statement": "Well, we just don't think your -- the Court needs to go that far.\nThis Court has always, in cases like Edmond and Free Enterprise Fund,\ntaken an incremental approach to how it determines the line between\ninferior and principal officers.\nAnd we think, in this case, where there's both at-will removal plus\nabundant means of back-end supervision, that's all this Court needs to\nAnd to be candid, I think there would be harder questions if, for\nexample, you had an officer who had the power to issue very important,\nvery broad-ranging decisions that had --took immediate effect,\ncouldn't be stopped on the back end, and the only means of supervision\nwas front-end removal. We haven't taken a position one way or the\nother on that, but I do think that that's a harder question, and that's\nwhy we don't think this Court needs to go there.\nBut that said, you don't have to go very much further than that on the\nfacts of this case because, here, it's --not only do you have at-will\nremoval, you have the critical difference that the recommendations\ndon't take effect immediately.\nThey don't take effect for at least a year, and within that year period,\nthe Secretary has ample time to ensure they never take effect.\nAnd so those two alone, we're perfectly comfortable saying that that's\nsufficient for inferior officers."
+            },
+            "explanation": "This phrase describes the judicial methodology employed by the Court in determining the classification of officers, indicating a nuanced understanding of legal precedent and its application."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, we just don't think your -- the Court needs to go that far.\nThis Court has always, in cases like Edmond and Free Enterprise Fund,\ntaken an incremental approach to how it determines the line between\ninferior and principal officers.\nAnd we think, in this case, where there's both at-will removal plus\nabundant means of ____________, that's all this Court needs to\nAnd to be candid, I think there would be harder questions if, for\nexample, you had an officer who had the power to issue very important,\nvery broad-ranging decisions that had --took immediate effect,\ncouldn't be stopped on the back end, and the only means of supervision\nwas front-end removal. We haven't taken a position one way or the\nother on that, but I do think that that's a harder question, and that's\nwhy we don't think this Court needs to go there.\nBut that said, you don't have to go very much further than that on the\nfacts of this case because, here, it's --not only do you have at-will\nremoval, you have the critical difference that the recommendations\ndon't take effect immediately.\nThey don't take effect for at least a year, and within that year period,\nthe Secretary has ample time to ensure they never take effect.\nAnd so those two alone, we're perfectly comfortable saying that that's\nsufficient for inferior officers.\"",
+          "options": {
+            "A": "back-end control",
+            "B": "front-end oversight",
+            "C": "back-end supervision",
+            "D": "direct supervision"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "back-end supervision",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 21,
+              "statement_index": 1,
+              "speaker": "Hashim M. Mooppan",
+              "original_statement": "Well, we just don't think your -- the Court needs to go that far.\nThis Court has always, in cases like Edmond and Free Enterprise Fund,\ntaken an incremental approach to how it determines the line between\ninferior and principal officers.\nAnd we think, in this case, where there's both at-will removal plus\nabundant means of back-end supervision, that's all this Court needs to\nAnd to be candid, I think there would be harder questions if, for\nexample, you had an officer who had the power to issue very important,\nvery broad-ranging decisions that had --took immediate effect,\ncouldn't be stopped on the back end, and the only means of supervision\nwas front-end removal. We haven't taken a position one way or the\nother on that, but I do think that that's a harder question, and that's\nwhy we don't think this Court needs to go there.\nBut that said, you don't have to go very much further than that on the\nfacts of this case because, here, it's --not only do you have at-will\nremoval, you have the critical difference that the recommendations\ndon't take effect immediately.\nThey don't take effect for at least a year, and within that year period,\nthe Secretary has ample time to ensure they never take effect.\nAnd so those two alone, we're perfectly comfortable saying that that's\nsufficient for inferior officers."
+            },
+            "explanation": "This term refers to the mechanisms of oversight that occur after an officer's decisions are made, which is significant in evaluating the extent of control and authority exercised by superior officers."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, we just don't think your -- the Court needs to go that far.\nThis Court has always, in cases like Edmond and Free Enterprise Fund,\ntaken an incremental approach to how it determines the line between\ninferior and principal officers.\nAnd we think, in this case, where there's both at-will removal plus\nabundant means of back-end supervision, that's all this Court needs to\nAnd to be candid, I think there would be harder questions if, for\nexample, you had an officer who had the power to issue very important,\nvery broad-ranging decisions that had --took immediate effect,\ncouldn't be stopped on the back end, and the only means of supervision\nwas front-end removal. We haven't taken a position one way or the\nother on that, but I do think that that's a harder question, and that's\nwhy we don't think this Court needs to go there.\nBut that said, you don't have to go very much further than that on the\nfacts of this case because, here, it's --not only do you have at-will\nremoval, you have the ____________ that the recommendations\ndon't take effect immediately.\nThey don't take effect for at least a year, and within that year period,\nthe Secretary has ample time to ensure they never take effect.\nAnd so those two alone, we're perfectly comfortable saying that that's\nsufficient for inferior officers.\"",
+          "options": {
+            "A": "substantial variance",
+            "B": "essential divergence",
+            "C": "fundamental distinction",
+            "D": "critical difference"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "critical difference",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 21,
+              "statement_index": 1,
+              "speaker": "Hashim M. Mooppan",
+              "original_statement": "Well, we just don't think your -- the Court needs to go that far.\nThis Court has always, in cases like Edmond and Free Enterprise Fund,\ntaken an incremental approach to how it determines the line between\ninferior and principal officers.\nAnd we think, in this case, where there's both at-will removal plus\nabundant means of back-end supervision, that's all this Court needs to\nAnd to be candid, I think there would be harder questions if, for\nexample, you had an officer who had the power to issue very important,\nvery broad-ranging decisions that had --took immediate effect,\ncouldn't be stopped on the back end, and the only means of supervision\nwas front-end removal. We haven't taken a position one way or the\nother on that, but I do think that that's a harder question, and that's\nwhy we don't think this Court needs to go there.\nBut that said, you don't have to go very much further than that on the\nfacts of this case because, here, it's --not only do you have at-will\nremoval, you have the critical difference that the recommendations\ndon't take effect immediately.\nThey don't take effect for at least a year, and within that year period,\nthe Secretary has ample time to ensure they never take effect.\nAnd so those two alone, we're perfectly comfortable saying that that's\nsufficient for inferior officers."
+            },
+            "explanation": "This phrase highlights the importance of distinguishing factors in legal arguments, particularly in the context of officer classification and the implications of their decision-making powers."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, we just don't think your -- the Court needs to go that far.\nThis Court has always, in cases like Edmond and Free Enterprise Fund,\ntaken an incremental approach to how it determines the line between\ninferior and principal officers.\nAnd we think, in this case, where there's both at-will removal plus\nabundant means of back-end supervision, that's all this Court needs to\nAnd to be candid, I think there would be harder questions if, for\nexample, you had an officer who had the power to issue very important,\nvery broad-ranging decisions that had --took immediate effect,\ncouldn't be stopped on the back end, and the only means of supervision\nwas front-end removal. We haven't taken a position one way or the\nother on that, but I do think that that's a harder question, and that's\nwhy we don't think this Court needs to go there.\nBut that said, you don't have to go very much further than that on the\nfacts of this case because, here, it's --not only do you have at-will\nremoval, you have the critical difference that the recommendations\ndon't take effect immediately.\nThey don't take effect for at least a year, and within that year period,\nthe Secretary has ________________________________________________.\nAnd so those two alone, we're perfectly comfortable saying that that's\nsufficient for inferior officers.\"",
+          "options": {
+            "A": "sufficient time to guarantee they never take effect",
+            "B": "ample time to ensure they always take effect",
+            "C": "adequate time to ensure they do take effect",
+            "D": "ample time to ensure they never take effect"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "ample time to ensure they never take effect",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 8,
+            "context_info": {
+              "conversation_id": 21,
+              "statement_index": 1,
+              "speaker": "Hashim M. Mooppan",
+              "original_statement": "Well, we just don't think your -- the Court needs to go that far.\nThis Court has always, in cases like Edmond and Free Enterprise Fund,\ntaken an incremental approach to how it determines the line between\ninferior and principal officers.\nAnd we think, in this case, where there's both at-will removal plus\nabundant means of back-end supervision, that's all this Court needs to\nAnd to be candid, I think there would be harder questions if, for\nexample, you had an officer who had the power to issue very important,\nvery broad-ranging decisions that had --took immediate effect,\ncouldn't be stopped on the back end, and the only means of supervision\nwas front-end removal. We haven't taken a position one way or the\nother on that, but I do think that that's a harder question, and that's\nwhy we don't think this Court needs to go there.\nBut that said, you don't have to go very much further than that on the\nfacts of this case because, here, it's --not only do you have at-will\nremoval, you have the critical difference that the recommendations\ndon't take effect immediately.\nThey don't take effect for at least a year, and within that year period,\nthe Secretary has ample time to ensure they never take effect.\nAnd so those two alone, we're perfectly comfortable saying that that's\nsufficient for inferior officers."
+            },
+            "explanation": "This phrase emphasizes the Secretary's control over the implementation of recommendations, which is crucial in determining the nature of the Task Force's authority."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 22,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nMr. Mooppan, can I go back to",
+      "questions": []
+    },
+    {
+      "conversation_id": 23,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\n's questions about at-will\nremoval? Because he at least suggested that we may not have at-will\nremoval here, and I guess I'm wondering about the presumptions in our\nlaw related to the removability of officers.\nSo do we really need to send it back for resolution of that if the law\npresumes that where there is no statement regarding this, at-will\nremoval is at play?\n### Hashim M. Mooppan:\nSo, again, Your Honor, I agree.\nI don't think there's any colorable argument that there's a removal\nrestriction here.\nThe only colorable dispute is whether there's actually appointment",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"So, again, Your Honor, I agree.\nI don't think there's any ____________ that there's a removal\nrestriction here.\nThe only colorable dispute is whether there's actually appointment\"",
+          "options": {
+            "A": "colorable argument",
+            "B": "colorable claim",
+            "C": "colorable position",
+            "D": "colorable defense"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "colorable argument",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 23,
+              "statement_index": 1,
+              "speaker": "Hashim M. Mooppan",
+              "original_statement": "So, again, Your Honor, I agree.\nI don't think there's any colorable argument that there's a removal\nrestriction here.\nThe only colorable dispute is whether there's actually appointment"
+            },
+            "explanation": "This phrase indicates a legal argument that has some merit or plausible basis, which is essential in assessing the validity of claims in legal disputes."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 24,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nRight.\nAnd what does our law say about that situation? I mean, part of the\nproblem here, I think, is that we are talking about a statute that doesn't\nspeak to particular things.\n### Justice Jackson:\nAnd so, to the extent that the law doesn't speak to the removability of\nthese people, I thought our presumption was that we do have at-will\nremoval.\n### Hashim M. Mooppan:\nYes.\nThe presumption i s that there is at -will removal by whoever has\nappointment authority.\nAnd I think the question with",
+      "questions": []
+    },
+    {
+      "conversation_id": 25,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nis, who is the person who\nhas appointment authority? I don't think there's any serious dispute",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 26,
+      "dialogue": "Justice Jackson\n### Hashim M. Mooppan:\nWell, yeah.\n### Hashim M. Mooppan:\nEither here or on remand, of course, if -- we need to be right that the\nSecretary does have appointment authority to defeat their claim.\nWe think that the Secretary does have appointment authority. We think\nit's clear enough from the statute.\n### Justice Jackson:\nWho would it be if it isn't the Secretary?\n### Hashim M. Mooppan:\nWell, I --in my view, the only other colorable reading of the statute is\nthat it would be the director because the statute says the director shall\nconvene.\nBut, of course, that would render the statute unconstitutional because\nthe director is not the head of the department.\nAnd so that's yet another reason why you should read the statute the\nway we suggest, that when it says the director, under the backdrop of a\nstatute that vests all powers in the director and the Secretary, the\nSecretary has the power.\nMy friend on the other side, his move is to say: No, no, no, it's the\npresident who has the appointment authority confirmed by the Senate,\ninvoking the backdrop principle that under the Appointments Clause,\npresidential appointment and Senate confirmation is the default rule\nfor appointment.\nBut the reason that doesn't work, as I was discussing earlier, is, before\nthe ACA, these were not officers.\nAnd if they were not officers, it would be unconstitutional for the Senate\nto have any role in their confirmation. So you cannot read the statute to\nhave presidential appointment and Senate confirmation before the\nACA, and nothing in the text of the statute changed after the ACA about\nwho does the appointing.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Either here or on remand, of course, if -- we need to be right that the\nSecretary does have ____________ to defeat their claim.\nWe think that the Secretary does have appointment authority. We think\nit's clear enough from the statute.\"",
+          "options": {
+            "A": "confirmation power",
+            "B": "removal authority",
+            "C": "appointment authority",
+            "D": "selection rights"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "appointment authority",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 26,
+              "statement_index": 1,
+              "speaker": "Hashim M. Mooppan",
+              "original_statement": "Either here or on remand, of course, if -- we need to be right that the\nSecretary does have appointment authority to defeat their claim.\nWe think that the Secretary does have appointment authority. We think\nit's clear enough from the statute."
+            },
+            "explanation": "This phrase pertains to the legal power to appoint officials, which is a critical aspect of administrative law and the separation of powers doctrine."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, I --in my view, the only other ______________________________ is\nthat it would be the director because the statute says the director shall\nconvene.\nBut, of course, that would render the statute unconstitutional because\nthe director is not the head of the department.\nAnd so that's yet another reason why you should read the statute the\nway we suggest, that when it says the director, under the backdrop of a\nstatute that vests all powers in the director and the Secretary, the\nSecretary has the power.\nMy friend on the other side, his move is to say: No, no, no, it's the\npresident who has the appointment authority confirmed by the Senate,\ninvoking the backdrop principle that under the Appointments Clause,\npresidential appointment and Senate confirmation is the default rule\nfor appointment.\nBut the reason that doesn't work, as I was discussing earlier, is, before\nthe ACA, these were not officers.\nAnd if they were not officers, it would be unconstitutional for the Senate\nto have any role in their confirmation. So you cannot read the statute to\nhave presidential appointment and Senate confirmation before the\nACA, and nothing in the text of the statute changed after the ACA about\nwho does the appointing.\"",
+          "options": {
+            "A": "colorable interpretation of the statute",
+            "B": "colorable reading of the statute",
+            "C": "colorable application of the statute",
+            "D": "colorable analysis of the statute"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "colorable reading of the statute",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 5,
+            "context_info": {
+              "conversation_id": 26,
+              "statement_index": 2,
+              "speaker": "Hashim M. Mooppan",
+              "original_statement": "Well, I --in my view, the only other colorable reading of the statute is\nthat it would be the director because the statute says the director shall\nconvene.\nBut, of course, that would render the statute unconstitutional because\nthe director is not the head of the department.\nAnd so that's yet another reason why you should read the statute the\nway we suggest, that when it says the director, under the backdrop of a\nstatute that vests all powers in the director and the Secretary, the\nSecretary has the power.\nMy friend on the other side, his move is to say: No, no, no, it's the\npresident who has the appointment authority confirmed by the Senate,\ninvoking the backdrop principle that under the Appointments Clause,\npresidential appointment and Senate confirmation is the default rule\nfor appointment.\nBut the reason that doesn't work, as I was discussing earlier, is, before\nthe ACA, these were not officers.\nAnd if they were not officers, it would be unconstitutional for the Senate\nto have any role in their confirmation. So you cannot read the statute to\nhave presidential appointment and Senate confirmation before the\nACA, and nothing in the text of the statute changed after the ACA about\nwho does the appointing."
+            },
+            "explanation": "This phrase refers to a plausible interpretation of statutory language, which is significant in statutory interpretation and legal argumentation."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, I --in my view, the only other colorable reading of the statute is\nthat it would be the director because the statute says the director shall\nconvene.\nBut, of course, that would ________________________ because\nthe director is not the head of the department.\nAnd so that's yet another reason why you should read the statute the\nway we suggest, that when it says the director, under the backdrop of a\nstatute that vests all powers in the director and the Secretary, the\nSecretary has the power.\nMy friend on the other side, his move is to say: No, no, no, it's the\npresident who has the appointment authority confirmed by the Senate,\ninvoking the backdrop principle that under the Appointments Clause,\npresidential appointment and Senate confirmation is the default rule\nfor appointment.\nBut the reason that doesn't work, as I was discussing earlier, is, before\nthe ACA, these were not officers.\nAnd if they were not officers, it would be unconstitutional for the Senate\nto have any role in their confirmation. So you cannot read the statute to\nhave presidential appointment and Senate confirmation before the\nACA, and nothing in the text of the statute changed after the ACA about\nwho does the appointing.\"",
+          "options": {
+            "A": "declare the statute void",
+            "B": "render the statute unconstitutional",
+            "C": "overrule the statute's applicability",
+            "D": "invalidate the statute provision"
+          },
+          "answer": "B",
+          "metadata": {
+            "correct_phrase": "render the statute unconstitutional",
+            "category": "constitutional",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 26,
+              "statement_index": 2,
+              "speaker": "Hashim M. Mooppan",
+              "original_statement": "Well, I --in my view, the only other colorable reading of the statute is\nthat it would be the director because the statute says the director shall\nconvene.\nBut, of course, that would render the statute unconstitutional because\nthe director is not the head of the department.\nAnd so that's yet another reason why you should read the statute the\nway we suggest, that when it says the director, under the backdrop of a\nstatute that vests all powers in the director and the Secretary, the\nSecretary has the power.\nMy friend on the other side, his move is to say: No, no, no, it's the\npresident who has the appointment authority confirmed by the Senate,\ninvoking the backdrop principle that under the Appointments Clause,\npresidential appointment and Senate confirmation is the default rule\nfor appointment.\nBut the reason that doesn't work, as I was discussing earlier, is, before\nthe ACA, these were not officers.\nAnd if they were not officers, it would be unconstitutional for the Senate\nto have any role in their confirmation. So you cannot read the statute to\nhave presidential appointment and Senate confirmation before the\nACA, and nothing in the text of the statute changed after the ACA about\nwho does the appointing."
+            },
+            "explanation": "This phrase highlights the potential conflict between statutory provisions and constitutional requirements, necessitating a deep understanding of constitutional law."
+          }
+        },
+        {
+          "question": "Fill in the blank: \"Well, I --in my view, the only other colorable reading of the statute is\nthat it would be the director because the statute says the director shall\nconvene.\nBut, of course, that would render the statute unconstitutional because\nthe director is not the head of the department.\nAnd so that's yet another reason why you should read the statute the\nway we suggest, that when it says the director, under the backdrop of a\nstatute that vests all powers in the director and the Secretary, the\nSecretary has the power.\nMy friend on the other side, his move is to say: No, no, no, it's the\npresident who has the appointment authority confirmed by the Senate,\ninvoking the __________________________________________,\npresidential appointment and Senate confirmation is the default rule\nfor appointment.\nBut the reason that doesn't work, as I was discussing earlier, is, before\nthe ACA, these were not officers.\nAnd if they were not officers, it would be unconstitutional for the Senate\nto have any role in their confirmation. So you cannot read the statute to\nhave presidential appointment and Senate confirmation before the\nACA, and nothing in the text of the statute changed after the ACA about\nwho does the appointing.\"",
+          "options": {
+            "A": "backdrop principle that under the Appointments Clause",
+            "B": "backdrop principle that under the Confirmation Clause",
+            "C": "backdrop principle that under the Appointments Act",
+            "D": "backdrop principle that under the Removal Clause"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "backdrop principle that under the Appointments Clause",
+            "category": "constitutional",
+            "difficulty": "hard",
+            "word_count": 7,
+            "context_info": {
+              "conversation_id": 26,
+              "statement_index": 2,
+              "speaker": "Hashim M. Mooppan",
+              "original_statement": "Well, I --in my view, the only other colorable reading of the statute is\nthat it would be the director because the statute says the director shall\nconvene.\nBut, of course, that would render the statute unconstitutional because\nthe director is not the head of the department.\nAnd so that's yet another reason why you should read the statute the\nway we suggest, that when it says the director, under the backdrop of a\nstatute that vests all powers in the director and the Secretary, the\nSecretary has the power.\nMy friend on the other side, his move is to say: No, no, no, it's the\npresident who has the appointment authority confirmed by the Senate,\ninvoking the backdrop principle that under the Appointments Clause,\npresidential appointment and Senate confirmation is the default rule\nfor appointment.\nBut the reason that doesn't work, as I was discussing earlier, is, before\nthe ACA, these were not officers.\nAnd if they were not officers, it would be unconstitutional for the Senate\nto have any role in their confirmation. So you cannot read the statute to\nhave presidential appointment and Senate confirmation before the\nACA, and nothing in the text of the statute changed after the ACA about\nwho does the appointing."
+            },
+            "explanation": "This phrase refers to the foundational legal principle regarding the appointment of officers, which is crucial for understanding the constitutional framework governing appointments."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 27,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nI think you said earlier that at-will removal gives the Secretary the\npower to influence the content of recommendations before they're\nmade.\nIs that accurate?\n### Hashim M. Mooppan:\nI think that's correct, Your Honor.\n### Justice Kavanaugh:\nAnd then -- because that comes from the at -will removal power,\ncorrect?\n### Hashim M. Mooppan:\nCorrect.\n### Justice Kavanaugh:\nAnd how does that then square with the word \"independent?\"\n### Hashim M. Mooppan:\nBecause it's still the Task Force ultimate judgment that matters.\nYes, there will be -- they can consider what the Secretary wants, they\nmay be even influenced by the fact that if they don't do what he wants,\nthey might get removed, but it's still ultimately their call as a statutory\nmatter.\n### Justice Kavanaugh:\nThat's an odd definition of \"independent,\" I suppose.\nDoes \"independent\" in this context have any different meaning\nbecause the folks in question are not government employees, that they\nhave outside affiliations, their employers or wherever they're affiliated\nwith?\n### Hashim M. Mooppan:\nWell, they -- well, we do think that they are officers of the United\nStates, and we do think they're government employees.\nBut your point that they have other affiliations as well, we do think\n### Justice Kavanaugh:\nThey're not paid, right?\n### Hashim M. Mooppan:\nYes, they -- they are volunteers.\nBut we do think the fact --that's part of the reason why it uses the\nphrase \"independent\" to underscore that it's not just that they have\nthe power to make the judgment based on their best scientific\njudgment; they have the duty.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Because it's still the Task Force ________________________.\nYes, there will be -- they can consider what the Secretary wants, they\nmay be even influenced by the fact that if they don't do what he wants,\nthey might get removed, but it's still ultimately their call as a statutory\nmatter.\"",
+          "options": {
+            "A": "conclusive decision that stands",
+            "B": "decisive order that prevails",
+            "C": "ultimate judgment that matters",
+            "D": "final ruling that counts"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "ultimate judgment that matters",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 4,
+            "context_info": {
+              "conversation_id": 27,
+              "statement_index": 1,
+              "speaker": "Hashim M. Mooppan",
+              "original_statement": "Because it's still the Task Force ultimate judgment that matters.\nYes, there will be -- they can consider what the Secretary wants, they\nmay be even influenced by the fact that if they don't do what he wants,\nthey might get removed, but it's still ultimately their call as a statutory\nmatter."
+            },
+            "explanation": "This phrase underscores the distinction between influence and decision-making authority in administrative law, which is essential for understanding the balance of power within regulatory frameworks."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 28,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nBut I hear you as not relying on the notion that \"independence\" in that\nprovision means independent from, you know, your university or your\nthink tank or something like that, that you think that the word\n\"independent\" here does mean independent from political influences\nand particularly from presidential ones?\n### Hashim M. Mooppan:\nWell, in making the recommendation, we think that they have to\nexercise their best scientific judgment free from all of it.\nThey shouldn't do what, you know, their university tells them to do.\nThey shouldn't necessarily do what the Secretary tells them to do.\nThey should exercise their independent judgment based on the science.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Well, in making the recommendation, we think that they have to\nexercise their best scientific judgment free from all of it.\nThey shouldn't do what, you know, their university tells them to do.\nThey shouldn't necessarily do what the Secretary tells them to do.\nThey should ________________________________________________.\"",
+          "options": {
+            "A": "exercise their independent authority based on the findings",
+            "B": "exercise their independent discretion based on the data",
+            "C": "exercise their independent judgment based on the science",
+            "D": "exercise their independent judgment based on the evidence"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "exercise their independent judgment based on the science",
+            "category": "other",
+            "difficulty": "hard",
+            "word_count": 8,
+            "context_info": {
+              "conversation_id": 28,
+              "statement_index": 1,
+              "speaker": "Hashim M. Mooppan",
+              "original_statement": "Well, in making the recommendation, we think that they have to\nexercise their best scientific judgment free from all of it.\nThey shouldn't do what, you know, their university tells them to do.\nThey shouldn't necessarily do what the Secretary tells them to do.\nThey should exercise their independent judgment based on the science."
+            },
+            "explanation": "This phrase emphasizes the importance of autonomy in decision-making within scientific and regulatory contexts, which raises issues of professional ethics and the role of external influences."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 29,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nBut the Secretary might say -- and I think you acknowledged this --if\nyou don't make the following recommendation, I'm going to fire you.\n### Hashim M. Mooppan:\nThat's right.\n### Justice Kavanaugh:\nThat's okay, right?\n### Hashim M. Mooppan:\nYes.\nThe analogy I would give you is the Benefits Review Board in the\nDepartment of Labor.\nSo the Benefits Review Board in the Department of Labor is an\nadjudicatory body that every --is at-will removable.\nBecause they adjudicate cases, they should adjudicate cases based on\ntheir view of the facts and the law.\nBut it's true that if the Secretary tells them, look, you come out one way,\nyou're going to get fired, they might get fired.\nBut they should still exercise their independent best judgment when\nthey issue the ruling.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 4/10",
+      "complexity_score": 4
+    },
+    {
+      "conversation_id": 30,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nWell, what's this language \"to the extent practicable\" doing?\n### Hashim M. Mooppan:\nSo, look, I think that that --it's not entirely clear, Your Honor, but I think\nthat, if anything, it underscores our point that you should not read this\nstatute, especially in light of constitutional avoidance, to say that the\n### Justice Kagan:\nI mean, it does suggest that Congress was thinking, in some\ncircumstances, it would not be practicable.\n### Hashim M. Mooppan:\nRight.\n### Justice Kagan:\nAnd what circumstances would Congress be thinking that about?\n### Hashim M. Mooppan:\nWell, at a bare minimum, the circumstances where the statute would be\nunconstitutional if the Secretary couldn't engage in that level of\nsupervision.\nSo I -- again, I think that that language just underscores the\nconstitutional avoidance point that the limited forms of review on the\nback end that we've emphasized have got to be permissible under that\nstatute both because it has that language in it and because the canon of\nconstitutional avoidance says you should read it that way.\nAnd, again, going back to the adjudicators, it's not just the Benefits\nReview Board.\nMore generally, under the APA, the statutory scheme for adjudication\nhas exactly this feature to it.\nYou have adjudicators who are tasked with exercising independent\njudgment, but their actions on the back end can be reviewed.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Well, at a bare minimum, the circumstances where the statute would be\nunconstitutional if the Secretary couldn't engage in that level of\nsupervision.\nSo I -- again, I think that that language just underscores the\n__________________ that the limited forms of review on the\nback end that we've emphasized have got to be permissible under that\nstatute both because it has that language in it and because the canon of\nconstitutional avoidance says you should read it that way.\nAnd, again, going back to the adjudicators, it's not just the Benefits\nReview Board.\nMore generally, under the APA, the statutory scheme for adjudication\nhas exactly this feature to it.\nYou have adjudicators who are tasked with exercising independent\njudgment, but their actions on the back end can be reviewed.\"",
+          "options": {
+            "A": "constitutional review principle",
+            "B": "constitutional separation doctrine",
+            "C": "constitutional interpretation standard",
+            "D": "constitutional avoidance point"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "constitutional avoidance point",
+            "category": "constitutional",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 30,
+              "statement_index": 2,
+              "speaker": "Hashim M. Mooppan",
+              "original_statement": "Well, at a bare minimum, the circumstances where the statute would be\nunconstitutional if the Secretary couldn't engage in that level of\nsupervision.\nSo I -- again, I think that that language just underscores the\nconstitutional avoidance point that the limited forms of review on the\nback end that we've emphasized have got to be permissible under that\nstatute both because it has that language in it and because the canon of\nconstitutional avoidance says you should read it that way.\nAnd, again, going back to the adjudicators, it's not just the Benefits\nReview Board.\nMore generally, under the APA, the statutory scheme for adjudication\nhas exactly this feature to it.\nYou have adjudicators who are tasked with exercising independent\njudgment, but their actions on the back end can be reviewed."
+            },
+            "explanation": "This phrase refers to a legal doctrine that encourages courts to interpret statutes in a way that avoids constitutional issues, requiring a deep understanding of constitutional principles and judicial interpretation."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 31,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nYeah, I understand the analogy to adjudicators, and I thought that's\nwhat was in your brief, but, normally, you wouldn't say with\nadjudicators that the supervising officer can influence the content of\nthe adjudication.\n### Justice Kavanaugh:\nThat they can only review the adjudication after it's been made.\n### Hashim M. Mooppan:\nWell, but they also -- you know, as the Benefits Review Board says, you\ncan also influence --you have at -will removal, and every one of these\n### Justice Kavanaugh:\nRight.\n### Hashim M. Mooppan:\nSo, you know, does that affect them? Perhaps.\nBut their duty and their power is still to make the decision based on their\n### Justice Kavanaugh:\nAnd that's -- so you're making the analogy, though, to adjudicators\nhere, right?\n### Hashim M. Mooppan:\nYeah.\n### Justice Kavanaugh:\nrecommendations can be reviewed before they take effect, it's similar\nsupervisor review of the ultimate decision?\n### Hashim M. Mooppan:\nThat's right.\nAnd one way of making the point is, for these individuals, if the\nSecretary tells them to do something and they don't do it, they do the\nopposite and make a different recommendation, that's not\ninsubordinate, right, because they have statutory power to make their\nindependent best judgment.\nFor most inferior officers, if the president -- or the head of your agency\ntells to you do X and you do Y, that is insubordinate. So that's what the\nlanguage does.\nNow that doesn't mean that you need to be protected from removal on\nthe back end.\nYou can be independent, make your own statutory judgments, but then\nhave to face the consequences if the head of the agency disagrees with\nthose.",
+      "questions": []
+    },
+    {
+      "conversation_id": 32,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nJustice Thomas, anything further?",
+      "questions": []
+    },
+    {
+      "conversation_id": 33,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nJust briefly.\nWhat role did you say the Reorganization Act played with respect to the\nTask Force?\n### Hashim M. Mooppan:\nSo --so several roles. The first is, on the appointment question, we\nthe Secretary has the direct appointment authority with respect to the\nTask Force members.\n### Justice Thomas:\nNow is the Task Force -- I thought the reorganization dealt with\nagencies within HHS.\n### Hashim M. Mooppan:\nThat's correct, Your Honor.\n### Justice Thomas:\nIs the Task Force an agency?\n### Hashim M. Mooppan:\nWe think the Task Force is within the AHRQ and within PHS, so it's\n### Justice Thomas:\nSo what -- what supports that?\n### Hashim M. Mooppan:\nWell, it is an entity that is convened by the Public Health Service,\nselected by the Public Health Service, supervised by the Public Health\n### Justice Thomas:\nNow is it structurally --is it -- is it structurally or statutorily designated\na part of an agency?\n### Hashim M. Mooppan:\nAgain, I -- there's not anything that says they are or aren't, but I think\nthe clear best reading of the statute is, when you have an entity that's\nconvened by the Public Health Service, selected by the Public Health\nService, supervised by the Public Health Service, and supported by the\nPublic Health Service, it's part of the Public Health Ser vice.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"So --so several roles. The first is, on the appointment question, we\nthe Secretary has the __________________ with respect to the\nTask Force members.\"",
+          "options": {
+            "A": "direct appointment authority",
+            "B": "delegated appointment authority",
+            "C": "indirect appointment power",
+            "D": "presidential appointment privilege"
+          },
+          "answer": "A",
+          "metadata": {
+            "correct_phrase": "direct appointment authority",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 3,
+            "context_info": {
+              "conversation_id": 33,
+              "statement_index": 1,
+              "speaker": "Hashim M. Mooppan",
+              "original_statement": "So --so several roles. The first is, on the appointment question, we\nthe Secretary has the direct appointment authority with respect to the\nTask Force members."
+            },
+            "explanation": "This phrase refers to the power of an official to appoint members directly, which is significant in discussions of executive authority and administrative law."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 34,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Alito?",
+      "questions": []
+    },
+    {
+      "conversation_id": 35,
+      "dialogue": "Justice Alito",
+      "questions": []
+    },
+    {
+      "conversation_id": 36,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nNo? Justice Sotomayor?",
+      "questions": []
+    },
+    {
+      "conversation_id": 37,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nthe opinion in Collins -- that are deemed independent, but the\npresident still has the power to remove the leadership, correct?\n### Hashim M. Mooppan:\nCorrect.\n### Justice Sotomayor:\nI know that --it seems to me that if the Task Force members are not\npaid, that that means that they would take their oath more seriously,\nwouldn't it, because they're not afraid of losing a government job?\n### Hashim M. Mooppan:\nI'm not sure I would psychoanalyze them that way.\n### Justice Sotomayor:\nNo, no, but my colleagues are.\nThey're saying that because they could be removed, they're going to\nautomatically ignore their statutory duty.\n### Hashim M. Mooppan:\nRight.\n### Hashim M. Mooppan:\nBut I -- I would say -- I -- I wouldn't say that means that the removal\npower isn't a means of supervision and influence.\n### Justice Sotomayor:\nObviously.\nBut I go back to the examples I've made, which is my law clerks I ask to\ngive me their independent judgment of what an answer should be, and\nthey'll tell you there are some times -- a lot of times I don't accept it,\nand I certainly have the power to fire them, and they still do it.\n(Laughter.)\n### Hashim M. Mooppan:\nCorrect, Your Honor.\n### Justice Sotomayor:\nAll right.\nThat's the nature of asking people to advise you, correct?\n### Hashim M. Mooppan:\nYes.\n### Justice Sotomayor:\nWhich some advice you'll accept, some you won't.\nAnd you can choose to ignore your obligation, but that's not something\nwe presume you'll do?\n### Hashim M. Mooppan:\nCorrect.\n### Justice Sotomayor:\nThank you.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 4/10",
+      "complexity_score": 4
+    },
+    {
+      "conversation_id": 38,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Kagan? Justice Gorsuch?",
+      "questions": []
+    },
+    {
+      "conversation_id": 39,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nthe Secretary cannot force a recommendation but lean heavily on the\nfact it can -- the Secretary can stop recommendations.\nI think your best authority for that may be Section 202 if I'm correct.\nYou tell me if I'm wrong.\nAnd what in 202, if it is your best authority, gives the Secretary that\npower?\n### Hashim M. Mooppan:\nSo not quite, Your Honor.\nI -- I --the basis for the distinction is coming from 299b-4(a)(6).\nWe think the statutory language says that they shall be independent in\nthe recommendations made.\nAnd so we think that means that they get to make their\nrecommendations, but that doesn't necessarily mean that those\nrecommendations have to take effect.\n### Justice Gorsuch:\nRight.\nI understand that.\n### Justice Gorsuch:\nYeah.\n### Justice Gorsuch:\nYeah.\n### Justice Gorsuch:\nOkay.\nAnd focusing on 202 in particular and putting aside the Reorganization\nAct for the moment, what in that empowers the Secretary to stop a\nrecommendation from taking effect?\n### Hashim M. Mooppan:\nWell, so the Assistant Secretary for Health, who is supervised and\ndirected by the Secretary, shall administer the entire Public Health\nService.\nAnd the ability to administer an agency is the language Congress\ngenerally uses to describe an agency head's power to control the whole\nagency.\nAs we cited in the reply brief, that's the language that govern --allows\nthe Secretary of State to administer the entire State Department, is the\nSecretary of State shall administer.\nSo we think that if it weren't for b-4(a)(6), there would be no question\nat all that the Assistant Secretary and, therefore, the Secretary could\ndirect what the Task Force does root and branch, from front to end.\nBecause of b -4(a)(6), we acknowledge that the specific governs the\ngeneral, and they have to be independent in making their\nrecommendations.\n### Justice Gorsuch:\nYeah.\n### Hashim M. Mooppan:\nBut that doesn't mean that they can't be blocked on the back end.\n### Justice Gorsuch:\nAppreciate that. Thank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 40,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Kavanaugh?",
+      "questions": []
+    },
+    {
+      "conversation_id": 41,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nI might have misunderstood that, but I thought you were also relying on\n300gg -13(b)(1) for the authority to reject a recommendation?\n### Hashim M. Mooppan:\nWell, that gives the authority to delay the effective date.\nBut then you need some other source of authority to then make the\nrecommendation go away.\n### Justice Kavanaugh:\nSo that's just the when, that's not the whether?\n### Hashim M. Mooppan:\nCorrect.\n### Justice Kavanaugh:\nOkay.\nThank you.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 42,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Barrett?",
+      "questions": []
+    },
+    {
+      "conversation_id": 43,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nI just want to clarify what you mean by the word \"independent\" or how\nyou understand it.\nI mean, Mr. Mitchell is reading it in a very maximalist way.\nYou are taking a middle road.\nI -- I wonder -- I mean, I was thinking of a law clerk example myself.\nDoes \"independent\" even have to mean independent of the Secretary?\nBecause it seems to me that I could give my law clerk some advance\ndirection. I could say: I want you to make an independent judgment and I\nwant it to be free of political influence or free of outside influence.\nAnd by that, I would mean outside the Court, I might mean outside of\nour chambers, but I might not mean for it to be apart from me, not\nindependent of me.\nAnd I could even do that ex ante.\nyour --your best take on its interpretation, seen through the lens of,\nyou know, the way I interpret statutes, the way I see law.\nSo not entirely independent.\nIf you see statutes --I mean, so, you know, I -- I don't put a huge\namount of stock in legislative history.\nSo, if I say: You know, give me your best reading of the statute and that's\nwhat they bring back, that's not going to be very useful to me.\nSo they're not independent of me or my instruction even though I could\nsay they were independent in a very real sense of the word. But I take it\nthat you don't adopt that view?\n### Hashim M. Mooppan:\nSo, Your Honor, we could have taken an even narrower interpretation of\n\"independence\" along the lines you're suggesting.\nWe thought the better reading of the statute in light of its context is the\none we have articulated, where there is independence in the\nrecommendation made even vis-- vis the Secretary.\n### Justice Barrett:\nEven vis-- vis the Secretary.\n### Hashim M. Mooppan:\nBut it doesn't block the Secretary on the back end.\nOf course, if you want to interpret the statute even more narrowly than\nthat, then that just makes it even harder for Mr. Mitchell.\n### Justice Barrett:\nWell, I mean, I think the fact that you could interpret it and, I think, give\ncontent to the word \"independence\" in an even narrower sense, I mean,\nyou have a more middle of the road, and then, as I said, I think Mr.\n### Hashim M. Mooppan:\nRight.\n### Justice Barrett:\nnecessary.\n### Hashim M. Mooppan:\nI -- I think that's right, Your Honor.\nAnd, again, ultimately, I think one way of thinking about this is this is an\nAppointments Clause challenge, so the question is whether there is\nadequate supervision.\nThe Court doesn't necessarily need to get into the exact level of what\n\"independent\" means and does it mean what you said or what I said.\nAll we -- the Court really needs to say is there's enough supervision that\nthese are properly understood as inferior officers.\nThat's all you need to do to reject the claim here and reverse the\ndecision below.\n### Justice Barrett:\nThank you.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"I -- I think that's right, Your Honor.\nAnd, again, ultimately, I think one way of thinking about this is this is an\nAppointments Clause challenge, so the question is whether there is\n____________.\nThe Court doesn't necessarily need to get into the exact level of what\n\"independent\" means and does it mean what you said or what I said.\nAll we -- the Court really needs to say is there's enough supervision that\nthese are properly understood as inferior officers.\nThat's all you need to do to reject the claim here and reverse the\ndecision below.\"",
+          "options": {
+            "A": "sufficient oversight",
+            "B": "adequate control",
+            "C": "adequate supervision",
+            "D": "excessive supervision"
+          },
+          "answer": "C",
+          "metadata": {
+            "correct_phrase": "adequate supervision",
+            "category": "legal_concept",
+            "difficulty": "hard",
+            "word_count": 2,
+            "context_info": {
+              "conversation_id": 43,
+              "statement_index": 3,
+              "speaker": "Hashim M. Mooppan",
+              "original_statement": "I -- I think that's right, Your Honor.\nAnd, again, ultimately, I think one way of thinking about this is this is an\nAppointments Clause challenge, so the question is whether there is\nadequate supervision.\nThe Court doesn't necessarily need to get into the exact level of what\n\"independent\" means and does it mean what you said or what I said.\nAll we -- the Court really needs to say is there's enough supervision that\nthese are properly understood as inferior officers.\nThat's all you need to do to reject the claim here and reverse the\ndecision below."
+            },
+            "explanation": "This phrase is significant as it relates to the standard for determining whether an individual qualifies as an inferior officer under the Appointments Clause, requiring a nuanced understanding of the balance between independence and oversight."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 44,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Jackson?",
+      "questions": []
+    },
+    {
+      "conversation_id": 45,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nAnd we also can rely on the constitutional avoidance canon.\nI mean, didn't you -- you mentioned it a couple times.\nSo let me just invite you to explain how that would work in terms of\ndeciding who has the better reading of \"independence.\"\n### Hashim M. Mooppan:\nSure.\nAnd, you know, we do think we have the better reading.\nBut, if you thought there was ambiguity here about what the scope of\n\"independence\" was or whether the appointment power was vested in\nthe Secretary rather than just the director, this Court obviously reads\nstatutes to avoid constitutional problems rather than create them.\nSo you shouldn't read the phrase \"independent\" to impose a removal\nrestriction that's not there, to impose a bar on review that's not there,\nto impose restrictions on who can appoint that aren't there.\nYou should read the statute to reinforce that the Secretary has adequate\nsupervision so that the statute, as written by Congress, can continue to\noperate.\nAnd Mr. Mitchell's only real response to all of that is, again, to say, well,\nthe statute's actually perfectly constitutional on even his theory\nbecause he thinks the president can appoint and the Senate can\nconfirm.\nBut that doesn't work as a statutory matter for the reasons we\ndiscussed.\nAnd once you take that off the table, his reading does create serious\nconstitutional problems with the statute that you can void if you adopt\nour reading.\n### Justice Jackson:\nThank you.",
+      "questions": [
+        {
+          "question": "Fill in the blank: \"Sure.\nAnd, you know, we do think we have the better reading.\nBut, if you thought there was ambiguity here about what the scope of\n\"independence\" was or whether the appointment power was vested in\nthe Secretary rather than just the director, this Court obviously reads\nstatutes to avoid constitutional problems rather than create them.\nSo you shouldn't read the phrase \"independent\" to impose a removal\nrestriction that's not there, to impose a bar on review that's not there,\nto impose restrictions on who can appoint that aren't there.\nYou should read the statute to reinforce that the Secretary has adequate\nsupervision so that ____________________________________, can continue to\noperate.\nAnd Mr. Mitchell's only real response to all of that is, again, to say, well,\nthe statute's actually perfectly constitutional on even his theory\nbecause he thinks the president can appoint and the Senate can\nconfirm.\nBut that doesn't work as a statutory matter for the reasons we\ndiscussed.\nAnd once you take that off the table, his reading does create serious\nconstitutional problems with the statute that you can void if you adopt\nour reading.\"",
+          "options": {
+            "A": "the statute, as interpreted by Congress",
+            "B": "the statute, as enacted by Congress",
+            "C": "the statute, as amended by Congress",
+            "D": "the statute, as written by Congress"
+          },
+          "answer": "D",
+          "metadata": {
+            "correct_phrase": "the statute, as written by Congress",
+            "category": "statute",
+            "difficulty": "hard",
+            "word_count": 6,
+            "context_info": {
+              "conversation_id": 45,
+              "statement_index": 1,
+              "speaker": "Hashim M. Mooppan",
+              "original_statement": "Sure.\nAnd, you know, we do think we have the better reading.\nBut, if you thought there was ambiguity here about what the scope of\n\"independence\" was or whether the appointment power was vested in\nthe Secretary rather than just the director, this Court obviously reads\nstatutes to avoid constitutional problems rather than create them.\nSo you shouldn't read the phrase \"independent\" to impose a removal\nrestriction that's not there, to impose a bar on review that's not there,\nto impose restrictions on who can appoint that aren't there.\nYou should read the statute to reinforce that the Secretary has adequate\nsupervision so that the statute, as written by Congress, can continue to\noperate.\nAnd Mr. Mitchell's only real response to all of that is, again, to say, well,\nthe statute's actually perfectly constitutional on even his theory\nbecause he thinks the president can appoint and the Senate can\nconfirm.\nBut that doesn't work as a statutory matter for the reasons we\ndiscussed.\nAnd once you take that off the table, his reading does create serious\nconstitutional problems with the statute that you can void if you adopt\nour reading."
+            },
+            "explanation": "This phrase emphasizes the importance of legislative intent and the interpretation of statutory language, which is crucial for understanding the relationship between statutory law and constitutional principles."
+          }
+        }
+      ]
+    },
+    {
+      "conversation_id": 46,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nMr. Mitchell.\n### Jonathan F. Mitchell:\nMr. Chief Justice, and may it please the Court: The court of appeals\ncorrectly held that Task Force members are principal officers who must\nbe appointed by the president and the Senate, as required by Article II.\nThey cannot be inferior officers because their task -- because their\npreventive care coverage mandates are neither directed nor supervised\nby the Secretary of Health and Human Services or by anyone else who\nhas been appointed as a principal officer.\nThe governing statutes make this clear.\nSection 300gg-13(a)(1) gives the Task Force alone the prerogative to\nimpose preventive care coverage mandates on insurers regardless of\nwhether the Secretary approves or disapproves a Task Force\nrecommendation.\nAnd Section 299b -4(a)(1) and (a)(6) require the Task Force members\nand their recommendations be kept independent and, to the extent\npracticable, protected from any type of political pressure.\nThese statutes cannot co-exist with a regime in which the Secretary can\noverrule the Task Force coverage recommendations or deny them\nbinding effect.\nThe Court also has no authority to sever Section 299b-4(a)(6), as\nproposed by the government.\nThe remedy prescribed by this Court must take the form of a final\njudgment to be entered by the district court on remand.\nAnd a federal district court has no authority and no ability to formally\nrevoke or cancel a statutory provision when entering judgment for a\nparty.\nMore importantly, a remedy from this Court must, to the maximum\npossible extent, respect the will of Congress as reflected in its enacted\nlaws.\nCongress has chosen to create an independent Task Force and shield it\nfrom political pressure, and the plaintiffs' proposed remedy honors that\ncongressional decision.\nThe government's proposed remedy would rewrite the statute into\nsomething unrecognizable by the Congress that enacted the ACA.\nAnd it is not even clear that Congress would have approved a regime in\nwhich politicians, rather than an independent Task Force, decide the\npreventive care that insurers must cover.\nI welcome the Court's questions.",
+      "questions": []
+    },
+    {
+      "conversation_id": 47,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nMr. Mitchell, your argument depends on a much broader reading of\n\"independent\" than the government's.\nWould you address the government's limit -- more limited view of\n\"independence?\"\n### Jonathan F. Mitchell:\nWell, there are two different words in play here.\nIt's not just the word \"independent,\" which appears in both Section\n299b-4(a)(1) and (a)(6).\nIt's also the phrase in subsection (a)(6) that says the Task Force is to be\nprotected from political pressure to the extent practicable.\nAnd we don't see any way that statutory language can be squared with\nthe regime envisioned by the government, where the Secretary can\ncome in and influence the Task Force decisions on the front end, which\nMooppan once again acknowledged at oral argument he believes the\nSecretary can do that. And we don't see how that can be squared with\nthe actual statutory language.\nMr. Mooppan suggests invoking the canon of constitutional avoidance\nin a way to bend subsection (a)(6) to make it more accommodating of\nhis view of secretarial power. But the constitutional avoidance canon is\ninapplicable here for many reasons.\nNumber one, Mr. Mooppan's proposed reading of subsection (a)(6) does\nnot avoid any of the constitutional problems that occurred.\nUnder the government's interpretation of subsection (a)(6), the Task\nForce members are still principal officers because they have\nunreviewable discretion when deciding not to recommend A or B ratings\non a particular preventive care service or when they decide to withdraw\na previous A or B rating that they have conferred prior to their decision\nto withdraw.\nThat means they have final decisionmaking authority that's not subject\nto direction and supervision.",
+      "questions": []
+    },
+    {
+      "conversation_id": 48,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nI don't -- I'm sorry, I don't understand that.\nCan you help?\n### Jonathan F. Mitchell:\nYes.\n### Justice Jackson:\nWhat -- what do you mean, they have unreviewable authority? First of\nall, I thought there was an interval period that the statute imposed.\n### Jonathan F. Mitchell:\nThat's right.\n### Justice Jackson:\nWhat -- what function is that if not to have some consideration of what\nthese recommendations are? That's one question.\n### Jonathan F. Mitchell:\nSure.\n### Justice Jackson:\nAnd then another is: What --what do you mean about them having\nunreviewable discretion not to make a recommendation?\n### Jonathan F. Mitchell:\nSo the test for principal officer status is whether the officer in question\nis directed and supervised in his decisionmaking.\nOn the government's reading of Section 299b-4(a)(6), if the Court\nwere to adopt that view, the Secretary would have the ability to overrule\nTask Force decisions to confer A or B ratings on preventive care.\nBut the Secretary would not have any authority to overrule the Task\n### Justice Jackson:\nBut why is that?\n### Jonathan F. Mitchell:\nMm-hmm.\n### Jonathan F. Mitchell:\nRight.\n### Jonathan F. Mitchell:\nMm-hmm.\n### Justice Jackson:\nYou know, I don't like what you did or didn't do and you're out.\n### Jonathan F. Mitchell:\nThat doesn't make them into inferior officers.\nAnd Arthrex holds as much because Arthrex acknowledges situations in\nwhich a principal officer can, through informal means, influence the\ndecisionmaking of a subordinate official.\nAnd Arthrex says that's still not good enough.\nThere has to be a formal authority to review the decisions that are being\nmade.\n### Justice Jackson:\nBut what about all the --what about all the adjudicatory cases? Mr.\n### Jonathan F. Mitchell:\nRight.\n### Jonathan F. Mitchell:\nRight.\n### Justice Jackson:\nThis is -- this is independent in the sense that people are making\nrecommendations using their own best judgment, but they're still at-\nwill removable, and we've found that is okay.\n### Jonathan F. Mitchell:\nBut they also have all their decisions subject to review by a principal\nofficer.\nWhat this Court said in Edmond was that the reason those judges were\ndeemed inferior was because they could not issue any final decision on\nbehalf of the United States without being allowed to do so by a principal\nofficer.",
+      "questions": []
+    },
+    {
+      "conversation_id": 49,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nMr. Mitchell, I -- I take that point, and the government concedes that a\n### Jonathan F. Mitchell:\nYes.\n### Justice Gorsuch:\nWhat are your thoughts?\n### Jonathan F. Mitchell:\nThe difference in Free Enterprise Fund was the SEC had all sorts of\nsupervisory authority over the PCAOB, the Public Accounting -- the\nPublic Company Accounting Oversight Board that is not present here.\nThe SEC could review and alter any rulemaking done by the board.\nThe SEC could review and overrule any sanction that was being imposed\nby the board.\n### Justice Gorsuch:\nBut what about a non-action by the board?\n### Jonathan F. Mitchell:\nWell, if you look at page 504 of the Court's opinion in Free Enterprise\nFund, it lists all the ways in which the SEC had these oversight\nauthorities.\nAnd this is not -- with all respect, Your Honor, this is not a situation of\nnon -action.\nWhen the Task Force decides to issue a C, D, or I rating rather than an A or\nB rating, that is action. It's not inaction.\nIf the Task Force decides to withdraw an A or B rating that it previously\nconferred, that is also action rather than inaction.\nSo the government's brief tries to rely on the act/omission distinction.\nIt just doesn't hold up here.\nThere will be situations in which the Task Force can take affirmative\nactions that cause a certain type of preventive care not to receive the A\nor B rating.\nAnd the government concedes that's unreviewable, so that means\nthey're still principal officers.\nBut there's a second problem as well. Even if this Court were to think\nthat Task Force members become inferior officers under the\ngovernment's interpretation of the statute, they are still\nunconstitutionally appointed because Congress has not vested the\nSecretary of Health and Human Service with the authority to appoint\nthe Task Force.\nAnd the court of appeals did not reach this question, as\n### Justice Gorsuch:\nnoted during the questioning of Mr. Mooppan.\nBut the Court would have to conclude that there was vesting of this\nauthority in the Secretary before it can say that they're constitutionally\nappointed now.",
+      "questions": []
+    },
+    {
+      "conversation_id": 50,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nSo are you saying we should remand to the Fifth Circuit to let them\naddress that for the first time?\n### Jonathan F. Mitchell:\nThe Court should not remand unless it disagrees with our principal\nofficer argument or if the Court wants to impose the severance remedy\nsuggested by the government.\n### Justice Barrett:\nSo, if we disagreed with your principal officer argument, you would say,\nsay that you disagree with our principal officer argument but then\nremand to the Fifth Circuit to give them a crack at the appointment?\n### Jonathan F. Mitchell:\nI think there would have to be a remand in that situation,\n### Justice Barrett:\n,\nunless the Court thought the issue was so open and shut.",
+      "questions": []
+    },
+    {
+      "conversation_id": 51,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nYou think -- why do you think that the Fifth Circuit didn't reach it? I saw\n### Jonathan F. Mitchell:\nRight.\n### Jonathan F. Mitchell:\nIt was.\n### Justice Sotomayor:\nIt seems to me that it -- it wasn't merely an assumption; it was a\nconclusion.\n### Jonathan F. Mitchell:\nWell, if I can defend the court of appeals for a moment, Justice\nSotomayor.\n### Justice Sotomayor:\nYes.\n### Jonathan F. Mitchell:\nThey did not need to reach that question because they concluded,\nnumber one, the Task Force members are principal officers.\nSo there's no need to decide whether Congress vested the appointment\nauthority in the Secretary.\nYou only need to reach that question if you think they're inferior officers\nbecause even inferior officers still need to be appointed by the president\nand the Senate unless Congress has affirmatively opted out of the\ndefault rule.\nBut, if you think they're principal officers, you don't need to reach that\nquestion at all.\nThe second reason I think the court of appeals refused to rule on it was\nbecause they rejected the government's proposed severance remedy.\nAnd the Court will also need to address this point if it wants to sever\nSection 299b-4(a)(6) because the severance remedy proposed by the\ngovernment is premised on the idea that the Secretary has\nconstitutional authority vested by Congress to appoint the Task Force.\nIf the Secretary doesn't have that power because Congress hasn't\nvested the power in the Secretary, then the government's severance\nremedy does not work because the inferior officers would still have to be\nappointed by the president and the Senate even if they're considered\ninferior officers.\n### Justice Sotomayor:\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 52,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nI guess I don't understand why you're separating the principal officers\nand the removability.\nI thought whether or not they are principal officers in part turns on\nwhether or not they are removable at will.\n### Jonathan F. Mitchell:\nWell, we don't mean to separate the inquiry.\nRemovability is a factor to consider.\nIt's not the be all and end all of principal officer status, and this Court\n### Justice Jackson:\nor removability because they determined that they're principal officers.\nAnd I thought the -- you can only reach the issue of whether or not they\nare principal officers by examining such things as how they are\nappointed and how they are removed.\n### Jonathan F. Mitchell:\nThe question Justice Sotomayor asked was why didn't the Fifth Circuit\n### Justice Jackson:\nHmm.\n### Jonathan F. Mitchell:\nauthority over the Task Force.\nThat was the question I was answering.\nAnd the Fifth Circuit had no need to reach that issue.\nAnd this Court also has no need to reach this issue unless it disagrees\nwith our argument on principal officers or unless the Court wants to",
+      "questions": []
+    },
+    {
+      "conversation_id": 53,
+      "dialogue": "Justice Kavanaugh",
+      "questions": []
+    },
+    {
+      "conversation_id": 54,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nWhy -- no, please.",
+      "questions": []
+    },
+    {
+      "conversation_id": 55,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nIn the reply brief, the government came back with Hartwell. Do you\nwant to address that ca se?\n### Jonathan F. Mitchell:\nYeah.\nHartwell is not on point because, in Hartwell, the statute required the\nSecretary of the Treasury to specifically approve the appointment of\nthat inferior officer.\nSo Hartwell concluded that was enough to vest the appointment power\nin the Secretary of the Treasury.\nWe don't have anything like that in these statutes.\nNothing in any of the statutes here requires the Secretary of Health and\nHuman Services to affirmatively approve the appointment of Task Force\nmembers.\n### Justice Kavanaugh:\nAnd I guess the government comes back there and says but they have\nbroader authority to -- the Secretary has broader authority to carry out\nthe provisions -- 299(a) and the Reorg Act, they say those together give\nthe Secretary the authority to essentially stand in the shoes, I suppose,\nwould be one way to characterize their argument, of the director.\nYou want to respond to that?\n### Jonathan F. Mitchell:\nSure.\nThe Secretary is allowed to appoint the Task Force.\nWe acknowledge that.\nAnyone is allowed to appoint the Task Force under the statute.\nThe question is, under the Constitution, who can appoint. The statute\ndoesn't say anything about who appoints.\nSo anybody can appoint them.\n### Justice Kavanaugh:\nWell, if you lose your principal -- I think that's important.\n### Jonathan F. Mitchell:\nMm-hmm.\n### Jonathan F. Mitchell:\nRight.\n### Justice Kavanaugh:\nallow the Secretary to appoint, that's kind of the end of it.\n### Jonathan F. Mitchell:\nNo, I don't think so. That's not vesting, all right? Anyone can appoint\nunder the statute.\nThe Secretary of Energy could appoint.\nThe president could appoint.\nThe AHRQ director could appoint. Someone from the private sector\ncould appoint. The statute doesn't say anything at all about who\nappoints.\nNo one is vested with the authority because the statute takes no\nposition on who appoints.\n### Justice Kavanaugh:\nYeah.\nOkay.\nAnd I think I understand your argument.\nYour argument's something's got to speak specifically to appointment.\nThe general authorities in the Reorganization Act and 299 are not\n### Jonathan F. Mitchell:\nThat's right.\n### Jonathan F. Mitchell:\nThat's right.\n### Justice Kavanaugh:\nYeah.\nI've got it.\n### Jonathan F. Mitchell:\nWe have a specific reference in the statute in Hartwell to the Secretary of\nthe Treasury, who must app rove the appointment before it can take\neffect.",
+      "questions": []
+    },
+    {
+      "conversation_id": 56,
+      "dialogue": "Justice Kagan\n### Jonathan F. Mitchell:\nWe don't have anything remotely like that here.\n### Justice Kagan:\nwho should appoint?\n### Justice Kagan:\nWithout even thinking that it was saying who should appoint?\n### Jonathan F. Mitchell:\nYes.\n### Justice Kagan:\nThat Congress was leaving this, like, just to the -- whatever they come\nup with?\n### Jonathan F. Mitchell:\nYes, because this was initially established as a purely advisory body.\nSo it didn't matter under -- under the Constitution who appointed\nthem.\nThe Appointments Clause didn't apply to the Task Force when it was\nfirst created because it only had advisory powers.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 57,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nBut, even if purely advisory, to pick up on",
+      "questions": []
+    },
+    {
+      "conversation_id": 58,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\n's point, it's\nunlikely that Congress just was throwing it out there in terms of who\nI mean, usually Congress thinks that it does things like that, right? I\nmean, it would be an odd statute.\nI doubt you could find another where Congress has set up a board and\n### Jonathan F. Mitchell:\nAnd \"convene\" does not mean appoint, as",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 59,
+      "dialogue": "Justice Thomas\n### Justice Thomas:\nmentioned\nearlier.",
+      "questions": []
+    },
+    {
+      "conversation_id": 60,
+      "dialogue": "Justice Kagan",
+      "questions": []
+    },
+    {
+      "conversation_id": 61,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nBut it could.",
+      "questions": []
+    },
+    {
+      "conversation_id": 62,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nBut, in the absence of anything else, it would be a natural reading to say:\nWhen you're looking at one person and saying he can convene the\nboard, that means -- and there's nobody else out there to actually pick\nthe board members, that means he should also pick the board members.\n### Jonathan F. Mitchell:\nHe's certainly allowed to pick the board members,\n### Justice Kagan:\n.\nWhat we're saying is the statute doesn't forbid other people from\nappointing.\nThe president could appoint the A -- the members of the Task Force.\nHe could have done that prior to the ACA, and he can do it after the ACA.\nIn fact, we think he's constitutionally compelled now, after the ACA, to\nappoint them, with the advice and consent of the Senate.\nThere is no statute that forbids the president to appoint.",
+      "questions": []
+    },
+    {
+      "conversation_id": 63,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nWell, if \"convene\" does mean appoint, then -- then we do have a\nproblem on -- on an inferior officer theory, don't we?\n### Jonathan F. Mitchell:\nThere is a problem, yes, because now we have a statute that's requiring\n### Justice Gorsuch:\nYeah, but even if -- even if you should lose that argument, again, and\nwe're talking about inferior officers, Mr. Mitchell, if we read \"convene\"\nto mean vesting the appointment power in the director, that --that's -\n-that's a problem.\n### Jonathan F. Mitchell:\nThat's a big problem. It means the statute is unconstitutional, and the\nCourt should, therefore, reject any interpretation of the word\n\"convene\" that makes it synonymous with \"appoint\" because that\nwould create not simply a constitutional question but a constitutional",
+      "questions": []
+    },
+    {
+      "conversation_id": 64,
+      "dialogue": "Justice Kavanaugh",
+      "questions": []
+    },
+    {
+      "conversation_id": 65,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nBut wait.\nWhy?",
+      "questions": []
+    },
+    {
+      "conversation_id": 66,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nthe statutory provisions acting through the director.\nI mean, that's their response to that, right?\n### Jonathan F. Mitchell:\nMaybe -- maybe that works, but, again, the question",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 67,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nwas asking me is, if (a)(1) is construed to vest the appointment power in\nthe AHRQ director, even the government would agree with us that's\nunconstitutional.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 68,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nThat -- yeah, that alone would be a problem, I totally agree.\nBut then maybe you have to figure out how to fix that problem.\nAnd one way that the government points out is, well, the statute itself\nessentially fixes that problem because it says that the Secretary can\ncarry out the duties of the director.\n### Jonathan F. Mitchell:\nMaybe that works.\nBut the question, again, under the Article II is where has Congress\nvested the appointment power.\nAnd if Congress has vested it in the AHRQ director, who is not even a\nhead of department, the AHRQ director can't even appoint inferior\nofficers.\nAnd the government agrees with us on this much, right? One thing we\nall agree on is that the Task Force was unconstitutionally appointed for\nthe 13 -year period that began in March of 2010, when the Affordable\nCare Act was first enacted into law, through June of 2023, when\nSecretary Becerra reappointed the Task Force.\nEveryone agrees that those were unconstitutional appointments, and\neveryone agrees, I would think, that the recommendations that issued\nduring that 13 -year period cannot be enforced until the Task Force\nreissues those recommendations after receiving a constitutional\nappointment.\nSo it's hard for me to understand why the government's suggesting a\nremedy of severance when, at the very least, we should be entitled to an\n### Jonathan F. Mitchell:\nYeah.\n### Justice Kavanaugh:\nconstitutional avoidance would say: Well, don't read it to be the director\nin isolation.\nRead the other provisions which give the Secretary authority over the\ndirector so that the Secretary can do the convening/appointing, and\nthat solves the constitutional problem.\n### Jonathan F. Mitchell:\nYeah, Justice Kavanaugh, I agree that the Secretary is allowed to appoint\nthe Task Force.\n### Justice Kavanaugh:\nRight.\n### Jonathan F. Mitchell:\nAnd we've never disputed that.\n### Justice Kavanaugh:\nAnd so it's vesting by law under Article II.\nThat's your key point there.\n### Jonathan F. Mitchell:\nRight.\nVested by Congress.\nWhere has Congress by law vested that authority? And if the statute is\nvesting the authority in the AHRQ director, that is unconstitutional even\nif they're inferior officers.\nAnd that's why the Court, I think, has to reject an interpretation of the",
+      "questions": []
+    },
+    {
+      "conversation_id": 69,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nAnd you're saying as well, as I understand it, that if Congress didn't vest\nit in the director but vested it in the director and the Secretary and 15\nother people in between, that's a problem too?\n### Jonathan F. Mitchell:\nIt's a problem too because these are principal officers.\n### Justice Gorsuch:\nWell, even if they're inferior officers, would it be a problem? If an\ninferior --if the -- if Congress vested the power to appoint an inferior\nofficer in the Secretary plus 15 people, is that permissible?\n### Jonathan F. Mitchell:\nI'm not sure.\nIt would -- at the very least, if they had vested it in the Secretary and\nthey also go on to say in the statute but other people can also exercise\nthe power, it still has to be, I think, ultimately, a head of department",
+      "questions": []
+    },
+    {
+      "conversation_id": 70,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nBut what if it's -- what if it's investing it in the director subject to the\nsupervision and control of the Secretary? So there aren't 14 other people\nwandering around.\nIt's in the director because he's the person who convenes, subject to the\nSecretary, because the statute otherwise gives the -- the Secretary\nsupervisory control over the director.\n### Jonathan F. Mitchell:\nI -- I don't think that's good enough,\n### Justice Kagan:\n.\nI think the statute would have to say the Secretary must affirmatively\napprove the Assistant Secretary or the director's recommendation.\nThat was Hartwell.",
+      "questions": []
+    },
+    {
+      "conversation_id": 71,
+      "dialogue": "Justice Barrett\n### Jonathan F. Mitchell:\nIf the statute went that far, I would agree that's vesting.",
+      "questions": []
+    },
+    {
+      "conversation_id": 72,
+      "dialogue": "Justice Kavanaugh",
+      "questions": []
+    },
+    {
+      "conversation_id": 73,
+      "dialogue": "Justice Barrett\n### Jonathan F. Mitchell:\nI don't think it -- I'm sorry.\n### Justice Barrett:\nGo ahead, Justice Kavanaugh.\nBut doesn't that prove the point there are all of these questions, and\n### Jonathan F. Mitchell:\nYeah.\n### Jonathan F. Mitchell:\nYes, I do believe that it should be remanded if the Court thinks it\nnecessary to reach this question.\nWe don't think the Court should reach this question or any court should",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 74,
+      "dialogue": "Justice Kavanaugh\n### Jonathan F. Mitchell:\nYes.\n### Justice Kavanaugh:\nmay appoint?\n### Jonathan F. Mitchell:\nIf it says the Secretary or director may appoint, then Congress has\nvested the appointment authority in a head of department.\nBut we would still say that's unconstitutional because they're principal\nofficers.\n### Justice Kavanaugh:\nPutting that aside.\n### Jonathan F. Mitchell:\nIf the Court disagrees with us, if they reject our principal officer\nargument, that's the question that would have to be resolved by the\nFifth Circuit on remand,",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 75,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nI mean, that's -- it's a curious thing just to --just to continue to say\nyou're -- it's vested in two places.\nOne is constitutional, and the other's unconstitutional.\n### Jonathan F. Mitchell:\nBut at least Congress has made the vesting in a head of department.\n### Jonathan F. Mitchell:\nAnd I think the head o f department would have to exercise that\nauthority, first of all.\n### Justice Gorsuch:\nWell, what if -- what if he didn't, though? What if the Secretary didn't\n### Justice Gorsuch:\nWe've never had a case like that.\n### Jonathan F. Mitchell:\nI don't think there has.\nI think the Secretary would have to approve the appointment for it to be\n### Justice Gorsuch:\nYeah, I -- yeah. So -- so you're saying that under -- under any\ncircumstance --vested in 15 different places, but, ultimately, for it to be\nconstitutional, it has to be the Secretary who acts?",
+      "questions": []
+    },
+    {
+      "conversation_id": 76,
+      "dialogue": "Justice Sotomayor",
+      "questions": []
+    },
+    {
+      "conversation_id": 77,
+      "dialogue": "Justice Kavanaugh",
+      "questions": []
+    },
+    {
+      "conversation_id": 78,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\ndon't like it, I tell them, and if I like it, I leave it alone.\n### Jonathan F. Mitchell:\nMm-hmm.\n### Justice Sotomayor:\nYou want the Secretary to sign a piece of paper that says the director\ntook this action, I saw the -- I saw the Task Force, I saw the\nrecommendations, I saw him leaving them in place, and that doesn't\nmean that the Secretary agrees?\n### Jonathan F. Mitchell:\nWe don't think the Secretary has the authority to do any of that.\n### Justice Sotomayor:\nYou think that the Constitution requires him -- giving",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 79,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\n's\nexample -- that the director is subject to the supervision of the\nSecretary?\n### Jonathan F. Mitchell:\nIs Your Honor's question asking whether the Secretary has to approve\nthe Task Force's recommendations, or are you -- is Your Honor asking\nabout whether the Secretary has to approve an appointment to the Task\nForce?",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 80,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nBoth.\nBoth.\n### Jonathan F. Mitchell:\nAll right.\nSo, if -- this is a hypothetical I was being asked from",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 1/10",
+      "complexity_score": 1
+    },
+    {
+      "conversation_id": 81,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\n.\nIf there's a statute that vests the appointment power in the Secretary\nand another person, the Secretary needs to sign off on the ultimate\nappointment if these are inferior officers -- and we reject that premise",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 82,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nAll right.\n### Justice Sotomayor:\nI just -- I -- I'm having a difficult time understanding.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 1/10",
+      "complexity_score": 1
+    },
+    {
+      "conversation_id": 83,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nDo you -- you accept Hartwell.\nYou just say this doesn't fall within Hartwell?\n### Jonathan F. Mitchell:\nThat's right.\nThat's right.\n### Justice Kavanaugh:\nOkay.\n### Jonathan F. Mitchell:\nAnd, again, all these issues probably should be remanded to the Fifth\nCircuit if the Court thinks it necessary to reach this point because,\nnumber one, the Fifth Circuit didn't resolve the question below. There's\nvery little briefing on this issue.\nWe barely discussed this in our brief.\nThere's a little bit of a more robust discussion in the Solicitor General's\nreply brief.\n### Justice Kavanaugh:\nTwo pages.\n### Jonathan F. Mitchell:\nYeah.\n### Justice Kavanaugh:\nI was agreeing with you.\n### Jonathan F. Mitchell:\nAnd this Court has said many times: We are a court of review, not of first\nview.\n### Justice Kavanaugh:\nYeah.\n### Jonathan F. Mitchell:\nSo I don't think it would be prudent for the Court to rule on that\nquestion in the first instance if it thinks it necessary to reach that.\nAnd, of course, we believe it's not necessary for the Court to reach that.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 84,
+      "dialogue": "Justice Barrett\n### Justice Barrett:\nCan I -- can I ask you about your -- your principal argument, the\nindependence point?\n### Jonathan F. Mitchell:\nMm-hmm.\nYes.\n### Justice Barrett:\nI mean, I guess one thing that I'm struggling with is, you know, as I was\nsuggesting to Mr. Mooppan, your interpretation is very maximalist, and,\nyou know, normally, as Mr. Mooppan said, we try to construe statutes to\navoid constitutional questions, not create them.\n### Jonathan F. Mitchell:\nRight.\n### Justice Barrett:\nAnd I feel like, you know, there is a way, and during the colloquy with\nyour friend on the other side, a lot of us were asking, you know, ways\nthat you can construe \"independence\" more narrowly. Why wouldn't\nwe do that for the sake of constitutional avoidance? I mean, I assume\nyou're going to say, oh, it's not plausible.\n### Jonathan F. Mitchell:\nWell, that's part of the answer.\nI mean, it's not just the word \"independence,\" but it's also the\nprovision that says that the Task Force members have to be protected\nfrom political pressure to the extent practicable.\nSo that -- that is a maximalist interpretation that's in the statute itself.\nThat language appears there.",
+      "questions": []
+    },
+    {
+      "conversation_id": 85,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nWell, I don't know.\nI mean, \"to the extent practicable\" actually seems non-maximalist to\n### Jonathan F. Mitchell:\nMm-hmm.\n### Jonathan F. Mitchell:\nSure.\n### Jonathan F. Mitchell:\nIt may not be possible. You -- you can't censor people from talking, for\nexample.\nAnd if you really wanted to make them completely immune from\npolitical pressure, you might have to sequester them the way jurors get\nsequestered during a trial and not allow them to read the newspaper or\nsomething to that effect.\nIt's not saying that we should go to these types of extreme measures.\nBut the -- the reason I don't think constitutional avoidance is even\nrelevant here, Justice Barrett, is because the statute is constitutional no\nmatter how it's construed.\nEven if the Court were to adopt our view of the meaning of\n\"independent,\" there is no constitutional problem with the statute.\nIt does not violate the Constitution for Congress to give the Task Force\nauthority to make these preventive care coverage decisions as long as",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 7/10",
+      "complexity_score": 7
+    },
+    {
+      "conversation_id": 86,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nI don't mean to interrupt.\n### Jonathan F. Mitchell:\nYes.\nPlease.\n### Justice Kavanaugh:\nJust coming from a different Article II direction, we usually don't\ninterpret statutes to create independent agencies without some\nindication that's stronger than what we have here that this is really\nprotected from presidential or someone else's, Secretary, head of\ndepartment, removal power.\n### Jonathan F. Mitchell:\nI don't know how the language could be stronger, though, Justice\nKavanaugh.\nIt's not just the word \"independent,\" which is what we had in Collins\nagainst Yellen, and the Court said that's not good enough to make it\nindependent from presidential removal.\n### Justice Kavanaugh:\nWell, it could be stronger if it had for -cause protection, and it could be\nstronger if it didn't have the phrase that",
+      "questions": []
+    },
+    {
+      "conversation_id": 87,
+      "dialogue": "Justice Kagan\n### Jonathan F. Mitchell:\nSure.",
+      "questions": []
+    },
+    {
+      "conversation_id": 88,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nfrom what you would see normally with an independent agency.\nAnd, normally, with an independent agency -- correct me if I'm wrong -\n- the statutes usually say the president, by and wit h the consent of the\nSenate, shall appoint.\n### Jonathan F. Mitchell:\nRight.\n### Justice Kavanaugh:\nAnd that's usually in the statute.\n### Justice Kavanaugh:\nAnd -- and many of them, although not all, say the for-cause removal\nprotection too.\n### Jonathan F. Mitchell:\nRight.\n### Justice Kavanaugh:\nRight.\nSo all that's missing here.\n### Jonathan F. Mitchell:\nThat's true, but I think there are -- it's easy to explain why it's missing.\nThis was initially established as a purely advisory body that had no real\npowers. So that's why they didn't initially say in the statute that the\npresident has to appoint these people with the Senate's advice and\nconsent.\nIt was only when the Affordable Care Act for the first time gave the Task",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 89,
+      "dialogue": "Justice Jackson",
+      "questions": []
+    },
+    {
+      "conversation_id": 90,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nWell, point taken as to what the history is, but still, I mean, we don't go\naround just creating independent agencies.\nMore -- more -- more often we destroy independent agencies.\n(Laughter.)\n### Justice Kagan:\nYou know, the idea that we would take a statute which doesn't set up an\nindependent agency and declare it one strikes me as pretty inconsistent\nwith everything that we've done in this area.\n### Jonathan F. Mitchell:\nofficial.\n### Justice Kagan:\nYeah.\nI mean, that, you know, we've -- we've basically said we're not going to\nread something as putting restrictions on removal power unless it puts\nrestrictions on removal power.\n### Jonathan F. Mitchell:\nRight.\nBut the problem here, it's not really a question of removal power, Justice\nKagan.\nThe test for principal officer status turns on whether the Secretary can\ndirect and supervise the decisions of these Task Force members.\n### Jonathan F. Mitchell:\nRight.\n### Jonathan F. Mitchell:\nMm-hmm.\n### Justice Kagan:\nsomebody said it's not the end all and the be all.\nI think Mr. Mooppan said that.\n### Jonathan F. Mitchell:\nRight.\n### Justice Kagan:\nAnd I don't know.\nIf you read this Court's decisions, it seems often to be the end all and the\nbe all, that the Court has suggested on many occasions that removal\npower is really the essence of control.\nIf you have it, you have control.\nIf you don't have it, you don't have control.\nNow, as you know I'm sure, on -- on a number of occasions, I've said\n### Jonathan F. Mitchell:\nRight.\n### Justice Kagan:\nBut the Court has said it again and again.\nSo why doesn't it get you, if not a hundred percent of the way there in a\ncontext like this, pretty near there?\n### Jonathan F. Mitchell:\nI think that argument would have more force if it weren't for the opinion\nin Arthrex.\nIf we were litigating this case 10 years ago before the Arthrex opinion, I\nthink that would have a lot of -- that would be a very powerful reason to\nsay these could be inferior officers.\nBut, if you look at the Arthrex opinion, pages 15 and 16, where Arthrex\ncatalogs all the ways in which the PTO Director can influence the\ndecisionmaking of these administrative patent judges in an informal\nway, without the formal ability to review their decisions, and then the\nCourt says not only is that not good enough, it actually says that\naggravates the problem.\nThis is not the solution; it is the problem because it blurs the lines of\naccountability and it undermines the transparency that the\nAppointments Clause is supposed to provide.\nYou know, again, if Arthrex wasn't there, I think we would have an\ninteresting discussion about whether the test for principal officer status\nshould be this formalistic test that Arthrex sets forth or whether we\nshould have more of a hard-nosed legal realist look at the actual powers\nthat the Secretary can exert to influence the Task Force.\nBut Arthrex really, I think, makes it hard for that argument to get off the\nground.",
+      "questions": []
+    },
+    {
+      "conversation_id": 91,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nMr. Mitchell, can I ask you about the interval?\n### Jonathan F. Mitchell:\nYes.\n### Justice Jackson:\nBecause we don't just have potential at -will removal power here. We\nhave something in this statute that seems to me to be fairly unusual,\nwhich is the requirement that the Secretary establish this minimal\ninterval after the recommendation is made before they come -- it\ncomes into effect.\n### Jonathan F. Mitchell:\nRight.\n### Justice Jackson:\nSo can you speak to why that doesn't have some indicia of secretarial\ncontrol that we can look to when we try to understand the relationship\nbetween the Secretary and these members and their\nrecommendations?\n### Jonathan F. Mitchell:\nI think it has the opposite implication,\n### Justice Jackson:\n, because 300gg-\n13 specifically addresses the Secretary's role vis-- vis the Task Force,\nand as Justice Kavanaugh suggested earlier, it only allows the Secretary\nto determine when these preventive care provisions are to take effect.\n### Justice Jackson:\nI mean, if you're right that these are principal officers who are making\nbinding recommendations, I guess I'm struggling to understand what\nthe point of deferring them or allowing the Secretary to intervene and\ndefer them for at least a year, what is -- what is the point of that?\n### Jonathan F. Mitchell:\nThe point of that is it's very hard for insurers to change their coverage\nrequirements in the middle of a plan year.\nSo the minimum interval is set at one year.\nThat's the minimum so the insurance companies can plan ahead for the\n### Justice Jackson:\nBut Congress could have done that by statute without the Secretary\nbeing involved.\nThey gave the Secretary some authority to establish an interval, so the\nSecretary's doing work.\n### Jonathan F. Mitchell:\nRight.\n### Justice Jackson:\nMr. Mooppan says, during that interval, the Secretary can not only delay\nthe recommendations but can also, in his view, take some steps as to\nthe constitution of the Task Force, perhaps even in communication with\nthem regarding those steps having been done because they made\ncertain recommendations with --with respect to which the Secretary\ndisagrees.\nSo I guess I'm just trying -- I mean, it doesn't necessarily suggest that\nreally this is only a time -related thing.\nThe Secretary's getting involved.\nHe's making decisions.\nWhy doesn't that give us some basis for interpreting this to be a statute\nin which there is secretarial control?\n### Jonathan F. Mitchell:\nWe dispute all those claims Mr. Mooppan made about what the\nSecretary can do during that minimum time interval because the\nstatutes guarantee the Task Force's independence.\nWhat Mr. Mooppan is describing where the Secretary can put pressure\non the Task Force to pull down a previously issued A or B rating is not\nconsistent with the statutory guarantee.\n### Justice Jackson:\nBut the statute doesn't have specific blocks, and so what I'm -- what I\nguess I'm -- I'm going back to this notion of how should we be reading\nthis statute.\nYou dispute that the Secretary can do all of those things, but the statute\ndoesn't say he can't.\nAnd so why would we read the statute to prevent the Secretary from\nexercising the control that is necessary to make it constitutional in this\nsituation?\n### Jonathan F. Mitchell:\nBecause it doesn't make the statute constitutional for all sorts of\nreasons.\nMay I answer, Mr. Chief Justice?",
+      "questions": []
+    },
+    {
+      "conversation_id": 92,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nSure.\n### Jonathan F. Mitchell:\nIt doesn't make the statute constitutional,",
+      "questions": []
+    },
+    {
+      "conversation_id": 93,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\n, because,\nnumber one, they're still principal officers because they have\nunreviewable discretion when it comes to decisions not to impose an A\nor B rating.\nNumber two, even if Your Honor's proposed reading of the statute\nmakes the Task Force members into inferior officers, Congress has not\nvested the Secretary with appointment power over the Task Force, so\nthey're still unconstitutionally appointed.\nAnd, number three, Your Honor's proposed reading of the statute still\ndoes not fix the problem that occurred from March of 2010 to June of\n2023 when even the government acknowledges the Task Force was\nunconstitutionally appointed during that 13 -year window of time.\nAnd all the preventive care coverage mandates that were issued during\nthat time should not be enforceable until the Task Force members\nreceive a new appointment that is constitutional and they reissue the A\nor B ratings in response to that constitutional appointment.",
+      "questions": []
+    },
+    {
+      "conversation_id": 94,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nJustice Thomas? Justice Alito?",
+      "questions": []
+    },
+    {
+      "conversation_id": 95,
+      "dialogue": "Justice Alito\n### Justice Alito:\nWould you comment on Mr. Mooppan's just -- argument that a\ndistinction can be made under his understanding of what the Secretary\ncan do between pressure to get rid of a recommendation and pressure to\nadopt a recommendation in the first place?\n### Jonathan F. Mitchell:\nAny kind of pressure,\n### Justice Alito:\n, is incompatible in our view with the\nstatutory guarantees of independence.\nI don't see how that distinction can be reconciled with the text of a\nstatute that not only guarantees the independence of the Task Force\nmembers and their recommendations but also says that the Task Force\nand their recommendations has to be immunized from political\npressure to the extent practicable.\nI just don't see how that distinction could be squared with anything in\nthe text of the statute.\nI think what Mr. Mooppan is trying to do is salvage some role for 299b-\n4(a)(6) because it's not plausible, I think, even on the government's\nview to allow the earlier enacted statutes, such as Section 202 and the\nReorganization Plan, to completely swallow up these later-enacted\nguarantees of independence. So they're trying to draw some line. But\nthere's nothing in the text of the statute that can provide an anchor for\nthe distinction he --that he's trying to draw.\nSuppose it were ultimately -- suppose it is ultimately decided that the\nstatute implicitly confers the appointment power on the Secretary and\nthat -- and then how much more of the statute would have to be\njettisoned in order to make it constitutional?\n### Justice Alito:\nLike the setup constitutional?\n### Jonathan F. Mitchell:\nYeah.\nNone of the statute needs to be jettisoned in order to make it\nconstitutional even under our reading of the statute.\nIf the Court decides that Congress has vested the Secretary with\nappointment power over the Task Force, the appointments are still\nunconstitutional in our view because they're principal officers.\nThey have to be appointed by the president and the Senate no matter\nwhat.\nBut, if the Court even rejects that view, there's still the problem that the\nTask Force was appointed by the AHRQ director for 13 years between\n2010 in March and June of 2023, and there has to be some remedy\nissued for those admitted constitutional violations.\n### Justice Alito:\nSo that would be -- that would be for the -- what was done before\nSecretary Becerra.\nWhat about going forward? What would need to be done?\n### Jonathan F. Mitchell:\nGoing forward, it will depend on whether the Court thinks these are\nprincipal officers.\nIf the Court thinks they're principal officers, then they have to be\nappointed by the president and the Senate as well.\n### Justice Alito:\nSuppose we thought that they were inferior officers.\n### Jonathan F. Mitchell:\nIf the Court thinks they're inferior officers, there should be a remand, in\nour view, to the Fifth Circuit to rule on the question whether Congress\nhas vested the Secretary of Health and Human Services with\nappointment power.\nI don't think it's appropriate for the Court to decide that issue based on\nhow cursory the briefing is.\n### Justice Alito:\nWell, suppose that -- suppose we do that, the Fifth Circuit goes back\nand says that, or we tackle the question and we say that the statute\nvests -- vests the appointment power in the Secretary.\nThen what?\n### Justice Alito:\nAnd what -- that's what I'm asking.\nWhat would the remedy be?\n### Jonathan F. Mitchell:\nThe remedy would have to be an injunction that restrains the Secretary\nfrom enforcing any of the Task Force coverage recommendations that\nissued between March of 2010 and June of 2023.\nEven the government concedes the Task Force was unconstitutionally\nappointed during that time.\nSo I don't see how the government can deny that we're entitled to at\nleast that much.\n### Jonathan F. Mitchell:\nIf the Court -- the remedy going forward if the Court concludes that\nthey're inferior officers and that the Secretary's been vested with\nappointment power, there should be no remedy going forward.\nWe only can get a remedy for those past --that 13-year window.\n### Justice Alito:\nOkay.\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 96,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Sotomayor?",
+      "questions": []
+    },
+    {
+      "conversation_id": 97,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\nI can look this up later, but I thought that at a certain point the Secretary\n### Jonathan F. Mitchell:\nHe did, yes.\n### Justice Sotomayor:\nHe did?\n### Jonathan F. Mitchell:\nYes.\n### Justice Sotomayor:\nentitled to do that?\n### Jonathan F. Mitchell:\nOh, we are -- absolutely are questioning that he's entitled to do that.\n### Justice Sotomayor:\nWell, for the same grounds.\n### Jonathan F. Mitchell:\nRight.\nSo here's why that doesn't work.\nThis is the ratification memo.\nIt appears on pages 34 to 35A of the Joint Appendix.\nThe Fifth Circuit specifically held that Secretary Becerra had no\nauthority to issue that ratification memo.\nThat's on pages 27A to 28A of the petition.\n### Justice Sotomayor:\nIs that because he -- why?\n### Jonathan F. Mitchell:\nBecause he has no authority to impose preventive care coverage\nmandates.\nOnly the Task Force can do that.\nThe government --the government did not seek certiorari on that\nquestion.\nThey have not asked and they are not asking this Court to reverse that\npart of the Fifth Circuit's ruling. So that is a closed issue.\n### Jonathan F. Mitchell:\nAll right.\n### Jonathan F. Mitchell:\nBut, even if it were properly before this Court, that document is invalid\nbecause the Fifth Circuit's right, Secretary Becerra doesn't have the\nauthority. But, even if he did, that needs to go through notice -and -\ncomment rulemaking because it's a substantive rule, it's a legislative\nrule that imposes binding obligations on private insurers, and it's\nimplementing delegated authority that's been given to one of the\nagencies in the federal government.\nSo it has to go through notice and comment under Section 553, and it\ndidn't.",
+      "questions": []
+    },
+    {
+      "conversation_id": 98,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Kagan?",
+      "questions": []
+    },
+    {
+      "conversation_id": 99,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nIt does seem, Mr. Mitchell, as though, putting aside the vesting issue for\nnow, that your argument really does rise and fall on how we read that\n\"independence\" language. And, you know, just an alternative view of\nthat language is something along the lines of: Look, the members of this\nTask Force are going to be subject to some kinds of influence because\n### Jonathan F. Mitchell:\nMm-hmm.\n### Jonathan F. Mitchell:\nMm-hmm.\n### Justice Kagan:\nBut we want them to approach their jobs with a spirit of independent-\nness.\n### Jonathan F. Mitchell:\nRight.\n### Justice Kagan:\nAnd -- and also, Congress is saying to the people who -- you know, who\nshould think about the fact that this system works best if the Task Force\nmembers are treated as independent, but it's -- it's hortatory.\nIt's not saying that nobody can fire them.\nIt's not saying that nobody can supervise them and nobody can, you\nknow, prevent their recommendations from going forward.\nIt's hortatory.\nSo why shouldn't I read the statute that way?\n### Jonathan F. Mitchell:\nWell, even if Your Honor read s the statute that way, they're still\nprincipal officers under Arthrex because, under that view that Your\nHonor is describing of \"independence,\" there's no authority in the\nSecretary to formally review and formally reverse the decisions the Task\nForce is making in either direction.\nAnd that's what Arthrex says is key. There may be informal ways the\nSecretary can influence the Task Force, such as removal or threatened\nremoval or other types of tactics, but Arthrex discusses all these types of\nand it says that's not good enough.\n### Justice Kagan:\nOkay.\nSo then I'm going to say then it --then your argument depends on a\n### Justice Kagan:\nWe're not dealing with every circumstance, every scenario.\nYou know, we're dealing here with a particular kind of officer.\n### Jonathan F. Mitchell:\nI just --I don't think that's an aggressive reading at all because Arthrex\nsays the touchstone for principal officer status is whether there is\nformal review available of the relevant official's decisionmaking.\nAnd even under the government's construction of the statutes, the only\nformal review that they're providing is formal review of an affirmative\ndecision by the Task Force to issue an A or B rating.\nThey admit that the Secretary can't reverse the Task Force if it makes a\ndecision in the opposite direction, a decision not to impose an A or B\nrating.\nI mean, that alone is enough to make them principal officers even under\nthe SG's view and even under Your Honor's proposed interpretation of\nthe word \"independent.\" At the end of the day, when you go back to\nSection 300gg-13(a)(1), it is the Task Force recommendation that\nmatters.\nThat is what is binding on insurers.\nIt is not the Secretary's decision that can bind insurers. So, even if the\nSecretary were to say: I hereby disapprove this Task Force\nrecommendation, that's useless when it comes to Section 300gg-13(a)\n(1) because what matters is what the Task Force says.\nIt's not what the Secretary says.\n### Justice Kagan:\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 100,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Gorsuch?",
+      "questions": []
+    },
+    {
+      "conversation_id": 101,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nIf I understood your exchange with",
+      "questions": []
+    },
+    {
+      "conversation_id": 102,
+      "dialogue": "Justice Sotomayor\n### Justice Sotomayor:\n--and I just want\n### Jonathan F. Mitchell:\nMm-hmm.",
+      "questions": []
+    },
+    {
+      "conversation_id": 103,
+      "dialogue": "Justice Gorsuch\n### Justice Gorsuch:\nprincipal officers or if we should remand on the basis that they're\n### Jonathan F. Mitchell:\nMm-hmm.\n### Justice Gorsuch:\nmust fall for a couple of reasons.\nOne, he has no authority.\nI want you to spell that out a little further.\n### Jonathan F. Mitchell:\nRight.\nThat's correct.\n### Justice Gorsuch:\nAnd second, the re was no notice and comment.\nAnd --and I understand that one.\n### Jonathan F. Mitchell:\nSure.\n### Jonathan F. Mitchell:\nAnd just to be clear, there's a third reason, which is that issue is not\nproperly before this Court.\n### Jonathan F. Mitchell:\nRight.\nI mean, it's not within the scope of the question presented.\n### Jonathan F. Mitchell:\nRight.\n### Justice Gorsuch:\nSo what do we do about it?\n### Jonathan F. Mitchell:\nWell, I'm happy to answer Your Honor's question, but, again, it's not\nproperly before this Court because it's not in the scope of the QP.\nThe government did not seek certiorari on the question.\nAnd at no point anywhere in the briefing or in Mr. Mooppan's oral\npresentation today has the government asked this Court to reverse that\npart of the Fifth Circuit's ruling.\nBut the ruling is nonetheless correct because the only entity that has\nthe power to impose preventive care coverage mandates is the Task\nForce.\nThe Secretary's role is only to determine when those coverage\nmandates take effect.\nSo for the Secretary to go out and say: I hereby ratify the Task Force\nrecommendations, that has no more legal force than if I were to produce\na memo that says I ratify the Task Force recommendations.\nI don't have any authority to impose preventive care coverage mandates\neither. Neither does the Secretary.\nSo the document has no force --that's what the Fifth Circuit said in its\nopinion, and that's completely right.\nThe other reason is notice an d comment.\nThe Fifth Circuit did not reach that issue.\nBut this is undoubtedly a substantive rule.\nIt's clearly a rule.\nAnd it's a substantive rule as well because it's imposing binding legal\nobligations on private insurers. It's prescribing law and policy.\nSo it has to go through notice and comment unless some exception\napplies.\nMaybe the good cause exception if the government wants to argue for\nthat.\nBut, again, they 've waived this entire issue, so I don't think they can\npossibly make that type of argument now about how an exception to\nnotice and comment might kick in.\n### Justice Gorsuch:\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 104,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Kavanaugh?",
+      "questions": []
+    },
+    {
+      "conversation_id": 105,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\nYour theory, I think, depends on us treating the Task Force as this\nmassively important agency that operates with unreviewable authority\n### Jonathan F. Mitchell:\nMm-hmm.\n### Jonathan F. Mitchell:\nYeah, it is.\n### Justice Kavanaugh:\nAnd, normally, before that kind of thing would happen, Congress would\nhave provided stronger indications that this Task Force is enormously\nimportant in the American economy and would have treated it such.\nAnd I just don't see indications of that.\n### Jonathan F. Mitchell:\nYeah.\n### Justice Kavanaugh:\nBut I just don't see the indicators that: Oh, this Task Force, called a Task\nForce, is more powerful than the Secretary of HHS or the president in\nterms of how these recommendations are going to affect the healthcare\nindustry.\n### Jonathan F. Mitchell:\nIt is -- it is more powerful than both of those individuals you mentioned\n### Justice Kavanaugh:\nUnder your theory -- under your theory, yeah.\n### Jonathan F. Mitchell:\n-- that is how -- it's not my theory,\n### Justice Kavanaugh:\n.\nIt's how the statute is written.\n### Jonathan F. Mitchell:\nIt says -- it says the Task Force shall be independent and shielded from\npolitical pressure to the extent practicable.\nIt's hard for me to see stronger language than that if Congress is trying\n### Justice Kavanaugh:\nThis goes back to the history.\nYou're --I mean, when that was originally drafted, that --they weren't\nbinding.\n### Jonathan F. Mitchell:\nRight.\nAnd I don't think Your Honor should be surprised that Congress would\nwrite the statute this way because it's perfectly consistent with this\nCourt's current doctrine.\nThey are not exercising executive power.\nSo Myers and those line --and all those lines of cases about how the\n### Justice Kavanaugh:\nWhat are -- what are they exercising?\n### Jonathan F. Mitchell:\nThey're exercising quasi-legislative power.\nIt's not quasi-judicial.\nThey're not adjudicating anything.\nBut they cannot enforce the law against anyone.\nThey are making recommendations that have binding effect under\nanother statute. That's quasi-legislative power. And it's a multi -\nmember agency.\nIt's not headed by a single director.\nSo the holdings of Seila Law, Collins against Yellen, none of that applies\nhere.\n### Justice Kavanaugh:\nOkay.\nThank you.\n### Jonathan F. Mitchell:\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 106,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nJustice Barrett?",
+      "questions": []
+    },
+    {
+      "conversation_id": 107,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\n?\nSo I think your argument might be circular, and I'm sitting here trying to\nfigure out how that is happening, and it's a little frustrating, but maybe\nyou can help me to untangle it.\nIt goes -- it starts with",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 108,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\n's point, which is we're looking at\nthe independence provision, and she says, okay, I'm not reading that as\nindependent of supervision. I'm reading that as independent duty to\nmake your own judgment.\n### Jonathan F. Mitchell:\nRight.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 109,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nYour response in your discussion with her was: Well, even if that's the\ncase, it doesn't matter because these folks are principal officers.\n### Jonathan F. Mitchell:\nRight.\n### Justice Jackson:\nAnd you point to Arthrex.\n### Jonathan F. Mitchell:\nRight.\n### Justice Jackson:\nAnd you say that the test in Arthrex is that there is -- there has to be\nformal review available, and we don't have that in the statute.\n### Jonathan F. Mitchell:\nRight.\n### Justice Jackson:\nSecretary over this entire thing, and he says that counts.\nYou say it doesn't.\n### Jonathan F. Mitchell:\nRight.\n### Justice Jackson:\nTo resolve that issue, who's right about whether there actually is formal\nreview available, I took you to say the reason why you're right is because\nof the independence provision.\n### Jonathan F. Mitchell:\nWell, it's more than just that.\n### Justice Jackson:\nNo, but wait.\n### Jonathan F. Mitchell:\nOkay.\n### Justice Jackson:\nThis is important.\n### Jonathan F. Mitchell:\nPlease.\n### Justice Jackson:\nBecause this is the circularity, right?\n### Jonathan F. Mitchell:\nRight.\n### Justice Jackson:\nThat if you come back and you say the reason why I'm right that there's\nnot formal review under Arthrex is because we have an independence\nprovision that has these people operating independent of the Secretary\nor political pressure, then I'm back to",
+      "questions": []
+    },
+    {
+      "conversation_id": 110,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\n, but that's not what\nthe independence provision means.\nSo you both can't, I think, disclaim it on the front end, independence, it\ndoesn't matter, Justice Kagan might be right, and then pick it up on the\nback end to say, ah, but it's the independence provision that resolves\nthe debate between and you Mr. Mooppan over whether there's\nsufficient control by the Secretary in this statute.\n### Jonathan F. Mitchell:\nThat's not our argument,",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 111,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\n.\nOkay.\n### Jonathan F. Mitchell:\nWe are not relying on the word \"independence\" to preclude secretarial\nreview.\nWe're relying on Section 300gg-13(a)(1), which says that it's the\nrecommendations of the Task Force that must be given legal force and\neffect, not the recommendations of the Secretary.\nSo, if we were to adopt",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 112,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\n's proposed interpretation of the\nword \"independent,\" the Task Force will make its independent\nrecommendations, but the Secretary has no ability to veto them.\nHe can try to veto them.\nHe can issue a document saying: I, Secretary Kennedy, disapprove.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 3/10",
+      "complexity_score": 3
+    },
+    {
+      "conversation_id": 113,
+      "dialogue": "Justice Jackson\n### Justice Jackson:\nsaying -- there's nothing in the statute that says the Secretary can't\nveto.\nSo where do you get that construct?\n### Jonathan F. Mitchell:\nWe get it from 300gg-13(a)(1) because it -- the statute says that it's the\nA or B ratings of the Task Force that must be followed when determining\nwhat preventive care insurers must cover.\n### Justice Jackson:\nOkay.\n### Jonathan F. Mitchell:\nIt is not the recommendations of the Secretary.\n### Justice Jackson:\nThank you.\n### Jonathan F. Mitchell:\nSo --thank you, Your Honors.",
+      "questions": [],
+      "skipped_reason": "Low complexity score: 2/10",
+      "complexity_score": 2
+    },
+    {
+      "conversation_id": 114,
+      "dialogue": "Chief Justice Roberts\n### Chief Justice Roberts:\nThank you, counsel.\nRebuttal, Mr. Mooppan?\n### Hashim M. Mooppan:\nSo I'll pick up right there.\nSo, on the question of whether the Secretary has the power to review,\ngg-13 just says that recommendations that are in effect are binding.\nIt doesn't say one word about whether the Secretary could prevent the\nrecommendation from taking effect by directing the Task Force to\nwithdraw it.\nHis only argument on that is to rely on the language \"independent,\"\ninterpreting \"independent\" way more broadly than necessary, and\ncreating constitutional problems rather than solving it.\nHe recognizes that, and so he falls back on the point that even we agree\nthat the Secretary can't force the Task Force to make recommendations.\nBut, as Justice Gorsuch pointed out, that was already decided in Free\nEnterprise Fund.\nthe Commission had lots of power over the PCAOB, which is true, but, if\nyou look at page 504 of Free Enterprise Fund, this is what the Court said:\nThe Act nowhere gives the Commission effective power to start, stop, or\nalter individual board investigations.\nThat is exactly the argument he's making here, that because they didn't\nhave that power in this case, they are principal officers. And Free\nEnterprise Fund says, even though they didn't have that power, they\nwere inferior officers.\nTurning to the removal question, I didn't really hear any argument for\nwhy, as a statutory matter, you should read \"independent\" to create a\nremoval restriction even though that creates lots of constitutional\nproblems.\nThe best he did was to suggest, well, maybe it's just a question of\ntiming.\nBut, actually, the timing cuts against him too. b --b-4(a)(6), the\nprovision that has the \"independence\" language, it was added to the\nstatute with the ACA at the time that Congress gave the Task Force\nthese powers.\nThat's when they added the language about \"independent\" and \"free\nfrom political pressure to the maximum extent possible.\" So, if they\nwanted to impose a removal restriction, they would have done it using\nall the language that",
+      "questions": []
+    },
+    {
+      "conversation_id": 115,
+      "dialogue": "Justice Kagan\n### Justice Kagan:\nand Justice Kavanaugh suggested.\nThat's how they normally say impose removal restrictions.\nThey wouldn't have just used the word \"independent.\" And Arthrex\ndoesn't solve this problem either because, as the case makes clear,\nthere was not at -will removal restriction -- power in Arthrex.\nIn Arthrex, the APJs were only subject to removal for the efficiency of\nthe service. They had cause protection.\nSo Arthrex doesn't solve it for him either.\nTurning to the appointments question, I agree that it wasn't decided\nbelow and it could be remanded, but I think the colloquy here today\nmakes clear why the answer is quite clear and why it would be better to\njust resolve it now.\nMy friend says that the statute is agnostic about who can appoint.\nI believe he even said that the Secretary of Energy or a private party\ncould appoint these people.\nThat is obviously wrong on its face. Among other things, it doesn't\nanswer what happens if three different people all purport to appoint the\nsame -- appoint different people to the Task Force.\nYou cannot possibly read this statute to say it's agnostic about who\npicks the members of the Task Force.\nAnd given that someone has to pick them, the word \"convened\" must\nsuggest that the person doing the convening is the one who's doing the\npicking.\nSo then now all we have left is, is it the director or is it the Secretary? And\non that, we have two points.\nThe first is that under the Reorg Act, all of the director's powers are the\nSecretary's powers. The second point we have is, as",
+      "questions": []
+    },
+    {
+      "conversation_id": 116,
+      "dialogue": "Justice Kavanaugh\n### Justice Kavanaugh:\npointed out, under 299, the Secretary exercises all the powers of that\nagency through the director.\nSo we think that that is pretty clear evidence that it is vested by law in\nthe Secretary.\nTo use a hypothetical that came up earlier, if the statute just said it shall\nbe appointed by either the director or the Secretary, it would plainly be\nconstitutional if the Secretary was the one that did the appointing.\nWe agree that if the director did it instead and the Secretary had nothing\nto do with it and didn't approve it on the back end or on the front end,\nthat would be unconstitutional as applied.\nBut there's no question that the statute would be permissible if it\npurported to vest the appointment authority in both the head of the\ndepartment permissibly and someone else. And that's exactly what this\nstatute does two different ways.\nAnd if there was any doubt about this, Hartwell --this is an easier case\nfor us than Hartwell.\nIn Hartwell, as you pointed out, there was an inferior officer who had the\nability to make the appointment with the Secretary's approval on the\nback end.\nBut the decision in the first instance was vested in someone who wasn't\nthe head of the department. And yet the Court still said that that was\nenough to satisfy the Appointments Clause.\nHere, the Secretary can and, in fact, has exercised the appointment\nauthority in the first instance.\nSo, if Hartwell is okay, this is a fortiori from that.\nSo, for all those reasons, there's just no real good reason to remand this\nto the Fifth Circuit on this appointments question. There is no way you\ncan read this statute to vest the appointment in anyone other than the\ndirector/Secretary, and the Secretary has complete control in that\nsituation.\nA final point on remedy, we agree with Mr. Mitchell on this: If we are\nright that these are inferior officers, prospectively, he's not entitled to\nany remedy, and retrospectively, there will need to be a remand to figure\nout whether the old recommendations either have to be enjoined or can\nbe ratified by the Task Force.\nThank you.",
+      "questions": []
+    },
+    {
+      "conversation_id": 117,
+      "dialogue": "Chief Justice Roberts\n\n### Chief Justice Roberts:\nThank you, counsel.\nThe case is submitted.",
+      "questions": []
+    }
+  ],
+  "generation_stats": {
+    "total_conversations": 117,
+    "conversations_with_questions": 17,
+    "conversations_without_questions": 100,
+    "processed_conversations": 117,
+    "questions_generated": 40,
+    "skipped_for_low_complexity": 29,
+    "coverage_rate": "14.5%",
+    "methodology": "Extract key phrases from advocate statements and create multiple choice questions with extremely deceptive distractors"
+  },
+  "answer_distribution": {
+    "counts": {
+      "A": 7,
+      "B": 6,
+      "C": 15,
+      "D": 12
+    },
+    "percentages": {
+      "A": 17.5,
+      "B": 15.0,
+      "C": 37.5,
+      "D": 30.0
+    },
+    "total_questions": 40
+  }
+}
