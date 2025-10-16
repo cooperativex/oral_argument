@@ -26,6 +26,7 @@ oral_argument/
 
 ```
 
+**Note:** Before running evaluations, download the Qwen2.5-72B-Instruct model and place it in `qwen_models/Qwen_Qwen2.5-72B-Instruct/`.
 
 ## Running Evaluations
 
