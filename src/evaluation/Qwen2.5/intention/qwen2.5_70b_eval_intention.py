@@ -882,7 +882,7 @@ def main():
     """Main evaluation function for intention task using Qwen2.5-72B model"""
 
     # Configuration
-    input_dir = os.path.join(project_root, "data", "output_motivation")
+    input_dir = os.path.join(project_root, "data", "intention_questions")
     output_dir = os.path.join(project_root, "result_mode", "intention_result", "qwen2.5_72b_instruct")
     os.makedirs(output_dir, exist_ok=True)
 

@@ -812,7 +812,7 @@ def main():
     """Main evaluation function for advocate keyword identification using Qwen2.5-72B"""
 
     # Configuration
-    input_dir = os.path.join(project_root, "data", "output_advocate_keywords")
+    input_dir = os.path.join(project_root, "data", "generate_advocate_questions")
     output_dir = os.path.join(project_root, "result_mode", "generate_result", "qwen2.5_72b_instruct")
     os.makedirs(output_dir, exist_ok=True)
 

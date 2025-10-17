@@ -811,7 +811,7 @@ def main():
     """Main evaluation function for justice keyword identification using Qwen2.5-70B"""
 
     # Configuration
-    input_dir = os.path.join(project_root, "data", "output_justice_keywords")
+    input_dir = os.path.join(project_root, "data", "generate_justice_questions")
     output_dir = os.path.join(project_root, "result_mode", "generate_result_justice", "qwen2.5_72b_instruct")
     os.makedirs(output_dir, exist_ok=True)
 

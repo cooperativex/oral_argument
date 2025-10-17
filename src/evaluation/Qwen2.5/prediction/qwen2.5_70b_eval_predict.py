@@ -911,8 +911,8 @@ def main():
     """Main evaluation function for prediction task using Qwen2.5-70B model"""
 
     # Configuration
-    input_dir = os.path.join(project_root, "data", "output_predict_next")
-    output_dir = os.path.join(project_root, "result_mode", "prediction_result", "qwen2.5_70b_instruct")
+    input_dir = os.path.join(project_root, "data", "prediction_questions")
+    output_dir = os.path.join(project_root, "result_mode", "prediction_result", "qwen2.5_72b_instruct")
     os.makedirs(output_dir, exist_ok=True)
 
     delay_between_requests = 1.0  # seconds
